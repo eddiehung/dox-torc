@@ -1,0 +1,7 @@
+<map id="torc::common::Devices::getDeviceEnum" name="torc::common::Devices::getDeviceEnum">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a8561b81d796985f4f2bd4df044fb5c68" title="Assign the device enumeration constant for the given device name. " alt="" coords="209,70,375,111"/>
+<area shape="rect" id="node6" href="$df/dd5/namespacetorc_1_1common.html#a3859b01a76d6e4bf856614337f6acaa1" title="Unit test for the Devices class. " alt="" coords="216,135,368,177"/>
+<area shape="rect" id="node3" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a5c168120ef7f6d439180d38558e41375" title="Read the bitstream header. " alt="" coords="438,5,605,46"/>
+<area shape="rect" id="node4" href="$d3/d3e/classtorc_1_1bitstream_1_1DeviceInfoHelper.html#ace1764f7727971f96f5bfaed84c02048" title="Build the static device information for the specified family. " alt="" coords="425,70,618,111"/>
+<area shape="rect" id="node5" href="$d6/d7e/namespacetorc_1_1bitstream.html#a9a0a3b7d7d7e4079cfa703e4390c2ed6" title="Unit test for the Virtex5 FX130T getPrimaryXdlColumn() " alt="" coords="443,135,599,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="torc::bitstream::Virtex5::getBitstreamFrames" name="torc::bitstream::Virtex5::getBitstreamFrames">
+<area shape="rect" id="node2" href="$dd/d9a/classtorc_1_1bitstream_1_1Virtex5.html#a32f835da769c672ea933a03fdc34c970" title="Returns frames for specified XDL tile coordinates. &#160;inXldRow The XDL row coordinate. &#160;inXdlCol The XDL column coordinate. &#160;outBeginBit The bit index of the beginning of the requested tile. &#160;outEndBit The bit index of the end of the requested tile. &#160;inBlockCount The highest block type requested (8 for Xilinx architectures). " alt="" coords="206,5,357,46"/>
+<area shape="rect" id="node3" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#a48388a49dccfe1173809c80b3f18974a" title="Returns the column type vector. " alt="" coords="406,5,578,46"/>
+</map>

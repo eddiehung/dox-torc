@@ -1,0 +1,7 @@
+<map id="torc::architecture::BOOST_AUTO_TEST_CASE" name="torc::architecture::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$df/d70/classtorc_1_1architecture_1_1Package.html#a00e030fefa20c70cdc1ba0078b2d095e" title="Returns a non&#45;constant array of package pads. " alt="" coords="292,5,425,46"/>
+<area shape="rect" id="node3" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#acbd3875ad573d582b89c47a0ff67575e" title="Discards all contents and resizes the array. " alt="" coords="299,70,418,111"/>
+<area shape="rect" id="node4" href="$df/d70/classtorc_1_1architecture_1_1Package.html#ac5b1b88389ef9d953fb1b88d718840dc" title="Returns the package name. " alt="" coords="289,135,428,177"/>
+<area shape="rect" id="node5" href="$d2/dc3/classtorc_1_1architecture_1_1Pad.html#a1c1f7ca705bcff2f206d9286e064fb13" title="Returns the name of the pad in its physical package. " alt="" coords="299,201,418,242"/>
+<area shape="rect" id="node6" href="$df/d70/classtorc_1_1architecture_1_1Package.html#a0562b0ddeecf805c3fedee92736ecd59" title="Returns the pad index corresponding to the given pad name. " alt="" coords="254,266,463,307"/>
+</map>

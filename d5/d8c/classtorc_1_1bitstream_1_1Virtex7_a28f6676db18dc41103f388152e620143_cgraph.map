@@ -1,0 +1,4 @@
+<map id="torc::bitstream::Virtex7::initializeDeviceInfo" name="torc::bitstream::Virtex7::initializeDeviceInfo">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a25aaac6e7bb9675d9f0abbbf8eed841a" title="Assign static device information for the current bitstream. " alt="" coords="206,5,373,46"/>
+<area shape="rect" id="node3" href="$d5/d8c/classtorc_1_1bitstream_1_1Virtex7.html#a95352bd13f8caf5a8da8afcd8530e764" title="Set the number of top and bottom bitstream rows. " alt="" coords="214,70,365,111"/>
+</map>

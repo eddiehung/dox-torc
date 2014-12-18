@@ -1,0 +1,8 @@
+<map id="torc::common::Annotated" name="torc::common::Annotated">
+<area shape="rect" id="node2" href="$d5/de3/classtorc_1_1physical_1_1Circuit.html" title="Circuit composed of instances and nets. " alt="" coords="174,80,313,107"/>
+<area shape="rect" id="node5" href="$d7/dd6/classtorc_1_1physical_1_1Instance.html" title="Physical design instance. " alt="" coords="343,80,496,107"/>
+<area shape="rect" id="node7" href="$d4/d20/classtorc_1_1physical_1_1Net.html" title="Physical design net. " alt="" coords="521,80,644,107"/>
+<area shape="rect" id="node3" href="$d5/d80/classtorc_1_1physical_1_1Design.html" title="Physical netlist design. " alt="" coords="5,163,147,189"/>
+<area shape="rect" id="node4" href="$dc/d71/classtorc_1_1physical_1_1Module.html" title="Hierarchical module. " alt="" coords="171,163,316,189"/>
+<area shape="rect" id="node6" href="$d3/d3d/classtorc_1_1physical_1_1RenamableInstance.html" title="torc::physical::Renamable\lInstance" alt="" coords="341,155,509,197"/>
+</map>

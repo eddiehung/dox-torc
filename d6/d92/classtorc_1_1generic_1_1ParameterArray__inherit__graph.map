@@ -1,0 +1,9 @@
+<map id="torc::generic::ParameterArray" name="torc::generic::ParameterArray">
+<area shape="rect" id="node2" href="$db/d1b/classtorc_1_1generic_1_1Parameter.html" title="Represents a parameter object in EDIF. " alt="" coords="483,100,642,127"/>
+<area shape="rect" id="node3" href="$dd/dca/classtorc_1_1generic_1_1Composite.html" title="torc::generic::Composite\l\&lt; Parameter \&gt;" alt="" coords="247,19,407,61"/>
+<area shape="rect" id="node8" href="$d2/d79/classtorc_1_1generic_1_1Vector.html" title="torc::generic::Vector\l\&lt; Parameter, ParameterArray\lElement, ParameterArrayElement\l::Factory, false \&gt;" alt="" coords="456,5,669,75"/>
+<area shape="rect" id="node4" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Parameter \&gt;" alt="" coords="6,19,197,61"/>
+<area shape="rect" id="node5" href="$d1/d13/classtorc_1_1generic_1_1Nameable.html" title="An object that has a name. " alt="" coords="248,85,405,112"/>
+<area shape="rect" id="node6" href="$df/da8/classtorc_1_1generic_1_1Renamable.html" title="Represents objects that can be renamed. " alt="" coords="245,136,408,163"/>
+<area shape="rect" id="node7" href="$d7/de6/classtorc_1_1generic_1_1Visitable.html" title="An object that receives an inoutVisitor. " alt="" coords="253,187,401,213"/>
+</map>

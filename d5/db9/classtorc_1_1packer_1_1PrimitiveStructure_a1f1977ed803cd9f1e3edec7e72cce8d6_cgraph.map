@@ -1,0 +1,9 @@
+<map id="torc::packer::PrimitiveStructure::isMux" name="torc::packer::PrimitiveStructure::isMux">
+<area shape="rect" id="node2" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#af54563c53c7e0d484f507e8eff9618ab" title="Returns the set of allowable configuration values. " alt="" coords="259,5,391,61"/>
+<area shape="rect" id="node3" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#a3865d9a332ac998b492e01d0c3f6b90f" title="Returns a non&#45;constant array of element pins. &#160;This function should only be used by the Sites class d..." alt="" coords="259,85,391,141"/>
+<area shape="rect" id="node4" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#af596a8df4be7401c5874b82c44e73bd7" title="Returns the array size. " alt="" coords="266,165,385,206"/>
+<area shape="rect" id="node5" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="266,230,385,271"/>
+<area shape="rect" id="node6" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#ad34ec958b29c5793dac9e46d136e0ef9" title="Returns the non&#45;constant end iterator. " alt="" coords="266,295,385,337"/>
+<area shape="rect" id="node7" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#a5b4194a8251a84c9841bafbaa7a9309c" title="Returns the pin index corresponding to the given pin name, or PinIndex::undefined() if the pin name d..." alt="" coords="254,360,397,416"/>
+<area shape="rect" id="node8" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html#aa37d2cb4d824d944c044a67c2170aebc" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32\l_t \&gt;::undefined" alt="" coords="445,360,629,416"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="torc::physical::XdlImporter::failure" name="torc::physical::XdlImporter::failure">
+<area shape="rect" id="node2" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#ad40b2477e6a24d876bb4d4f444dbdea1" title="Error handling with associated line number. " alt="" coords="224,6,395,48"/>
+<area shape="rect" id="node3" href="$d9/da8/classtorc_1_1XdlParser.html#aa2fe1251737ad4ba305ec441df42d7d2" title="torc::XdlParser::parse" alt="" coords="630,22,775,48"/>
+<area shape="rect" id="node5" href="$d9/da8/classtorc_1_1XdlParser.html#a9407d58b1889c14351b952e6b352a516" title="torc::XdlParser::error" alt="" coords="443,22,581,48"/>
+<area shape="rect" id="node4" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#a5a51647d7c27a73a5f6987659bfcab19" title="Import XDL from an input stream. " alt="" coords="824,14,995,56"/>
+</map>

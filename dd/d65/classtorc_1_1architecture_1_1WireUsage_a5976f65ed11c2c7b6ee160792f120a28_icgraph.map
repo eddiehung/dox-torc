@@ -1,0 +1,10 @@
+<map id="torc::architecture::WireUsage::release" name="torc::architecture::WireUsage::release">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#af0414b4dcac4bfae0a981c4610eb8636" title="Marks all wires on the segment as unused. " alt="" coords="195,67,349,109"/>
+<area shape="rect" id="node7" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ad5e5b5d2709c05bc81de13e52c6746ee" title="Internal top level route function. " alt="" coords="198,133,346,174"/>
+<area shape="rect" id="node9" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#ac478b68c82ec690e21b53c5b3c562978" title="torc::router::PathFinder\l::unrouteNet" alt="" coords="196,198,348,239"/>
+<area shape="rect" id="node3" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a0f05795f964ee1a8750b3d64861f59a9" title="Marks the arc and all of its source and sink segment wires as unused. " alt="" coords="424,5,547,46"/>
+<area shape="rect" id="node5" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a3d7f375de730f951eb5fd72ec310143e" title="torc::router::PathFinder\l::unmarkSourcesAndSinks" alt="" coords="398,70,573,111"/>
+<area shape="rect" id="node4" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#ac30263aa9775f1f1bdd677ac2816b666" title="torc::router::Unrouter\l::unrouteToSinks" alt="" coords="628,5,767,46"/>
+<area shape="rect" id="node6" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a78a148e4768eb82276f5778898653859" title="torc::router::PathFinder\l::routeNets" alt="" coords="621,133,773,174"/>
+<area shape="rect" id="node8" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a3b86ba86d920c06811a3e33fd7fd89c3" title="Route a net. " alt="" coords="411,135,559,177"/>
+</map>

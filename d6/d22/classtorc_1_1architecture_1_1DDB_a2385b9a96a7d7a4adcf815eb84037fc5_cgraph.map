@@ -1,0 +1,6 @@
+<map id="torc::architecture::DDB::readSpeedGrades" name="torc::architecture::DDB::readSpeedGrades">
+<area shape="rect" id="node2" href="$d0/d83/classtorc_1_1architecture_1_1DigestStream.html#acd6f871c0be0622f30b0cf93eec93687" title="Returns the number of bytes read. " alt="" coords="219,5,413,46"/>
+<area shape="rect" id="node3" href="$d0/d83/classtorc_1_1architecture_1_1DigestStream.html#a5ab9fd456f3f13fc79b24550ccf9ec20" title="Read and return a section header. " alt="" coords="225,69,407,125"/>
+<area shape="rect" id="node4" href="$d0/d83/classtorc_1_1architecture_1_1DigestStream.html#a2b034f47edd9ee82b4b35d6df1543c52" title="Read and return a uint8_t. " alt="" coords="247,149,385,190"/>
+<area shape="rect" id="node5" href="$d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#ac883f43343c312c23f5c772736129fe8" title="Returns the database console output stream. " alt="" coords="221,214,411,255"/>
+</map>

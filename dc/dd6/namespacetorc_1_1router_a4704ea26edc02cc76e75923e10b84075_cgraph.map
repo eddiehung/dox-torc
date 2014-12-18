@@ -1,0 +1,12 @@
+<map id="torc::router::BOOST_AUTO_TEST_CASE" name="torc::router::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#afb6f31ee08a4f3de6ea7ba0945fafecb" title="Get the associated Arc. " alt="" coords="203,5,357,46"/>
+<area shape="rect" id="node3" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#a95bb5cba6ad08db507c67edddbe07ea2" title="Get the source Tilewire. " alt="" coords="203,70,357,111"/>
+<area shape="rect" id="node5" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#ab295113a399dde58a77788049283a8e9" title="Get the sink Tilewire. " alt="" coords="203,135,357,177"/>
+<area shape="rect" id="node7" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#a1220074ab47d94710c25af2234afa2bd" title="Get the heuristic node cost. " alt="" coords="203,201,357,242"/>
+<area shape="rect" id="node8" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#a851e25f77e633cec3f886836f93672b3" title="Get the path cost. " alt="" coords="203,266,357,307"/>
+<area shape="rect" id="node9" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#a03dfb2de18fe756f24cc52f9ab879aa5" title="Set the heuristic node cost. " alt="" coords="203,331,357,373"/>
+<area shape="rect" id="node10" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#a391dcbfb1b155ac6023eaaafe7f6e5fa" title="Get the node&#39;s parent. " alt="" coords="203,397,357,438"/>
+<area shape="rect" id="node11" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#ad9fb1b8646c11d87123b673b766c7f6f" title="Return the top node by tracing parent pointers. " alt="" coords="203,462,357,503"/>
+<area shape="rect" id="node4" href="$d8/d60/classtorc_1_1architecture_1_1Arc.html#a3f0fe601529174f07ea99cc40b9a0603" title="Returns the source tilewire. " alt="" coords="406,70,565,111"/>
+<area shape="rect" id="node6" href="$d8/d60/classtorc_1_1architecture_1_1Arc.html#a95f17048a775a14b33e87283cdc264a4" title="Returns the sink tilewire. " alt="" coords="414,135,557,177"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GenerateXdlForOrphanElements" name="GenerateXdlForOrphanElements">
+<area shape="rect" id="node2" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#acd689c941bde03e88f68307fd30cc7c2" title="Returns the name of the element. " alt="" coords="577,140,709,196"/>
+<area shape="rect" id="node3" href="$d9/d62/LogicXdlGenerator_8cpp.html#a0a8fd350b683c8013fa5437b3757313a" title="GetEmptyDesignWithSameMetadata" alt="" coords="265,71,498,97"/>
+<area shape="rect" id="node4" href="$d9/d62/LogicXdlGenerator_8cpp.html#a50466170b8842262629f24becec81ac9" title="GenerateReferenceXDLForThe\lElement" alt="" coords="281,5,482,46"/>
+<area shape="rect" id="node6" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#af54563c53c7e0d484f507e8eff9618ab" title="Returns the set of allowable configuration values. " alt="" coords="315,172,447,228"/>
+<area shape="rect" id="node7" href="$d9/d62/LogicXdlGenerator_8cpp.html#a97e9844627efe6718edaad3874015afd" title="GenerateXdlForGenericElement" alt="" coords="279,252,484,279"/>
+<area shape="rect" id="node5" href="$d9/d62/LogicXdlGenerator_8cpp.html#acc1c4d647070d4c3153396191893f4f2" title="GetReferenceConfigValueFor\lElement" alt="" coords="547,5,738,46"/>
+<area shape="rect" id="node8" href="$d9/d62/LogicXdlGenerator_8cpp.html#a32cd10b3d665fc8a3bbc181cfc2b1c51" title="SetConfigAndGenerateXDL" alt="" coords="553,252,733,279"/>
+</map>

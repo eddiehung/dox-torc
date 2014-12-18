@@ -1,0 +1,6 @@
+<map id="torc::router::NetRouter::recordPath" name="torc::router::NetRouter::recordPath">
+<area shape="rect" id="node2" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#a03dfb2de18fe756f24cc52f9ab879aa5" title="Set the heuristic node cost. " alt="" coords="203,5,357,46"/>
+<area shape="rect" id="node3" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#ab295113a399dde58a77788049283a8e9" title="Get the sink Tilewire. " alt="" coords="203,70,357,111"/>
+<area shape="rect" id="node5" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#a391dcbfb1b155ac6023eaaafe7f6e5fa" title="Get the node&#39;s parent. " alt="" coords="203,135,357,177"/>
+<area shape="rect" id="node4" href="$d8/d60/classtorc_1_1architecture_1_1Arc.html#a95f17048a775a14b33e87283cdc264a4" title="Returns the sink tilewire. " alt="" coords="406,70,549,111"/>
+</map>

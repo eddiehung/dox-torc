@@ -1,0 +1,5 @@
+<map id="torc::generic::VectorNet::setParent" name="torc::generic::VectorNet::setParent">
+<area shape="rect" id="node2" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html#a619f18338a6e4604533f5aa99adf3150" title="torc::generic::ParentedObject\l::setParent" alt="" coords="211,5,399,46"/>
+<area shape="rect" id="node3" href="$d2/d79/classtorc_1_1generic_1_1Vector.html#a31bf9bf794dc4d029f3aee855ae995d6" title="torc::generic::Vector\l\&lt; Net, VectorNetBit,\l VectorNetBit::Factory,\l true \&gt;::getCreatedChildren" alt="" coords="218,70,393,141"/>
+<area shape="rect" id="node4" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html#ac28967c171301181ee69b5e0935a89a9" title="torc::generic::ParentedObject\l\&lt; View \&gt;::getParent" alt="" coords="211,165,399,206"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="torc::packer::BOOST_AUTO_TEST_CASE" name="torc::packer::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d4/da0/classtorc_1_1common_1_1DirectoryTree.html#af1b18fb3aa350b4522babca30a9034b8" title="Returns the absolute path to the executable directory. " alt="" coords="203,5,386,46"/>
+<area shape="rect" id="node3" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#ac9c8c474aaa38744850a967ebbfd3c7e" title="Returns a shared pointer for the design. " alt="" coords="209,70,380,111"/>
+<area shape="rect" id="node4" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#abddd82fda4438dfcb51b0b5d8de7b0e1" title="Returns the sites for this family. " alt="" coords="235,135,354,177"/>
+<area shape="rect" id="node5" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="235,201,354,242"/>
+<area shape="rect" id="node6" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html#ab8d6b185e643193e8de87bd1e3fb8635" title="Returns the name of the primitive. " alt="" coords="215,266,374,307"/>
+<area shape="rect" id="node7" href="$d5/d69/classtorc_1_1architecture_1_1PrimitivePin.html#aa31608152bb6e69a5246ddb7e15be2ed" title="Returns true if this pin is a primitive input. " alt="" coords="223,331,366,373"/>
+<area shape="rect" id="node8" href="$d5/d69/classtorc_1_1architecture_1_1PrimitivePin.html#aa1ecc8a770fb66a788fd9be73290fc35" title="Returns true if this pin is a primitive output. " alt="" coords="218,397,371,438"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="torc::placer::DeviceSitePin" name="torc::placer::DeviceSitePin">
+<area shape="rect" id="node2" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html" title="Encapsulation of a device tile and wire pair. " alt="" coords="654,43,773,85"/>
+<area shape="rect" id="node3" href="$de/da8/structtorc_1_1architecture_1_1xilinx_1_1TileIndex.html" title="Encapsulation of a tile index in an unsigned 32&#45;bit integer. " alt="" coords="414,13,533,54"/>
+<area shape="rect" id="node4" href="$d0/de0/structtorc_1_1architecture_1_1xilinx_1_1TileCount.html" title="Encapsulation of a tile count in an unsigned 32&#45;bit integer. " alt="" coords="242,13,361,54"/>
+<area shape="rect" id="node5" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32_t \&gt;" alt="" coords="5,13,189,54"/>
+<area shape="rect" id="node6" href="$d3/df8/structtorc_1_1architecture_1_1xilinx_1_1WireIndex.html" title="Encapsulation of a wire index in an unsigned 16&#45;bit integer. " alt="" coords="414,78,533,119"/>
+<area shape="rect" id="node7" href="$dc/dd8/structtorc_1_1architecture_1_1xilinx_1_1WireCount.html" title="Encapsulation of a wire count in an unsigned 16&#45;bit integer. " alt="" coords="240,78,363,119"/>
+<area shape="rect" id="node8" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint16_t \&gt;" alt="" coords="5,78,189,119"/>
+</map>

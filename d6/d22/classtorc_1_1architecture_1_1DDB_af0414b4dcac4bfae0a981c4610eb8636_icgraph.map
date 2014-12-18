@@ -1,0 +1,6 @@
+<map id="torc::architecture::DDB::releaseSegment" name="torc::architecture::DDB::releaseSegment">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a0f05795f964ee1a8750b3d64861f59a9" title="Marks the arc and all of its source and sink segment wires as unused. " alt="" coords="235,5,357,46"/>
+<area shape="rect" id="node4" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a3d7f375de730f951eb5fd72ec310143e" title="torc::router::PathFinder\l::unmarkSourcesAndSinks" alt="" coords="209,70,383,111"/>
+<area shape="rect" id="node3" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#ac30263aa9775f1f1bdd677ac2816b666" title="torc::router::Unrouter\l::unrouteToSinks" alt="" coords="439,5,577,46"/>
+<area shape="rect" id="node5" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a78a148e4768eb82276f5778898653859" title="torc::router::PathFinder\l::routeNets" alt="" coords="432,70,584,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="torc::bitstream::AssemblerLibGen::isSlicelType" name="torc::bitstream::AssemblerLibGen::isSlicelType">
+<area shape="rect" id="node2" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#ae9a4fd1418193ac0931489ad9975e13e" title="Populate map of tile type to set of include site types. " alt="" coords="243,5,471,46"/>
+<area shape="rect" id="node4" href="$db/d2e/classtorc_1_1bitstream_1_1Virtex5LibGen.html#ade866663e21877791d4bb0811113cf60" title="Populate primitive name to primitive structure map. " alt="" coords="227,70,487,111"/>
+<area shape="rect" id="node5" href="$da/d69/classtorc_1_1bitstream_1_1Virtex7LibGen.html#a56fbc4cbd8fe23af20cd0c6b13475689" title="Populate primitive name to primitive structure map. " alt="" coords="227,135,487,177"/>
+<area shape="rect" id="node3" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a90b80d86a73c4f8e66eff7376e68acea" title="Generrate Xdls for logic sites. " alt="" coords="536,5,715,46"/>
+</map>

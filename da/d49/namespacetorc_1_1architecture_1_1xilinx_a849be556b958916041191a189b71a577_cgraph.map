@@ -1,0 +1,7 @@
+<map id="torc::architecture::xilinx::BOOST_AUTO_TEST_CASE" name="torc::architecture::xilinx::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#ad1789982f584140ebf77d4e8bc396e3d" title="Returns the tile index. " alt="" coords="223,5,372,46"/>
+<area shape="rect" id="node3" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#a38f0ea37481a14b712b82ccd4fa7544a" title="Returns the wire index. " alt="" coords="220,70,375,111"/>
+<area shape="rect" id="node4" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html#aa37d2cb4d824d944c044a67c2170aebc" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32\l_t \&gt;::undefined" alt="" coords="205,135,389,191"/>
+<area shape="rect" id="node5" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#aa386b1a602cac0bcdcef3e8364c3099a" title="Sets the tile index. " alt="" coords="223,214,372,255"/>
+<area shape="rect" id="node6" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#a13c25e9084042367896b2d6f9f8ab299" title="Sets the wire index. " alt="" coords="220,279,375,321"/>
+</map>

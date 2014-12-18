@@ -1,0 +1,20 @@
+<map id="Design.hpp" name="Design.hpp">
+<area shape="rect" id="node2" href="$d4/db3/Nameable_8hpp.html" title="torc/generic/Nameable.hpp" alt="" coords="423,155,599,181"/>
+<area shape="rect" id="node3" href="$d1/d93/Error_8hpp.html" title="torc/generic/Error.hpp" alt="" coords="704,229,849,256"/>
+<area shape="rect" id="node10" href="$d2/ddf/Commentable_8hpp.html" title="torc/generic/Commentable.hpp" alt="" coords="1593,229,1791,256"/>
+<area shape="rect" id="node11" href="$de/da3/ParentedObject_8hpp.html" title="torc/generic/ParentedObject.hpp" alt="" coords="2085,229,2293,256"/>
+<area shape="rect" id="node14" href="$dc/dd7/PropertyContainer_8hpp.html" title="torc/generic/PropertyContainer.hpp" alt="" coords="2143,80,2365,107"/>
+<area shape="rect" id="node16" href="$d9/d06/SymTab_8hpp.html" title="torc/generic/SymTab.hpp" alt="" coords="1461,155,1627,181"/>
+<area shape="rect" id="node18" href="$d5/d3d/generic_2Renamable_8hpp.html" title="torc/generic/Renamable.hpp" alt="" coords="1957,155,2139,181"/>
+<area shape="rect" id="node19" href="$da/d64/Root_8hpp.html" title="torc/generic/Root.hpp" alt="" coords="1299,80,1443,107"/>
+<area shape="rect" id="node23" href="$d1/d36/FactoryType_8hpp.html" title="torc/generic/FactoryType.hpp" alt="" coords="2165,155,2354,181"/>
+<area shape="rect" id="node24" href="$d0/d3f/SelfReferencing_8hpp.html" title="torc/generic/SelfReferencing.hpp" alt="" coords="2367,229,2577,256"/>
+<area shape="rect" id="node25" href="$d1/dd6/Visitable_8hpp.html" title="torc/generic/Visitable.hpp" alt="" coords="23,155,191,181"/>
+<area shape="rect" id="node26" href="$d8/d0f/VisitorType_8hpp.html" title="torc/generic/VisitorType.hpp" alt="" coords="216,155,398,181"/>
+<area shape="rect" id="node27" href="$d3/d1f/UserDataContainer_8hpp.html" title="torc/generic/UserDataContainer.hpp" alt="" coords="911,155,1138,181"/>
+<area shape="rect" id="node29" href="$d8/d59/StatusContainer_8hpp.html" title="torc/generic/StatusContainer.hpp" alt="" coords="675,155,885,181"/>
+<area shape="rect" id="node9" href="$d7/d6a/MessageId_8hpp.html" title="torc/generic/MessageId.hpp" alt="" coords="769,304,951,331"/>
+<area shape="rect" id="node15" href="$da/da5/PointerTypes_8hpp.html" title="torc/generic/PointerTypes.hpp" alt="" coords="1866,229,2061,256"/>
+<area shape="rect" id="node21" href="$d2/d26/EdifVersion_8hpp.html" title="torc/generic/EdifVersion.hpp" alt="" coords="1135,229,1319,256"/>
+<area shape="rect" id="node22" href="$dd/dda/EdifLevel_8hpp.html" title="torc/generic/EdifLevel.hpp" alt="" coords="1265,155,1437,181"/>
+</map>

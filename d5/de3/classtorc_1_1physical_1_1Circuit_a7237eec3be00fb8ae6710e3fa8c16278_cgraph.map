@@ -1,0 +1,5 @@
+<map id="torc::physical::Circuit::addInstance" name="torc::physical::Circuit::addInstance">
+<area shape="rect" id="node2" href="$d5/de3/classtorc_1_1physical_1_1Circuit.html#af12027fc9e1af4a85547361e19b1e9d1" title="Find a circuit instance by name. " alt="" coords="195,38,335,79"/>
+<area shape="rect" id="node3" href="$d5/de3/classtorc_1_1physical_1_1Circuit.html#a0dc7d01747399d87f7cacf496270b8ab" title="Returns the end constant iterator for instances. " alt="" coords="385,5,525,46"/>
+<area shape="rect" id="node4" href="$d5/de3/classtorc_1_1physical_1_1Circuit.html#afe7d9d809d1a2e3bb6d09291f80c4fb6" title="Returns the begin constant iterator for instances. " alt="" coords="385,70,525,111"/>
+</map>

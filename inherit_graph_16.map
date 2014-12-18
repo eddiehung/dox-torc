@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/dbb/classtorc_1_1architecture_1_1PinDirection.html" title="torc::architecture\l::PinDirection" alt="" coords="6,38,125,79"/>
+<area shape="rect" id="node2" href="$da/df9/classtorc_1_1architecture_1_1PrimitiveElementPin.html" title="Encapsulation of a primitive element pin&#39;s name, flags, and element pointer. &#160;Primitive element pins ..." alt="" coords="174,5,319,46"/>
+<area shape="rect" id="node3" href="$d5/d69/classtorc_1_1architecture_1_1PrimitivePin.html" title="Encapsulation of a primitive pin&#39;s name and flags. &#160;Primitive pins are logic site inputs or outputs..." alt="" coords="187,70,306,111"/>
+</map>

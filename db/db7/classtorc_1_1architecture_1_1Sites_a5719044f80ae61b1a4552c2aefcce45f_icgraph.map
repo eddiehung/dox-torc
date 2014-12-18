@@ -1,0 +1,6 @@
+<map id="torc::architecture::Sites::getSiteTypeCount" name="torc::architecture::Sites::getSiteTypeCount">
+<area shape="rect" id="node2" href="$db/def/classtorc_1_1placer_1_1Placement.html#a87fefd53eb47b7751246a349b49c5342" title="torc::placer::Placement\l::Placement" alt="" coords="249,5,402,46"/>
+<area shape="rect" id="node3" href="$d6/db9/classtorc_1_1placer_1_1PlacementSiteTypeMapping.html#a1c3d32240d3cbd95dee31879508a068d" title="torc::placer::PlacementSite\lTypeMapping::PlacementSiteTypeMapping" alt="" coords="477,63,744,105"/>
+<area shape="rect" id="node4" href="$d6/db9/classtorc_1_1placer_1_1PlacementSiteTypeMapping.html#a6b35c8225a5ff5d804ecce43cd75d6a4" title="torc::placer::PlacementSite\lTypeMapping::prepareStructures" alt="" coords="221,122,429,163"/>
+<area shape="rect" id="node5" href="$d0/d9e/classtorc_1_1placer_1_1PlacementSiteTypeMappingVirtex5.html#a788a4ba92620d9f301afab0a12dce160" title="torc::placer::PlacementSite\lTypeMappingVirtex5::PlacementSite\lTypeMappingVirtex5" alt="" coords="495,128,726,184"/>
+</map>

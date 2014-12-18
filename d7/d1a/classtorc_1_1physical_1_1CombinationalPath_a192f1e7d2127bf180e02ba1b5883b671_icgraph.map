@@ -1,0 +1,6 @@
+<map id="torc::physical::CombinationalPath::routingNetsEnd" name="torc::physical::CombinationalPath::routingNetsEnd">
+<area shape="rect" id="node2" href="$d7/d1a/classtorc_1_1physical_1_1CombinationalPath.html#afed161b45f2764705da1abf9cde0055e" title="Find a net by name. " alt="" coords="241,70,426,111"/>
+<area shape="rect" id="node3" href="$d7/d1a/classtorc_1_1physical_1_1CombinationalPath.html#a02f59ea22714e34b8f02246453cb478d" title="Add a net to the set. " alt="" coords="475,5,661,46"/>
+<area shape="rect" id="node4" href="$d7/d1a/classtorc_1_1physical_1_1CombinationalPath.html#a0bca1ebe1416a0923a5511aa7241c06e" title="Remove a net from the circuit. " alt="" coords="475,70,661,111"/>
+<area shape="rect" id="node5" href="$d7/d1a/classtorc_1_1physical_1_1CombinationalPath.html#a1292211b88d511d15813e0a8dc5a0ffa" title="Set combinational counts for all nets. " alt="" coords="475,135,661,177"/>
+</map>

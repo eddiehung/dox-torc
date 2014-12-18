@@ -1,0 +1,5 @@
+<map id="torc::packer::PrimitiveStructure" name="torc::packer::PrimitiveStructure">
+<area shape="rect" id="node2" href="$d0/d8d/classtorc_1_1packer_1_1Virtex2PrimitiveStructure.html" title="Subclass of PrimitiveStructure for Virtex2 and Virtex2P. " alt="" coords="253,5,440,46"/>
+<area shape="rect" id="node3" href="$d3/d70/classtorc_1_1packer_1_1Virtex5PrimitiveStructure.html" title="Subclass of PrimitiveStructure for Virtex5. " alt="" coords="253,70,440,111"/>
+<area shape="rect" id="node4" href="$d5/d89/classtorc_1_1packer_1_1Virtex7PrimitiveStructure.html" title="Subclass of PrimitiveStructure for Virtex7. " alt="" coords="253,135,440,177"/>
+</map>

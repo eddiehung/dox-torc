@@ -1,0 +1,5 @@
+<map id="torc::bitstream::Bitstream::setDevice" name="torc::bitstream::Bitstream::setDevice">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a5c168120ef7f6d439180d38558e41375" title="Read the bitstream header. " alt="" coords="235,5,402,46"/>
+<area shape="rect" id="node3" href="$d3/d3e/classtorc_1_1bitstream_1_1DeviceInfoHelper.html#ace1764f7727971f96f5bfaed84c02048" title="Build the static device information for the specified family. " alt="" coords="222,70,415,111"/>
+<area shape="rect" id="node4" href="$d6/d7e/namespacetorc_1_1bitstream.html#a9a0a3b7d7d7e4079cfa703e4390c2ed6" title="Unit test for the Virtex5 FX130T getPrimaryXdlColumn() " alt="" coords="241,135,397,177"/>
+</map>

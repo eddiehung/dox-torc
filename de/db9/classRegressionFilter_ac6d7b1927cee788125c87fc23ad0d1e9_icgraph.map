@@ -1,0 +1,5 @@
+<map id="RegressionFilter::getFullyQualifiedPath" name="RegressionFilter::getFullyQualifiedPath">
+<area shape="rect" id="node2" href="$de/db9/classRegressionFilter.html#ad0dc7b3c0451439298b0ca4139af24bd" title="Returns a fully qualified name for the given test case. " alt="" coords="222,5,389,46"/>
+<area shape="rect" id="node4" href="$de/db9/classRegressionFilter.html#a97cddd9df6364f1872e0cef8e79b07ca" title="Exits a test suite and prunes it if no test cases remain in it. " alt="" coords="233,70,377,111"/>
+<area shape="rect" id="node3" href="$de/db9/classRegressionFilter.html#af688e0052c2da501bd04daebdc5c19fd" title="Determines whether or not to include the given test case. " alt="" coords="437,12,584,39"/>
+</map>

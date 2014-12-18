@@ -1,0 +1,15 @@
+<map id="torc::bitstream::Bitstream::setDeviceInfo" name="torc::bitstream::Bitstream::setDeviceInfo">
+<area shape="rect" id="node2" href="$d8/d34/classtorc_1_1bitstream_1_1Spartan3E.html#a4f90cd20d17473ea62fc1bc37b117124" title="Initialize the device information. " alt="" coords="221,5,384,46"/>
+<area shape="rect" id="node3" href="$db/d8f/classtorc_1_1bitstream_1_1Virtex.html#aa6300c19fa153a7ee2fa06cf9fdfcd81" title="Initialize the device information. " alt="" coords="231,70,374,111"/>
+<area shape="rect" id="node4" href="$d9/da0/classtorc_1_1bitstream_1_1Virtex2.html#a8613fd546002885b054435cff7d126aa" title="Initialize the device information. " alt="" coords="227,135,378,177"/>
+<area shape="rect" id="node5" href="$dc/dfd/classtorc_1_1bitstream_1_1Virtex2P.html#a89b7634cf51149e0fe9132bfe0a48878" title="Initialize the device information. " alt="" coords="227,201,378,242"/>
+<area shape="rect" id="node6" href="$d4/daf/classtorc_1_1bitstream_1_1Virtex4.html#a1a37eb2d926138551e1d1f61e8078c75" title="Initialize the device information. " alt="" coords="227,266,378,307"/>
+<area shape="rect" id="node7" href="$dd/d9a/classtorc_1_1bitstream_1_1Virtex5.html#ad041b9c492aac1266b41d2e63d5a949e" title="Initialize the device information. " alt="" coords="227,331,378,373"/>
+<area shape="rect" id="node11" href="$dd/d7c/classtorc_1_1bitstream_1_1Virtex6.html#a4325a3546aa2fa76a405cccf1d198ec9" title="Initialize the device information. " alt="" coords="227,397,378,438"/>
+<area shape="rect" id="node12" href="$d5/d8c/classtorc_1_1bitstream_1_1Virtex7.html#a28f6676db18dc41103f388152e620143" title="Initialize the Device Information. " alt="" coords="227,462,378,503"/>
+<area shape="rect" id="node14" href="$dc/d40/classtorc_1_1bitstream_1_1VirtexE.html#a5f46c4ad49d981582a6fd39b8b24939c" title="Initialize the device information. " alt="" coords="227,527,378,569"/>
+<area shape="rect" id="node8" href="$db/d2e/classtorc_1_1bitstream_1_1Virtex5LibGen.html#a04fbf579ac28aa24d607119dc9a82c20" title="Compress given bitstream file against reference bitstream file. " alt="" coords="433,266,597,307"/>
+<area shape="rect" id="node9" href="$d6/d7e/namespacetorc_1_1bitstream.html#a9a0a3b7d7d7e4079cfa703e4390c2ed6" title="Unit test for the Virtex5 FX130T getPrimaryXdlColumn() " alt="" coords="437,331,593,373"/>
+<area shape="rect" id="node10" href="$d9/d12/Xdl2Bit_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Converts XDL file to bitstream by merging primitive bitstreams from library. " alt="" coords="489,397,540,424"/>
+<area shape="rect" id="node13" href="$da/d69/classtorc_1_1bitstream_1_1Virtex7LibGen.html#a9195d3e0c4aad39fd944b5619f2b4e90" title="Compress given bitstream file against reference bitstream file. " alt="" coords="433,462,597,503"/>
+</map>

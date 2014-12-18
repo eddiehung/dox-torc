@@ -1,0 +1,9 @@
+<map id="torc::architecture::operator&lt;&lt;" name="torc::architecture::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html#a8e96191a67e659e996b6d9306ccabc74" title="torc::common::Encapsulated\lInteger::isUndefined" alt="" coords="189,5,373,46"/>
+<area shape="rect" id="node3" href="$d3/d5f/classtorc_1_1architecture_1_1WireInfo.html#a00ef4c383bdfa51ad973b1f57cad1a21" title="Returns true if the wire is hidden in traces. " alt="" coords="215,94,348,135"/>
+<area shape="rect" id="node4" href="$d3/d5f/classtorc_1_1architecture_1_1WireInfo.html#aa3e8d648354549cb0a5601538d6f5990" title="Returns true if the wire is a logic input. " alt="" coords="221,183,342,225"/>
+<area shape="rect" id="node5" href="$d3/d5f/classtorc_1_1architecture_1_1WireInfo.html#a4fd6d3e846d480581fc736fbdc24d1cd" title="Returns true if the wire is a logic output. " alt="" coords="216,273,347,314"/>
+<area shape="rect" id="node6" href="$d3/d5f/classtorc_1_1architecture_1_1WireInfo.html#a9bdeb321f5f52b99e84343688b96ee42" title="Returns true if the wire is a remote wire. " alt="" coords="213,362,350,403"/>
+<area shape="rect" id="node7" href="$d3/d5f/classtorc_1_1architecture_1_1WireInfo.html#a0ed9dfcd5c534e11691f1ca0002fb130" title="Returns true if the wire may be referenced by a remote wire. " alt="" coords="174,451,389,493"/>
+<area shape="rect" id="node8" href="$d3/d5f/classtorc_1_1architecture_1_1WireInfo.html#a388cb60b2df86418957cd046411c33c1" title="Returns true if the wire may be referenced by a remote arc. " alt="" coords="179,541,383,582"/>
+</map>

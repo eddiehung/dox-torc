@@ -1,0 +1,10 @@
+<map id="GenerateXdlForCompoundSettings" name="GenerateXdlForCompoundSettings">
+<area shape="rect" id="node2" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#acd689c941bde03e88f68307fd30cc7c2" title="Returns the name of the element. " alt="" coords="313,5,445,61"/>
+<area shape="rect" id="node3" href="$d9/d62/LogicXdlGenerator_8cpp.html#ad62045a984bc84a45604b86f3bbbb9ef" title="FindPrimitiveElementByName" alt="" coords="281,85,476,112"/>
+<area shape="rect" id="node6" href="$d9/d62/LogicXdlGenerator_8cpp.html#a50466170b8842262629f24becec81ac9" title="GenerateReferenceXDLForThe\lElement" alt="" coords="278,137,479,178"/>
+<area shape="rect" id="node8" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#af54563c53c7e0d484f507e8eff9618ab" title="Returns the set of allowable configuration values. " alt="" coords="313,201,445,257"/>
+<area shape="rect" id="node9" href="$d9/d62/LogicXdlGenerator_8cpp.html#a32cd10b3d665fc8a3bbc181cfc2b1c51" title="SetConfigAndGenerateXDL" alt="" coords="289,281,469,308"/>
+<area shape="rect" id="node4" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="565,13,683,54"/>
+<area shape="rect" id="node5" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#ad34ec958b29c5793dac9e46d136e0ef9" title="Returns the non&#45;constant end iterator. " alt="" coords="565,78,683,119"/>
+<area shape="rect" id="node7" href="$d9/d62/LogicXdlGenerator_8cpp.html#acc1c4d647070d4c3153396191893f4f2" title="GetReferenceConfigValueFor\lElement" alt="" coords="529,143,719,185"/>
+</map>

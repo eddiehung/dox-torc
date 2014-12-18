@@ -1,0 +1,5 @@
+<map id="torc::architecture::DDB::clearUsage" name="torc::architecture::DDB::clearUsage">
+<area shape="rect" id="node2" href="$dd/d65/classtorc_1_1architecture_1_1WireUsage.html#a38295bbc6a6be72ee2e55069b99daaac" title="Marks all wires as being unused, without releasing the bitset objects. " alt="" coords="182,5,309,46"/>
+<area shape="rect" id="node4" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a25a51eca64aad3166933c905359fa7b6" title="Marks all arcs as being unused, without releasing the bitset objects. " alt="" coords="185,70,305,111"/>
+<area shape="rect" id="node3" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#af596a8df4be7401c5874b82c44e73bd7" title="Returns the array size. " alt="" coords="358,38,477,79"/>
+</map>

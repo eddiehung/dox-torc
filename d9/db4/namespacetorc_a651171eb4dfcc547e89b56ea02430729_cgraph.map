@@ -1,0 +1,10 @@
+<map id="torc::BOOST_AUTO_TEST_CASE" name="torc::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d7/de0/classtorc_1_1physical_1_1Factory.html#a521f05fb2031a16e2df46b1f57f092fe" title="Construct and return a new Instance shared pointer. " alt="" coords="277,5,424,46"/>
+<area shape="rect" id="node3" href="$d7/de0/classtorc_1_1physical_1_1Factory.html#ad1b5f95c1276a4c62c9fea72906507b4" title="Construct and return a new InstancePin shared pointer. " alt="" coords="277,70,424,111"/>
+<area shape="rect" id="node4" href="$d7/de0/classtorc_1_1physical_1_1Factory.html#ad9458c2d26e0e00971f2f51f1caf620a" title="Construct a pip and return it. " alt="" coords="277,135,424,177"/>
+<area shape="rect" id="node5" href="$d7/de0/classtorc_1_1physical_1_1Factory.html#a0e8a7a5e8227248087766cef940c36f6" title="Create and return a new Net share pointer. " alt="" coords="277,201,424,242"/>
+<area shape="rect" id="node6" href="$d2/d28/classtorc_1_1PhysicalDiff.html#a41e0e24aa9b04f21cd9cdcdbf179c764" title="Diff net pointers and then the underlying config map. " alt="" coords="291,266,410,307"/>
+<area shape="rect" id="node7" href="$d2/d28/classtorc_1_1PhysicalDiff.html#a2d1cdd175ad41483aefbf99a9b09be55" title="Diff configuration information, this is called from circuits, instances and nets. ..." alt="" coords="473,266,591,307"/>
+<area shape="rect" id="node8" href="$d9/d33/classtorc_1_1physical_1_1Named.html#a699324d37cb8b305adcea589623974ac" title="Returns the object name. " alt="" coords="641,233,786,274"/>
+<area shape="rect" id="node9" href="$d7/d3b/classtorc_1_1physical_1_1Config.html#a03525a8385839e79577b98b1bac8542c" title="Return the configuration value. " alt="" coords="644,298,783,339"/>
+</map>

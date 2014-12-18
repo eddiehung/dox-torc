@@ -1,0 +1,5 @@
+<map id="torc::physical::Instance::getType" name="torc::physical::Instance::getType">
+<area shape="rect" id="node2" href="$d7/dc5/classtorc_1_1packer_1_1Unpacker.html#aeccba4ebf3199f28e69dc2e9aff01fda" title="Unpack function that takes Instance iterators as input. " alt="" coords="218,5,369,46"/>
+<area shape="rect" id="node3" href="$d4/d83/classtorc_1_1physical_1_1XdlExporter.html#a95ebbaf78952d93f10b451bfa8a77f83" title="Writes the given Instance. " alt="" coords="209,70,378,111"/>
+<area shape="rect" id="node4" href="$dc/dd1/classtorc_1_1physical_1_1XdlUnpack.html#a6ef00bfeb369d1c9246dc0fafd36a580" title="torc::physical::XdlUnpack\l::unpack" alt="" coords="210,135,377,177"/>
+</map>

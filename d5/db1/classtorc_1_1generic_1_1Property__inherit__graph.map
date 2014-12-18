@@ -1,0 +1,7 @@
+<map id="torc::generic::Property" name="torc::generic::Property">
+<area shape="rect" id="node2" href="$dc/d00/classtorc_1_1generic_1_1Commentable.html" title="Represents all classes that can hold user comments. " alt="" coords="12,5,191,32"/>
+<area shape="rect" id="node3" href="$d1/d13/classtorc_1_1generic_1_1Nameable.html" title="An object that has a name. " alt="" coords="23,56,180,83"/>
+<area shape="rect" id="node4" href="$df/da8/classtorc_1_1generic_1_1Renamable.html" title="Represents objects that can be renamed. " alt="" coords="20,107,183,133"/>
+<area shape="rect" id="node5" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Property \&gt;" alt="" coords="6,158,197,199"/>
+<area shape="rect" id="node6" href="$d7/de6/classtorc_1_1generic_1_1Visitable.html" title="An object that receives an inoutVisitor. " alt="" coords="27,224,175,251"/>
+</map>

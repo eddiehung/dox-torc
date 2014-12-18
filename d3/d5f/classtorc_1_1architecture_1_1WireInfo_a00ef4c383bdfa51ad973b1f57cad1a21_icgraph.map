@@ -1,0 +1,7 @@
+<map id="torc::architecture::WireInfo::isHidden" name="torc::architecture::WireInfo::isHidden">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#ac7ded1715b663ff8e3aba176080ab0e4" title="Tilewire detail function. " alt="" coords="187,5,355,46"/>
+<area shape="rect" id="node5" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#ae20af168fd1eaef7b5ef6c5186786a50" title="List all wires for a given tile type. " alt="" coords="187,70,355,111"/>
+<area shape="rect" id="node6" href="$d0/d88/namespacetorc_1_1architecture.html#a477ceec877e812edaafb5fade03e1f92" title="ExtendedWireInfo stream inserter. " alt="" coords="211,135,330,177"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="403,38,571,79"/>
+<area shape="rect" id="node4" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="619,45,669,72"/>
+</map>

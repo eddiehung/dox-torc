@@ -1,0 +1,8 @@
+<map id="torc::generic::PortBundle::connect" name="torc::generic::PortBundle::connect">
+<area shape="rect" id="node2" href="$dd/dad/classtorc_1_1generic_1_1Error.html#ac945aab3157475047c21bd9d47fd7739" title="torc::generic::Error\l::saveContextData" alt="" coords="247,5,374,46"/>
+<area shape="rect" id="node3" href="$d3/d22/classtorc_1_1generic_1_1BundleFlattener.html#a4127e7409a3947c995278cd0acc81e41" title="torc::generic::BundleFlattener\l::getChildren" alt="" coords="216,70,405,111"/>
+<area shape="rect" id="node4" href="$d9/d0b/classtorc_1_1generic_1_1Bundle.html#a9e9268a396e3b5bfff9d62de915eb001" title="torc::generic::Bundle\l::getChildren" alt="" coords="241,135,380,177"/>
+<area shape="rect" id="node5" href="$dd/dad/classtorc_1_1generic_1_1Error.html#ac25097657c1ef0d976300ca82e7bbaf5" title="torc::generic::Error\l::setCurrentLocation" alt="" coords="453,253,592,294"/>
+<area shape="rect" id="node6" href="$df/d5b/classtorc_1_1generic_1_1ConnectionHandler.html#ac64552e7bd51a316a065f915d0fea1e4" title="torc::generic::Connection\lHandler::connectPortToNet" alt="" coords="221,253,400,294"/>
+<area shape="rect" id="node7" href="$d5/d7d/classtorc_1_1generic_1_1Connectable.html#a6052bccd5e1a3b8f0498ec3e01110c7b" title="torc::generic::Connectable\l::connect" alt="" coords="225,318,396,359"/>
+</map>

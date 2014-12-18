@@ -1,0 +1,5 @@
+<map id="torc::bitstream::Spartan6" name="torc::bitstream::Spartan6">
+<area shape="rect" id="node2" href="$dd/d5b/classtorc_1_1bitstream_1_1Spartan6Bitstream.html" title="Spartan&#45;class bitstream. " alt="" coords="221,49,384,90"/>
+<area shape="rect" id="node3" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html" title="Xilinx bitstream base class. " alt="" coords="6,5,173,32"/>
+<area shape="rect" id="node5" href="$db/d6d/classtorc_1_1bitstream_1_1Spartan6PacketConstants.html" title="Bitstream packet constants for Spartan 16 bit class architectures. " alt="" coords="8,107,171,149"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="torc::architecture::Site::getName" name="torc::architecture::Site::getName">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a0772eacce3a3ca03fddaffbac6ef06b3" title="List of all sites. " alt="" coords="176,5,344,46"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#adb1beb0aee3905fea2818c0f13d49aba" title="Filtered list of all sites. " alt="" coords="176,70,344,111"/>
+<area shape="rect" id="node6" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a61e5ac4fb2a5bb83a2a8b67f98e457d0" title="brief Site detail function. " alt="" coords="176,135,344,177"/>
+<area shape="rect" id="node7" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a5161b5f7e9c34266db2aa2799befd8c8" title="brief Sites of a particular type function. " alt="" coords="176,201,344,242"/>
+<area shape="rect" id="node8" href="$db/def/classtorc_1_1placer_1_1Placement.html#a80d8d6ea1f263af53104eb28641ee69e" title="torc::placer::Placement\l::initialPlacement" alt="" coords="183,266,337,307"/>
+<area shape="rect" id="node10" href="$db/def/classtorc_1_1placer_1_1Placement.html#a2684b701c5631281feec70588dfbb5d4" title="torc::placer::Placement\l::writePlacementToDesign" alt="" coords="173,331,347,373"/>
+<area shape="rect" id="node11" href="$db/def/classtorc_1_1placer_1_1Placement.html#abf96d3ca0f4a54087657d48a54849088" title="torc::placer::Placement\l::updateCostFull" alt="" coords="859,413,1013,454"/>
+<area shape="rect" id="node13" href="$db/def/classtorc_1_1placer_1_1Placement.html#a1caef004ace4a155de79358eac32215d" title="torc::placer::Placement\l::randomMove" alt="" coords="859,499,1013,541"/>
+<area shape="rect" id="node14" href="$db/def/classtorc_1_1placer_1_1Placement.html#a82069d5eb250763fc3de7237e0fdb6eb" title="torc::placer::Placement\l::undoMove" alt="" coords="859,565,1013,606"/>
+<area shape="rect" id="node15" href="$db/def/classtorc_1_1placer_1_1Placement.html#a6ef384d3573d3d33d0b34b7d3fcb6467" title="torc::placer::Placement\l::getNetCost" alt="" coords="183,531,337,573"/>
+<area shape="rect" id="node4" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="395,135,563,177"/>
+<area shape="rect" id="node5" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="685,143,736,169"/>
+<area shape="rect" id="node9" href="$db/def/classtorc_1_1placer_1_1Placement.html#a87fefd53eb47b7751246a349b49c5342" title="torc::placer::Placement\l::Placement" alt="" coords="402,266,555,307"/>
+<area shape="rect" id="node12" href="$d2/dbc/classtorc_1_1placer_1_1Placer.html#a33223706cb84e1cdf44f8f3aa50422b4" title="torc::placer::Placer\l::generatePlacement" alt="" coords="1062,499,1202,541"/>
+<area shape="rect" id="node16" href="$db/def/classtorc_1_1placer_1_1Placement.html#a8e4be4a672abd8e915443ac9f61a0f18" title="torc::placer::Placement\l::updateCostHelper" alt="" coords="402,565,555,606"/>
+<area shape="rect" id="node17" href="$db/def/classtorc_1_1placer_1_1Placement.html#a72b40b6c8de46783291e802ccde0bb13" title="torc::placer::Placement\l::updateCostRemoveInstances" alt="" coords="611,630,810,671"/>
+<area shape="rect" id="node18" href="$db/def/classtorc_1_1placer_1_1Placement.html#a09a80386af43f61c10544ea1cc0c859f" title="torc::placer::Placement\l::updateCostRemovePair" alt="" coords="628,499,793,541"/>
+<area shape="rect" id="node19" href="$db/def/classtorc_1_1placer_1_1Placement.html#a3b340dd72f79b2f05048d47db4baa7c3" title="torc::placer::Placement\l::updateCostAddInstances" alt="" coords="623,695,798,737"/>
+<area shape="rect" id="node20" href="$db/def/classtorc_1_1placer_1_1Placement.html#a90b3e1fce1fe86f3adcd8a725791926e" title="torc::placer::Placement\l::updateCostAddPair" alt="" coords="634,565,787,606"/>
+</map>

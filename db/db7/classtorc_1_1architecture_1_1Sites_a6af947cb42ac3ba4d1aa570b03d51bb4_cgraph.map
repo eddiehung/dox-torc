@@ -1,0 +1,10 @@
+<map id="torc::architecture::Sites::readPrimitiveTypes" name="torc::architecture::Sites::readPrimitiveTypes">
+<area shape="rect" id="node2" href="$d0/d83/classtorc_1_1architecture_1_1DigestStream.html#acd6f871c0be0622f30b0cf93eec93687" title="Returns the number of bytes read. " alt="" coords="229,5,424,46"/>
+<area shape="rect" id="node3" href="$d0/d83/classtorc_1_1architecture_1_1DigestStream.html#a5ab9fd456f3f13fc79b24550ccf9ec20" title="Read and return a section header. " alt="" coords="235,69,418,125"/>
+<area shape="rect" id="node4" href="$d0/d83/classtorc_1_1architecture_1_1DigestStream.html#a2b034f47edd9ee82b4b35d6df1543c52" title="Read and return a uint8_t. " alt="" coords="257,149,396,190"/>
+<area shape="rect" id="node5" href="$d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#ac883f43343c312c23f5c772736129fe8" title="Returns the database console output stream. " alt="" coords="232,214,421,255"/>
+<area shape="rect" id="node6" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#acbd3875ad573d582b89c47a0ff67575e" title="Discards all contents and resizes the array. " alt="" coords="267,279,386,321"/>
+<area shape="rect" id="node7" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html#ae28aa8bb014cfe29ca07696929765f88" title="Returns a constant array of primitive elements. " alt="" coords="238,345,415,386"/>
+<area shape="rect" id="node8" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="267,410,386,451"/>
+<area shape="rect" id="node9" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#a3865d9a332ac998b492e01d0c3f6b90f" title="Returns a non&#45;constant array of element pins. &#160;This function should only be used by the Sites class d..." alt="" coords="261,475,393,531"/>
+</map>

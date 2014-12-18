@@ -1,0 +1,4 @@
+<map id="torc::router::PathFinderNetRouterHeuristic::distanceToSink" name="torc::router::PathFinderNetRouterHeuristic::distanceToSink">
+<area shape="rect" id="node2" href="$dc/d58/classtorc_1_1router_1_1PathFinderNetRouterHeuristic.html#abd4f7e86e2e3f54c8207974aedc74b4e" title="Calculate the node cost based on distance to the sink and path length. " alt="" coords="243,5,437,46"/>
+<area shape="rect" id="node3" href="$dc/d58/classtorc_1_1router_1_1PathFinderNetRouterHeuristic.html#a1559d59085f41159eeab05a07917a12d" title="torc::router::PathFinder\lNetRouterHeuristic::nodeCost\lInitial" alt="" coords="243,69,437,125"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="torc::bitstream::Bitstream::read" name="torc::bitstream::Bitstream::read">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a5169ae2bf8f4588abb0e638da031ca57" title="Read a bitstream header, and return its fields. " alt="" coords="222,37,389,78"/>
+<area shape="rect" id="node5" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a8c925813847a519cc4f9703e7b860d89" title="Read the bitstream packets. " alt="" coords="222,102,389,143"/>
+<area shape="rect" id="node6" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a44b988b356a5d6be40a4e11d1c031f97" title="Clean up the header date and time by replacing embedded spaces with zeros. " alt="" coords="222,167,389,209"/>
+<area shape="rect" id="node3" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a62e649b31e40a5d60b9eb6ccf9ccf894" title="Look for the expected uint8_t in the stream and return true if it matches. " alt="" coords="438,5,605,46"/>
+<area shape="rect" id="node4" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a6910da85cf9207951d5914d118fe35f5" title="Read and return a bitstream header string. " alt="" coords="438,70,605,111"/>
+</map>

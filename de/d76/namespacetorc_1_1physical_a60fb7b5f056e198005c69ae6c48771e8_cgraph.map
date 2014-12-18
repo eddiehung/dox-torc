@@ -1,0 +1,6 @@
+<map id="torc::physical::operator&lt;&lt;" name="torc::physical::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#a6ff301e25c78644fdc6d51da28a41f18" title="Returns the pip tile. " alt="" coords="235,5,357,46"/>
+<area shape="rect" id="node3" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#a7a3f546bb994b1fb83b70af9db209b49" title="Returns the pip source wire. " alt="" coords="222,70,370,111"/>
+<area shape="rect" id="node4" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#a43070546154f520160a17dc5ceaf4e5f" title="Returns the pip directionality as a string. " alt="" coords="231,135,361,177"/>
+<area shape="rect" id="node5" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#af247ed28068b79e74ab30caed5e93464" title="Returns the pip sink wire. " alt="" coords="229,201,363,242"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="torc::bitstream::DeviceInfo::getTileCount" name="torc::bitstream::DeviceInfo::getTileCount">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a94f50e631a4f27e521e627d6ae481651" title="Output static device information to a stream. " alt="" coords="227,38,394,79"/>
+<area shape="rect" id="node3" href="$d3/d3e/classtorc_1_1bitstream_1_1DeviceInfoHelper.html#ace1764f7727971f96f5bfaed84c02048" title="Build the static device information for the specified family. " alt="" coords="458,5,651,46"/>
+<area shape="rect" id="node4" href="$d3/d2e/classtorc_1_1bitstream_1_1Spartan6BuildHelper.html#a71623657fa48e171470348b7d6cea839" title="Build the static device information for the specified family. " alt="" coords="443,70,666,111"/>
+</map>

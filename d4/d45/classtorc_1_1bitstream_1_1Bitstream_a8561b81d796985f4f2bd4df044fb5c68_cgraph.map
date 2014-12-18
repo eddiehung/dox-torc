@@ -1,0 +1,5 @@
+<map id="torc::bitstream::Bitstream::setDevice" name="torc::bitstream::Bitstream::setDevice">
+<area shape="rect" id="node2" href="$d7/d6c/classtorc_1_1common_1_1Devices.html#a58345b793346e306dfdf048ad3b5bbb0" title="Returns the device enumeration corresponding to the given device name. " alt="" coords="222,38,375,79"/>
+<area shape="rect" id="node3" href="$d7/d40/classtorc_1_1common_1_1DeviceDesignator.html#a00bd09ba5c08dd9db11c0b0e30248ef2" title="Returns the device name. " alt="" coords="424,5,632,46"/>
+<area shape="rect" id="node4" href="$d7/d6c/classtorc_1_1common_1_1Devices.html#a99bf2c435599c1689a67b613b5528e26" title="Returns the device map. " alt="" coords="451,70,605,111"/>
+</map>

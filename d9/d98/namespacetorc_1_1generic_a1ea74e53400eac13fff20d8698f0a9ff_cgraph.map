@@ -1,0 +1,8 @@
+<map id="torc::generic::BOOST_AUTO_TEST_CASE" name="torc::generic::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d7/dbd/classtorc_1_1generic_1_1MessageTable.html#a365a01a6a317f9fc28af8749d0232e7c" title="torc::generic::MessageTable\l::instance" alt="" coords="203,5,386,46"/>
+<area shape="rect" id="node3" href="$d7/dbd/classtorc_1_1generic_1_1MessageTable.html#af8f09d5d5df6c37963d1a629cfe644ec" title="torc::generic::MessageTable\l::getMessage" alt="" coords="203,70,386,111"/>
+<area shape="rect" id="node6" href="$dd/dad/classtorc_1_1generic_1_1Error.html#af188e0a83346c424ce5971fb6b30210b" title="torc::generic::Error\l::getErrorMessageId" alt="" coords="226,135,363,177"/>
+<area shape="rect" id="node7" href="$dd/dad/classtorc_1_1generic_1_1Error.html#a64ddcccf6c937dfcc4817c4e3a5d09c5" title="torc::generic::Error\l::getStackTrace" alt="" coords="232,201,357,242"/>
+<area shape="rect" id="node4" href="$d4/d30/classtorc_1_1generic_1_1Message.html#a69f4591f3e43c36c9116b4c1a33074c8" title="torc::generic::Message\l::getSeverity" alt="" coords="435,38,586,79"/>
+<area shape="rect" id="node5" href="$d4/d30/classtorc_1_1generic_1_1Message.html#a992544596e8b84c6bb2b1755544c5839" title="torc::generic::Message\l::getMessage" alt="" coords="435,103,586,145"/>
+</map>

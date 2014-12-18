@@ -1,0 +1,5 @@
+<map id="RegressionFilter::visit" name="RegressionFilter::visit">
+<area shape="rect" id="node2" href="$de/db9/classRegressionFilter.html#ad0dc7b3c0451439298b0ca4139af24bd" title="Returns a fully qualified name for the given test case. " alt="" coords="202,5,369,46"/>
+<area shape="rect" id="node4" href="$de/db9/classRegressionFilter.html#ad07d9e477d6f9ed4a5037f58ac0a4b29" title="Flags the given test case and its parents as being used. " alt="" coords="201,71,370,97"/>
+<area shape="rect" id="node3" href="$de/db9/classRegressionFilter.html#ac6d7b1927cee788125c87fc23ad0d1e9" title="Returns the current fully qualified test suite path. " alt="" coords="419,5,586,46"/>
+</map>

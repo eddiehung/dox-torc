@@ -1,0 +1,5 @@
+<map id="torc::bitstream::Virtex5LibGen::Virtex5LibGen" name="torc::bitstream::Virtex5LibGen::Virtex5LibGen">
+<area shape="rect" id="node2" href="$db/d2e/classtorc_1_1bitstream_1_1Virtex5LibGen.html#a73eaa609fc2e381d1bb1120616ba3598" title="Do architecture specific part of initialization. " alt="" coords="206,38,357,79"/>
+<area shape="rect" id="node3" href="$db/d2e/classtorc_1_1bitstream_1_1Virtex5LibGen.html#ab0229cb2e8b1cb4fbbc5dd372e25c0d7" title="Returns map of coumpound settings. " alt="" coords="406,5,629,46"/>
+<area shape="rect" id="node4" href="$db/d2e/classtorc_1_1bitstream_1_1Virtex5LibGen.html#a4ac1aa5e41a72029e67cb974b0b2e9af" title="Get a map from config setting to reference value. " alt="" coords="413,70,621,111"/>
+</map>

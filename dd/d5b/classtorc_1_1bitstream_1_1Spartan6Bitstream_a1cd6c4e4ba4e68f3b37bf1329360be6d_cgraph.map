@@ -1,0 +1,8 @@
+<map id="torc::bitstream::Spartan6Bitstream::preflightPackets" name="torc::bitstream::Spartan6Bitstream::preflightPackets">
+<area shape="rect" id="node2" href="$d7/d40/classtorc_1_1common_1_1DeviceDesignator.html#a757167a8e94e4e4e73b90d478ba054f4" title="Returns the device family. " alt="" coords="232,5,440,46"/>
+<area shape="rect" id="node3" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a0030a7a78756e2ad93a80b2adc3e239d" title="torc::bitstream::Spartan6\lPacket::isWrite" alt="" coords="255,70,417,111"/>
+<area shape="rect" id="node4" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#abd5df3e9ee3c6029961766d24f3ac168" title="torc::bitstream::Spartan6\lPacket::getAddress" alt="" coords="255,135,417,177"/>
+<area shape="rect" id="node5" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a1ebd23fc563d0d7024aecb63b5b91afc" title="Returns the number of payload words in the packet, excluding the header word. " alt="" coords="255,201,417,242"/>
+<area shape="rect" id="node6" href="$db/dd5/structtorc_1_1bitstream_1_1Spartan6Bitstream_1_1CRC.html#adfd065f1c1849da3015265ae7f2f47ce" title="Function to clear the CRC calculation. " alt="" coords="255,266,417,307"/>
+<area shape="rect" id="node7" href="$db/dd5/structtorc_1_1bitstream_1_1Spartan6Bitstream_1_1CRC.html#a0e556ab7393c0a67272eab38e9ac871b" title="Update the CRC with new data. " alt="" coords="255,331,417,373"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="torc::ArchitectureBrowser::stringToTilewire" name="torc::ArchitectureBrowser::stringToTilewire">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#ac7ded1715b663ff8e3aba176080ab0e4" title="Tilewire detail function. " alt="" coords="231,5,399,46"/>
+<area shape="rect" id="node5" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a5fc3b477957ef904fe43501ee70a8ec8" title="Display source Tilewires of a segment. " alt="" coords="231,70,399,111"/>
+<area shape="rect" id="node6" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af92393fa7ceb66e0d78ed245861d523a" title="Display sink Tilewires of a segment. " alt="" coords="231,135,399,177"/>
+<area shape="rect" id="node7" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a0b56836adab91e293614f7a1bcba27fa" title="Display segment connectivity. " alt="" coords="231,201,399,242"/>
+<area shape="rect" id="node8" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#afd0cb4c3956aef2edc59ab920a760dd8" title="Display segment connectivity. " alt="" coords="221,266,408,307"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="456,103,624,145"/>
+<area shape="rect" id="node4" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="672,111,723,137"/>
+</map>

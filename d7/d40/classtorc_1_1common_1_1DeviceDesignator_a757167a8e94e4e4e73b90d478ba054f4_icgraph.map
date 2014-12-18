@@ -1,0 +1,7 @@
+<map id="torc::common::DeviceDesignator::getFamily" name="torc::common::DeviceDesignator::getFamily">
+<area shape="rect" id="node2" href="$d6/d7e/namespacetorc_1_1bitstream.html#ab90db1ef5ce392b24d9abd7425bd529e" title="Unit test for the Bitstream class. " alt="" coords="283,5,439,46"/>
+<area shape="rect" id="node3" href="$df/dd5/namespacetorc_1_1common.html#aacdb76dde186637f9edd7d41a0c9168a" title="Unit test for the DeviceDesignator class. " alt="" coords="285,70,437,111"/>
+<area shape="rect" id="node4" href="$dd/d5b/classtorc_1_1bitstream_1_1Spartan6Bitstream.html#a1cd6c4e4ba4e68f3b37bf1329360be6d" title="Preflight the packets. " alt="" coords="273,135,450,177"/>
+<area shape="rect" id="node5" href="$d9/d8a/classtorc_1_1bitstream_1_1SpartanBitstream.html#a8c7127d56d1e2b6607dd1110e03529c5" title="Preflight the packets. " alt="" coords="273,201,450,242"/>
+<area shape="rect" id="node6" href="$db/d95/classtorc_1_1bitstream_1_1VirtexBitstream.html#af986a28c842e73c20a0f43ff1276b964" title="Preflight the packets. " alt="" coords="262,266,461,307"/>
+</map>

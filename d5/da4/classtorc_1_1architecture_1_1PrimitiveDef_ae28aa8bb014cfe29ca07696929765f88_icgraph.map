@@ -1,0 +1,9 @@
+<map id="torc::architecture::PrimitiveDef::getElements" name="torc::architecture::PrimitiveDef::getElements">
+<area shape="rect" id="node2" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a90b80d86a73c4f8e66eff7376e68acea" title="Generrate Xdls for logic sites. " alt="" coords="243,5,421,46"/>
+<area shape="rect" id="node3" href="$d9/d62/LogicXdlGenerator_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Generates XDLs for various site types. An XDL is generated for each. " alt="" coords="307,71,357,97"/>
+<area shape="rect" id="node4" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#a6af947cb42ac3ba4d1aa570b03d51bb4" title="Read the primitive types for the family. " alt="" coords="245,122,419,163"/>
+<area shape="rect" id="node8" href="$d0/d88/namespacetorc_1_1architecture.html#a35beee467bc68a9731945eb596280b5c" title="Unit test to iterate through a database and classify all existing elements into pseudo&#45;types. " alt="" coords="232,187,432,229"/>
+<area shape="rect" id="node5" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#adb604ac5de289d7b1aebca49466789e5" title="Initializes the database. " alt="" coords="481,122,599,163"/>
+<area shape="rect" id="node6" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a34c44d3698eced70adef0ba5c9d05818" title="torc::architecture\l::DDB::mWireUsage" alt="" coords="648,89,784,130"/>
+<area shape="rect" id="node7" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a41a53206157f03fd325ca13876d57539" title="Public constructor. " alt="" coords="657,154,775,195"/>
+</map>

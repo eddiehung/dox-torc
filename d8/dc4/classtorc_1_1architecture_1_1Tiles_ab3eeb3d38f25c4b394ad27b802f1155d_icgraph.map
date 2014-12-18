@@ -1,0 +1,23 @@
+<map id="torc::architecture::Tiles::findTileIndex" name="torc::architecture::Tiles::findTileIndex">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#aaa77d7b3d62b2bc949a6ff5432786727" title="Convert user input to a Tilewire. " alt="" coords="189,169,357,210"/>
+<area shape="rect" id="node10" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a7a3281b269aa91a3d02858997e4ae9ee" title="Returns the arc for the specified pip tile and wires. " alt="" coords="207,397,339,438"/>
+<area shape="rect" id="node13" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a9d9d1b253e443ea2975dca1f635f5846" title="Returns the tilewire for the specified tile and wire names. " alt="" coords="201,462,345,503"/>
+<area shape="rect" id="node16" href="$d0/d88/namespacetorc_1_1architecture.html#a25a599538130902ab4a3f97226e91e52" title="torc::architecture\l::testDeviceTiles" alt="" coords="214,559,333,601"/>
+<area shape="rect" id="node18" href="$d9/d12/Xdl2Bit_8cpp.html#a73b44d26286730d2c741a0c4cbdeb303" title="assembleNets" alt="" coords="220,665,327,692"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#ac7ded1715b663ff8e3aba176080ab0e4" title="Tilewire detail function. " alt="" coords="421,5,589,46"/>
+<area shape="rect" id="node6" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a5fc3b477957ef904fe43501ee70a8ec8" title="Display source Tilewires of a segment. " alt="" coords="421,70,589,111"/>
+<area shape="rect" id="node7" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af92393fa7ceb66e0d78ed245861d523a" title="Display sink Tilewires of a segment. " alt="" coords="421,135,589,177"/>
+<area shape="rect" id="node8" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a0b56836adab91e293614f7a1bcba27fa" title="Display segment connectivity. " alt="" coords="421,201,589,242"/>
+<area shape="rect" id="node9" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#afd0cb4c3956aef2edc59ab920a760dd8" title="Display segment connectivity. " alt="" coords="412,266,599,307"/>
+<area shape="rect" id="node4" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="672,103,840,145"/>
+<area shape="rect" id="node5" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="907,111,957,137"/>
+<area shape="rect" id="node11" href="$d1/d2c/structtorc_1_1router_1_1TraceUnitTestFixture.html#a18f278b4efdaf3e40c0a482c21cfc40c" title="torc::router::TraceUnitTest\lFixture::TraceUnitTestFixture" alt="" coords="411,397,600,438"/>
+<area shape="rect" id="node12" href="$d2/d42/classtorc_1_1architecture_1_1XdlImporter.html#a48b7dcce892f70e32afa16fed316434b" title="Bind the given pip to the database arc and wire usage if applicable. " alt="" coords="443,331,568,373"/>
+<area shape="rect" id="node14" href="$d0/d88/namespacetorc_1_1architecture.html#a44e00b06e2bc57c7568eeabbace0afe7" title="Unit test for the ArcUsage class. " alt="" coords="405,462,605,503"/>
+<area shape="rect" id="node15" href="$dc/dd6/namespacetorc_1_1router.html#aa6c47856fbafb45aabfd946a5530f8e9" title="Unit test for the NetRouter. " alt="" coords="431,527,579,569"/>
+<area shape="rect" id="node17" href="$d0/d88/namespacetorc_1_1architecture.html#a08e13643210c5a5726a4c9d05e707bed" title="Unit test for the Tiles class. " alt="" coords="405,593,605,634"/>
+<area shape="rect" id="node19" href="$d6/dd4/classtorc_1_1bitstream_1_1Assembler.html#ae85a0c94555b870f8529add58d2fb1ea" title="Initiates Xdl to bitstream conversion. " alt="" coords="419,658,591,699"/>
+<area shape="rect" id="node20" href="$d9/d12/Xdl2Bit_8cpp.html#af5394c153db17bbec6ee4ca45ec276ea" title="convertXdlToBitstream" alt="" coords="428,724,583,751"/>
+<area shape="rect" id="node21" href="$d4/de3/classtorc_1_1bitstream_1_1VirtexAssembler.html#abfa126eb1690acb40207f35c139d64e2" title="Function to generate bitstream to be called by user. " alt="" coords="653,687,859,729"/>
+<area shape="rect" id="node22" href="$d9/d12/Xdl2Bit_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Converts XDL file to bitstream by merging primitive bitstreams from library. " alt="" coords="731,753,781,780"/>
+</map>

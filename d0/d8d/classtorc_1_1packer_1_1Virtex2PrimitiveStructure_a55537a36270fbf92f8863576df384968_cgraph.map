@@ -1,0 +1,6 @@
+<map id="torc::packer::Virtex2PrimitiveStructure::initialize" name="torc::packer::Virtex2PrimitiveStructure::initialize">
+<area shape="rect" id="node2" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="247,5,366,46"/>
+<area shape="rect" id="node3" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#ad34ec958b29c5793dac9e46d136e0ef9" title="Returns the non&#45;constant end iterator. " alt="" coords="247,70,366,111"/>
+<area shape="rect" id="node4" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#acd689c941bde03e88f68307fd30cc7c2" title="Returns the name of the element. " alt="" coords="241,135,373,191"/>
+<area shape="rect" id="node5" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#a3865d9a332ac998b492e01d0c3f6b90f" title="Returns a non&#45;constant array of element pins. &#160;This function should only be used by the Sites class d..." alt="" coords="241,215,373,271"/>
+</map>

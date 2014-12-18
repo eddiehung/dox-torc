@@ -1,0 +1,4 @@
+<map id="torc::bitstream::Virtex2::initializeFrameMaps" name="torc::bitstream::Virtex2::initializeFrameMaps">
+<area shape="rect" id="node2" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#af416da9c16a1e09b86284dac079eb91d" title="Returns the column count. " alt="" coords="206,5,378,46"/>
+<area shape="rect" id="node3" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#a48388a49dccfe1173809c80b3f18974a" title="Returns the column type vector. " alt="" coords="206,70,378,111"/>
+</map>

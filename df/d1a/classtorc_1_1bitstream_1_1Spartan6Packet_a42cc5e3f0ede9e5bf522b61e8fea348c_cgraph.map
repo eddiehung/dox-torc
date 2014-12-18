@@ -1,0 +1,5 @@
+<map id="torc::bitstream::Spartan6Packet::write" name="torc::bitstream::Spartan6Packet::write">
+<area shape="rect" id="node2" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a213568687d5a0704fa8ea754a33c0e05" title="Returns the total number of words in the packet, including the header word. &#160;In the case of Type 2 pa..." alt="" coords="216,50,379,91"/>
+<area shape="rect" id="node3" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#acfc83ef9fb9636f83f9d7360530037a3" title="torc::bitstream::Spartan6\lPacket::isType2" alt="" coords="427,5,589,46"/>
+<area shape="rect" id="node4" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a2e10cae91393f807c359c2e071c23159" title="torc::bitstream::Spartan6\lPacket::isSyncWord1" alt="" coords="427,83,589,125"/>
+</map>

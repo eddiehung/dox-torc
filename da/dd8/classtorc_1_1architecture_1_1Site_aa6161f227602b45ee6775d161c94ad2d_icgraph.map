@@ -1,0 +1,29 @@
+<map id="torc::architecture::Site::getTileIndex" name="torc::architecture::Site::getTileIndex">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a61e5ac4fb2a5bb83a2a8b67f98e457d0" title="brief Site detail function. " alt="" coords="212,5,380,46"/>
+<area shape="rect" id="node5" href="$d6/dd4/classtorc_1_1bitstream_1_1Assembler.html#a3e4b645939b162ca0dc50b196917b139" title="Get tile type from site type. " alt="" coords="208,70,384,111"/>
+<area shape="rect" id="node6" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#ae9a4fd1418193ac0931489ad9975e13e" title="Populate map of tile type to set of include site types. " alt="" coords="182,135,410,177"/>
+<area shape="rect" id="node8" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a9c16780f138e8273afc9bd72c3b96430" title="Get word offset in frame for the site/pip in corresponding Xdl. " alt="" coords="185,201,407,242"/>
+<area shape="rect" id="node11" href="$db/def/classtorc_1_1placer_1_1Placement.html#a2684b701c5631281feec70588dfbb5d4" title="torc::placer::Placement\l::writePlacementToDesign" alt="" coords="209,266,383,307"/>
+<area shape="rect" id="node12" href="$db/def/classtorc_1_1placer_1_1Placement.html#abf96d3ca0f4a54087657d48a54849088" title="torc::placer::Placement\l::updateCostFull" alt="" coords="959,327,1113,369"/>
+<area shape="rect" id="node14" href="$db/def/classtorc_1_1placer_1_1Placement.html#a6ef384d3573d3d33d0b34b7d3fcb6467" title="torc::placer::Placement\l::getNetCost" alt="" coords="219,331,373,373"/>
+<area shape="rect" id="node22" href="$d4/de3/classtorc_1_1bitstream_1_1VirtexAssembler.html#af5c58edc3a059825ad44d02844b5bad9" title="Store frame blocks and bit offset for given site. " alt="" coords="193,449,399,490"/>
+<area shape="rect" id="node23" href="$d9/d12/Xdl2Bit_8cpp.html#a6e0095201e3a61112e9750279c99859e" title="GetFrameBlocksFromSiteName" alt="" coords="192,515,400,541"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="464,5,632,46"/>
+<area shape="rect" id="node4" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="760,12,811,39"/>
+<area shape="rect" id="node7" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a90b80d86a73c4f8e66eff7376e68acea" title="Generrate Xdls for logic sites. " alt="" coords="459,103,637,145"/>
+<area shape="rect" id="node9" href="$db/d2e/classtorc_1_1bitstream_1_1Virtex5LibGen.html#a04fbf579ac28aa24d607119dc9a82c20" title="Compress given bitstream file against reference bitstream file. " alt="" coords="466,234,630,275"/>
+<area shape="rect" id="node10" href="$da/d69/classtorc_1_1bitstream_1_1Virtex7LibGen.html#a9195d3e0c4aad39fd944b5619f2b4e90" title="Compress given bitstream file against reference bitstream file. " alt="" coords="466,169,630,210"/>
+<area shape="rect" id="node13" href="$d2/dbc/classtorc_1_1placer_1_1Placer.html#a33223706cb84e1cdf44f8f3aa50422b4" title="torc::placer::Placer\l::generatePlacement" alt="" coords="1187,201,1327,242"/>
+<area shape="rect" id="node15" href="$db/def/classtorc_1_1placer_1_1Placement.html#a8e4be4a672abd8e915443ac9f61a0f18" title="torc::placer::Placement\l::updateCostHelper" alt="" coords="471,299,625,341"/>
+<area shape="rect" id="node16" href="$db/def/classtorc_1_1placer_1_1Placement.html#a72b40b6c8de46783291e802ccde0bb13" title="torc::placer::Placement\l::updateCostRemoveInstances" alt="" coords="686,266,885,307"/>
+<area shape="rect" id="node17" href="$db/def/classtorc_1_1placer_1_1Placement.html#a09a80386af43f61c10544ea1cc0c859f" title="torc::placer::Placement\l::updateCostRemovePair" alt="" coords="703,201,868,242"/>
+<area shape="rect" id="node20" href="$db/def/classtorc_1_1placer_1_1Placement.html#a3b340dd72f79b2f05048d47db4baa7c3" title="torc::placer::Placement\l::updateCostAddInstances" alt="" coords="698,331,873,373"/>
+<area shape="rect" id="node21" href="$db/def/classtorc_1_1placer_1_1Placement.html#a90b3e1fce1fe86f3adcd8a725791926e" title="torc::placer::Placement\l::updateCostAddPair" alt="" coords="709,135,862,177"/>
+<area shape="rect" id="node18" href="$db/def/classtorc_1_1placer_1_1Placement.html#a1caef004ace4a155de79358eac32215d" title="torc::placer::Placement\l::randomMove" alt="" coords="959,135,1113,177"/>
+<area shape="rect" id="node19" href="$db/def/classtorc_1_1placer_1_1Placement.html#a82069d5eb250763fc3de7237e0fdb6eb" title="torc::placer::Placement\l::undoMove" alt="" coords="959,201,1113,242"/>
+<area shape="rect" id="node24" href="$d9/d12/Xdl2Bit_8cpp.html#ad6304506c423b4c5c3285017109d4701" title="assembleInstances" alt="" coords="481,515,615,541"/>
+<area shape="rect" id="node25" href="$d6/dd4/classtorc_1_1bitstream_1_1Assembler.html#ae85a0c94555b870f8529add58d2fb1ea" title="Initiates Xdl to bitstream conversion. " alt="" coords="699,478,871,519"/>
+<area shape="rect" id="node26" href="$d9/d12/Xdl2Bit_8cpp.html#af5394c153db17bbec6ee4ca45ec276ea" title="convertXdlToBitstream" alt="" coords="708,544,863,571"/>
+<area shape="rect" id="node27" href="$d4/de3/classtorc_1_1bitstream_1_1VirtexAssembler.html#abfa126eb1690acb40207f35c139d64e2" title="Function to generate bitstream to be called by user. " alt="" coords="933,566,1139,607"/>
+<area shape="rect" id="node28" href="$d9/d12/Xdl2Bit_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Converts XDL file to bitstream by merging primitive bitstreams from library. " alt="" coords="1011,515,1061,541"/>
+</map>

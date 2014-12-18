@@ -1,0 +1,4 @@
+<map id="torc::XdlParser::error" name="torc::XdlParser::error">
+<area shape="rect" id="node2" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#ad40b2477e6a24d876bb4d4f444dbdea1" title="Error handling with associated line number. " alt="" coords="192,5,363,46"/>
+<area shape="rect" id="node3" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#a17bf3137bba89e28bf7163d027e535fc" title="Signals a parsing failure by deasserting the success flag. " alt="" coords="411,5,581,46"/>
+</map>

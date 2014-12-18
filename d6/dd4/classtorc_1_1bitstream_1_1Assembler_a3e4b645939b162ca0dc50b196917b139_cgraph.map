@@ -1,0 +1,4 @@
+<map id="torc::bitstream::Assembler::getTiletypeFromSitename" name="torc::bitstream::Assembler::getTiletypeFromSitename">
+<area shape="rect" id="node2" href="$da/dd8/classtorc_1_1architecture_1_1Site.html#aa6161f227602b45ee6775d161c94ad2d" title="Returns the index of the containing tile. " alt="" coords="243,5,370,46"/>
+<area shape="rect" id="node3" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a3929d1b6b85ec182fccfc88eef0203b7" title="Returns the tile type index for this tile. " alt="" coords="229,70,384,111"/>
+</map>

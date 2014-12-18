@@ -1,0 +1,9 @@
+<map id="torc::physical::Module" name="torc::physical::Module">
+<area shape="rect" id="node2" href="$d5/de3/classtorc_1_1physical_1_1Circuit.html" title="Circuit composed of instances and nets. " alt="" coords="513,113,653,140"/>
+<area shape="rect" id="node3" href="$d9/d33/classtorc_1_1physical_1_1Named.html" title="Concept for any object that can be named. " alt="" coords="242,39,387,65"/>
+<area shape="rect" id="node5" href="$da/dc4/classtorc_1_1physical_1_1Progeny.html" title="torc::physical::Progeny\l\&lt; class Circuit \&gt;" alt="" coords="239,90,390,131"/>
+<area shape="rect" id="node6" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html" title="Configuration setting map. " alt="" coords="233,156,397,183"/>
+<area shape="rect" id="node8" href="$dd/d7f/classtorc_1_1common_1_1Annotated.html" title="Concept for any object that can be annotated. " alt="" coords="232,207,397,233"/>
+<area shape="rect" id="node9" href="$de/dca/classtorc_1_1physical_1_1Progenitor.html" title="torc::physical::Progenitor\l\&lt; class Circuit \&gt;" alt="" coords="233,258,396,299"/>
+<area shape="rect" id="node10" href="$de/dca/classtorc_1_1physical_1_1Progenitor.html" title="torc::physical::Progenitor\l\&lt; Module \&gt;" alt="" coords="501,165,664,206"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="torc::architecture::Tiles::findTileIndex" name="torc::architecture::Tiles::findTileIndex">
+<area shape="rect" id="node2" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="234,5,353,46"/>
+<area shape="rect" id="node3" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#ad34ec958b29c5793dac9e46d136e0ef9" title="Returns the non&#45;constant end iterator. " alt="" coords="234,70,353,111"/>
+<area shape="rect" id="node4" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html#aa37d2cb4d824d944c044a67c2170aebc" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32\l_t \&gt;::undefined" alt="" coords="201,135,385,191"/>
+<area shape="rect" id="node5" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#ad77e5d82b85e0d2efcdb3aa4c1f66c1c" title="Compare tile pairs by name, for ordering purposes. " alt="" coords="189,214,397,255"/>
+</map>

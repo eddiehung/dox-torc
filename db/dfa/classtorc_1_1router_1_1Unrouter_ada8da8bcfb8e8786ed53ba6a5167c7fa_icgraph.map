@@ -1,0 +1,7 @@
+<map id="torc::router::Unrouter::traceDownstream" name="torc::router::Unrouter::traceDownstream">
+<area shape="rect" id="node2" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#af48c5b4dbeb7e1adaa400bd50dee23d4" title="Trace from given Tilewire in a sinkwards direction only. " alt="" coords="192,5,331,46"/>
+<area shape="rect" id="node3" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a158784e698293328f1f6005a3c20a9d6" title="Recursively traces from the specified RouteTreeNode in one of three modes. " alt="" coords="192,70,331,111"/>
+<area shape="rect" id="node4" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a137179d28fd3a7d8e3a13a5d570cf865" title="Trace from given Tilewire sinkwards and sourcewards to source or branch. " alt="" coords="379,5,517,46"/>
+<area shape="rect" id="node5" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#aa1f029715f5bb9a089f080357439b85e" title="Trace from given Tilewire sourcewards to the source of the net. " alt="" coords="379,70,517,111"/>
+<area shape="rect" id="node6" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a39c3d53615f4c917db79f68544dfa2ff" title="Trace from given Tilewire and recover the entire net. " alt="" coords="379,135,517,177"/>
+</map>

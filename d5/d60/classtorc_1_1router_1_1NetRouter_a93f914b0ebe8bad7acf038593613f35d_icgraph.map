@@ -1,0 +1,4 @@
+<map id="torc::router::NetRouter::expandSourceTerminal" name="torc::router::NetRouter::expandSourceTerminal">
+<area shape="rect" id="node2" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#af5593bf5a5f8d7a801a31c579302db03" title="Move net terminals out into the INT tiles. " alt="" coords="214,5,362,46"/>
+<area shape="rect" id="node3" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a3b86ba86d920c06811a3e33fd7fd89c3" title="Route a net. " alt="" coords="411,5,559,46"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="torc::physical::BOOST_AUTO_TEST_CASE" name="torc::physical::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$de/d76/namespacetorc_1_1physical.html#aa853285a8255b62003c41444e831dea2" title="Verify that the design file opened successfully. " alt="" coords="223,37,398,78"/>
+<area shape="rect" id="node5" href="$de/d76/namespacetorc_1_1physical.html#a3de9399f2be40c7b128a50932deb3bd8" title="Perform pre&#45;flattening tests on a design. " alt="" coords="221,102,400,143"/>
+<area shape="rect" id="node6" href="$d9/dae/classtorc_1_1physical_1_1ModuleTransformer.html#affef8c7075f49e6dd326e1c2b79ba61c" title="Flatten a module instance in a design. " alt="" coords="203,167,418,209"/>
+<area shape="rect" id="node7" href="$de/d76/namespacetorc_1_1physical.html#abfbe381835e0825471f27644c2fb7a6e" title="Perform post&#45;flattening tests on a design. " alt="" coords="218,233,403,274"/>
+<area shape="rect" id="node3" href="$d4/da0/classtorc_1_1common_1_1DirectoryTree.html#af1b18fb3aa350b4522babca30a9034b8" title="Returns the absolute path to the executable directory. " alt="" coords="467,5,650,46"/>
+<area shape="rect" id="node4" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#ac9c8c474aaa38744850a967ebbfd3c7e" title="Returns a shared pointer for the design. " alt="" coords="473,70,644,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="torc::packer::PrimitiveStructure::debug" name="torc::packer::PrimitiveStructure::debug">
+<area shape="rect" id="node2" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#a3865d9a332ac998b492e01d0c3f6b90f" title="Returns a non&#45;constant array of element pins. &#160;This function should only be used by the Sites class d..." alt="" coords="254,5,386,61"/>
+<area shape="rect" id="node3" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="261,85,379,126"/>
+<area shape="rect" id="node4" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#ad34ec958b29c5793dac9e46d136e0ef9" title="Returns the non&#45;constant end iterator. " alt="" coords="261,150,379,191"/>
+<area shape="rect" id="node5" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#af54563c53c7e0d484f507e8eff9618ab" title="Returns the set of allowable configuration values. " alt="" coords="254,215,386,271"/>
+</map>

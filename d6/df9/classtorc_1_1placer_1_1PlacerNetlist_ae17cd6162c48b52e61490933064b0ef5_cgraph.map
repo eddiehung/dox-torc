@@ -1,0 +1,7 @@
+<map id="torc::placer::PlacerNetlist::temporaryPrune" name="torc::placer::PlacerNetlist::temporaryPrune">
+<area shape="rect" id="node2" href="$de/d43/classtorc_1_1placer_1_1NetlistNet.html#a2b9c2c1db65ee99b29d1e96eee361fd8" title="torc::placer::NetlistNet\l::getNumSources" alt="" coords="222,5,373,46"/>
+<area shape="rect" id="node3" href="$de/d43/classtorc_1_1placer_1_1NetlistNet.html#ae52dbee6374c5c4ca52515c1571dc5ed" title="torc::placer::NetlistNet\l::getSource" alt="" coords="222,70,373,111"/>
+<area shape="rect" id="node4" href="$de/d43/classtorc_1_1placer_1_1NetlistNet.html#a343ef96cae7241f9190e8558dfabd13c" title="torc::placer::NetlistNet\l::getNumSinks" alt="" coords="222,135,373,177"/>
+<area shape="rect" id="node5" href="$de/d43/classtorc_1_1placer_1_1NetlistNet.html#a59bd23f513b8f03a01c484194e59119d" title="torc::placer::NetlistNet\l::getSink" alt="" coords="222,201,373,242"/>
+<area shape="rect" id="node6" href="$de/d43/classtorc_1_1placer_1_1NetlistNet.html#a3e64e6ae756ffdc8856d1331bd5c5b3f" title="torc::placer::NetlistNet\l::getName" alt="" coords="222,266,373,307"/>
+</map>

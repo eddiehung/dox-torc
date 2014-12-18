@@ -1,0 +1,19 @@
+<map id="torc::architecture::BOOST_AUTO_TEST_CASE" name="torc::architecture::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ae17cc2209dfbec5367d9725940268028" title="Returns a constant reference to the family and device site data. " alt="" coords="291,5,410,46"/>
+<area shape="rect" id="node3" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#aff8c8ae5585c2554998398f539c49aac" title="Returns the site types for this family. " alt="" coords="281,70,421,111"/>
+<area shape="rect" id="node4" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html#ab8d6b185e643193e8de87bd1e3fb8635" title="Returns the name of the primitive. " alt="" coords="271,135,430,177"/>
+<area shape="rect" id="node5" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html#a4c4f6c6616d8310a28786efc699a0226" title="Returns a non&#45;constant array of element pins. &#160;This function should only be used by the Sites class d..." alt="" coords="276,201,425,242"/>
+<area shape="rect" id="node6" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="291,266,410,307"/>
+<area shape="rect" id="node7" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#ad34ec958b29c5793dac9e46d136e0ef9" title="Returns the non&#45;constant end iterator. " alt="" coords="291,331,410,373"/>
+<area shape="rect" id="node8" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#af596a8df4be7401c5874b82c44e73bd7" title="Returns the array size. " alt="" coords="291,397,410,438"/>
+<area shape="rect" id="node9" href="$d5/d69/classtorc_1_1architecture_1_1PrimitivePin.html#a896fffb3e47324a3ca19dbd270571cab" title="Returns the pin name. " alt="" coords="272,462,429,503"/>
+<area shape="rect" id="node10" href="$d5/d69/classtorc_1_1architecture_1_1PrimitivePin.html#a5ef18cbcb7a950dd7cac060a4db475ab" title="Returns the pin direction flags. " alt="" coords="273,527,428,569"/>
+<area shape="rect" id="node11" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html#ae28aa8bb014cfe29ca07696929765f88" title="Returns a constant array of primitive elements. " alt="" coords="262,593,439,634"/>
+<area shape="rect" id="node12" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#acd689c941bde03e88f68307fd30cc7c2" title="Returns the name of the element. " alt="" coords="285,657,417,713"/>
+<area shape="rect" id="node13" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#a3865d9a332ac998b492e01d0c3f6b90f" title="Returns a non&#45;constant array of element pins. &#160;This function should only be used by the Sites class d..." alt="" coords="285,737,417,793"/>
+<area shape="rect" id="node14" href="$da/df9/classtorc_1_1architecture_1_1PrimitiveElementPin.html#a86a4512fbb468f209e14cd9897c245ef" title="Returns a pointer to the primitive element that owns this pin. " alt="" coords="278,817,423,873"/>
+<area shape="rect" id="node15" href="$da/df9/classtorc_1_1architecture_1_1PrimitiveElementPin.html#aab2ae8970e7d2871c47b37d8048db7e9" title="Returns the pin name. " alt="" coords="278,897,423,953"/>
+<area shape="rect" id="node16" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html#aa5ce2bc415a24fedcde3d719c44c41fe" title="Returns a constant array of primitive connection shared pointers. " alt="" coords="253,977,448,1018"/>
+<area shape="rect" id="node17" href="$d0/df5/classtorc_1_1architecture_1_1PrimitiveConn.html#a52e06dd4e778619a2ccdf857a1ebe893" title="Returns a pointer to the source primitive element pin. " alt="" coords="255,1042,446,1083"/>
+<area shape="rect" id="node18" href="$d0/df5/classtorc_1_1architecture_1_1PrimitiveConn.html#a4d5bea0a4e844a1a49452a9b632087e3" title="Returns a vector of pointers to the sink primitive element pins. " alt="" coords="267,1107,434,1149"/>
+</map>

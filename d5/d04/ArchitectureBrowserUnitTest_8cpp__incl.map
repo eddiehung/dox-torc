@@ -1,0 +1,32 @@
+<map id="ArchitectureBrowserUnitTest.cpp" name="ArchitectureBrowserUnitTest.cpp">
+<area shape="rect" id="node4" href="$d1/d32/ArchitectureBrowser_8hpp.html" title="ArchitectureBrowser class for exploring database contents. " alt="" coords="506,80,724,107"/>
+<area shape="rect" id="node8" href="$d1/d5d/DDB_8hpp.html" title="Header for the DDB class. " alt="" coords="1663,163,1834,189"/>
+<area shape="rect" id="node42" href="$d7/d7c/DDBStreamHelper_8hpp.html" title="Header for the DDBStreamHelper class. " alt="" coords="414,246,603,287"/>
+<area shape="rect" id="node46" href="$d7/d27/architecture_2OutputStreamHelpers_8hpp.html" title="Header for torc::physical output stream helpers. " alt="" coords="342,155,500,197"/>
+<area shape="rect" id="node9" href="$dd/d59/Versions_8hpp.html" title="Header for the Versions class. " alt="" coords="3187,600,3382,627"/>
+<area shape="rect" id="node18" href="$db/d6c/DDBConsoleStreams_8hpp.html" title="Header for the DDBConsoleStreams class. " alt="" coords="2812,683,3007,725"/>
+<area shape="rect" id="node20" href="$d3/dd6/Segments_8hpp.html" title="Header for the Segments class. " alt="" coords="2808,600,3011,627"/>
+<area shape="rect" id="node24" href="$d8/d7f/Sites_8hpp.html" title="Header for the Sites class. " alt="" coords="1358,253,1532,280"/>
+<area shape="rect" id="node34" href="$dd/de0/Tiles_8hpp.html" title="Header for the Tiles class. " alt="" coords="2561,600,2732,627"/>
+<area shape="rect" id="node37" href="$d3/d3d/Arc_8hpp.html" title="Header for the Arc class. " alt="" coords="2124,600,2287,627"/>
+<area shape="rect" id="node38" href="$d3/d2e/ArcUsage_8hpp.html" title="Header for the ArcUsage class. " alt="" coords="2034,509,2236,536"/>
+<area shape="rect" id="node40" href="$dc/d0a/WireUsage_8hpp.html" title="Header for the WireUsage class. " alt="" coords="1802,509,2010,536"/>
+<area shape="rect" id="node41" href="$d1/d3a/ExtendedWireInfo_8hpp.html" title="Header for the ExtendedWireInfo class. " alt="" coords="2312,593,2486,634"/>
+<area shape="rect" id="node44" href="$dd/da5/common_2DeviceDesignator_8hpp.html" title="Header for the DeviceDesignator class. " alt="" coords="161,253,388,280"/>
+<area shape="rect" id="node10" href="$d5/d1b/XilinxDatabaseTypes_8hpp.html" title="Device database types for Xilinx architectures. " alt="" coords="1730,774,1880,815"/>
+<area shape="rect" id="node14" href="$d9/d49/DigestStream_8hpp.html" title="Header for the DigestStream class. " alt="" coords="3082,683,3239,725"/>
+<area shape="rect" id="node19" href="$d7/dd7/DottedVersion_8hpp.html" title="Header for the DottedVersion class. " alt="" coords="3494,781,3702,808"/>
+<area shape="rect" id="node11" href="$de/d99/EncapsulatedInteger_8hpp.html" title="Header for the EncapsulatedInteger template. " alt="" coords="1545,865,1724,906"/>
+<area shape="rect" id="node15" href="$d2/d83/Endian_8hpp.html" title="Header for endian conversion. " alt="" coords="3304,781,3468,808"/>
+<area shape="rect" id="node21" href="$de/d76/Array_8hpp.html" title="Header for the Array class. " alt="" coords="1190,781,1364,808"/>
+<area shape="rect" id="node23" href="$d1/da1/Tilewire_8hpp.html" title="Header for the Tilewire class. " alt="" coords="1711,691,1900,717"/>
+<area shape="rect" id="node25" href="$d8/d80/Package_8hpp.html" title="Header for the Package class. " alt="" coords="1126,509,1320,536"/>
+<area shape="rect" id="node26" href="$d4/d2d/architecture_2PrimitivePin_8hpp.html" title="Header for the PrimitivePin class. " alt="" coords="918,683,1088,725"/>
+<area shape="rect" id="node28" href="$d5/d28/PrimitiveElementPin_8hpp.html" title="Header for the PrimitiveElementPin class. " alt="" coords="931,593,1102,634"/>
+<area shape="rect" id="node29" href="$d8/d51/PrimitiveElement_8hpp.html" title="Header for the PrimitiveElement class. " alt="" coords="1344,502,1515,543"/>
+<area shape="rect" id="node31" href="$de/d75/PrimitiveConn_8hpp.html" title="Header for the PrimitiveConn class. " alt="" coords="931,502,1102,543"/>
+<area shape="rect" id="node32" href="$d5/db7/PrimitiveDef_8hpp.html" title="Header for the PrimitiveDef class. " alt="" coords="1222,411,1392,453"/>
+<area shape="rect" id="node33" href="$d4/dd0/Site_8hpp.html" title="Header for the Site class. " alt="" coords="1509,336,1675,363"/>
+<area shape="rect" id="node35" href="$d4/d13/WireInfo_8hpp.html" title="Header for the WireInfo class. " alt="" coords="1975,691,2167,717"/>
+<area shape="rect" id="node36" href="$d2/d0b/TileInfo_8hpp.html" title="Header for the TileInfo class. " alt="" coords="2446,691,2632,717"/>
+</map>

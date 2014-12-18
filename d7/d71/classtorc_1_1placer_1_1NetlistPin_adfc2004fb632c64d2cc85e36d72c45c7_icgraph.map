@@ -1,0 +1,5 @@
+<map id="torc::placer::NetlistPin::getInstance" name="torc::placer::NetlistPin::getInstance">
+<area shape="rect" id="node2" href="$d6/df9/classtorc_1_1placer_1_1PlacerNetlist.html#a047fd15c8e5998aec5fff76df7534c67" title="torc::placer::PlacerNetlist\l::addNetTerminal" alt="" coords="203,5,370,46"/>
+<area shape="rect" id="node4" href="$d6/df9/classtorc_1_1placer_1_1PlacerNetlist.html#a8f46544cdc702bdb8722ba7a05b65b10" title="torc::placer::PlacerNetlist\l::print" alt="" coords="203,70,370,111"/>
+<area shape="rect" id="node3" href="$d6/df9/classtorc_1_1placer_1_1PlacerNetlist.html#ad60716476856a1350f304eba1c1d64e1" title="torc::placer::PlacerNetlist\l::PlacerNetlist" alt="" coords="419,5,586,46"/>
+</map>

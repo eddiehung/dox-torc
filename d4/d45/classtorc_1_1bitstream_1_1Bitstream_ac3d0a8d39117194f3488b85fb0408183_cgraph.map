@@ -1,0 +1,8 @@
+<map id="torc::bitstream::Bitstream::write" name="torc::bitstream::Bitstream::write">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#ac509f9ebdbf60f726a315ca48fc198b5" title="Preflight the packets. " alt="" coords="222,5,389,46"/>
+<area shape="rect" id="node3" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a4b3ec60e70a60d9f45f52a08919024f0" title="Update the header packet length. " alt="" coords="222,70,389,111"/>
+<area shape="rect" id="node4" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#ac0b38d9a2279df46bd271207d3b618c4" title="Write the bitstream header to the stream. " alt="" coords="222,135,389,177"/>
+<area shape="rect" id="node7" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a6acbe1e32e0ec0058b92f99f3a012bd1" title="Write the bitstream packets. " alt="" coords="222,201,389,242"/>
+<area shape="rect" id="node5" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a0d18e6dad16501861c5f983b10464194" title="Write a uint8_t to the stream. " alt="" coords="654,135,821,177"/>
+<area shape="rect" id="node6" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a1d8fed1bc90f8105801e18d505ce6325" title="Write a Xilinx&#45;style header string to the stream. " alt="" coords="438,165,605,206"/>
+</map>

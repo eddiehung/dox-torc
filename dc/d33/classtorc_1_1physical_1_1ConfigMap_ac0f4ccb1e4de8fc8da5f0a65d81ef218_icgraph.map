@@ -1,0 +1,9 @@
+<map id="torc::physical::ConfigMap::setConfig" name="torc::physical::ConfigMap::setConfig">
+<area shape="rect" id="node2" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#a83882ab95d42db4c4ae5c1bea3d60dc4" title="Merges the configurations from the given ConfigMap into this one. " alt="" coords="245,5,409,46"/>
+<area shape="rect" id="node3" href="$de/d76/namespacetorc_1_1physical.html#a728792f2938f98dc001708f00f2e6440" title="Unit test for the ConfigMap class. " alt="" coords="493,34,643,75"/>
+<area shape="rect" id="node4" href="$d9/dae/classtorc_1_1physical_1_1ModuleTransformer.html#af94dab7507b9bd7b0aa58390c58e8d52" title="Clone an instance. " alt="" coords="219,122,434,163"/>
+<area shape="rect" id="node5" href="$d9/dae/classtorc_1_1physical_1_1ModuleTransformer.html#afbc2c9d1508720f8356f0aed6be98dd1" title="Clone a net. " alt="" coords="219,187,434,229"/>
+<area shape="rect" id="node6" href="$d9/da8/classtorc_1_1XdlParser.html#aa2fe1251737ad4ba305ec441df42d7d2" title="torc::XdlParser::parse" alt="" coords="254,253,399,280"/>
+<area shape="rect" id="node8" href="$dc/dd1/classtorc_1_1physical_1_1XdlUnpack.html#a6ef00bfeb369d1c9246dc0fafd36a580" title="torc::physical::XdlUnpack\l::unpack" alt="" coords="243,305,410,346"/>
+<area shape="rect" id="node7" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#a5a51647d7c27a73a5f6987659bfcab19" title="Import XDL from an input stream. " alt="" coords="483,246,653,287"/>
+</map>

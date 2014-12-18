@@ -1,0 +1,5 @@
+<map id="torc::architecture::Site::getPinMapPtr" name="torc::architecture::Site::getPinMapPtr">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a61e5ac4fb2a5bb83a2a8b67f98e457d0" title="brief Site detail function. " alt="" coords="189,5,357,46"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="405,5,573,46"/>
+<area shape="rect" id="node4" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="621,12,672,39"/>
+</map>

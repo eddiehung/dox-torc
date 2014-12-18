@@ -1,0 +1,7 @@
+<map id="torc::generic::Composite&lt; _Type &gt;" name="torc::generic::Composite&lt; _Type &gt;">
+<area shape="rect" id="node3" href="$d9/d0b/classtorc_1_1generic_1_1Bundle.html" title="Represents a &quot;bundle&quot; in the EDIF sense. " alt="" coords="460,5,599,46"/>
+<area shape="rect" id="node4" href="$d7/d5b/classtorc_1_1generic_1_1Scalar.html" title="A single object with no child objects. " alt="" coords="462,70,597,111"/>
+<area shape="rect" id="node5" href="$d2/d79/classtorc_1_1generic_1_1Vector.html" title="An array of objects. " alt="" coords="461,135,597,177"/>
+<area shape="rect" id="node6" href="$d8/daa/classtorc_1_1generic_1_1VectorBit.html" title="Represents a single element of a vector composition. " alt="" coords="453,201,605,242"/>
+<area shape="rect" id="node2" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; _Type \&gt;" alt="" coords="6,103,197,145"/>
+</map>

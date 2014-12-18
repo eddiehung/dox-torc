@@ -1,0 +1,43 @@
+<map id="torc::architecture::Arc::getSinkTilewire" name="torc::architecture::Arc::getSinkTilewire">
+<area shape="rect" id="node2" href="$d0/d88/namespacetorc_1_1architecture.html#a26dbe302610e32873b9a2ec4e3864e4f" title="torc::architecture\l::hash_value" alt="" coords="222,95,341,137"/>
+<area shape="rect" id="node3" href="$d0/d88/namespacetorc_1_1architecture.html#a3fe016f9a6b2c005a583c784f72c7b74" title="Unit test for the Arc class. " alt="" coords="413,62,613,103"/>
+<area shape="rect" id="node4" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a1dd95ee7e8b73dbc2b2bce42fb3a431a" title="Marks the specified arc as being used. " alt="" coords="222,213,341,254"/>
+<area shape="rect" id="node6" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#adb4aa4b29a89a672b3c87925237600f8" title="Marks the arc and all of its source and sink segment wires as used. " alt="" coords="454,150,573,191"/>
+<area shape="rect" id="node15" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a2a0b5cfaaaa44a587c29f909357c913c" title="Marks the specified arc as being unused. " alt="" coords="214,278,349,319"/>
+<area shape="rect" id="node16" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a0f05795f964ee1a8750b3d64861f59a9" title="Marks the arc and all of its source and sink segment wires as unused. " alt="" coords="452,281,575,322"/>
+<area shape="rect" id="node18" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#aed4f475d1608f5532c054f2c2baa0565" title="Determines whether the specified arc is in use. " alt="" coords="215,537,348,578"/>
+<area shape="rect" id="node28" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a158784e698293328f1f6005a3c20a9d6" title="Recursively traces from the specified RouteTreeNode in one of three modes. " alt="" coords="687,514,825,555"/>
+<area shape="rect" id="node32" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ac87db48f8954e5856a4e0e14f99ff1b2" title="Create a new node and put it into the appropriate structure. " alt="" coords="207,870,355,911"/>
+<area shape="rect" id="node35" href="$d0/d88/namespacetorc_1_1architecture.html#a42abb835a27d8690daa706654f284a02" title="Arc stream inserter. " alt="" coords="222,805,341,846"/>
+<area shape="rect" id="node36" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#ab295113a399dde58a77788049283a8e9" title="Get the sink Tilewire. " alt="" coords="204,739,359,781"/>
+<area shape="rect" id="node39" href="$d4/d26/classtorc_1_1router_1_1RouteUtilities.html#ae99fae55153f1126ed1a4199e0a313a4" title="torc::router::RouteUtilities\l::routenets2design" alt="" coords="198,935,365,977"/>
+<area shape="rect" id="node42" href="$da/dc5/classtorc_1_1architecture_1_1VprExporter.html#a72441d28a613dfcf257fd3801e3dfd4f" title="Exports routing graph information for VPR v6.0. " alt="" coords="203,1001,359,1042"/>
+<area shape="rect" id="node5" href="$d0/d88/namespacetorc_1_1architecture.html#a44e00b06e2bc57c7568eeabbace0afe7" title="Unit test for the ArcUsage class. " alt="" coords="413,215,613,257"/>
+<area shape="rect" id="node7" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ae7b4e428e72e476dce08bee36219932b" title="Test for a dedicated routing path. " alt="" coords="899,78,1047,119"/>
+<area shape="rect" id="node9" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a93f914b0ebe8bad7acf038593613f35d" title="Move the source terminal of a net in the sinkwards direction. " alt="" coords="676,187,836,229"/>
+<area shape="rect" id="node11" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#acd57249d362d21ae852455006b3d249b" title="Move the sink terminal of a net in the sourcewards direction. " alt="" coords="682,122,830,163"/>
+<area shape="rect" id="node12" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#ae9dd38580a78bd41dd881adc158ef07b" title="torc::router::PathFinder\l::recordResult" alt="" coords="680,253,832,294"/>
+<area shape="rect" id="node13" href="$d1/d2c/structtorc_1_1router_1_1TraceUnitTestFixture.html#a18f278b4efdaf3e40c0a482c21cfc40c" title="torc::router::TraceUnitTest\lFixture::TraceUnitTestFixture" alt="" coords="661,318,851,359"/>
+<area shape="rect" id="node14" href="$d2/d42/classtorc_1_1architecture_1_1XdlImporter.html#a48b7dcce892f70e32afa16fed316434b" title="Bind the given pip to the database arc and wire usage if applicable. " alt="" coords="693,5,819,46"/>
+<area shape="rect" id="node8" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a3b86ba86d920c06811a3e33fd7fd89c3" title="Route a net. " alt="" coords="1097,173,1245,214"/>
+<area shape="rect" id="node10" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#af5593bf5a5f8d7a801a31c579302db03" title="Move net terminals out into the INT tiles. " alt="" coords="899,173,1047,214"/>
+<area shape="rect" id="node17" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#ac30263aa9775f1f1bdd677ac2816b666" title="torc::router::Unrouter\l::unrouteToSinks" alt="" coords="687,383,825,425"/>
+<area shape="rect" id="node19" href="$d9/d5b/classtorc_1_1router_1_1NetRouterHeuristic.html#a9372010d72449637f8e94026340f4eaf" title="Calculate the node cost based on distance to the sink and path length. " alt="" coords="413,893,613,934"/>
+<area shape="rect" id="node21" href="$d9/d5b/classtorc_1_1router_1_1NetRouterHeuristic.html#aa3f7e529bfb881dc1b6f0862ac94c4b5" title="torc::router::NetRouterHeuristic\l::nodeCostInitial" alt="" coords="413,827,613,869"/>
+<area shape="rect" id="node22" href="$dc/d58/classtorc_1_1router_1_1PathFinderNetRouterHeuristic.html#abd4f7e86e2e3f54c8207974aedc74b4e" title="Calculate the node cost based on distance to the sink and path length. " alt="" coords="416,710,611,751"/>
+<area shape="rect" id="node23" href="$dc/d58/classtorc_1_1router_1_1PathFinderNetRouterHeuristic.html#a1559d59085f41159eeab05a07917a12d" title="torc::router::PathFinder\lNetRouterHeuristic::nodeCost\lInitial" alt="" coords="416,631,611,687"/>
+<area shape="rect" id="node24" href="$d5/da9/classtorc_1_1router_1_1Trace.html#a01518958c8b2dd38be696507e17ae814" title="Recursively traces from the specified TraceNode in the specified mode. " alt="" coords="452,449,575,490"/>
+<area shape="rect" id="node26" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#ada8da8bcfb8e8786ed53ba6a5167c7fa" title="Remove the dummy node if possible. " alt="" coords="444,566,583,607"/>
+<area shape="rect" id="node20" href="$dc/dd6/namespacetorc_1_1router.html#a5d97108ca173ef1f4d1ff0db34fca845" title="Unit test for the Heuristic. " alt="" coords="682,861,830,902"/>
+<area shape="rect" id="node25" href="$d5/da9/classtorc_1_1router_1_1Trace.html#abbdd123f43fd499ebe509c7f691b7b78" title="Public Constructor. " alt="" coords="695,449,817,490"/>
+<area shape="rect" id="node27" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#af48c5b4dbeb7e1adaa400bd50dee23d4" title="Trace from given Tilewire in a sinkwards direction only. " alt="" coords="687,579,825,621"/>
+<area shape="rect" id="node29" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a137179d28fd3a7d8e3a13a5d570cf865" title="Trace from given Tilewire sinkwards and sourcewards to source or branch. " alt="" coords="904,449,1043,490"/>
+<area shape="rect" id="node30" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#aa1f029715f5bb9a089f080357439b85e" title="Trace from given Tilewire sourcewards to the source of the net. " alt="" coords="904,514,1043,555"/>
+<area shape="rect" id="node31" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a39c3d53615f4c917db79f68544dfa2ff" title="Trace from given Tilewire and recover the entire net. " alt="" coords="904,579,1043,621"/>
+<area shape="rect" id="node33" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a504913e9b033f2b6416942fb7978e0c3" title="Routing loop function. " alt="" coords="682,1021,830,1062"/>
+<area shape="rect" id="node34" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ad5e5b5d2709c05bc81de13e52c6746ee" title="Internal top level route function. " alt="" coords="899,863,1047,905"/>
+<area shape="rect" id="node37" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a92d536270ce491247d8417495224b35d" title="Add the newly found route to the outRoute vector. " alt="" coords="439,958,587,999"/>
+<area shape="rect" id="node38" href="$dc/dd6/namespacetorc_1_1router.html#a4704ea26edc02cc76e75923e10b84075" title="Unit test for the RouteNode class. " alt="" coords="439,1023,587,1065"/>
+<area shape="rect" id="node40" href="$dc/dd6/namespacetorc_1_1router.html#a309ad2aaf4467d18d4410a140acb6cea" title="torc::router::testRouteDesign" alt="" coords="421,1191,606,1217"/>
+<area shape="rect" id="node41" href="$dc/dd6/namespacetorc_1_1router.html#a02940473a0b2f625cc57c591cc12700e" title="Spartan3E regression. " alt="" coords="682,1183,830,1225"/>
+</map>

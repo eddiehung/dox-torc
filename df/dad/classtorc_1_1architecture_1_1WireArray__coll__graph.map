@@ -1,0 +1,6 @@
+<map id="torc::architecture::WireArray" name="torc::architecture::WireArray">
+<area shape="rect" id="node2" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const xilinx\l::WireIndex \&gt;" alt="" coords="29,299,160,355"/>
+<area shape="rect" id="node4" href="$d3/df8/structtorc_1_1architecture_1_1xilinx_1_1WireIndex.html" title="Encapsulation of a wire index in an unsigned 16&#45;bit integer. " alt="" coords="123,193,241,234"/>
+<area shape="rect" id="node5" href="$dc/dd8/structtorc_1_1architecture_1_1xilinx_1_1WireCount.html" title="Encapsulation of a wire count in an unsigned 16&#45;bit integer. " alt="" coords="121,99,244,141"/>
+<area shape="rect" id="node6" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint16_t \&gt;" alt="" coords="91,6,275,47"/>
+</map>

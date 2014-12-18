@@ -1,0 +1,40 @@
+<map id="torc::architecture::Array::getSize" name="torc::architecture::Array::getSize">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#ac7ded1715b663ff8e3aba176080ab0e4" title="Tilewire detail function. " alt="" coords="467,5,635,46"/>
+<area shape="rect" id="node5" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#ae20af168fd1eaef7b5ef6c5186786a50" title="List all wires for a given tile type. " alt="" coords="467,70,635,111"/>
+<area shape="rect" id="node6" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a55314e523cb6744ebde1b91e3e6884ff" title="torc::ArchitectureBrowser\l::enumerateSiteTypes" alt="" coords="467,135,635,177"/>
+<area shape="rect" id="node7" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a482a56c01e6fe3a17775095f7ec8a5d8" title="Returns the offset into the bitset for the specified arc. " alt="" coords="205,359,371,401"/>
+<area shape="rect" id="node8" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a79ae6e9d37557e6b6745ddd6663229c5" title="Marks the specified arc as being used. " alt="" coords="491,462,610,503"/>
+<area shape="rect" id="node11" href="$d0/d88/namespacetorc_1_1architecture.html#a44e00b06e2bc57c7568eeabbace0afe7" title="Unit test for the ArcUsage class. " alt="" coords="451,527,651,569"/>
+<area shape="rect" id="node12" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a1d6606677fe94c61db16d5f6793be141" title="Non&#45;virtual destructor. " alt="" coords="209,854,367,895"/>
+<area shape="rect" id="node13" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a5746b4cdf5dc32c854e3975cafe76857" title="Size the wire usage according to the number of device tiles. " alt="" coords="218,527,358,569"/>
+<area shape="rect" id="node17" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a25a51eca64aad3166933c905359fa7b6" title="Marks all arcs as being unused, without releasing the bitset objects. " alt="" coords="228,723,348,765"/>
+<area shape="rect" id="node19" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a08cb901cceb1f3b8ef10ef479f505097" title="Returns the number of arcs in use. " alt="" coords="187,281,389,322"/>
+<area shape="rect" id="node22" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#ae9a4fd1418193ac0931489ad9975e13e" title="Populate map of tile type to set of include site types. " alt="" coords="174,919,402,961"/>
+<area shape="rect" id="node24" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#a9401df08cfc7335997e57c082bd59c1e" title="Return true if the element is a terminal. " alt="" coords="189,985,387,1026"/>
+<area shape="rect" id="node25" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#a8b85921a9b0df2dca2e10f3ed5734411" title="Return true if the element is an orphan. " alt="" coords="189,1050,387,1091"/>
+<area shape="rect" id="node26" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#a1f1977ed803cd9f1e3edec7e72cce8d6" title="Return true if the element is a configurable mux. " alt="" coords="189,1115,387,1157"/>
+<area shape="rect" id="node27" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#a8b498573db03d6080602a69ba11aa00c" title="Return true if the element is a power source. " alt="" coords="189,1181,387,1222"/>
+<area shape="rect" id="node28" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#a1fffde2f6d9a8140f8051dc61e572f3c" title="Return true if the element is a ground source. " alt="" coords="189,1246,387,1287"/>
+<area shape="rect" id="node29" href="$d2/d42/classtorc_1_1architecture_1_1segments__regression__test__helper.html#a2f4bbf3039c1ea104e5eaa67abea9548" title="Analyze segment expansion, and detect any tilewire conflicts. " alt="" coords="211,1311,365,1367"/>
+<area shape="rect" id="node30" href="$d4/da3/classtorc_1_1architecture_1_1segments__unit__test__helper.html#a0a47adc01ef07063b24630077243d564" title="Analyze segment expansion, and detect any tilewire conflicts. " alt="" coords="217,1391,359,1447"/>
+<area shape="rect" id="node31" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#ad42ab92e6dec7a6f60dbb58ba5ff2473" title="Read the family wire info. " alt="" coords="210,593,366,634"/>
+<area shape="rect" id="node32" href="$d3/d5f/classtorc_1_1architecture_1_1WireInfo.html#a49f144c5f573d1255f8a4bab4e3eeb73" title="Returns true if the wire has any sinks. " alt="" coords="220,1470,356,1511"/>
+<area shape="rect" id="node33" href="$d3/d5f/classtorc_1_1architecture_1_1WireInfo.html#afc1ddbadbd2b99dd91f5888465afba94" title="Returns true if the wire has any sources. " alt="" coords="213,1535,363,1577"/>
+<area shape="rect" id="node34" href="$dd/d65/classtorc_1_1architecture_1_1WireUsage.html#aed71875791d4c0bc9c6613ee51ad911e" title="Non&#45;virtual destructor. " alt="" coords="203,1601,373,1642"/>
+<area shape="rect" id="node35" href="$dd/d65/classtorc_1_1architecture_1_1WireUsage.html#af80630b7400b0d459b10c9cce450268a" title="Size the wire usage according to the number of device tiles. " alt="" coords="215,658,361,699"/>
+<area shape="rect" id="node37" href="$dd/d65/classtorc_1_1architecture_1_1WireUsage.html#a38295bbc6a6be72ee2e55069b99daaac" title="Marks all wires as being unused, without releasing the bitset objects. " alt="" coords="225,789,351,830"/>
+<area shape="rect" id="node39" href="$dd/d65/classtorc_1_1architecture_1_1WireUsage.html#a8eb9ed0a3d2c67b77531066e1e2e9f85" title="Returns the number of wires in use. " alt="" coords="181,209,395,250"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="699,103,867,145"/>
+<area shape="rect" id="node4" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="915,111,965,137"/>
+<area shape="rect" id="node9" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a14d686dfbc905b370eed2e74f916c15c" title="Marks the specified arc as being unused. " alt="" coords="483,331,618,373"/>
+<area shape="rect" id="node10" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a8d361b33b1248f47a3a0ee6c24ab9754" title="Determines whether the specified arc is in use. " alt="" coords="484,397,617,438"/>
+<area shape="rect" id="node14" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#adb604ac5de289d7b1aebca49466789e5" title="Initializes the database. " alt="" coords="491,593,610,634"/>
+<area shape="rect" id="node15" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a34c44d3698eced70adef0ba5c9d05818" title="torc::architecture\l::DDB::mWireUsage" alt="" coords="715,625,851,666"/>
+<area shape="rect" id="node16" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a41a53206157f03fd325ca13876d57539" title="Public constructor. " alt="" coords="723,559,842,601"/>
+<area shape="rect" id="node18" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ac333f02f31275c06622a029f4987d2bb" title="Clears all arc and wire usage, effectively restaring with an empty device. " alt="" coords="487,723,614,765"/>
+<area shape="rect" id="node20" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af273934427824a6680916eafc64c88cf" title="A brief summary of device information. " alt="" coords="467,201,635,242"/>
+<area shape="rect" id="node21" href="$d1/d2c/structtorc_1_1router_1_1TraceUnitTestFixture.html#a18f278b4efdaf3e40c0a482c21cfc40c" title="torc::router::TraceUnitTest\lFixture::TraceUnitTestFixture" alt="" coords="456,266,645,307"/>
+<area shape="rect" id="node23" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a90b80d86a73c4f8e66eff7376e68acea" title="Generrate Xdls for logic sites. " alt="" coords="461,919,640,961"/>
+<area shape="rect" id="node36" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a38b2b841e18d064dbf95772c13a25379" title="Pathfinder constructor. " alt="" coords="475,658,627,699"/>
+<area shape="rect" id="node38" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a78a148e4768eb82276f5778898653859" title="torc::router::PathFinder\l::routeNets" alt="" coords="475,789,627,830"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="torc::bitstream::operator&lt;&lt;" name="torc::bitstream::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#aa4ca3b20dfe8d212cd33ba9e860aca69" title="Return the bitstream header length in bytes. " alt="" coords="227,5,394,46"/>
+<area shape="rect" id="node3" href="$d8/d92/classtorc_1_1bitstream_1_1SpartanPacket.html#a598b592eed7a8223ca5c7620b41eabe9" title="Returns the total number of words in the packet, including the header word. " alt="" coords="233,70,388,111"/>
+<area shape="rect" id="node4" href="$d8/d92/classtorc_1_1bitstream_1_1SpartanPacket.html#a7b4d6f53bde933ebc77b22e1bb0e6b0d" title="torc::bitstream::Spartan\lPacket::isDummyWord" alt="" coords="233,135,388,177"/>
+<area shape="rect" id="node5" href="$d8/d92/classtorc_1_1bitstream_1_1SpartanPacket.html#a9533ee54bb8d40ed73b56ecbdd73a90b" title="torc::bitstream::Spartan\lPacket::isSyncWord" alt="" coords="233,201,388,242"/>
+<area shape="rect" id="node6" href="$d8/d92/classtorc_1_1bitstream_1_1SpartanPacket.html#aa083b166b7db7eb28cb3f7e25ff82188" title="torc::bitstream::Spartan\lPacket::isReserved" alt="" coords="233,266,388,307"/>
+<area shape="rect" id="node7" href="$d8/d92/classtorc_1_1bitstream_1_1SpartanPacket.html#a9f71e7605c0b1d93ab13469369598ac3" title="torc::bitstream::Spartan\lPacket::getOpcode" alt="" coords="233,331,388,373"/>
+<area shape="rect" id="node8" href="$d8/d92/classtorc_1_1bitstream_1_1SpartanPacket.html#a6ec72fbd7595f4fc1e81ba179aaa1865" title="torc::bitstream::Spartan\lPacket::isNop" alt="" coords="233,397,388,438"/>
+<area shape="rect" id="node9" href="$d8/d92/classtorc_1_1bitstream_1_1SpartanPacket.html#a726060a229ba16e431400648d77d83d8" title="torc::bitstream::Spartan\lPacket::getType" alt="" coords="233,462,388,503"/>
+<area shape="rect" id="node10" href="$d8/d92/classtorc_1_1bitstream_1_1SpartanPacket.html#af481ab080ed0ff28cf663681458f64fd" title="Returns the number of payload words in the packet, excluding the header word. " alt="" coords="233,527,388,569"/>
+<area shape="rect" id="node11" href="$d8/d92/classtorc_1_1bitstream_1_1SpartanPacket.html#ad548ca0355e17006ffa357fa00f7524d" title="torc::bitstream::Spartan\lPacket::getAddress" alt="" coords="233,593,388,634"/>
+<area shape="rect" id="node12" href="$d8/d92/classtorc_1_1bitstream_1_1SpartanPacket.html#aa28487c33e2c0d24f19764ecbfc3af5c" title="torc::bitstream::Spartan\lPacket::isRead" alt="" coords="233,658,388,699"/>
+<area shape="rect" id="node13" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a3894abaa33fb3ba362eaa5d071919028" title="Insert 32 bit subfield settings into an output stream. " alt="" coords="227,723,394,765"/>
+</map>

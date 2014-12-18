@@ -1,0 +1,18 @@
+<map id="torc::router::BOOST_AUTO_TEST_CASE" name="torc::router::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a9d9d1b253e443ea2975dca1f635f5846" title="Returns the tilewire for the specified tile and wire names. " alt="" coords="220,135,364,177"/>
+<area shape="rect" id="node13" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a874e326b634b4184f1baf885ff64e98d" title="Adds the given Tilewire as a source for this net. " alt="" coords="220,201,364,242"/>
+<area shape="rect" id="node14" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a4b0d3b887c5832331b320c88655179c2" title="Adds the given Tilewire as a sink for this net. " alt="" coords="220,266,364,307"/>
+<area shape="rect" id="node15" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#ab264d924e95ca152a50e0eebf7965bf5" title="Returns a reference to the RouteNodePtrVector. " alt="" coords="220,331,364,373"/>
+<area shape="rect" id="node16" href="$d5/dd4/classtorc_1_1router_1_1NetRouterBase.html#ad4ee0451130cc1d1b41b8b68a8aab3dc" title="Primary route call. " alt="" coords="203,397,381,438"/>
+<area shape="rect" id="node3" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#ab3eeb3d38f25c4b394ad27b802f1155d" title="Returns the tile index for the given tile name. " alt="" coords="454,266,589,307"/>
+<area shape="rect" id="node8" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html#a8e96191a67e659e996b6d9306ccabc74" title="torc::common::Encapsulated\lInteger::isUndefined" alt="" coords="429,5,613,46"/>
+<area shape="rect" id="node9" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a62816b62b67b01034e660ed89a6f0d99" title="Returns the TileInfo object for the specified tile. " alt="" coords="460,70,583,111"/>
+<area shape="rect" id="node10" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a3929d1b6b85ec182fccfc88eef0203b7" title="Returns the tile type index for this tile. " alt="" coords="444,135,599,177"/>
+<area shape="rect" id="node11" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a756864cc17069bce392d4a002f751e40" title="Returns the wire index for the given wire name in the given tile type. " alt="" coords="452,201,591,242"/>
+<area shape="rect" id="node4" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="709,167,827,209"/>
+<area shape="rect" id="node5" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#ad34ec958b29c5793dac9e46d136e0ef9" title="Returns the non&#45;constant end iterator. " alt="" coords="709,233,827,274"/>
+<area shape="rect" id="node6" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html#aa37d2cb4d824d944c044a67c2170aebc" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32\l_t \&gt;::undefined" alt="" coords="676,297,860,353"/>
+<area shape="rect" id="node7" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#ad77e5d82b85e0d2efcdb3aa4c1f66c1c" title="Compare tile pairs by name, for ordering purposes. " alt="" coords="664,377,872,418"/>
+<area shape="rect" id="node12" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a5c9201f367ece02839f7051c13b19a1f" title="Compare wire pairs by name, for ordering purposes. " alt="" coords="661,102,875,143"/>
+<area shape="rect" id="node17" href="$d5/dd4/classtorc_1_1router_1_1NetRouterBase.html#aacf5730101b888bcaf2a5ac57f6373df" title="Virtual route call. " alt="" coords="432,397,611,438"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="torc::common::BOOST_AUTO_TEST_CASE" name="torc::common::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$dd/d7f/classtorc_1_1common_1_1Annotated.html#a79c51ef52fdb47010f5a84dbbb1b0a91" title="Set an annotation. " alt="" coords="205,5,371,46"/>
+<area shape="rect" id="node3" href="$dd/d7f/classtorc_1_1common_1_1Annotated.html#a6a07f97f35e7095dbcae24605708b011" title="Check if an annotation exists. " alt="" coords="205,70,371,111"/>
+<area shape="rect" id="node4" href="$dd/d7f/classtorc_1_1common_1_1Annotated.html#af0ef56c6cfa324d79a8aa01a0ae38ed6" title="Get an annotation. &#160;Returns an empty annotation if the index doesn&#39;t exist. " alt="" coords="205,135,371,177"/>
+<area shape="rect" id="node5" href="$dd/d7f/classtorc_1_1common_1_1Annotated.html#aa6128528cf9bd859280b8d8f636f7130" title="Remove an annotation. " alt="" coords="205,201,371,242"/>
+</map>

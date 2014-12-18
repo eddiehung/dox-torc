@@ -1,0 +1,5 @@
+<map id="torc::physical::Primitive::addElement" name="torc::physical::Primitive::addElement">
+<area shape="rect" id="node2" href="$d0/d45/classtorc_1_1physical_1_1Primitive.html#a02b0fcf120f723e596a5d88bb0e521f6" title="Find a primitive element by name. " alt="" coords="208,38,363,79"/>
+<area shape="rect" id="node3" href="$d0/d45/classtorc_1_1physical_1_1Primitive.html#a36d1cebb83f7c1a8440eb7620bbbaa31" title="Returns the begin constant iterator for elements. " alt="" coords="411,5,565,46"/>
+<area shape="rect" id="node4" href="$d0/d45/classtorc_1_1physical_1_1Primitive.html#aceb1ab95d0d2aaa791f558cae9abeae1" title="Returns the end constant iterator for elements. " alt="" coords="411,70,565,111"/>
+</map>

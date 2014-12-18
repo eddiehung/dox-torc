@@ -1,0 +1,6 @@
+<map id="torc::architecture::WireUsage::autosize" name="torc::architecture::WireUsage::autosize">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#adb604ac5de289d7b1aebca49466789e5" title="Initializes the database. " alt="" coords="217,37,335,78"/>
+<area shape="rect" id="node5" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a38b2b841e18d064dbf95772c13a25379" title="Pathfinder constructor. " alt="" coords="200,102,352,143"/>
+<area shape="rect" id="node3" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a34c44d3698eced70adef0ba5c9d05818" title="torc::architecture\l::DDB::mWireUsage" alt="" coords="400,5,536,46"/>
+<area shape="rect" id="node4" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a41a53206157f03fd325ca13876d57539" title="Public constructor. " alt="" coords="409,70,527,111"/>
+</map>

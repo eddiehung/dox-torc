@@ -1,0 +1,5 @@
+<map id="torc::generic::VectorPortReference::setParent" name="torc::generic::VectorPortReference::setParent">
+<area shape="rect" id="node2" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html#a619f18338a6e4604533f5aa99adf3150" title="torc::generic::ParentedObject\l::setParent" alt="" coords="241,5,429,46"/>
+<area shape="rect" id="node3" href="$d2/d79/classtorc_1_1generic_1_1Vector.html#a31bf9bf794dc4d029f3aee855ae995d6" title="torc::generic::Vector\l\&lt; PortReference, VectorPort\lBitReference, VectorPortBitReference\l::Factory, true \&gt;::getCreatedChildren" alt="" coords="214,70,455,141"/>
+<area shape="rect" id="node4" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html#ac28967c171301181ee69b5e0935a89a9" title="torc::generic::ParentedObject\l\&lt; Instance \&gt;::getParent" alt="" coords="241,165,429,206"/>
+</map>

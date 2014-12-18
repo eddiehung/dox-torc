@@ -1,0 +1,5 @@
+<map id="torc::physical::ConfigMap::addConfigs" name="torc::physical::ConfigMap::addConfigs">
+<area shape="rect" id="node2" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#ac0f4ccb1e4de8fc8da5f0a65d81ef218" title="Sets the configuration for the given setting. " alt="" coords="219,38,383,79"/>
+<area shape="rect" id="node3" href="$d9/d33/classtorc_1_1physical_1_1Named.html#a699324d37cb8b305adcea589623974ac" title="Returns the object name. " alt="" coords="433,5,578,46"/>
+<area shape="rect" id="node4" href="$d7/d3b/classtorc_1_1physical_1_1Config.html#a03525a8385839e79577b98b1bac8542c" title="Return the configuration value. " alt="" coords="436,70,575,111"/>
+</map>

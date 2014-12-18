@@ -1,0 +1,31 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d9/d62/LogicXdlGenerator_8cpp.html#a4e8b77bd42b0d663709ae4393083fd7a" title="InitializeElementReference\lConfigMap" alt="" coords="131,5,306,46"/>
+<area shape="rect" id="node3" href="$da/de3/build_2SharedFunctions_8cpp.html#abf766b95f4ef8ccf67f3c7414f426bff" title="InitializeCompoundSettingsMap" alt="" coords="117,71,321,97"/>
+<area shape="rect" id="node4" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ae17cc2209dfbec5367d9725940268028" title="Returns a constant reference to the family and device site data. " alt="" coords="159,122,278,163"/>
+<area shape="rect" id="node5" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#aff8c8ae5585c2554998398f539c49aac" title="Returns the site types for this family. " alt="" coords="149,187,289,229"/>
+<area shape="rect" id="node6" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html#ab8d6b185e643193e8de87bd1e3fb8635" title="Returns the name of the primitive. " alt="" coords="139,253,298,294"/>
+<area shape="rect" id="node7" href="$d9/d62/LogicXdlGenerator_8cpp.html#abd28f9edd90f2b35f53954d461d7dee0" title="Returns true if the library supports the site type. " alt="" coords="131,319,307,345"/>
+<area shape="rect" id="node8" href="$d9/d62/LogicXdlGenerator_8cpp.html#a77512cabe1b1266342c9be99eda47a80" title="GetTestHarnessDesignForSiteType" alt="" coords="105,369,333,396"/>
+<area shape="rect" id="node10" href="$d9/d62/LogicXdlGenerator_8cpp.html#aa0d70117b09dac416083d4f5be09a64d" title="IsRAMBSite" alt="" coords="171,420,266,447"/>
+<area shape="rect" id="node11" href="$d9/d62/LogicXdlGenerator_8cpp.html#a2604cd5dce17fd2dc0bd6d9b5d201486" title="GenerateRAMBBaseFile" alt="" coords="411,971,575,997"/>
+<area shape="rect" id="node13" href="$d9/d62/LogicXdlGenerator_8cpp.html#a08272386e8e58608beadf7dcd0cb66e2" title="IsDSPSite" alt="" coords="177,521,260,548"/>
+<area shape="rect" id="node14" href="$d9/d62/LogicXdlGenerator_8cpp.html#a1e1e771a578064fa518847bd538a1201" title="GenerateXdlForDSPMaskAnd\lPattern" alt="" coords="396,557,591,598"/>
+<area shape="rect" id="node15" href="$d9/d62/LogicXdlGenerator_8cpp.html#a50466170b8842262629f24becec81ac9" title="GenerateReferenceXDLForThe\lElement" alt="" coords="670,557,871,598"/>
+<area shape="rect" id="node18" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html#ae28aa8bb014cfe29ca07696929765f88" title="Returns a constant array of primitive elements. " alt="" coords="130,674,307,715"/>
+<area shape="rect" id="node19" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="973,609,1091,650"/>
+<area shape="rect" id="node20" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#ad34ec958b29c5793dac9e46d136e0ef9" title="Returns the non&#45;constant end iterator. " alt="" coords="973,674,1091,715"/>
+<area shape="rect" id="node21" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#acd689c941bde03e88f68307fd30cc7c2" title="Returns the name of the element. " alt="" coords="966,1169,1098,1225"/>
+<area shape="rect" id="node22" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#af54563c53c7e0d484f507e8eff9618ab" title="Returns the set of allowable configuration values. " alt="" coords="705,1260,837,1316"/>
+<area shape="rect" id="node23" href="$d9/d62/LogicXdlGenerator_8cpp.html#aa7743a684d5ed27d44491854192b2d68" title="GenerateXdlForElement" alt="" coords="139,1112,299,1139"/>
+<area shape="rect" id="node9" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#ac9c8c474aaa38744850a967ebbfd3c7e" title="Returns a shared pointer for the design. " alt="" coords="408,362,579,403"/>
+<area shape="rect" id="node12" href="$d9/d62/LogicXdlGenerator_8cpp.html#a0a8fd350b683c8013fa5437b3757313a" title="GetEmptyDesignWithSameMetadata" alt="" coords="654,1007,887,1033"/>
+<area shape="rect" id="node16" href="$d9/d62/LogicXdlGenerator_8cpp.html#acc1c4d647070d4c3153396191893f4f2" title="GetReferenceConfigValueFor\lElement" alt="" coords="937,467,1127,509"/>
+<area shape="rect" id="node17" href="$d9/d62/LogicXdlGenerator_8cpp.html#a32cd10b3d665fc8a3bbc181cfc2b1c51" title="SetConfigAndGenerateXDL" alt="" coords="942,981,1122,1008"/>
+<area shape="rect" id="node24" href="$da/de3/build_2SharedFunctions_8cpp.html#a0a6ce8873596ebb3f74899269f83b54a" title="ElementNeedsCompoundSetting" alt="" coords="388,1239,599,1265"/>
+<area shape="rect" id="node25" href="$d9/d62/LogicXdlGenerator_8cpp.html#a8450f5937155ebc8e9548858745576d9" title="GenerateXdlForCompoundSettings" alt="" coords="382,1036,605,1063"/>
+<area shape="rect" id="node27" href="$d9/d62/LogicXdlGenerator_8cpp.html#a0a7b5134c755a42fefdf44fbe65374dd" title="GenerateXdlForOrphanElements" alt="" coords="389,1087,598,1113"/>
+<area shape="rect" id="node28" href="$d9/d62/LogicXdlGenerator_8cpp.html#a97e9844627efe6718edaad3874015afd" title="GenerateXdlForGenericElement" alt="" coords="668,1209,873,1236"/>
+<area shape="rect" id="node29" href="$d9/d62/LogicXdlGenerator_8cpp.html#aa213d05bc360507bd65c0557fb1be16d" title="GenerateXdlForLUT" alt="" coords="424,880,563,907"/>
+<area shape="rect" id="node26" href="$d9/d62/LogicXdlGenerator_8cpp.html#ad62045a984bc84a45604b86f3bbbb9ef" title="FindPrimitiveElementByName" alt="" coords="673,673,868,700"/>
+<area shape="rect" id="node30" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#a3865d9a332ac998b492e01d0c3f6b90f" title="Returns a non&#45;constant array of element pins. &#160;This function should only be used by the Sites class d..." alt="" coords="705,775,837,831"/>
+</map>

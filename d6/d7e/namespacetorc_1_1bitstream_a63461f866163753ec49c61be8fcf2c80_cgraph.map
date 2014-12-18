@@ -1,0 +1,12 @@
+<map id="torc::bitstream::buildSpartan6Partials" name="torc::bitstream::buildSpartan6Partials">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a1e9c8025e87e1fea15a48c68058e8cf0" title="Read the bitstream header and packets from a stream. " alt="" coords="243,102,410,143"/>
+<area shape="rect" id="node8" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#afa617b20e1189c1770878de184316692" title="Construct a packet header. " alt="" coords="245,167,408,209"/>
+<area shape="rect" id="node9" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a025e62960a057d1f129c70ef21974e7e" title="torc::bitstream::Spartan6\lPacket::getHeader" alt="" coords="245,233,408,274"/>
+<area shape="rect" id="node10" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a1ebd23fc563d0d7024aecb63b5b91afc" title="Returns the number of payload words in the packet, excluding the header word. " alt="" coords="245,298,408,339"/>
+<area shape="rect" id="node11" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a2994450f794dcbbe22126c71dbf65027" title="brief Returns the raw packet words, including the header word. " alt="" coords="245,363,408,405"/>
+<area shape="rect" id="node3" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a5169ae2bf8f4588abb0e638da031ca57" title="Read a bitstream header, and return its fields. " alt="" coords="459,37,626,78"/>
+<area shape="rect" id="node6" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a8c925813847a519cc4f9703e7b860d89" title="Read the bitstream packets. " alt="" coords="459,102,626,143"/>
+<area shape="rect" id="node7" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a44b988b356a5d6be40a4e11d1c031f97" title="Clean up the header date and time by replacing embedded spaces with zeros. " alt="" coords="459,167,626,209"/>
+<area shape="rect" id="node4" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a62e649b31e40a5d60b9eb6ccf9ccf894" title="Look for the expected uint8_t in the stream and return true if it matches. " alt="" coords="675,5,842,46"/>
+<area shape="rect" id="node5" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a6910da85cf9207951d5914d118fe35f5" title="Read and return a bitstream header string. " alt="" coords="675,70,842,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="torc::placer::Placement::updateCostRemovePair" name="torc::placer::Placement::updateCostRemovePair">
+<area shape="rect" id="node2" href="$db/def/classtorc_1_1placer_1_1Placement.html#a1caef004ace4a155de79358eac32215d" title="torc::placer::Placement\l::randomMove" alt="" coords="219,5,373,46"/>
+<area shape="rect" id="node4" href="$db/def/classtorc_1_1placer_1_1Placement.html#a82069d5eb250763fc3de7237e0fdb6eb" title="torc::placer::Placement\l::undoMove" alt="" coords="219,70,373,111"/>
+<area shape="rect" id="node3" href="$d2/dbc/classtorc_1_1placer_1_1Placer.html#a33223706cb84e1cdf44f8f3aa50422b4" title="torc::placer::Placer\l::generatePlacement" alt="" coords="422,38,562,79"/>
+</map>

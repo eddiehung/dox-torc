@@ -1,0 +1,32 @@
+<map id="torc::architecture::Sites" name="torc::architecture::Sites">
+<area shape="rect" id="node2" href="$d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html" title="Device database console streams class. " alt="" coords="2310,71,2461,113"/>
+<area shape="rect" id="node3" href="$d8/d33/classstd_1_1basic__istream.html" title="Forward declaration of template basic_istream. " alt="" coords="2052,71,2185,113"/>
+<area shape="rect" id="node4" href="$df/d57/classstd_1_1basic__ostream.html" title="Forward declaration of template basic_ostream. " alt="" coords="2052,6,2185,47"/>
+<area shape="rect" id="node5" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const torc\l::architecture::Site \&gt;" alt="" coords="2317,271,2453,327"/>
+<area shape="rect" id="node14" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const PrimitiveElement \&gt;" alt="" coords="1349,429,1563,470"/>
+<area shape="rect" id="node17" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const PrimitiveElement\lPin \&gt;" alt="" coords="592,468,795,524"/>
+<area shape="rect" id="node21" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const PrimitivePin \&gt;" alt="" coords="1363,494,1549,535"/>
+<area shape="rect" id="node23" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; PrimitiveConnShared\lPtr \&gt;" alt="" coords="1134,303,1325,359"/>
+<area shape="rect" id="node24" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="Encapsulation of a static array. " alt="" coords="634,958,753,999"/>
+<area shape="rect" id="node26" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const torc\l::architecture::Package \&gt;" alt="" coords="2037,1004,2201,1060"/>
+<area shape="rect" id="node28" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const Pad \&gt;" alt="" coords="1387,1241,1525,1282"/>
+<area shape="rect" id="node33" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; Array\&lt; const\l torc::architecture::xilinx\l::WireIndex \&gt; \&gt;" alt="" coords="616,119,771,190"/>
+<area shape="rect" id="node34" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const torc\l::architecture::PrimitiveDef \&gt;" alt="" coords="2027,200,2211,256"/>
+<area shape="rect" id="node7" href="$da/dd8/classtorc_1_1architecture_1_1Site.html" title="Encapsulation of a device logic site. " alt="" coords="2059,910,2178,951"/>
+<area shape="rect" id="node8" href="$de/da8/structtorc_1_1architecture_1_1xilinx_1_1TileIndex.html" title="Encapsulation of a tile index in an unsigned 32&#45;bit integer. " alt="" coords="819,1109,938,1150"/>
+<area shape="rect" id="node9" href="$d0/de0/structtorc_1_1architecture_1_1xilinx_1_1TileCount.html" title="Encapsulation of a tile count in an unsigned 32&#45;bit integer. " alt="" coords="449,1123,567,1165"/>
+<area shape="rect" id="node10" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32_t \&gt;" alt="" coords="5,1166,189,1207"/>
+<area shape="rect" id="node31" href="$d4/d91/structtorc_1_1architecture_1_1xilinx_1_1SiteCount.html" title="Encapsulation of a site count in an unsigned 32&#45;bit integer. " alt="" coords="273,1250,391,1291"/>
+<area shape="rect" id="node11" href="$d9/d23/structtorc_1_1architecture_1_1xilinx_1_1SiteFlags.html" title="Encapsulation of site attribute flags in an unsigned 16&#45;bit integer. " alt="" coords="634,1195,753,1237"/>
+<area shape="rect" id="node29" href="$d2/dc3/classtorc_1_1architecture_1_1Pad.html" title="Encapsulation of the site index, pin name, and pin flags for a package. " alt="" coords="963,1280,1109,1307"/>
+<area shape="rect" id="node12" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint16_t \&gt;" alt="" coords="240,1185,424,1226"/>
+<area shape="rect" id="node20" href="$d0/d3a/structtorc_1_1architecture_1_1xilinx_1_1PinFlags.html" title="Encapsulation of pin attribute flags in an unsigned 16&#45;bit integer. " alt="" coords="634,689,753,730"/>
+<area shape="rect" id="node13" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html" title="Encapsulation of primitive site definition, with associated connections, elements, and pins. " alt="" coords="1755,457,1874,498"/>
+<area shape="rect" id="node15" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html" title="Encapsulation of a primitive site element. &#160;Primitive elements are subcomponents of logic primitive s..." alt="" coords="973,531,1099,573"/>
+<area shape="rect" id="node18" href="$da/df9/classtorc_1_1architecture_1_1PrimitiveElementPin.html" title="Encapsulation of a primitive element pin&#39;s name, flags, and element pointer. &#160;Primitive element pins ..." alt="" coords="1383,655,1529,697"/>
+<area shape="rect" id="node22" href="$d5/d69/classtorc_1_1architecture_1_1PrimitivePin.html" title="Encapsulation of a primitive pin&#39;s name and flags. &#160;Primitive pins are logic site inputs or outputs..." alt="" coords="977,597,1095,638"/>
+<area shape="rect" id="node27" href="$df/d70/classtorc_1_1architecture_1_1Package.html" title="Encapsulation of a physical device package and its pins. " alt="" coords="1755,1230,1874,1271"/>
+<area shape="rect" id="node19" href="$df/dbb/classtorc_1_1architecture_1_1PinDirection.html" title="torc::architecture\l::PinDirection" alt="" coords="634,599,753,641"/>
+<area shape="rect" id="node30" href="$db/dd9/structtorc_1_1architecture_1_1xilinx_1_1SiteIndex.html" title="Encapsulation of a site index in an unsigned 32&#45;bit integer. " alt="" coords="634,1261,753,1302"/>
+<area shape="rect" id="node32" href="$d3/d8f/classtorc_1_1architecture_1_1Array2D.html" title="torc::architecture\l::Array2D\&lt; const torc\l::architecture::xilinx\l::WireIndex \&gt;" alt="" coords="1587,118,1730,189"/>
+</map>

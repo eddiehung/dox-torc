@@ -1,0 +1,51 @@
+<map id="torc::architecture::Array::setSize" name="torc::architecture::Array::setSize">
+<area shape="rect" id="node2" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a5746b4cdf5dc32c854e3975cafe76857" title="Size the wire usage according to the number of device tiles. " alt="" coords="203,1441,343,1482"/>
+<area shape="rect" id="node7" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#afa98a3aac9ce6d5257377339147a5c8a" title="Expands the given tilewire&#39;s segment. " alt="" coords="196,601,351,642"/>
+<area shape="rect" id="node44" href="$d0/d88/namespacetorc_1_1architecture.html#adf2318d4ffe0756d815eff6cc214cecf" title="Unit test for the Package class. " alt="" coords="173,1506,373,1547"/>
+<area shape="rect" id="node45" href="$db/dcc/classtorc_1_1architecture_1_1Segments.html#a5e2dfbe93185952f77f83f931acadfc4" title="Read the irregular arcs for the device. " alt="" coords="177,1571,369,1613"/>
+<area shape="rect" id="node46" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#a6af947cb42ac3ba4d1aa570b03d51bb4" title="Read the primitive types for the family. " alt="" coords="186,1637,361,1678"/>
+<area shape="rect" id="node47" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#ad42ab92e6dec7a6f60dbb58ba5ff2473" title="Read the family wire info. " alt="" coords="195,1702,351,1743"/>
+<area shape="rect" id="node48" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a3525ae7435e024a1f6bb993dec7bdc4b" title="Read the device tile map. " alt="" coords="207,1767,340,1809"/>
+<area shape="rect" id="node49" href="$dd/d65/classtorc_1_1architecture_1_1WireUsage.html#af80630b7400b0d459b10c9cce450268a" title="Size the wire usage according to the number of device tiles. " alt="" coords="200,1833,347,1874"/>
+<area shape="rect" id="node3" href="$d0/d88/namespacetorc_1_1architecture.html#a44e00b06e2bc57c7568eeabbace0afe7" title="Unit test for the ArcUsage class. " alt="" coords="423,1507,623,1549"/>
+<area shape="rect" id="node4" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#adb604ac5de289d7b1aebca49466789e5" title="Initializes the database. " alt="" coords="463,1670,582,1711"/>
+<area shape="rect" id="node5" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a34c44d3698eced70adef0ba5c9d05818" title="torc::architecture\l::DDB::mWireUsage" alt="" coords="737,1703,873,1745"/>
+<area shape="rect" id="node6" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a41a53206157f03fd325ca13876d57539" title="Public constructor. " alt="" coords="746,1638,865,1679"/>
+<area shape="rect" id="node8" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#ac7ded1715b663ff8e3aba176080ab0e4" title="Tilewire detail function. " alt="" coords="439,542,607,583"/>
+<area shape="rect" id="node10" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a5fc3b477957ef904fe43501ee70a8ec8" title="Display source Tilewires of a segment. " alt="" coords="439,346,607,387"/>
+<area shape="rect" id="node11" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af92393fa7ceb66e0d78ed245861d523a" title="Display sink Tilewires of a segment. " alt="" coords="439,411,607,453"/>
+<area shape="rect" id="node12" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a0b56836adab91e293614f7a1bcba27fa" title="Display segment connectivity. " alt="" coords="439,477,607,518"/>
+<area shape="rect" id="node13" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#afd0cb4c3956aef2edc59ab920a760dd8" title="Display segment connectivity. " alt="" coords="429,659,616,701"/>
+<area shape="rect" id="node14" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ad469733045bb59f6fb2829c61911a9ec" title="Expands all sink arcs for the given tilewire&#39;s segment. " alt="" coords="429,725,616,766"/>
+<area shape="rect" id="node21" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a504913e9b033f2b6416942fb7978e0c3" title="Routing loop function. " alt="" coords="993,447,1141,489"/>
+<area shape="rect" id="node26" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a367ecff0db646a01a4e918e6eeb4a84c" title="Expands all source arcs for the given tilewire&#39;s segment. " alt="" coords="421,989,624,1030"/>
+<area shape="rect" id="node29" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ad4feae7f09bca7a835aaa210941ec078" title="Marks all wires on the segment as used. " alt="" coords="455,1077,590,1118"/>
+<area shape="rect" id="node33" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#af0414b4dcac4bfae0a981c4610eb8636" title="Marks all wires on the segment as unused. " alt="" coords="445,1325,600,1366"/>
+<area shape="rect" id="node35" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#ac30263aa9775f1f1bdd677ac2816b666" title="torc::router::Unrouter\l::unrouteToSinks" alt="" coords="997,1419,1136,1461"/>
+<area shape="rect" id="node37" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#ac478b68c82ec690e21b53c5b3c562978" title="torc::router::PathFinder\l::unrouteNet" alt="" coords="729,1259,881,1301"/>
+<area shape="rect" id="node38" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#ad5d539b5a1db1ecb4e489999fd894aa9" title="torc::router::PathFinder\l::updateSharing" alt="" coords="447,5,599,46"/>
+<area shape="rect" id="node39" href="$d2/d42/classtorc_1_1architecture_1_1segments__regression__test__helper.html#a2f4bbf3039c1ea104e5eaa67abea9548" title="Analyze segment expansion, and detect any tilewire conflicts. " alt="" coords="445,69,600,125"/>
+<area shape="rect" id="node40" href="$d4/da3/classtorc_1_1architecture_1_1segments__unit__test__helper.html#a0a47adc01ef07063b24630077243d564" title="Analyze segment expansion, and detect any tilewire conflicts. " alt="" coords="451,149,594,205"/>
+<area shape="rect" id="node41" href="$d5/da9/classtorc_1_1router_1_1Trace.html#a0cf0d782d6bc16601e0a400364af3dc8" title="Create a TraceNode and update auxiliary structures. " alt="" coords="461,901,584,942"/>
+<area shape="rect" id="node42" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#ada8da8bcfb8e8786ed53ba6a5167c7fa" title="Remove the dummy node if possible. " alt="" coords="453,229,592,270"/>
+<area shape="rect" id="node43" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a158784e698293328f1f6005a3c20a9d6" title="Recursively traces from the specified RouteTreeNode in one of three modes. " alt="" coords="736,258,875,299"/>
+<area shape="rect" id="node9" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="721,359,889,401"/>
+<area shape="rect" id="node15" href="$d4/d6f/ArchitectureExample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="780,608,831,635"/>
+<area shape="rect" id="node16" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a93f914b0ebe8bad7acf038593613f35d" title="Move the source terminal of a net in the sinkwards direction. " alt="" coords="987,990,1147,1031"/>
+<area shape="rect" id="node17" href="$d9/d5b/classtorc_1_1router_1_1NetRouterHeuristic.html#a9372010d72449637f8e94026340f4eaf" title="Calculate the node cost based on distance to the sink and path length. " alt="" coords="705,659,905,701"/>
+<area shape="rect" id="node18" href="$d9/d5b/classtorc_1_1router_1_1NetRouterHeuristic.html#aa3f7e529bfb881dc1b6f0862ac94c4b5" title="torc::router::NetRouterHeuristic\l::nodeCostInitial" alt="" coords="705,725,905,766"/>
+<area shape="rect" id="node19" href="$d9/d5b/classtorc_1_1router_1_1NetRouterHeuristic.html#ab7f4caa716a6d33d1ae025f5975c3c8d" title="Heuristic handling of expansion of a node. " alt="" coords="705,842,905,883"/>
+<area shape="rect" id="node20" href="$dc/d3d/classtorc_1_1router_1_1NetRouterHeuristicBase.html#a415d32b9c911c963afd77d21c2a5b73b" title="Heuristically expand a segment. " alt="" coords="705,477,905,518"/>
+<area shape="rect" id="node23" href="$dc/d58/classtorc_1_1router_1_1PathFinderNetRouterHeuristic.html#a89c545241ad853493ba812325c63705f" title="Heuristic handling of expansion of a node. " alt="" coords="673,542,938,583"/>
+<area shape="rect" id="node24" href="$d5/da9/classtorc_1_1router_1_1Trace.html#a01518958c8b2dd38be696507e17ae814" title="Recursively traces from the specified TraceNode in the specified mode. " alt="" coords="744,959,867,1001"/>
+<area shape="rect" id="node22" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ad5e5b5d2709c05bc81de13e52c6746ee" title="Internal top level route function. " alt="" coords="1195,447,1343,489"/>
+<area shape="rect" id="node25" href="$d5/da9/classtorc_1_1router_1_1Trace.html#abbdd123f43fd499ebe509c7f691b7b78" title="Public Constructor. " alt="" coords="1005,919,1128,961"/>
+<area shape="rect" id="node27" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ae7b4e428e72e476dce08bee36219932b" title="Test for a dedicated routing path. " alt="" coords="993,1065,1141,1106"/>
+<area shape="rect" id="node28" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#acd57249d362d21ae852455006b3d249b" title="Move the sink terminal of a net in the sourcewards direction. " alt="" coords="993,1133,1141,1174"/>
+<area shape="rect" id="node30" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#adb4aa4b29a89a672b3c87925237600f8" title="Marks the arc and all of its source and sink segment wires as used. " alt="" coords="746,1077,865,1118"/>
+<area shape="rect" id="node31" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a60fb32e30f397cfe7a719d73a956fe22" title="torc::router::PathFinder\l::markSourcesAndSinks" alt="" coords="725,1194,886,1235"/>
+<area shape="rect" id="node32" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a78a148e4768eb82276f5778898653859" title="torc::router::PathFinder\l::routeNets" alt="" coords="991,1259,1143,1301"/>
+<area shape="rect" id="node34" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a0f05795f964ee1a8750b3d64861f59a9" title="Marks the arc and all of its source and sink segment wires as unused. " alt="" coords="744,1390,867,1431"/>
+<area shape="rect" id="node36" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a3d7f375de730f951eb5fd72ec310143e" title="torc::router::PathFinder\l::unmarkSourcesAndSinks" alt="" coords="718,1325,893,1366"/>
+<area shape="rect" id="node50" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a38b2b841e18d064dbf95772c13a25379" title="Pathfinder constructor. " alt="" coords="447,1833,599,1874"/>
+</map>

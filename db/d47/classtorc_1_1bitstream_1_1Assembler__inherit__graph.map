@@ -1,0 +1,5 @@
+<map id="torc::bitstream::Assembler" name="torc::bitstream::Assembler">
+<area shape="rect" id="node2" href="$d4/de3/classtorc_1_1bitstream_1_1VirtexAssembler.html" title="Base Virtex class to implement functions common across all/some Virtex architectures. " alt="" coords="64,80,269,107"/>
+<area shape="rect" id="node3" href="$d6/d40/classtorc_1_1bitstream_1_1Virtex5Assembler.html" title="torc::bitstream::Virtex5\lAssembler" alt="" coords="5,155,155,197"/>
+<area shape="rect" id="node4" href="$df/d15/classtorc_1_1bitstream_1_1Virtex7Assembler.html" title="torc::bitstream::Virtex7\lAssembler" alt="" coords="179,155,329,197"/>
+</map>

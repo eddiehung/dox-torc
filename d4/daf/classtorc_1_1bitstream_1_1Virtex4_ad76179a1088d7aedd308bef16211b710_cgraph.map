@@ -1,0 +1,8 @@
+<map id="torc::bitstream::Virtex4::initializeFullFrameBlocks" name="torc::bitstream::Virtex4::initializeFullFrameBlocks">
+<area shape="rect" id="node2" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#a823dfe0ce3d2721bf86d458fe2e7cefb" title="torc::bitstream::VirtexPacket\l::isType2" alt="" coords="227,5,411,46"/>
+<area shape="rect" id="node3" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#aa3495dbdf68b9352429394d3b08bb9d5" title="torc::bitstream::VirtexPacket\l::isWrite" alt="" coords="227,70,411,111"/>
+<area shape="rect" id="node4" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#a5230477c1fa8b5c941d1b36bfd487c72" title="brief Returns the raw packet words, including the header word. " alt="" coords="227,135,411,177"/>
+<area shape="rect" id="node5" href="$d4/daf/classtorc_1_1bitstream_1_1Virtex4.html#a4c1c9f5f427b7eb6421b078ee43bfdd7" title="Return the number of pad frames after each row. " alt="" coords="243,201,394,242"/>
+<area shape="rect" id="node6" href="$d4/daf/classtorc_1_1bitstream_1_1Virtex4.html#af9f62724c690caefde7ca788e325cbcb" title="Return the number of frame rows for the current device. " alt="" coords="243,266,394,307"/>
+<area shape="rect" id="node7" href="$d4/daf/classtorc_1_1bitstream_1_1Virtex4.html#a504027a47b524bbc0317566c2c54b6ea" title="Return the frame length for the current device. " alt="" coords="243,331,394,373"/>
+</map>

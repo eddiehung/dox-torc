@@ -1,0 +1,11 @@
+<map id="torc::architecture::Sites::getSiteCount" name="torc::architecture::Sites::getSiteCount">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a0772eacce3a3ca03fddaffbac6ef06b3" title="List of all sites. " alt="" coords="192,5,360,46"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#adb1beb0aee3905fea2818c0f13d49aba" title="Filtered list of all sites. " alt="" coords="192,70,360,111"/>
+<area shape="rect" id="node6" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a61e5ac4fb2a5bb83a2a8b67f98e457d0" title="brief Site detail function. " alt="" coords="192,135,360,177"/>
+<area shape="rect" id="node7" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a5161b5f7e9c34266db2aa2799befd8c8" title="brief Sites of a particular type function. " alt="" coords="192,201,360,242"/>
+<area shape="rect" id="node8" href="$d0/d88/namespacetorc_1_1architecture.html#abea332c7a19e7d510c7e9c126bc40fff" title="torc::architecture\l::testDevice" alt="" coords="217,266,335,307"/>
+<area shape="rect" id="node10" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#a877c9a72e259cdd82a2f1cdfa602f4df" title="Activate the specified device package. " alt="" coords="195,331,357,373"/>
+<area shape="rect" id="node4" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="424,135,592,177"/>
+<area shape="rect" id="node5" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="656,143,707,169"/>
+<area shape="rect" id="node9" href="$d0/d88/namespacetorc_1_1architecture.html#a2b65038d19ed55136e2fd048b8a8bfd3" title="Unit test for the DDB class. " alt="" coords="408,266,608,307"/>
+</map>

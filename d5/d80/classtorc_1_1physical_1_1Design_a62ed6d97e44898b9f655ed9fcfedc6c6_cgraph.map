@@ -1,0 +1,5 @@
+<map id="torc::physical::Design::addModule" name="torc::physical::Design::addModule">
+<area shape="rect" id="node2" href="$d5/d80/classtorc_1_1physical_1_1Design.html#a3ad4a855619e364be7ded15413f16367" title="Find a design module by name. " alt="" coords="198,38,341,79"/>
+<area shape="rect" id="node3" href="$d5/d80/classtorc_1_1physical_1_1Design.html#ae61706e854ab16afe6934904395da4cd" title="Returns the begin constant iterator for modules. " alt="" coords="390,5,533,46"/>
+<area shape="rect" id="node4" href="$d5/d80/classtorc_1_1physical_1_1Design.html#a76fcf81395311fdb4ea1d7689721c600" title="Returns the end constant iterator for modules. " alt="" coords="390,70,533,111"/>
+</map>

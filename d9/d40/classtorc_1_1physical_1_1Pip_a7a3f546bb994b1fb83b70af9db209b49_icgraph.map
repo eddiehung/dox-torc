@@ -1,0 +1,9 @@
+<map id="torc::physical::Pip::getSourceWireName" name="torc::physical::Pip::getSourceWireName">
+<area shape="rect" id="node2" href="$d6/dd4/classtorc_1_1bitstream_1_1Assembler.html#a4febaa340032f6c95f4c1a665756cfb4" title="Assemble bitstream for nets. " alt="" coords="225,5,397,46"/>
+<area shape="rect" id="node3" href="$d9/dae/classtorc_1_1physical_1_1ModuleTransformer.html#afbc2c9d1508720f8356f0aed6be98dd1" title="Clone a net. " alt="" coords="203,70,418,111"/>
+<area shape="rect" id="node4" href="$de/d76/namespacetorc_1_1physical.html#a60fb7b5f056e198005c69ae6c48771e8" title="Pip stream inserter. " alt="" coords="227,136,394,163"/>
+<area shape="rect" id="node5" href="$de/d76/namespacetorc_1_1physical.html#afe14255f668c9e6c145bb6481e84405b" title="Unit test for the Pip class. " alt="" coords="236,187,385,229"/>
+<area shape="rect" id="node6" href="$d4/d83/classtorc_1_1physical_1_1XdlExporter.html#a6cf47b85cea7ac0397f96fb1e4bc14e8" title="Writes the given pip, with an options trailing comma. " alt="" coords="226,253,395,294"/>
+<area shape="rect" id="node7" href="$d2/d42/classtorc_1_1architecture_1_1XdlImporter.html#a48b7dcce892f70e32afa16fed316434b" title="Bind the given pip to the database arc and wire usage if applicable. " alt="" coords="248,318,373,359"/>
+<area shape="rect" id="node8" href="$dc/dd1/classtorc_1_1physical_1_1XdlUnpack.html#a4b960ba2d06ecec3aeb0f2a89e2a8aa5" title="torc::physical::XdlUnpack\l::unpack" alt="" coords="227,383,394,425"/>
+</map>

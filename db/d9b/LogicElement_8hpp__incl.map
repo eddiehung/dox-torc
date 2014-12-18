@@ -1,0 +1,17 @@
+<map id="LogicElement.hpp" name="LogicElement.hpp">
+<area shape="rect" id="node2" href="$da/da5/PointerTypes_8hpp.html" title="torc/generic/PointerTypes.hpp" alt="" coords="1054,229,1248,256"/>
+<area shape="rect" id="node5" href="$d2/d1c/LogicValue_8hpp.html" title="torc/generic/LogicValue.hpp" alt="" coords="837,80,1019,107"/>
+<area shape="rect" id="node7" href="$d1/d93/Error_8hpp.html" title="torc/generic/Error.hpp" alt="" coords="362,304,507,331"/>
+<area shape="rect" id="node24" href="$d8/d0f/VisitorType_8hpp.html" title="torc/generic/VisitorType.hpp" alt="" coords="37,155,219,181"/>
+<area shape="rect" id="node26" href="$d1/d36/FactoryType_8hpp.html" title="torc/generic/FactoryType.hpp" alt="" coords="1290,155,1479,181"/>
+<area shape="rect" id="node6" href="$d4/db3/Nameable_8hpp.html" title="torc/generic/Nameable.hpp" alt="" coords="166,229,343,256"/>
+<area shape="rect" id="node14" href="$d5/d3d/generic_2Renamable_8hpp.html" title="torc/generic/Renamable.hpp" alt="" coords="792,304,974,331"/>
+<area shape="rect" id="node15" href="$d2/ddf/Commentable_8hpp.html" title="torc/generic/Commentable.hpp" alt="" coords="1525,304,1723,331"/>
+<area shape="rect" id="node16" href="$de/da3/ParentedObject_8hpp.html" title="torc/generic/ParentedObject.hpp" alt="" coords="1507,229,1715,256"/>
+<area shape="rect" id="node17" href="$dc/dd7/PropertyContainer_8hpp.html" title="torc/generic/PropertyContainer.hpp" alt="" coords="892,155,1114,181"/>
+<area shape="rect" id="node20" href="$d3/d1f/UserDataContainer_8hpp.html" title="torc/generic/UserDataContainer.hpp" alt="" coords="589,155,816,181"/>
+<area shape="rect" id="node23" href="$d1/dd6/Visitable_8hpp.html" title="torc/generic/Visitable.hpp" alt="" coords="346,155,514,181"/>
+<area shape="rect" id="node25" href="$d0/d3f/SelfReferencing_8hpp.html" title="torc/generic/SelfReferencing.hpp" alt="" coords="1272,229,1482,256"/>
+<area shape="rect" id="node13" href="$d7/d6a/MessageId_8hpp.html" title="torc/generic/MessageId.hpp" alt="" coords="520,379,702,405"/>
+<area shape="rect" id="node18" href="$d9/d06/SymTab_8hpp.html" title="torc/generic/SymTab.hpp" alt="" coords="812,229,978,256"/>
+</map>

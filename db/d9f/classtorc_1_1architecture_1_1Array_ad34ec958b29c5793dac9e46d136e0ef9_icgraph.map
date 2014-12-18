@@ -1,0 +1,51 @@
+<map id="torc::architecture::Array::end" name="torc::architecture::Array::end">
+<area shape="rect" id="node2" href="$d0/d88/namespacetorc_1_1architecture.html#ae8e9855c554b01bbe01e4183541365de" title="Unit test for the Array class. " alt="" coords="189,5,389,46"/>
+<area shape="rect" id="node3" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a90b80d86a73c4f8e66eff7376e68acea" title="Generrate Xdls for logic sites. " alt="" coords="1035,93,1213,134"/>
+<area shape="rect" id="node4" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a8c5562ce5781503810c3fa68dcc0339f" title="Create Xdl for Lut. " alt="" coords="495,181,667,222"/>
+<area shape="rect" id="node6" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#aa7b0156ae9f391b3f63093c465fa324e" title="Get index in Element array. " alt="" coords="174,394,405,435"/>
+<area shape="rect" id="node8" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#afa98a3aac9ce6d5257377339147a5c8a" title="Expands the given tilewire&#39;s segment. " alt="" coords="504,923,659,965"/>
+<area shape="rect" id="node27" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a602d0e355fcd517e8be4570774af2b17" title="Expands the given tilewire&#39;s arc sinks. " alt="" coords="491,639,671,681"/>
+<area shape="rect" id="node30" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a167f79cc1f18b5c71f3268a563a0f318" title="Expands the given tilewire&#39;s arc sources. " alt="" coords="484,486,679,527"/>
+<area shape="rect" id="node31" href="$d9/d62/LogicXdlGenerator_8cpp.html#ad62045a984bc84a45604b86f3bbbb9ef" title="FindPrimitiveElementByName" alt="" coords="192,1016,387,1043"/>
+<area shape="rect" id="node34" href="$d9/d62/LogicXdlGenerator_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Generates XDLs for various site types. An XDL is generated for each. " alt="" coords="1099,1624,1149,1651"/>
+<area shape="rect" id="node35" href="$d9/d62/LogicXdlGenerator_8cpp.html#aa213d05bc360507bd65c0557fb1be16d" title="GenerateXdlForLUT" alt="" coords="512,1201,651,1228"/>
+<area shape="rect" id="node36" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#a1f1977ed803cd9f1e3edec7e72cce8d6" title="Return true if the element is a configurable mux. " alt="" coords="190,1118,389,1159"/>
+<area shape="rect" id="node37" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#a8d0644080ce4ab5bd6fb08e79cd02c9a" title="Initialize this object based on the PrimitiveDef information. " alt="" coords="190,1183,389,1225"/>
+<area shape="rect" id="node38" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#ad463cb389808a040471284674175aee6" title="Prints out debugging information for the specified element. " alt="" coords="190,1249,389,1290"/>
+<area shape="rect" id="node39" href="$db/dcc/classtorc_1_1architecture_1_1Segments.html#acc8c79d6c65ce4a431519a0972d5e957" title="Read the compact segments for the device. " alt="" coords="201,1314,378,1355"/>
+<area shape="rect" id="node41" href="$db/dcc/classtorc_1_1architecture_1_1Segments.html#a9df07c4bfa24328a22b0712dff71661f" title="Return a pointer to the requested IrregularArc, or 0 if the arc does not exist. " alt="" coords="200,639,379,681"/>
+<area shape="rect" id="node42" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#a877c9a72e259cdd82a2f1cdfa602f4df" title="Activate the specified device package. " alt="" coords="209,1510,370,1551"/>
+<area shape="rect" id="node43" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#ad42ab92e6dec7a6f60dbb58ba5ff2473" title="Read the family wire info. " alt="" coords="211,1379,367,1421"/>
+<area shape="rect" id="node44" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a3525ae7435e024a1f6bb993dec7bdc4b" title="Read the device tile map. " alt="" coords="223,1445,356,1486"/>
+<area shape="rect" id="node45" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#ab3eeb3d38f25c4b394ad27b802f1155d" title="Returns the tile index for the given tile name. " alt="" coords="222,1575,357,1617"/>
+<area shape="rect" id="node46" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a756864cc17069bce392d4a002f751e40" title="Returns the wire index for the given wire name in the given tile type. " alt="" coords="220,1641,359,1682"/>
+<area shape="rect" id="node47" href="$d7/dc5/classtorc_1_1packer_1_1Unpacker.html#a6351b01fc431bd827a96f80ad816f493" title="Function to find the next element. " alt="" coords="214,1706,365,1747"/>
+<area shape="rect" id="node48" href="$d0/d8d/classtorc_1_1packer_1_1Virtex2PrimitiveStructure.html#a55537a36270fbf92f8863576df384968" title="Initialize this object based on the PrimitiveDef information. " alt="" coords="196,1771,383,1813"/>
+<area shape="rect" id="node49" href="$d3/d70/classtorc_1_1packer_1_1Virtex5PrimitiveStructure.html#a4c57ea351747a8e1607b15cbe41c818c" title="Initialize this object based on the PrimitiveDef information. " alt="" coords="196,1837,383,1878"/>
+<area shape="rect" id="node50" href="$d5/d89/classtorc_1_1packer_1_1Virtex7PrimitiveStructure.html#ae833000a119998391bc6bdc93be29489" title="Initialize this object based on the PrimitiveDef information. " alt="" coords="196,1902,383,1943"/>
+<area shape="rect" id="node5" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#aad3e12d5e2c85b802c01f4df870f9bc4" title="Create Xdls for each config value of the config setting " alt="" coords="758,122,986,163"/>
+<area shape="rect" id="node7" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a741354c762a1cb6dab6facc56ec05a66" title="Create Xdls for compound settings. " alt="" coords="454,362,709,403"/>
+<area shape="rect" id="node9" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#ac7ded1715b663ff8e3aba176080ab0e4" title="Tilewire detail function. " alt="" coords="788,982,956,1023"/>
+<area shape="rect" id="node10" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a5fc3b477957ef904fe43501ee70a8ec8" title="Display source Tilewires of a segment. " alt="" coords="788,486,956,527"/>
+<area shape="rect" id="node11" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af92393fa7ceb66e0d78ed245861d523a" title="Display sink Tilewires of a segment. " alt="" coords="788,669,956,710"/>
+<area shape="rect" id="node12" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a0b56836adab91e293614f7a1bcba27fa" title="Display segment connectivity. " alt="" coords="788,551,956,593"/>
+<area shape="rect" id="node13" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#afd0cb4c3956aef2edc59ab920a760dd8" title="Display segment connectivity. " alt="" coords="779,355,965,397"/>
+<area shape="rect" id="node14" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ad469733045bb59f6fb2829c61911a9ec" title="Expands all sink arcs for the given tilewire&#39;s segment. " alt="" coords="779,734,965,775"/>
+<area shape="rect" id="node15" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a367ecff0db646a01a4e918e6eeb4a84c" title="Expands all source arcs for the given tilewire&#39;s segment. " alt="" coords="771,421,973,462"/>
+<area shape="rect" id="node16" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ad4feae7f09bca7a835aaa210941ec078" title="Marks all wires on the segment as used. " alt="" coords="805,1047,939,1089"/>
+<area shape="rect" id="node17" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#af0414b4dcac4bfae0a981c4610eb8636" title="Marks all wires on the segment as unused. " alt="" coords="795,1113,949,1154"/>
+<area shape="rect" id="node18" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a504913e9b033f2b6416942fb7978e0c3" title="Routing loop function. " alt="" coords="798,1178,946,1219"/>
+<area shape="rect" id="node19" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#ac478b68c82ec690e21b53c5b3c562978" title="torc::router::PathFinder\l::unrouteNet" alt="" coords="796,1243,948,1285"/>
+<area shape="rect" id="node20" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#ad5d539b5a1db1ecb4e489999fd894aa9" title="torc::router::PathFinder\l::updateSharing" alt="" coords="796,1309,948,1350"/>
+<area shape="rect" id="node21" href="$d2/d42/classtorc_1_1architecture_1_1segments__regression__test__helper.html#a2f4bbf3039c1ea104e5eaa67abea9548" title="Analyze segment expansion, and detect any tilewire conflicts. " alt="" coords="795,1373,949,1429"/>
+<area shape="rect" id="node22" href="$d4/da3/classtorc_1_1architecture_1_1segments__unit__test__helper.html#a0a47adc01ef07063b24630077243d564" title="Analyze segment expansion, and detect any tilewire conflicts. " alt="" coords="801,1453,943,1509"/>
+<area shape="rect" id="node23" href="$d5/da9/classtorc_1_1router_1_1Trace.html#a0cf0d782d6bc16601e0a400364af3dc8" title="Create a TraceNode and update auxiliary structures. " alt="" coords="811,1533,933,1574"/>
+<area shape="rect" id="node24" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#ac30263aa9775f1f1bdd677ac2816b666" title="torc::router::Unrouter\l::unrouteToSinks" alt="" coords="803,865,941,906"/>
+<area shape="rect" id="node25" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#ada8da8bcfb8e8786ed53ba6a5167c7fa" title="Remove the dummy node if possible. " alt="" coords="803,799,941,841"/>
+<area shape="rect" id="node26" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a158784e698293328f1f6005a3c20a9d6" title="Recursively traces from the specified RouteTreeNode in one of three modes. " alt="" coords="1055,705,1193,746"/>
+<area shape="rect" id="node28" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#aaeef9deceabfb861c0edcc4b6f0674b3" title="Export all pips within the specified tile. " alt="" coords="786,290,958,331"/>
+<area shape="rect" id="node29" href="$d2/d3b/WireXdlGenerator_8cpp.html#aff74bd44b9b3c54c4d1b56a8dd502ad8" title="Export all pips within the specified tile. " alt="" coords="817,239,927,265"/>
+<area shape="rect" id="node32" href="$d9/d62/LogicXdlGenerator_8cpp.html#a8450f5937155ebc8e9548858745576d9" title="GenerateXdlForCompoundSettings" alt="" coords="470,1135,693,1161"/>
+<area shape="rect" id="node33" href="$d9/d62/LogicXdlGenerator_8cpp.html#aa7743a684d5ed27d44491854192b2d68" title="GenerateXdlForElement" alt="" coords="792,1649,952,1676"/>
+<area shape="rect" id="node40" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#adb604ac5de289d7b1aebca49466789e5" title="Initializes the database. " alt="" coords="522,1379,641,1421"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="torc::physical::Factory::newInstancePtr" name="torc::physical::Factory::newInstancePtr">
+<area shape="rect" id="node2" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a1ff111c6c92c1369889dbd0412a9545e" title="Export a single pip. " alt="" coords="234,5,406,46"/>
+<area shape="rect" id="node5" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a506bd206128a6a79243859b2d661e977" title="Create Xdl with a Ramb instane and no configuration. " alt="" coords="508,95,697,137"/>
+<area shape="rect" id="node7" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a1373812cec9b472d20a7891d574c8917" title="Create Xdls for orphan elements with empty reference Xdl. " alt="" coords="200,122,440,163"/>
+<area shape="rect" id="node8" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a8c5562ce5781503810c3fa68dcc0339f" title="Create Xdl for Lut. " alt="" coords="234,187,406,229"/>
+<area shape="rect" id="node10" href="$de/d76/namespacetorc_1_1physical.html#a3def4af6fb0ac048aa9339efd5076fee" title="Unit test for the Circuit class. " alt="" coords="245,253,395,294"/>
+<area shape="rect" id="node11" href="$d0/d88/namespacetorc_1_1architecture.html#ab554a95759cd773ade09c5fb63a77c83" title="Unit test for the InstancePin class. " alt="" coords="220,318,420,359"/>
+<area shape="rect" id="node12" href="$d9/db4/namespacetorc.html#ad597815f5fecd38f0f0a3147a2dafdc8" title="Unit test for the module diff function. " alt="" coords="209,384,431,411"/>
+<area shape="rect" id="node13" href="$d7/dc5/classtorc_1_1packer_1_1Unpacker.html#a6351b01fc431bd827a96f80ad816f493" title="Function to find the next element. " alt="" coords="245,435,395,477"/>
+<area shape="rect" id="node14" href="$d2/d3b/WireXdlGenerator_8cpp.html#ad6b726c688ce81c2d0b6be874f58dc7d" title="Export a single pip. " alt="" coords="279,501,361,528"/>
+<area shape="rect" id="node17" href="$dc/dd1/classtorc_1_1physical_1_1XdlUnpack.html#a6ef00bfeb369d1c9246dc0fafd36a580" title="torc::physical::XdlUnpack\l::unpack" alt="" coords="237,553,403,594"/>
+<area shape="rect" id="node3" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#aaeef9deceabfb861c0edcc4b6f0674b3" title="Export all pips within the specified tile. " alt="" coords="517,5,689,46"/>
+<area shape="rect" id="node4" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a2f888e050652a923245b411485c30250" title="Generate Xdls for routing pips. " alt="" coords="769,5,941,46"/>
+<area shape="rect" id="node6" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a90b80d86a73c4f8e66eff7376e68acea" title="Generrate Xdls for logic sites. " alt="" coords="765,129,944,170"/>
+<area shape="rect" id="node9" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#aad3e12d5e2c85b802c01f4df870f9bc4" title="Create Xdls for each config value of the config setting " alt="" coords="489,174,717,215"/>
+<area shape="rect" id="node15" href="$d2/d3b/WireXdlGenerator_8cpp.html#aff74bd44b9b3c54c4d1b56a8dd502ad8" title="Export all pips within the specified tile. " alt="" coords="547,501,658,528"/>
+<area shape="rect" id="node16" href="$d2/d3b/WireXdlGenerator_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Export pips from arbitrary tiles for the given device. " alt="" coords="829,501,880,528"/>
+</map>

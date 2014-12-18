@@ -1,0 +1,15 @@
+<map id="torc::physical::BOOST_AUTO_TEST_CASE" name="torc::physical::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#ac0f4ccb1e4de8fc8da5f0a65d81ef218" title="Sets the configuration for the given setting. " alt="" coords="417,279,581,320"/>
+<area shape="rect" id="node5" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#aa385ab812330530e3b62c8c8f7dfb262" title="Looks up the specified setting in the map. " alt="" coords="203,47,367,88"/>
+<area shape="rect" id="node6" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#a2d6f9210d2217500f1021dc7aab3ec5a" title="Returns true if the specified setting exists in the map. " alt="" coords="203,112,367,153"/>
+<area shape="rect" id="node7" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#a265fbd3c83bb4b9dfbace78622a6207a" title="Returns the number of configurations for the given setting. " alt="" coords="203,177,367,219"/>
+<area shape="rect" id="node8" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#a9d04e3615a469479f8072218e3d63581" title="Returns the number of configurations in the map. " alt="" coords="203,243,367,284"/>
+<area shape="rect" id="node9" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#a9edd3306cb3da1674c63cc0ec2c03cb4" title="Returns true if the configuration map is empty. " alt="" coords="203,308,367,349"/>
+<area shape="rect" id="node10" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#aa0861c28b2cc2217e8bb85dbda38e470" title="Returns the begin constant iterator for configurations. " alt="" coords="203,373,367,415"/>
+<area shape="rect" id="node11" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#a8650ab979ecabb0bb4f118746dabe8d8" title="Returns the end constant iterator for configurations. " alt="" coords="203,439,367,480"/>
+<area shape="rect" id="node12" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#a34c95951d71273fc2541ce8f190f9f76" title="Returns a range that encompasses all of the configurations for the given setting. ..." alt="" coords="203,504,367,545"/>
+<area shape="rect" id="node13" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#a83882ab95d42db4c4ae5c1bea3d60dc4" title="Merges the configurations from the given ConfigMap into this one. " alt="" coords="203,569,367,611"/>
+<area shape="rect" id="node14" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#a3e4b07c6da3ec64c08803a9f65649e20" title="Clears the configuration map. " alt="" coords="203,635,367,676"/>
+<area shape="rect" id="node3" href="$d9/d33/classtorc_1_1physical_1_1Named.html#a699324d37cb8b305adcea589623974ac" title="Returns the object name. " alt="" coords="630,245,775,287"/>
+<area shape="rect" id="node4" href="$d7/d3b/classtorc_1_1physical_1_1Config.html#a03525a8385839e79577b98b1bac8542c" title="Return the configuration value. " alt="" coords="633,311,772,352"/>
+</map>

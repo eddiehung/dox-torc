@@ -1,0 +1,10 @@
+<map id="torc::architecture::WireInfo::getArcOffset" name="torc::architecture::WireInfo::getArcOffset">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#ac7ded1715b663ff8e3aba176080ab0e4" title="Tilewire detail function. " alt="" coords="208,10,376,51"/>
+<area shape="rect" id="node5" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a482a56c01e6fe3a17775095f7ec8a5d8" title="Returns the offset into the bitset for the specified arc. " alt="" coords="209,137,375,178"/>
+<area shape="rect" id="node6" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a79ae6e9d37557e6b6745ddd6663229c5" title="Marks the specified arc as being used. " alt="" coords="465,71,583,113"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="440,6,608,47"/>
+<area shape="rect" id="node4" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="672,13,723,40"/>
+<area shape="rect" id="node7" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a14d686dfbc905b370eed2e74f916c15c" title="Marks the specified arc as being unused. " alt="" coords="457,137,591,178"/>
+<area shape="rect" id="node8" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a8d361b33b1248f47a3a0ee6c24ab9754" title="Determines whether the specified arc is in use. " alt="" coords="457,202,591,243"/>
+<area shape="rect" id="node9" href="$d0/d88/namespacetorc_1_1architecture.html#a44e00b06e2bc57c7568eeabbace0afe7" title="Unit test for the ArcUsage class. " alt="" coords="424,267,624,309"/>
+</map>

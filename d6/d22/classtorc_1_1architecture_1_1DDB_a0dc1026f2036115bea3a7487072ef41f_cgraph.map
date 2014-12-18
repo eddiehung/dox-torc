@@ -1,0 +1,5 @@
+<map id="torc::architecture::DDB::readFamilyName" name="torc::architecture::DDB::readFamilyName">
+<area shape="rect" id="node2" href="$d0/d83/classtorc_1_1architecture_1_1DigestStream.html#acd6f871c0be0622f30b0cf93eec93687" title="Returns the number of bytes read. " alt="" coords="213,5,408,46"/>
+<area shape="rect" id="node3" href="$d0/d83/classtorc_1_1architecture_1_1DigestStream.html#a5ab9fd456f3f13fc79b24550ccf9ec20" title="Read and return a section header. " alt="" coords="219,69,402,125"/>
+<area shape="rect" id="node4" href="$d0/d83/classtorc_1_1architecture_1_1DigestStream.html#a2b034f47edd9ee82b4b35d6df1543c52" title="Read and return a uint8_t. " alt="" coords="241,149,380,190"/>
+</map>

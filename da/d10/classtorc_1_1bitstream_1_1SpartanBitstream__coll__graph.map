@@ -1,0 +1,7 @@
+<map id="torc::bitstream::SpartanBitstream" name="torc::bitstream::SpartanBitstream">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html" title="Xilinx bitstream base class. " alt="" coords="822,88,989,115"/>
+<area shape="rect" id="node4" href="$df/d6a/classtorc_1_1bitstream_1_1ColumnDefVector.html" title="Column definition vector. " alt="" coords="507,81,682,122"/>
+<area shape="rect" id="node6" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html" title="Static device information class for Xilinx bitstreams. &#160;This class facilitates the creation of frame ..." alt="" coords="509,147,681,173"/>
+<area shape="rect" id="node7" href="$d1/d53/classtorc_1_1bitstream_1_1ColumnTypeVector.html" title="Column type vector. " alt="" coords="182,139,365,181"/>
+<area shape="rect" id="node10" href="$da/da6/classtorc_1_1bitstream_1_1SpartanPacketConstants.html" title="Bitstream packet constants for Spartan class architectures. " alt="" coords="828,190,983,231"/>
+</map>

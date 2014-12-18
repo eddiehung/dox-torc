@@ -1,0 +1,16 @@
+<map id="torc::architecture::WireUsage::use" name="torc::architecture::WireUsage::use">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ad4feae7f09bca7a835aaa210941ec078" title="Marks all wires on the segment as used. " alt="" coords="182,369,317,410"/>
+<area shape="rect" id="node14" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ad5e5b5d2709c05bc81de13e52c6746ee" title="Internal top level route function. " alt="" coords="381,434,529,475"/>
+<area shape="rect" id="node15" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#ad5d539b5a1db1ecb4e489999fd894aa9" title="torc::router::PathFinder\l::updateSharing" alt="" coords="173,489,325,530"/>
+<area shape="rect" id="node3" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#adb4aa4b29a89a672b3c87925237600f8" title="Marks the arc and all of its source and sink segment wires as used. " alt="" coords="395,179,514,221"/>
+<area shape="rect" id="node12" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a60fb32e30f397cfe7a719d73a956fe22" title="torc::router::PathFinder\l::markSourcesAndSinks" alt="" coords="374,369,535,410"/>
+<area shape="rect" id="node4" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ae7b4e428e72e476dce08bee36219932b" title="Test for a dedicated routing path. " alt="" coords="822,5,970,46"/>
+<area shape="rect" id="node6" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a93f914b0ebe8bad7acf038593613f35d" title="Move the source terminal of a net in the sinkwards direction. " alt="" coords="599,49,759,90"/>
+<area shape="rect" id="node8" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#acd57249d362d21ae852455006b3d249b" title="Move the sink terminal of a net in the sourcewards direction. " alt="" coords="605,114,753,155"/>
+<area shape="rect" id="node9" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#ae9dd38580a78bd41dd881adc158ef07b" title="torc::router::PathFinder\l::recordResult" alt="" coords="603,179,755,221"/>
+<area shape="rect" id="node10" href="$d1/d2c/structtorc_1_1router_1_1TraceUnitTestFixture.html#a18f278b4efdaf3e40c0a482c21cfc40c" title="torc::router::TraceUnitTest\lFixture::TraceUnitTestFixture" alt="" coords="584,245,773,286"/>
+<area shape="rect" id="node11" href="$d2/d42/classtorc_1_1architecture_1_1XdlImporter.html#a48b7dcce892f70e32afa16fed316434b" title="Bind the given pip to the database arc and wire usage if applicable. " alt="" coords="616,310,741,351"/>
+<area shape="rect" id="node5" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a3b86ba86d920c06811a3e33fd7fd89c3" title="Route a net. " alt="" coords="1019,99,1167,141"/>
+<area shape="rect" id="node7" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#af5593bf5a5f8d7a801a31c579302db03" title="Move net terminals out into the INT tiles. " alt="" coords="822,99,970,141"/>
+<area shape="rect" id="node13" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a78a148e4768eb82276f5778898653859" title="torc::router::PathFinder\l::routeNets" alt="" coords="603,375,755,417"/>
+</map>

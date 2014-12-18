@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$dd/d96/classtorc_1_1physical_1_1ParsePrimitive.html#a65c561ad1e22da0135b1393921c6bee0" title="parse an XDLRC file " alt="" coords="105,234,293,275"/>
+<area shape="rect" id="node11" href="$de/d80/classtorc_1_1physical_1_1WritePrimitive.html#af6dcb2f7cc61d55ff621ca003a650a4c" title="write an XDLRC file " alt="" coords="107,299,291,341"/>
+<area shape="rect" id="node3" href="$dd/d96/classtorc_1_1physical_1_1ParsePrimitive.html#aa96e402b5cb3a26f9b36604ff35f8254" title="Print printError. " alt="" coords="342,5,530,46"/>
+<area shape="rect" id="node4" href="$dd/d96/classtorc_1_1physical_1_1ParsePrimitive.html#a6bdfbff370357931a3e60705d8f3a84c" title="Reads the current line. " alt="" coords="342,70,530,111"/>
+<area shape="rect" id="node5" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#ab3256fe06ba0067087501f91ed64f48e" title="Create and return a new PrimitiveSet object. " alt="" coords="355,135,517,177"/>
+<area shape="rect" id="node6" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#a27834ef71d7539e563a202544b6ae3cb" title="Create and return a new Element object. " alt="" coords="355,201,517,242"/>
+<area shape="rect" id="node7" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#ae98d952d38587fd68bb225d504d66181" title="Create and return a new PrimitivePin shared pointer. " alt="" coords="355,266,517,307"/>
+<area shape="rect" id="node8" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#a644765d643662b3c233623855ca2f06a" title="Create and return a new Element object. " alt="" coords="355,331,517,373"/>
+<area shape="rect" id="node9" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#ad3c3719e5daf46c22de612b0532cd39f" title="Construct an ConnectionPin and return a constant reference. " alt="" coords="355,397,517,438"/>
+<area shape="rect" id="node10" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#a9e27cb85d7f62f94e2641997d0c8cbc8" title="Create and return a new Element object. " alt="" coords="355,462,517,503"/>
+</map>

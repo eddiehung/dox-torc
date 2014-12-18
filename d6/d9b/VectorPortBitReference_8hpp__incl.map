@@ -1,0 +1,27 @@
+<map id="VectorPortBitReference.hpp" name="VectorPortBitReference.hpp">
+<area shape="rect" id="node2" href="$da/da5/PointerTypes_8hpp.html" title="torc/generic/PointerTypes.hpp" alt="" coords="2039,387,2233,413"/>
+<area shape="rect" id="node5" href="$da/d94/PortReference_8hpp.html" title="torc/generic/PortReference.hpp" alt="" coords="1783,80,1984,107"/>
+<area shape="rect" id="node10" href="$d1/d93/Error_8hpp.html" title="torc/generic/Error.hpp" alt="" coords="878,469,1023,496"/>
+<area shape="rect" id="node33" href="$d1/d36/FactoryType_8hpp.html" title="torc/generic/FactoryType.hpp" alt="" coords="3071,304,3260,331"/>
+<area shape="rect" id="node34" href="$d8/d0f/VisitorType_8hpp.html" title="torc/generic/VisitorType.hpp" alt="" coords="411,304,593,331"/>
+<area shape="rect" id="node38" href="$da/da5/VectorBit_8hpp.html" title="torc/generic/VectorBit.hpp" alt="" coords="287,229,459,256"/>
+<area shape="rect" id="node6" href="$d8/d3b/Composite_8hpp.html" title="torc/generic/Composite.hpp" alt="" coords="2127,304,2307,331"/>
+<area shape="rect" id="node17" href="$d8/db9/Connectable_8hpp.html" title="torc/generic/Connectable.hpp" alt="" coords="145,304,335,331"/>
+<area shape="rect" id="node20" href="$d1/df3/generic_2Instance_8hpp.html" title="torc/generic/Instance.hpp" alt="" coords="1871,155,2039,181"/>
+<area shape="rect" id="node27" href="$de/da3/ParentedObject_8hpp.html" title="torc/generic/ParentedObject.hpp" alt="" coords="2891,387,3099,413"/>
+<area shape="rect" id="node28" href="$dc/dd7/PropertyContainer_8hpp.html" title="torc/generic/PropertyContainer.hpp" alt="" coords="1703,304,1924,331"/>
+<area shape="rect" id="node30" href="$d1/dd6/Visitable_8hpp.html" title="torc/generic/Visitable.hpp" alt="" coords="619,304,787,331"/>
+<area shape="rect" id="node9" href="$da/df9/CompositionType_8hpp.html" title="Contains definition for CompositionType. " alt="" coords="567,379,733,421"/>
+<area shape="rect" id="node16" href="$d0/d3f/SelfReferencing_8hpp.html" title="torc/generic/SelfReferencing.hpp" alt="" coords="2555,387,2764,413"/>
+<area shape="rect" id="node15" href="$d7/d6a/MessageId_8hpp.html" title="torc/generic/MessageId.hpp" alt="" coords="859,544,1041,571"/>
+<area shape="rect" id="node21" href="$d2/ddf/Commentable_8hpp.html" title="torc/generic/Commentable.hpp" alt="" coords="2839,469,3037,496"/>
+<area shape="rect" id="node22" href="$d4/db3/Nameable_8hpp.html" title="torc/generic/Nameable.hpp" alt="" coords="862,304,1039,331"/>
+<area shape="rect" id="node23" href="$dc/dc5/ParameterMap_8hpp.html" title="torc/generic/ParameterMap.hpp" alt="" coords="2433,304,2636,331"/>
+<area shape="rect" id="node25" href="$d9/d06/SymTab_8hpp.html" title="torc/generic/SymTab.hpp" alt="" coords="1469,387,1635,413"/>
+<area shape="rect" id="node29" href="$d5/d3d/generic_2Renamable_8hpp.html" title="torc/generic/Renamable.hpp" alt="" coords="2813,304,2995,331"/>
+<area shape="rect" id="node31" href="$df/d1a/View_8hpp.html" title="torc/generic/View.hpp" alt="" coords="1901,229,2048,256"/>
+<area shape="rect" id="node35" href="$d3/d1f/UserDataContainer_8hpp.html" title="torc/generic/UserDataContainer.hpp" alt="" coords="1063,304,1291,331"/>
+<area shape="rect" id="node24" href="$db/d53/ParameterContext_8hpp.html" title="torc/generic/ParameterContext.hpp" alt="" coords="2258,387,2480,413"/>
+<area shape="rect" id="node32" href="$d8/dbd/Extern_8hpp.html" title="torc/generic/Extern.hpp" alt="" coords="1948,304,2101,331"/>
+<area shape="rect" id="node37" href="$d8/d59/StatusContainer_8hpp.html" title="torc/generic/StatusContainer.hpp" alt="" coords="1417,304,1627,331"/>
+</map>

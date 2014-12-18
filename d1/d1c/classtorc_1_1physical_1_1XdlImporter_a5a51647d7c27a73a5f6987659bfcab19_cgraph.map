@@ -1,0 +1,23 @@
+<map id="torc::physical::XdlImporter::operator()" name="torc::physical::XdlImporter::operator()">
+<area shape="rect" id="node2" href="$dd/d3c/classtorc_1_1XdlScanner.html#a05f2dfbc66603bf72a53368209f74e22" title="Enables or disables debugging output. " alt="" coords="227,263,368,305"/>
+<area shape="rect" id="node3" href="$d9/da8/classtorc_1_1XdlParser.html#ae9ad3f0afcd9fccbaae947feb22b3a48" title="Set the current debugging level. " alt="" coords="232,329,363,370"/>
+<area shape="rect" id="node4" href="$d9/da8/classtorc_1_1XdlParser.html#aa2fe1251737ad4ba305ec441df42d7d2" title="torc::XdlParser::parse" alt="" coords="225,395,370,421"/>
+<area shape="rect" id="node5" href="$db/d2b/classtorc_1_1stack.html#ad511b47ff4ec01285254db5f4c90b842" title="Bison undocumented. " alt="" coords="465,5,581,32"/>
+<area shape="rect" id="node6" href="$d9/da8/classtorc_1_1XdlParser.html#a2e47dc527689ec2f7253c2dacc819176" title="Convert a scanner token number t to a symbol number. " alt="" coords="431,56,614,83"/>
+<area shape="rect" id="node7" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#a3e4b07c6da3ec64c08803a9f65649e20" title="Clears the configuration map. " alt="" coords="441,107,605,149"/>
+<area shape="rect" id="node8" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#a8ddd4a332663d23c153f28d1cf4b4394" title="Initialize the database if applicable. " alt="" coords="437,173,608,214"/>
+<area shape="rect" id="node9" href="$d7/d40/classtorc_1_1common_1_1DeviceDesignator.html#a00bd09ba5c08dd9db11c0b0e30248ef2" title="Returns the device name. " alt="" coords="419,238,627,279"/>
+<area shape="rect" id="node10" href="$d7/d40/classtorc_1_1common_1_1DeviceDesignator.html#a46d41ab3b3dc4076bbfd619a2cb2cbde" title="Returns the device package. " alt="" coords="419,303,627,345"/>
+<area shape="rect" id="node11" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#ad40b2477e6a24d876bb4d4f444dbdea1" title="Error handling with associated line number. " alt="" coords="677,421,848,462"/>
+<area shape="rect" id="node12" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#a17bf3137bba89e28bf7163d027e535fc" title="Signals a parsing failure by deasserting the success flag. " alt="" coords="899,391,1069,433"/>
+<area shape="rect" id="node13" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#a0b3fb9b7fd2504856df9e399e942098a" title="Bind the given instance pin to its database Tilewire if applicable. " alt="" coords="437,471,608,513"/>
+<area shape="rect" id="node14" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#ac0f4ccb1e4de8fc8da5f0a65d81ef218" title="Sets the configuration for the given setting. " alt="" coords="441,589,605,630"/>
+<area shape="rect" id="node17" href="$d9/da8/classtorc_1_1XdlParser.html#af4752f610f72d96abb89f0122bc65aa9" title="Pop n symbols the three stacks. " alt="" coords="446,655,599,681"/>
+<area shape="rect" id="node19" href="$d9/da8/classtorc_1_1XdlParser.html#a9407d58b1889c14351b952e6b352a516" title="torc::XdlParser::error" alt="" coords="453,537,592,564"/>
+<area shape="rect" id="node20" href="$d9/da8/classtorc_1_1XdlParser.html#a205b321aedd801b29cf356fd1bccf03b" title="torc::XdlParser::yysyntax\l_error_" alt="" coords="441,706,604,747"/>
+<area shape="rect" id="node22" href="$d9/da8/classtorc_1_1XdlParser.html#a5c589cf169e931af935580051aaf4d9d" title="Reclaim the memory associated to a symbol. " alt="" coords="433,772,612,799"/>
+<area shape="rect" id="node15" href="$d9/d33/classtorc_1_1physical_1_1Named.html#a699324d37cb8b305adcea589623974ac" title="Returns the object name. " alt="" coords="690,523,835,565"/>
+<area shape="rect" id="node16" href="$d7/d3b/classtorc_1_1physical_1_1Config.html#a03525a8385839e79577b98b1bac8542c" title="Return the configuration value. " alt="" coords="693,589,832,630"/>
+<area shape="rect" id="node18" href="$db/d2b/classtorc_1_1stack.html#aad2901be3eb1112e60eec2dd0fb48631" title="Bison undocumented. " alt="" coords="708,655,817,681"/>
+<area shape="rect" id="node21" href="$d9/da8/classtorc_1_1XdlParser.html#ad1533ddc2c036e477adf3c13feae2f44" title="Convert the symbol name n to a form suitable for a diagnostic. " alt="" coords="675,713,851,740"/>
+</map>

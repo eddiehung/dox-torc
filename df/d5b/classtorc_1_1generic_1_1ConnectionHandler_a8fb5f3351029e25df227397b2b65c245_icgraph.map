@@ -1,0 +1,6 @@
+<map id="torc::generic::ConnectionHandler::connectPortRefToNet" name="torc::generic::ConnectionHandler::connectPortRefToNet">
+<area shape="rect" id="node2" href="$d1/dcc/classtorc_1_1generic_1_1PortBundleReference.html#a0a7a01b297fa8271c2dad99e9ad2254d" title="torc::generic::PortBundle\lReference::connect" alt="" coords="253,5,416,46"/>
+<area shape="rect" id="node3" href="$dd/dc7/classtorc_1_1generic_1_1ScalarPortReference.html#ac9f0b544c30459f2ed13ef3f3c046a18" title="torc::generic::ScalarPort\lReference::connect" alt="" coords="255,70,414,111"/>
+<area shape="rect" id="node4" href="$de/d82/classtorc_1_1generic_1_1VectorPortBitReference.html#a7db7278251ab341d8a4d97f315970fe5" title="torc::generic::VectorPort\lBitReference::connect" alt="" coords="255,135,415,177"/>
+<area shape="rect" id="node5" href="$dd/da4/classtorc_1_1generic_1_1VectorPortReference.html#ac32293c4c21c057516c003eac466af5f" title="torc::generic::VectorPort\lReference::connect" alt="" coords="255,201,415,242"/>
+</map>

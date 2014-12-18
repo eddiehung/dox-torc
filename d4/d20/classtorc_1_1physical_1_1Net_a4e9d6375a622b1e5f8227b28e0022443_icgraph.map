@@ -1,0 +1,6 @@
+<map id="torc::physical::Net::sourcesBegin" name="torc::physical::Net::sourcesBegin">
+<area shape="rect" id="node2" href="$d4/d20/classtorc_1_1physical_1_1Net.html#acddad2e302f4b811c981f30f61269363" title="Determines whether the given instance pin is a source of this net. " alt="" coords="202,5,326,46"/>
+<area shape="rect" id="node3" href="$d4/d20/classtorc_1_1physical_1_1Net.html#aee01fab35898038273bc74af47cc6d1b" title="Removes the given instance pin from the sources of this net. " alt="" coords="202,70,326,111"/>
+<area shape="rect" id="node4" href="$d4/d83/classtorc_1_1physical_1_1XdlExporter.html#aef936ed6bf16d2f9ce13114b2947c3dc" title="Writes the given Net. " alt="" coords="179,135,349,177"/>
+<area shape="rect" id="node5" href="$dc/dd1/classtorc_1_1physical_1_1XdlUnpack.html#a5526a12643f006e3b78309d99a3145ef" title="torc::physical::XdlUnpack\l::unpack" alt="" coords="181,201,347,242"/>
+</map>

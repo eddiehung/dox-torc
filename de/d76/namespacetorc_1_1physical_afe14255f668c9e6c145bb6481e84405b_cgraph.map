@@ -1,0 +1,12 @@
+<map id="torc::physical::BOOST_AUTO_TEST_CASE" name="torc::physical::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d7/de0/classtorc_1_1physical_1_1Factory.html#a521f05fb2031a16e2df46b1f57f092fe" title="Construct and return a new Instance shared pointer. " alt="" coords="204,5,351,46"/>
+<area shape="rect" id="node3" href="$d7/de0/classtorc_1_1physical_1_1Factory.html#a9981d371f6deb4b8dfef9c48413206eb" title="Construct and return a new Routethrough shared pointer. " alt="" coords="204,70,351,111"/>
+<area shape="rect" id="node4" href="$d7/de0/classtorc_1_1physical_1_1Factory.html#ad9458c2d26e0e00971f2f51f1caf620a" title="Construct a pip and return it. " alt="" coords="204,135,351,177"/>
+<area shape="rect" id="node5" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#a6ff301e25c78644fdc6d51da28a41f18" title="Returns the pip tile. " alt="" coords="216,201,339,242"/>
+<area shape="rect" id="node6" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#a7a3f546bb994b1fb83b70af9db209b49" title="Returns the pip source wire. " alt="" coords="203,266,351,307"/>
+<area shape="rect" id="node7" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#af247ed28068b79e74ab30caed5e93464" title="Returns the pip sink wire. " alt="" coords="211,331,344,373"/>
+<area shape="rect" id="node8" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#a1e9c1912675142204a8525c065573eac" title="Returns the pip directionality. " alt="" coords="216,397,339,438"/>
+<area shape="rect" id="node9" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#a43070546154f520160a17dc5ceaf4e5f" title="Returns the pip directionality as a string. " alt="" coords="212,462,343,503"/>
+<area shape="rect" id="node10" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#af0a8379e74bfb9e664bd08a6d0b0fb6f" title="Indicates whether or not the pip has an associated routethrough. " alt="" coords="216,527,339,569"/>
+<area shape="rect" id="node11" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#a3522d19d711cdd25a9d6578418700264" title="Returns the pip&#39;s routethrough pointer. " alt="" coords="207,593,347,634"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="torc::architecture::Site::getPrimitiveDefPtr" name="torc::architecture::Site::getPrimitiveDefPtr">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a61e5ac4fb2a5bb83a2a8b67f98e457d0" title="brief Site detail function. " alt="" coords="247,5,415,46"/>
+<area shape="rect" id="node5" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a5161b5f7e9c34266db2aa2799befd8c8" title="brief Sites of a particular type function. " alt="" coords="247,70,415,111"/>
+<area shape="rect" id="node6" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#ae9a4fd1418193ac0931489ad9975e13e" title="Populate map of tile type to set of include site types. " alt="" coords="217,135,445,177"/>
+<area shape="rect" id="node8" href="$d0/d88/namespacetorc_1_1architecture.html#abea332c7a19e7d510c7e9c126bc40fff" title="torc::architecture\l::testDevice" alt="" coords="271,201,390,242"/>
+<area shape="rect" id="node10" href="$db/def/classtorc_1_1placer_1_1Placement.html#a87fefd53eb47b7751246a349b49c5342" title="torc::placer::Placement\l::Placement" alt="" coords="254,266,407,307"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="509,38,677,79"/>
+<area shape="rect" id="node4" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="741,45,792,72"/>
+<area shape="rect" id="node7" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a90b80d86a73c4f8e66eff7376e68acea" title="Generrate Xdls for logic sites. " alt="" coords="504,135,683,177"/>
+<area shape="rect" id="node9" href="$d0/d88/namespacetorc_1_1architecture.html#a2b65038d19ed55136e2fd048b8a8bfd3" title="Unit test for the DDB class. " alt="" coords="493,201,693,242"/>
+</map>

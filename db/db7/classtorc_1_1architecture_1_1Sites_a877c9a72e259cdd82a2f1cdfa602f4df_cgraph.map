@@ -1,0 +1,5 @@
+<map id="torc::architecture::Sites::activatePackage" name="torc::architecture::Sites::activatePackage">
+<area shape="rect" id="node2" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="226,5,345,46"/>
+<area shape="rect" id="node3" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#ad34ec958b29c5793dac9e46d136e0ef9" title="Returns the non&#45;constant end iterator. " alt="" coords="226,70,345,111"/>
+<area shape="rect" id="node4" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#a07ee9e32b604433ceaa94fdc27eff303" title="Returns the site count for this device. " alt="" coords="216,135,355,177"/>
+</map>

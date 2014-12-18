@@ -1,0 +1,8 @@
+<map id="torc::generic::Simulate" name="torc::generic::Simulate">
+<area shape="rect" id="node2" href="$d1/d13/classtorc_1_1generic_1_1Nameable.html" title="An object that has a name. " alt="" coords="31,5,188,32"/>
+<area shape="rect" id="node3" href="$df/da8/classtorc_1_1generic_1_1Renamable.html" title="Represents objects that can be renamed. " alt="" coords="28,56,191,83"/>
+<area shape="rect" id="node4" href="$dc/d00/classtorc_1_1generic_1_1Commentable.html" title="Represents all classes that can hold user comments. " alt="" coords="20,107,199,133"/>
+<area shape="rect" id="node5" href="$d7/de6/classtorc_1_1generic_1_1Visitable.html" title="An object that receives an inoutVisitor. " alt="" coords="35,157,183,184"/>
+<area shape="rect" id="node6" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Simulate \&gt;" alt="" coords="14,209,205,250"/>
+<area shape="rect" id="node7" href="$d7/dad/classtorc_1_1generic_1_1UserDataContainer.html" title="Represents class that can hold userData. " alt="" coords="5,275,213,301"/>
+</map>

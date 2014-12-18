@@ -1,0 +1,6 @@
+<map id="torc::packer::PrimitiveStructure::initialize" name="torc::packer::PrimitiveStructure::initialize">
+<area shape="rect" id="node2" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="261,5,379,46"/>
+<area shape="rect" id="node3" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#ad34ec958b29c5793dac9e46d136e0ef9" title="Returns the non&#45;constant end iterator. " alt="" coords="261,70,379,111"/>
+<area shape="rect" id="node4" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#acd689c941bde03e88f68307fd30cc7c2" title="Returns the name of the element. " alt="" coords="254,135,386,191"/>
+<area shape="rect" id="node5" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#af54563c53c7e0d484f507e8eff9618ab" title="Returns the set of allowable configuration values. " alt="" coords="254,215,386,271"/>
+</map>

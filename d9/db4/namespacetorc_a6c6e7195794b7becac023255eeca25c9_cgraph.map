@@ -1,0 +1,13 @@
+<map id="torc::BOOST_AUTO_TEST_CASE" name="torc::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d7/de0/classtorc_1_1physical_1_1Factory.html#a42de3cde7c25914a0b4619e654a1a0cd" title="Create and return a new Design shared pointer. " alt="" coords="277,5,424,46"/>
+<area shape="rect" id="node3" href="$d7/de0/classtorc_1_1physical_1_1Factory.html#a521f05fb2031a16e2df46b1f57f092fe" title="Construct and return a new Instance shared pointer. " alt="" coords="277,70,424,111"/>
+<area shape="rect" id="node4" href="$d7/de0/classtorc_1_1physical_1_1Factory.html#a0e8a7a5e8227248087766cef940c36f6" title="Create and return a new Net share pointer. " alt="" coords="277,135,424,177"/>
+<area shape="rect" id="node5" href="$d2/d28/classtorc_1_1PhysicalDiff.html#a73c9bf602fe8c85b34fec94ea0896dd1" title="Diff design pointers and then recursively compare modules and inherited members. " alt="" coords="291,201,410,242"/>
+<area shape="rect" id="node6" href="$d2/d28/classtorc_1_1PhysicalDiff.html#a2c8c86ebcd831a9cbc88c17139a173e2" title="Diff module pointers and then recursively compare inherited members from circuit. ..." alt="" coords="473,171,591,213"/>
+<area shape="rect" id="node7" href="$d2/d28/classtorc_1_1PhysicalDiff.html#a41131ebaf38165634454c4fbf91f2e72" title="Diff circuit pointers, recursively compare nets, instances and config map. " alt="" coords="641,201,759,242"/>
+<area shape="rect" id="node8" href="$d2/d28/classtorc_1_1PhysicalDiff.html#ac12d830d16c0e20becfec666cc04ae6d" title="Diff instance pointers and then the underlying config map. " alt="" coords="809,142,927,183"/>
+<area shape="rect" id="node9" href="$d2/d28/classtorc_1_1PhysicalDiff.html#a2d1cdd175ad41483aefbf99a9b09be55" title="Diff configuration information, this is called from circuits, instances and nets. ..." alt="" coords="977,201,1095,242"/>
+<area shape="rect" id="node12" href="$d2/d28/classtorc_1_1PhysicalDiff.html#a41e0e24aa9b04f21cd9cdcdbf179c764" title="Diff net pointers and then the underlying config map. " alt="" coords="809,259,927,301"/>
+<area shape="rect" id="node10" href="$d9/d33/classtorc_1_1physical_1_1Named.html#a699324d37cb8b305adcea589623974ac" title="Returns the object name. " alt="" coords="1145,167,1290,209"/>
+<area shape="rect" id="node11" href="$d7/d3b/classtorc_1_1physical_1_1Config.html#a03525a8385839e79577b98b1bac8542c" title="Return the configuration value. " alt="" coords="1148,233,1287,274"/>
+</map>

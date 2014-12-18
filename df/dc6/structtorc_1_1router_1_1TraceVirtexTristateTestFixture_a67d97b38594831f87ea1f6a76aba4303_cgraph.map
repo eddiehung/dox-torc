@@ -1,0 +1,4 @@
+<map id="torc::router::TraceVirtexTristateTestFixture::TraceVirtexTristateTestFixture" name="torc::router::TraceVirtexTristateTestFixture::TraceVirtexTristateTestFixture">
+<area shape="rect" id="node2" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#ac9c8c474aaa38744850a967ebbfd3c7e" title="Returns a shared pointer for the design. " alt="" coords="264,5,435,46"/>
+<area shape="rect" id="node3" href="$d2/d42/classtorc_1_1architecture_1_1XdlImporter.html#aa1ff714c95144d8cb9f361ca459ed450" title="Releases ownership of the device database. The caller is now responsible for deleting it..." alt="" coords="256,70,443,111"/>
+</map>

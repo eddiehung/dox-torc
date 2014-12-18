@@ -1,0 +1,6 @@
+<map id="torc::physical::Pip::getDirection" name="torc::physical::Pip::getDirection">
+<area shape="rect" id="node2" href="$d9/dae/classtorc_1_1physical_1_1ModuleTransformer.html#afbc2c9d1508720f8356f0aed6be98dd1" title="Clone a net. " alt="" coords="177,5,391,46"/>
+<area shape="rect" id="node3" href="$de/d76/namespacetorc_1_1physical.html#afe14255f668c9e6c145bb6481e84405b" title="Unit test for the Pip class. " alt="" coords="209,70,359,111"/>
+<area shape="rect" id="node4" href="$d2/d42/classtorc_1_1architecture_1_1XdlImporter.html#a48b7dcce892f70e32afa16fed316434b" title="Bind the given pip to the database arc and wire usage if applicable. " alt="" coords="221,135,347,177"/>
+<area shape="rect" id="node5" href="$dc/dd1/classtorc_1_1physical_1_1XdlUnpack.html#a4b960ba2d06ecec3aeb0f2a89e2a8aa5" title="torc::physical::XdlUnpack\l::unpack" alt="" coords="201,201,367,242"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="torc::router::RouteNode::setCost" name="torc::router::RouteNode::setCost">
+<area shape="rect" id="node2" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a92d536270ce491247d8417495224b35d" title="Add the newly found route to the outRoute vector. " alt="" coords="234,5,382,46"/>
+<area shape="rect" id="node6" href="$d9/d5b/classtorc_1_1router_1_1NetRouterHeuristic.html#a9372010d72449637f8e94026340f4eaf" title="Calculate the node cost based on distance to the sink and path length. " alt="" coords="208,70,408,111"/>
+<area shape="rect" id="node8" href="$d9/d5b/classtorc_1_1router_1_1NetRouterHeuristic.html#aa3f7e529bfb881dc1b6f0862ac94c4b5" title="torc::router::NetRouterHeuristic\l::nodeCostInitial" alt="" coords="208,135,408,177"/>
+<area shape="rect" id="node9" href="$dc/d58/classtorc_1_1router_1_1PathFinderNetRouterHeuristic.html#abd4f7e86e2e3f54c8207974aedc74b4e" title="Calculate the node cost based on distance to the sink and path length. " alt="" coords="211,201,405,242"/>
+<area shape="rect" id="node10" href="$dc/d58/classtorc_1_1router_1_1PathFinderNetRouterHeuristic.html#a1559d59085f41159eeab05a07917a12d" title="torc::router::PathFinder\lNetRouterHeuristic::nodeCost\lInitial" alt="" coords="211,265,405,321"/>
+<area shape="rect" id="node11" href="$dc/dd6/namespacetorc_1_1router.html#a4704ea26edc02cc76e75923e10b84075" title="Unit test for the RouteNode class. " alt="" coords="234,345,382,386"/>
+<area shape="rect" id="node3" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a504913e9b033f2b6416942fb7978e0c3" title="Routing loop function. " alt="" coords="457,5,605,46"/>
+<area shape="rect" id="node4" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ad5e5b5d2709c05bc81de13e52c6746ee" title="Internal top level route function. " alt="" coords="654,5,802,46"/>
+<area shape="rect" id="node5" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a3b86ba86d920c06811a3e33fd7fd89c3" title="Route a net. " alt="" coords="851,5,999,46"/>
+<area shape="rect" id="node7" href="$dc/dd6/namespacetorc_1_1router.html#a5d97108ca173ef1f4d1ff0db34fca845" title="Unit test for the Heuristic. " alt="" coords="457,102,605,143"/>
+</map>

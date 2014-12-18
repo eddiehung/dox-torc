@@ -1,0 +1,5 @@
+<map id="torc::router::RouteNet::hasAnyArcs" name="torc::router::RouteNet::hasAnyArcs">
+<area shape="rect" id="node2" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#ada2e6cd72f73c0a3096427142635bde1" title="Returns true if the net has any arcs. " alt="" coords="200,5,344,46"/>
+<area shape="rect" id="node3" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#aaedb084266d711e15cea28f8dec40ccf" title="Returns true if the net has no arcs. " alt="" coords="200,70,344,111"/>
+<area shape="rect" id="node4" href="$dc/dd6/namespacetorc_1_1router.html#a0d61cb6d997eaf1d7447086859ef7356" title="Unit test for the Net class. " alt="" coords="198,135,346,177"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="torc::router::NetRouter::graphSearchFilter" name="torc::router::NetRouter::graphSearchFilter">
+<area shape="rect" id="node2" href="$d8/d60/classtorc_1_1architecture_1_1Arc.html#a95f17048a775a14b33e87283cdc264a4" title="Returns the sink tilewire. " alt="" coords="231,5,374,46"/>
+<area shape="rect" id="node3" href="$dd/d65/classtorc_1_1architecture_1_1WireUsage.html#ae87ae6e99f86d0266d38cd56d66266e8" title="Determines whether the specified tilewire is in use. " alt="" coords="233,70,372,111"/>
+<area shape="rect" id="node6" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#ac2336661ec221b5c417c877d262d9da4" title="Get the node depth. " alt="" coords="225,135,380,177"/>
+<area shape="rect" id="node7" href="$dc/d3d/classtorc_1_1router_1_1NetRouterHeuristicBase.html#ad4b9f299a8f13873f6cfb77a684bcf82" title="Calculate the node cost based on distance to the sink and path length. " alt="" coords="203,201,403,242"/>
+<area shape="rect" id="node4" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#ad1789982f584140ebf77d4e8bc396e3d" title="Returns the tile index. " alt="" coords="453,38,603,79"/>
+<area shape="rect" id="node5" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#a38f0ea37481a14b712b82ccd4fa7544a" title="Returns the wire index. " alt="" coords="451,103,605,145"/>
+</map>

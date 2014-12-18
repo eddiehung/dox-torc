@@ -1,0 +1,16 @@
+<map id="torc::bitstream::operator&lt;&lt;" name="torc::bitstream::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#aa4ca3b20dfe8d212cd33ba9e860aca69" title="Return the bitstream header length in bytes. " alt="" coords="227,5,394,46"/>
+<area shape="rect" id="node3" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a213568687d5a0704fa8ea754a33c0e05" title="Returns the total number of words in the packet, including the header word. &#160;In the case of Type 2 pa..." alt="" coords="229,70,392,111"/>
+<area shape="rect" id="node5" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a2e10cae91393f807c359c2e071c23159" title="torc::bitstream::Spartan6\lPacket::isSyncWord1" alt="" coords="443,129,605,170"/>
+<area shape="rect" id="node6" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a3e10e3efaa8d206ab89643a5225a8ea4" title="torc::bitstream::Spartan6\lPacket::isDummyWord" alt="" coords="229,187,392,229"/>
+<area shape="rect" id="node7" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#ae9d1cc120c0974b51dc990c0ce1422da" title="torc::bitstream::Spartan6\lPacket::isSyncWord0" alt="" coords="229,253,392,294"/>
+<area shape="rect" id="node8" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a74ec9e787e0e03d42bebae3e203bc420" title="torc::bitstream::Spartan6\lPacket::isReserved" alt="" coords="229,318,392,359"/>
+<area shape="rect" id="node9" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#ad996daa6387e88ea3e1915294a2f85d2" title="torc::bitstream::Spartan6\lPacket::getOpcode" alt="" coords="229,383,392,425"/>
+<area shape="rect" id="node10" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a04c7f4da15711fb900d3e058db5687d8" title="torc::bitstream::Spartan6\lPacket::isNop" alt="" coords="229,449,392,490"/>
+<area shape="rect" id="node11" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#aff084bc8dc936f5c3aad805d82fbbad8" title="torc::bitstream::Spartan6\lPacket::getType" alt="" coords="229,514,392,555"/>
+<area shape="rect" id="node12" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a1ebd23fc563d0d7024aecb63b5b91afc" title="Returns the number of payload words in the packet, excluding the header word. " alt="" coords="229,579,392,621"/>
+<area shape="rect" id="node13" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#abd5df3e9ee3c6029961766d24f3ac168" title="torc::bitstream::Spartan6\lPacket::getAddress" alt="" coords="229,645,392,686"/>
+<area shape="rect" id="node14" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a902c7d1e39547f5206d03826da1edee6" title="torc::bitstream::Spartan6\lPacket::isRead" alt="" coords="229,710,392,751"/>
+<area shape="rect" id="node15" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a3894abaa33fb3ba362eaa5d071919028" title="Insert 32 bit subfield settings into an output stream. " alt="" coords="227,775,394,817"/>
+<area shape="rect" id="node4" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#acfc83ef9fb9636f83f9d7360530037a3" title="torc::bitstream::Spartan6\lPacket::isType2" alt="" coords="443,63,605,105"/>
+</map>

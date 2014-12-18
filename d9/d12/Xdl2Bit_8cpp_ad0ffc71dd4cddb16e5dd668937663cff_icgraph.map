@@ -1,0 +1,16 @@
+<map id="checkValidityAndMergeBitstream" name="checkValidityAndMergeBitstream">
+<area shape="rect" id="node2" href="$d6/dd4/classtorc_1_1bitstream_1_1Assembler.html#a9ccff26dc7d9f3cac10e9e2410d660cf" title="Assemble bitstream for instances. " alt="" coords="510,62,682,104"/>
+<area shape="rect" id="node3" href="$d6/dd4/classtorc_1_1bitstream_1_1Assembler.html#a4febaa340032f6c95f4c1a665756cfb4" title="Assemble bitstream for nets. " alt="" coords="279,281,451,322"/>
+<area shape="rect" id="node4" href="$d6/dd4/classtorc_1_1bitstream_1_1Assembler.html#ae20db21ea0fd401fbcc448a544bb0619" title="Assemble bitstream for Ramb. " alt="" coords="279,346,451,388"/>
+<area shape="rect" id="node5" href="$d6/dd4/classtorc_1_1bitstream_1_1Assembler.html#a2123efccda8ea8ab3da2741b34b294cf" title="Merge micro&#45;bitstream for compound setting. " alt="" coords="270,412,461,453"/>
+<area shape="rect" id="node6" href="$d6/dd4/classtorc_1_1bitstream_1_1Assembler.html#ada7227947bdd97a502ad676da6389b8d" title="Merge micro&#45;bitstream for configuration with Hex values. " alt="" coords="279,477,451,518"/>
+<area shape="rect" id="node7" href="$d9/d12/Xdl2Bit_8cpp.html#ad6304506c423b4c5c3285017109d4701" title="assembleInstances" alt="" coords="529,128,663,155"/>
+<area shape="rect" id="node12" href="$d9/d12/Xdl2Bit_8cpp.html#a68dec44f26388501662acaccedcc52b7" title="assembleRambInstance" alt="" coords="284,128,447,155"/>
+<area shape="rect" id="node13" href="$d9/d12/Xdl2Bit_8cpp.html#a73b44d26286730d2c741a0c4cbdeb303" title="assembleNets" alt="" coords="543,11,649,38"/>
+<area shape="rect" id="node14" href="$d9/d12/Xdl2Bit_8cpp.html#a8408e741933a976c5cf1c1142e2267a4" title="mergeCompoundSettingBits" alt="" coords="273,78,457,104"/>
+<area shape="rect" id="node15" href="$d9/d12/Xdl2Bit_8cpp.html#aac5fe844b05806043c42bd11d962e2d3" title="mergeDspMaskOrPattern" alt="" coords="281,179,450,206"/>
+<area shape="rect" id="node8" href="$d6/dd4/classtorc_1_1bitstream_1_1Assembler.html#ae85a0c94555b870f8529add58d2fb1ea" title="Initiates Xdl to bitstream conversion. " alt="" coords="731,18,903,60"/>
+<area shape="rect" id="node9" href="$d9/d12/Xdl2Bit_8cpp.html#af5394c153db17bbec6ee4ca45ec276ea" title="convertXdlToBitstream" alt="" coords="740,99,895,126"/>
+<area shape="rect" id="node10" href="$d4/de3/classtorc_1_1bitstream_1_1VirtexAssembler.html#abfa126eb1690acb40207f35c139d64e2" title="Function to generate bitstream to be called by user. " alt="" coords="952,62,1157,104"/>
+<area shape="rect" id="node11" href="$d9/d12/Xdl2Bit_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Converts XDL file to bitstream by merging primitive bitstreams from library. " alt="" coords="1029,128,1080,155"/>
+</map>

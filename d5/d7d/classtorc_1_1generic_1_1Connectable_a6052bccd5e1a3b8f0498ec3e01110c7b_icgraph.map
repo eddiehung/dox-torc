@@ -1,0 +1,15 @@
+<map id="torc::generic::Connectable::connect" name="torc::generic::Connectable::connect">
+<area shape="rect" id="node2" href="$d1/dbb/classtorc_1_1generic_1_1NetBundle.html#af6a62a367295d14c218c322e9b7aadff" title="torc::generic::NetBundle\l::connect" alt="" coords="226,5,385,46"/>
+<area shape="rect" id="node3" href="$d7/d1c/classtorc_1_1generic_1_1PortBundle.html#ac7aae3900c5d48c672d0cad26cd2e36d" title="torc::generic::PortBundle\l::connect" alt="" coords="224,70,387,111"/>
+<area shape="rect" id="node4" href="$d1/dcc/classtorc_1_1generic_1_1PortBundleReference.html#a0a7a01b297fa8271c2dad99e9ad2254d" title="torc::generic::PortBundle\lReference::connect" alt="" coords="224,135,387,177"/>
+<area shape="rect" id="node5" href="$df/dc5/classtorc_1_1generic_1_1PortList.html#a90f287535fff6c99b036381448746d42" title="torc::generic::PortList\l::connect" alt="" coords="233,201,377,242"/>
+<area shape="rect" id="node6" href="$d6/d87/classtorc_1_1generic_1_1ScalarNet.html#ae7e27d77de097a4b2d15c097fd6355f0" title="torc::generic::ScalarNet\l::connect" alt="" coords="227,266,383,307"/>
+<area shape="rect" id="node7" href="$d2/dca/classtorc_1_1generic_1_1ScalarPort.html#a908e341008f751710389cdad2adc1a94" title="torc::generic::ScalarPort\l::connect" alt="" coords="226,331,385,373"/>
+<area shape="rect" id="node8" href="$dd/dc7/classtorc_1_1generic_1_1ScalarPortReference.html#ac9f0b544c30459f2ed13ef3f3c046a18" title="torc::generic::ScalarPort\lReference::connect" alt="" coords="226,397,385,438"/>
+<area shape="rect" id="node9" href="$df/d2d/classtorc_1_1generic_1_1VectorNet.html#a73f3f7d51b668d9047aa95cd9da33b8b" title="torc::generic::VectorNet\l::connect" alt="" coords="227,462,384,503"/>
+<area shape="rect" id="node10" href="$da/d26/classtorc_1_1generic_1_1VectorNetBit.html#aaf26507e77e5e0ea912dc12e331b8f97" title="torc::generic::VectorNet\lBit::connect" alt="" coords="227,527,384,569"/>
+<area shape="rect" id="node11" href="$d2/d81/classtorc_1_1generic_1_1VectorPort.html#a11e7224ec6678905ea659b001584a047" title="torc::generic::VectorPort\l::connect" alt="" coords="225,593,385,634"/>
+<area shape="rect" id="node12" href="$d7/d1b/classtorc_1_1generic_1_1VectorPortBit.html#a541e393100b217706c1810451eafddd8" title="torc::generic::VectorPort\lBit::connect" alt="" coords="225,658,385,699"/>
+<area shape="rect" id="node13" href="$de/d82/classtorc_1_1generic_1_1VectorPortBitReference.html#a7db7278251ab341d8a4d97f315970fe5" title="torc::generic::VectorPort\lBitReference::connect" alt="" coords="225,723,385,765"/>
+<area shape="rect" id="node14" href="$dd/da4/classtorc_1_1generic_1_1VectorPortReference.html#ac32293c4c21c057516c003eac466af5f" title="torc::generic::VectorPort\lReference::connect" alt="" coords="225,789,385,830"/>
+</map>

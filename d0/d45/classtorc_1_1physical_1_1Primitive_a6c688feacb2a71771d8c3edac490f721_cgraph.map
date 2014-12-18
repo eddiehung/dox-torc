@@ -1,0 +1,7 @@
+<map id="torc::physical::Primitive::removeElement" name="torc::physical::Primitive::removeElement">
+<area shape="rect" id="node2" href="$d0/d45/classtorc_1_1physical_1_1Primitive.html#a02b0fcf120f723e596a5d88bb0e521f6" title="Find a primitive element by name. " alt="" coords="215,37,369,78"/>
+<area shape="rect" id="node5" href="$da/d6f/classtorc_1_1physical_1_1ConnectionPin.html#a43a95a1ac7a2a9e8ee3a8a0f27cdeaa0" title="Returns the element pointer or NULL. " alt="" coords="208,102,376,143"/>
+<area shape="rect" id="node6" href="$da/d6f/classtorc_1_1physical_1_1ConnectionPin.html#a18597fc1fefaef12ce23626a82d05364" title="Returns the pin name. " alt="" coords="208,167,376,209"/>
+<area shape="rect" id="node3" href="$d0/d45/classtorc_1_1physical_1_1Primitive.html#a36d1cebb83f7c1a8440eb7620bbbaa31" title="Returns the begin constant iterator for elements. " alt="" coords="424,5,579,46"/>
+<area shape="rect" id="node4" href="$d0/d45/classtorc_1_1physical_1_1Primitive.html#aceb1ab95d0d2aaa791f558cae9abeae1" title="Returns the end constant iterator for elements. " alt="" coords="424,70,579,111"/>
+</map>

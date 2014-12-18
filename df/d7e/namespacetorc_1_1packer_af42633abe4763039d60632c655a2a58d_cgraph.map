@@ -1,0 +1,5 @@
+<map id="torc::packer::BOOST_AUTO_TEST_CASE" name="torc::packer::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ae17cc2209dfbec5367d9725940268028" title="Returns a constant reference to the family and device site data. " alt="" coords="223,5,342,46"/>
+<area shape="rect" id="node3" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="223,70,342,111"/>
+<area shape="rect" id="node4" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html#ab8d6b185e643193e8de87bd1e3fb8635" title="Returns the name of the primitive. " alt="" coords="203,135,362,177"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="torc::architecture::testDevice" name="torc::architecture::testDevice">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a9cc56adff56fba91c78872a4c92ca48f" title="Returns the device name. " alt="" coords="179,5,333,46"/>
+<area shape="rect" id="node3" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ad0b7f6d2bdd6750089c8e24e467d9151" title="Returns a constant reference to the family and device tile data. " alt="" coords="197,70,315,111"/>
+<area shape="rect" id="node4" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#aa6815707f3f377980ed9f97c63e2b4f1" title="Returns the tile count for this device. " alt="" coords="189,135,323,177"/>
+<area shape="rect" id="node5" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a62816b62b67b01034e660ed89a6f0d99" title="Returns the TileInfo object for the specified tile. " alt="" coords="195,201,317,242"/>
+<area shape="rect" id="node6" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a3929d1b6b85ec182fccfc88eef0203b7" title="Returns the tile type index for this tile. " alt="" coords="179,266,333,307"/>
+<area shape="rect" id="node7" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a757fd51b26c683f1b63ed7c10b8020a6" title="Returns the tile type name for the given tile type index. " alt="" coords="174,331,338,373"/>
+<area shape="rect" id="node8" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ae17cc2209dfbec5367d9725940268028" title="Returns a constant reference to the family and device site data. " alt="" coords="197,397,315,438"/>
+<area shape="rect" id="node9" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#a07ee9e32b604433ceaa94fdc27eff303" title="Returns the site count for this device. " alt="" coords="187,462,325,503"/>
+<area shape="rect" id="node10" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#adb80b2161c0ca2059c99a1ef491b9024" title="Returns the site for the specified index. " alt="" coords="197,527,315,569"/>
+<area shape="rect" id="node11" href="$da/dd8/classtorc_1_1architecture_1_1Site.html#a9f759d777e56f6a3929d86a973022659" title="Returns a pointer to the associated primitive definition. " alt="" coords="175,593,337,634"/>
+<area shape="rect" id="node12" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html#ab8d6b185e643193e8de87bd1e3fb8635" title="Returns the name of the primitive. " alt="" coords="177,658,335,699"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="torc::architecture::WireInfo::isInput" name="torc::architecture::WireInfo::isInput">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#ac7ded1715b663ff8e3aba176080ab0e4" title="Tilewire detail function. " alt="" coords="192,5,360,46"/>
+<area shape="rect" id="node5" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#ae20af168fd1eaef7b5ef6c5186786a50" title="List all wires for a given tile type. " alt="" coords="192,70,360,111"/>
+<area shape="rect" id="node6" href="$d9/d5b/classtorc_1_1router_1_1NetRouterHeuristic.html#ab7f4caa716a6d33d1ae025f5975c3c8d" title="Heuristic handling of expansion of a node. " alt="" coords="176,135,376,177"/>
+<area shape="rect" id="node7" href="$d0/d88/namespacetorc_1_1architecture.html#a477ceec877e812edaafb5fade03e1f92" title="ExtendedWireInfo stream inserter. " alt="" coords="217,201,335,242"/>
+<area shape="rect" id="node8" href="$da/dc5/classtorc_1_1architecture_1_1VprExporter.html#a72441d28a613dfcf257fd3801e3dfd4f" title="Exports routing graph information for VPR v6.0. " alt="" coords="198,266,354,307"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="424,38,592,79"/>
+<area shape="rect" id="node4" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="640,45,691,72"/>
+</map>

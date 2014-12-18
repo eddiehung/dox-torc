@@ -1,0 +1,42 @@
+<map id="torc::bitstream::Assembler::convertXdlToBitstream" name="torc::bitstream::Assembler::convertXdlToBitstream">
+<area shape="rect" id="node2" href="$d9/d12/Xdl2Bit_8cpp.html#ad6304506c423b4c5c3285017109d4701" title="assembleInstances" alt="" coords="227,639,362,665"/>
+<area shape="rect" id="node34" href="$d9/d12/Xdl2Bit_8cpp.html#a73b44d26286730d2c741a0c4cbdeb303" title="assembleNets" alt="" coords="463,237,569,264"/>
+<area shape="rect" id="node3" href="$d9/d12/Xdl2Bit_8cpp.html#a545092a4b96c8e383b26db705f16a133" title="isSiteTypeSupported" alt="" coords="445,385,587,412"/>
+<area shape="rect" id="node4" href="$d9/d12/Xdl2Bit_8cpp.html#aaefb46a5fbc0ab62cd830dd0844168a9" title="siteExistsInLibrary" alt="" coords="452,436,580,463"/>
+<area shape="rect" id="node5" href="$d9/d12/Xdl2Bit_8cpp.html#a6e0095201e3a61112e9750279c99859e" title="GetFrameBlocksFromSiteName" alt="" coords="412,487,620,513"/>
+<area shape="rect" id="node17" href="$d9/d12/Xdl2Bit_8cpp.html#a026bfc43702b6b80c8b19a1d05353a04" title="isRambSite" alt="" coords="471,841,561,868"/>
+<area shape="rect" id="node18" href="$d9/d12/Xdl2Bit_8cpp.html#a68dec44f26388501662acaccedcc52b7" title="assembleRambInstance" alt="" coords="435,689,597,716"/>
+<area shape="rect" id="node23" href="$d9/d12/Xdl2Bit_8cpp.html#ad0ffc71dd4cddb16e5dd668937663cff" title="checkValidityAndMergeBitstream" alt="" coords="670,567,885,593"/>
+<area shape="rect" id="node24" href="$d9/d12/Xdl2Bit_8cpp.html#aa9d765ccfdb90052eb82cbcf64c91f8e" title="isLutEquationSetting" alt="" coords="445,892,587,919"/>
+<area shape="rect" id="node25" href="$d9/d12/Xdl2Bit_8cpp.html#a3f41a826de87be1000f38529fec345ac" title="mergeLutBits" alt="" coords="466,791,566,817"/>
+<area shape="rect" id="node28" href="$d9/d12/Xdl2Bit_8cpp.html#a9bf6e309c72cf92c5a12a988e6d3c56d" title="isLutRamOrRomSetting" alt="" coords="436,943,596,969"/>
+<area shape="rect" id="node29" href="$d9/d12/Xdl2Bit_8cpp.html#a9cb00f66f3601e31c679c36a3011f923" title="mergeLutRamOrRomBits" alt="" coords="432,740,600,767"/>
+<area shape="rect" id="node30" href="$de/dea/SharedFunctions_8cpp.html#accff214971f410c2bac18cf6db5ce45b" title="elementNeedsCompoundSetting" alt="" coords="411,993,621,1020"/>
+<area shape="rect" id="node31" href="$d9/d12/Xdl2Bit_8cpp.html#a8408e741933a976c5cf1c1142e2267a4" title="mergeCompoundSettingBits" alt="" coords="424,588,608,615"/>
+<area shape="rect" id="node32" href="$da/de3/build_2SharedFunctions_8cpp.html#ae398806f4ae6b7661e83c6fe30f81526" title="DSPMaskOrPatternConfig" alt="" coords="429,335,603,361"/>
+<area shape="rect" id="node33" href="$d9/d12/Xdl2Bit_8cpp.html#aac5fe844b05806043c42bd11d962e2d3" title="mergeDspMaskOrPattern" alt="" coords="431,639,601,665"/>
+<area shape="rect" id="node6" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#ae9dfdb8efa0e1268d2ddd744dc907375" title="Returns the site index for the given site name. " alt="" coords="708,318,847,359"/>
+<area shape="rect" id="node8" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#adb80b2161c0ca2059c99a1ef491b9024" title="Returns the site for the specified index. " alt="" coords="718,435,837,477"/>
+<area shape="rect" id="node9" href="$da/dd8/classtorc_1_1architecture_1_1Site.html#aa6161f227602b45ee6775d161c94ad2d" title="Returns the index of the containing tile. " alt="" coords="714,501,841,542"/>
+<area shape="rect" id="node10" href="$d9/d12/Xdl2Bit_8cpp.html#aee41ce2e2c5a5987ac9d395f38335214" title="GetFrameBlocksFromTileIndex" alt="" coords="676,384,879,411"/>
+<area shape="rect" id="node7" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html#aa37d2cb4d824d944c044a67c2170aebc" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32\l_t \&gt;::undefined" alt="" coords="948,232,1132,288"/>
+<area shape="rect" id="node11" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a62816b62b67b01034e660ed89a6f0d99" title="Returns the TileInfo object for the specified tile. " alt="" coords="979,311,1101,353"/>
+<area shape="rect" id="node12" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a03aca096f150d01eecd07f159578a48a" title="Returns the row for this tile. " alt="" coords="979,507,1101,549"/>
+<area shape="rect" id="node13" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#ae145afababcbd401dbc866188f1008ce" title="Returns the column for this tile. " alt="" coords="981,573,1099,614"/>
+<area shape="rect" id="node14" href="$dd/d9a/classtorc_1_1bitstream_1_1Virtex5.html#a43cb0728ebd386e04c76d7c4a98def9c" title="Returns the primary column corresponding to the given column. If immediately to the left of a BRAM..." alt="" coords="963,377,1117,418"/>
+<area shape="rect" id="node16" href="$dd/d9a/classtorc_1_1bitstream_1_1Virtex5.html#a32f835da769c672ea933a03fdc34c970" title="Returns frames for specified XDL tile coordinates. &#160;inXldRow The XDL row coordinate. &#160;inXdlCol The XDL column coordinate. &#160;outBeginBit The bit index of the beginning of the requested tile. &#160;outEndBit The bit index of the end of the requested tile. &#160;inBlockCount The highest block type requested (8 for Xilinx architectures). " alt="" coords="965,442,1115,483"/>
+<area shape="rect" id="node15" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#a48388a49dccfe1173809c80b3f18974a" title="Returns the column type vector. " alt="" coords="1195,410,1367,451"/>
+<area shape="rect" id="node19" href="$d9/d12/Xdl2Bit_8cpp.html#a63f23afe56065aa038d5e6559a2449e4" title="MergeCompressedBitToMainBits" alt="" coords="933,769,1147,796"/>
+<area shape="rect" id="node20" href="$d9/d12/Xdl2Bit_8cpp.html#a2fb65c6139c9c19441fe873b237ff916" title="isMemoryInitSetting" alt="" coords="709,617,846,644"/>
+<area shape="rect" id="node21" href="$d9/d12/Xdl2Bit_8cpp.html#ab0c649ca250a8b9d7c6b4fcb2e94b87f" title="mergeRambInitBits" alt="" coords="711,769,844,796"/>
+<area shape="rect" id="node22" href="$d9/d12/Xdl2Bit_8cpp.html#a5f7c2023bd81037f141ea023410c130b" title="isMemoryParityInitSetting" alt="" coords="692,668,863,695"/>
+<area shape="rect" id="node26" href="$d9/d12/Xdl2Bit_8cpp.html#a27c41d0999d3ddd7e5b963f098c4d526" title="elementAndConfigExistInLibrary" alt="" coords="675,871,880,897"/>
+<area shape="rect" id="node27" href="$d9/d12/Xdl2Bit_8cpp.html#a71c2ef5b75e7061aa1f3ed2223e7afc9" title="gLUTWordsForOne" alt="" coords="710,972,845,999"/>
+<area shape="rect" id="node35" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#ab3eeb3d38f25c4b394ad27b802f1155d" title="Returns the tile index for the given tile name. " alt="" coords="710,201,845,242"/>
+<area shape="rect" id="node39" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a757fd51b26c683f1b63ed7c10b8020a6" title="Returns the tile type name for the given tile type index. " alt="" coords="695,5,859,46"/>
+<area shape="rect" id="node40" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a3929d1b6b85ec182fccfc88eef0203b7" title="Returns the tile type index for this tile. " alt="" coords="700,70,855,111"/>
+<area shape="rect" id="node41" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a47f66c745c2abf956a03b246dd55b363" title="Returns the name for this tile. " alt="" coords="712,135,843,177"/>
+<area shape="rect" id="node36" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="981,102,1099,143"/>
+<area shape="rect" id="node37" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#ad34ec958b29c5793dac9e46d136e0ef9" title="Returns the non&#45;constant end iterator. " alt="" coords="981,167,1099,209"/>
+<area shape="rect" id="node38" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#ad77e5d82b85e0d2efcdb3aa4c1f66c1c" title="Compare tile pairs by name, for ordering purposes. " alt="" coords="936,37,1144,78"/>
+</map>

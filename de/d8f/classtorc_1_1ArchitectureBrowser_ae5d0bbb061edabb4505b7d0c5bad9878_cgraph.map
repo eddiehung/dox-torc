@@ -1,0 +1,8 @@
+<map id="torc::ArchitectureBrowser::getTileList" name="torc::ArchitectureBrowser::getTileList">
+<area shape="rect" id="node2" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#aa6815707f3f377980ed9f97c63e2b4f1" title="Returns the tile count for this device. " alt="" coords="231,5,366,46"/>
+<area shape="rect" id="node3" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a62816b62b67b01034e660ed89a6f0d99" title="Returns the TileInfo object for the specified tile. " alt="" coords="237,70,360,111"/>
+<area shape="rect" id="node4" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a3929d1b6b85ec182fccfc88eef0203b7" title="Returns the tile type index for this tile. " alt="" coords="221,135,376,177"/>
+<area shape="rect" id="node5" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a03aca096f150d01eecd07f159578a48a" title="Returns the row for this tile. " alt="" coords="238,201,359,242"/>
+<area shape="rect" id="node6" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#ae145afababcbd401dbc866188f1008ce" title="Returns the column for this tile. " alt="" coords="239,266,358,307"/>
+<area shape="rect" id="node7" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a47f66c745c2abf956a03b246dd55b363" title="Returns the name for this tile. " alt="" coords="233,331,364,373"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="torc::generic::VectorNet::getConnectedPortRefs" name="torc::generic::VectorNet::getConnectedPortRefs">
+<area shape="rect" id="node2" href="$df/d6f/classtorc_1_1generic_1_1Net.html#aca042f684267407aa4293427bac864bc" title="torc::generic::Net\l::getConnectedPortRefs" alt="" coords="222,5,381,46"/>
+<area shape="rect" id="node3" href="$d2/d79/classtorc_1_1generic_1_1Vector.html#a31bf9bf794dc4d029f3aee855ae995d6" title="torc::generic::Vector\l\&lt; Net, VectorNetBit,\l VectorNetBit::Factory,\l true \&gt;::getCreatedChildren" alt="" coords="214,70,389,141"/>
+</map>

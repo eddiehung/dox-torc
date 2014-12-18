@@ -1,0 +1,6 @@
+<map id="torc::placer::Placement::initialPlacement" name="torc::placer::Placement::initialPlacement">
+<area shape="rect" id="node2" href="$dd/d25/namespacetorc_1_1placer.html#a70078f88e64785975dd61b79136bfd46" title="torc::placer::getInstance\lTypeIndex" alt="" coords="257,5,415,46"/>
+<area shape="rect" id="node3" href="$d6/db9/classtorc_1_1placer_1_1PlacementSiteTypeMapping.html#a427a4df79f4114431d8910c98d22f164" title="torc::placer::PlacementSite\lTypeMapping::getName" alt="" coords="248,70,424,111"/>
+<area shape="rect" id="node4" href="$d6/db9/classtorc_1_1placer_1_1PlacementSiteTypeMapping.html#a8db7de8d09f8d3fe059fca81ce569f0c" title="torc::placer::PlacementSite\lTypeMapping::getLegalSitesForInstance" alt="" coords="209,135,463,177"/>
+<area shape="rect" id="node5" href="$da/dd8/classtorc_1_1architecture_1_1Site.html#a6d90d80f1fb58803e985344de6120d60" title="Returns the site name. " alt="" coords="277,201,395,242"/>
+</map>

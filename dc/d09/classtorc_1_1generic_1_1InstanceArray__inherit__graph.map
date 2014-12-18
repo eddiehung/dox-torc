@@ -1,0 +1,13 @@
+<map id="torc::generic::InstanceArray" name="torc::generic::InstanceArray">
+<area shape="rect" id="node2" href="$da/d11/classtorc_1_1generic_1_1Instance.html" title="Represents an instantiation of a cell view in the view of another cell. " alt="" coords="538,172,686,199"/>
+<area shape="rect" id="node3" href="$dd/dca/classtorc_1_1generic_1_1Composite.html" title="torc::generic::Composite\l\&lt; Instance \&gt;" alt="" coords="269,5,429,46"/>
+<area shape="rect" id="node12" href="$d2/d79/classtorc_1_1generic_1_1Vector.html" title="torc::generic::Vector\l\&lt; Instance, InstanceArrayMember,\l InstanceArrayMember::Factory,\l false \&gt;" alt="" coords="501,34,723,105"/>
+<area shape="rect" id="node4" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Instance \&gt;" alt="" coords="6,5,197,46"/>
+<area shape="rect" id="node5" href="$dc/d00/classtorc_1_1generic_1_1Commentable.html" title="Represents all classes that can hold user comments. " alt="" coords="260,71,439,97"/>
+<area shape="rect" id="node6" href="$d1/d13/classtorc_1_1generic_1_1Nameable.html" title="An object that has a name. " alt="" coords="271,121,428,148"/>
+<area shape="rect" id="node7" href="$da/df0/classtorc_1_1generic_1_1PropertyContainer.html" title="Represents objects that have properties. " alt="" coords="249,172,450,199"/>
+<area shape="rect" id="node8" href="$df/da8/classtorc_1_1generic_1_1Renamable.html" title="Represents objects that can be renamed. " alt="" coords="268,223,431,249"/>
+<area shape="rect" id="node9" href="$d7/de6/classtorc_1_1generic_1_1Visitable.html" title="An object that receives an inoutVisitor. " alt="" coords="275,273,423,300"/>
+<area shape="rect" id="node10" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html" title="torc::generic::ParentedObject\l\&lt; View \&gt;" alt="" coords="255,325,443,366"/>
+<area shape="rect" id="node11" href="$d7/dad/classtorc_1_1generic_1_1UserDataContainer.html" title="Represents class that can hold userData. " alt="" coords="245,391,453,417"/>
+</map>

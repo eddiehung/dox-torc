@@ -1,0 +1,5 @@
+<map id="torc::bitstream::Virtex7::setRowCounts" name="torc::bitstream::Virtex7::setRowCounts">
+<area shape="rect" id="node2" href="$d5/d8c/classtorc_1_1bitstream_1_1Virtex7.html#a28f6676db18dc41103f388152e620143" title="Initialize the Device Information. " alt="" coords="206,5,357,46"/>
+<area shape="rect" id="node4" href="$d5/d8c/classtorc_1_1bitstream_1_1Virtex7.html#ab26d7666cf398b593e5315408f1710cc" title="Initialize the maps between frame indexes and frame addresses. &#160;This is generally useful only for int..." alt="" coords="206,70,357,111"/>
+<area shape="rect" id="node3" href="$da/d69/classtorc_1_1bitstream_1_1Virtex7LibGen.html#a9195d3e0c4aad39fd944b5619f2b4e90" title="Compress given bitstream file against reference bitstream file. " alt="" coords="406,5,570,46"/>
+</map>

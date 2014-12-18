@@ -1,0 +1,5 @@
+<map id="torc::packer::PrimitiveStructure::isPower" name="torc::packer::PrimitiveStructure::isPower">
+<area shape="rect" id="node2" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#a3865d9a332ac998b492e01d0c3f6b90f" title="Returns a non&#45;constant array of element pins. &#160;This function should only be used by the Sites class d..." alt="" coords="254,5,386,61"/>
+<area shape="rect" id="node3" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#af596a8df4be7401c5874b82c44e73bd7" title="Returns the array size. " alt="" coords="261,85,379,126"/>
+<area shape="rect" id="node4" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#acd689c941bde03e88f68307fd30cc7c2" title="Returns the name of the element. " alt="" coords="254,149,386,205"/>
+</map>

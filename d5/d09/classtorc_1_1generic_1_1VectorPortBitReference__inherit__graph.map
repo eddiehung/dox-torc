@@ -1,0 +1,10 @@
+<map id="torc::generic::VectorPortBitReference" name="torc::generic::VectorPortBitReference">
+<area shape="rect" id="node2" href="$d7/d8f/classtorc_1_1generic_1_1PortReference.html" title="Represents the usable instance of a port of a cell in another cell. " alt="" coords="496,136,677,163"/>
+<area shape="rect" id="node3" href="$d5/d7d/classtorc_1_1generic_1_1Connectable.html" title="An object that is connectable to a Net. " alt="" coords="261,5,432,32"/>
+<area shape="rect" id="node4" href="$da/df0/classtorc_1_1generic_1_1PropertyContainer.html" title="Represents objects that have properties. " alt="" coords="246,56,447,83"/>
+<area shape="rect" id="node5" href="$d7/de6/classtorc_1_1generic_1_1Visitable.html" title="An object that receives an inoutVisitor. " alt="" coords="273,107,421,133"/>
+<area shape="rect" id="node6" href="$dd/dca/classtorc_1_1generic_1_1Composite.html" title="torc::generic::Composite\l\&lt; PortReference \&gt;" alt="" coords="267,223,427,265"/>
+<area shape="rect" id="node9" href="$d8/daa/classtorc_1_1generic_1_1VectorBit.html" title="torc::generic::VectorBit\l\&lt; PortReference \&gt;" alt="" coords="511,206,663,247"/>
+<area shape="rect" id="node7" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; PortReference \&gt;" alt="" coords="6,223,197,265"/>
+<area shape="rect" id="node8" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html" title="torc::generic::ParentedObject\l\&lt; Instance \&gt;" alt="" coords="253,158,441,199"/>
+</map>

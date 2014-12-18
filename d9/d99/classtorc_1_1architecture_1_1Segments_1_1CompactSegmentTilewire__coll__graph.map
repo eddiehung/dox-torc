@@ -1,0 +1,7 @@
+<map id="torc::architecture::Segments::CompactSegmentTilewire" name="torc::architecture::Segments::CompactSegmentTilewire">
+<area shape="rect" id="node2" href="$d4/d6d/structtorc_1_1architecture_1_1xilinx_1_1TileOffset.html" title="Encapsulation of a tile offset in an unsigned 32&#45;bit integer. " alt="" coords="475,5,594,46"/>
+<area shape="rect" id="node3" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32_t \&gt;" alt="" coords="240,5,424,46"/>
+<area shape="rect" id="node4" href="$d3/df8/structtorc_1_1architecture_1_1xilinx_1_1WireIndex.html" title="Encapsulation of a wire index in an unsigned 16&#45;bit integer. " alt="" coords="475,70,594,111"/>
+<area shape="rect" id="node5" href="$dc/dd8/structtorc_1_1architecture_1_1xilinx_1_1WireCount.html" title="Encapsulation of a wire count in an unsigned 16&#45;bit integer. " alt="" coords="271,70,393,111"/>
+<area shape="rect" id="node6" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint16_t \&gt;" alt="" coords="5,70,189,111"/>
+</map>

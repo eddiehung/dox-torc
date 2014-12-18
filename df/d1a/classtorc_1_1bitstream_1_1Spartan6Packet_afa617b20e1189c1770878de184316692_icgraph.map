@@ -1,0 +1,8 @@
+<map id="torc::bitstream::Spartan6Packet::makeHeader" name="torc::bitstream::Spartan6Packet::makeHeader">
+<area shape="rect" id="node2" href="$d6/d7e/namespacetorc_1_1bitstream.html#a8262b1b797b33abf370ea294831cba98" title="Unit test for the Spartan6Bitstream class. " alt="" coords="454,31,610,73"/>
+<area shape="rect" id="node3" href="$d6/d7e/namespacetorc_1_1bitstream.html#a63461f866163753ec49c61be8fcf2c80" title="torc::bitstream::buildSpartan6\lPartials" alt="" coords="216,162,405,203"/>
+<area shape="rect" id="node5" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#ae31e1c944e10195ad268e0f5f9364e4e" title="Construct a type 1 write packet. " alt="" coords="227,31,394,73"/>
+<area shape="rect" id="node6" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a746aafbbc764a710e41612b06b270223" title="Construct a type 1 write packet for two words. " alt="" coords="221,97,401,138"/>
+<area shape="rect" id="node7" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a39c57728b2af6f734db70b00ff43d81f" title="Construct a type 2 write packet. " alt="" coords="227,227,394,269"/>
+<area shape="rect" id="node4" href="$d6/d7e/namespacetorc_1_1bitstream.html#a0c75ca95289a20e3482cfcead7d6da26" title="Unit test for the Spartan6BuildHelper class. " alt="" coords="454,162,610,203"/>
+</map>

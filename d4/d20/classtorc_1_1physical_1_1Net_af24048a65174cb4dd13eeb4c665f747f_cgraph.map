@@ -1,0 +1,4 @@
+<map id="torc::physical::Net::removeSink" name="torc::physical::Net::removeSink">
+<area shape="rect" id="node2" href="$d4/d20/classtorc_1_1physical_1_1Net.html#a3456984cc61b5e7d492b2604ae61f7ba" title="Returns the end constant iterator for sink instance pins. " alt="" coords="179,5,303,46"/>
+<area shape="rect" id="node3" href="$d4/d20/classtorc_1_1physical_1_1Net.html#a18cff5e3287fca174025fb23da6eca79" title="Returns the begin constant iterator for sink instance pins. " alt="" coords="179,70,303,111"/>
+</map>

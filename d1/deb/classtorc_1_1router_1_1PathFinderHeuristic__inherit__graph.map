@@ -1,0 +1,4 @@
+<map id="torc::router::PathFinderHeuristic" name="torc::router::PathFinderHeuristic">
+<area shape="rect" id="node2" href="$d9/db9/classtorc_1_1router_1_1NetVectorRouterHeuristicBase.html" title="Provides net routing based on the Nillson graphsearch algorithm. " alt="" coords="16,81,203,122"/>
+<area shape="rect" id="node3" href="$d5/df5/classtorc_1_1router_1_1RouterHeuristicBase.html" title="Provides the interface for net routers. " alt="" coords="5,5,213,32"/>
+</map>

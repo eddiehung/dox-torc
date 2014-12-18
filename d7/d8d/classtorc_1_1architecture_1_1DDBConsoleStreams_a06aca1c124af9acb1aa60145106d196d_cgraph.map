@@ -1,0 +1,7 @@
+<map id="torc::architecture::DDBConsoleStreams::DDBConsoleStreams" name="torc::architecture::DDBConsoleStreams::DDBConsoleStreams">
+<area shape="rect" id="node2" href="$d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a7ef1f060e88d97307d1beb44bddd355d" title="Sets all of the database console streams. " alt="" coords="206,125,357,181"/>
+<area shape="rect" id="node3" href="$d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#abd5289c652108bcc68b80fcf56233df0" title="Sets the database console input stream. " alt="" coords="406,5,557,61"/>
+<area shape="rect" id="node4" href="$d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#ada476e652116b041db8b293f8c9ee63e" title="Sets the database console output stream. " alt="" coords="406,85,557,141"/>
+<area shape="rect" id="node5" href="$d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a3036b016989e266854fee11b8c25b6c9" title="Sets the database console error stream. " alt="" coords="406,165,557,221"/>
+<area shape="rect" id="node6" href="$d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a82bed28995801de169234fcb121bf0ab" title="Sets the database console log stream. " alt="" coords="406,245,557,301"/>
+</map>

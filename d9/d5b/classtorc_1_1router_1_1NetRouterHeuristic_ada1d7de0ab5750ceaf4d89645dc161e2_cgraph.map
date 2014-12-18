@@ -1,0 +1,6 @@
+<map id="torc::router::NetRouterHeuristic::distanceToSink" name="torc::router::NetRouterHeuristic::distanceToSink">
+<area shape="rect" id="node2" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a62816b62b67b01034e660ed89a6f0d99" title="Returns the TileInfo object for the specified tile. " alt="" coords="267,5,389,46"/>
+<area shape="rect" id="node3" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#ad1789982f584140ebf77d4e8bc396e3d" title="Returns the tile index. " alt="" coords="253,70,403,111"/>
+<area shape="rect" id="node4" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a03aca096f150d01eecd07f159578a48a" title="Returns the row for this tile. " alt="" coords="267,135,389,177"/>
+<area shape="rect" id="node5" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#ae145afababcbd401dbc866188f1008ce" title="Returns the column for this tile. " alt="" coords="269,201,387,242"/>
+</map>

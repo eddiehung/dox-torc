@@ -1,0 +1,5 @@
+<map id="torc::bitstream::VirtexPacket::getWordSize" name="torc::bitstream::VirtexPacket::getWordSize">
+<area shape="rect" id="node2" href="$d6/d7e/namespacetorc_1_1bitstream.html#abeca528bd76d01b5c6df5d091d813709" title="Virtex stream inserter. " alt="" coords="243,5,416,32"/>
+<area shape="rect" id="node3" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#abd8fff9c6c001c78d6a40f5bca8451aa" title="Write a packet. " alt="" coords="237,57,421,98"/>
+<area shape="rect" id="node4" href="$d6/d7e/namespacetorc_1_1bitstream.html#a2aea17e537ecc29f8453fd57ff6db06f" title="Unit test for the VirtexPacket class. " alt="" coords="251,122,407,163"/>
+</map>

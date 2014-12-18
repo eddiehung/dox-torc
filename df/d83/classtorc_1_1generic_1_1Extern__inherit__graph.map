@@ -1,0 +1,10 @@
+<map id="torc::generic::Extern" name="torc::generic::Extern">
+<area shape="rect" id="node2" href="$d1/dda/classtorc_1_1generic_1_1Cell.html" title="Represents an EDIF cell. " alt="" coords="199,5,319,32"/>
+<area shape="rect" id="node3" href="$d7/db4/classtorc_1_1generic_1_1Library.html" title="An EDIF cell library. " alt="" coords="190,56,327,83"/>
+<area shape="rect" id="node4" href="$da/dc3/classtorc_1_1generic_1_1Port.html" title="Interface for an EDIF port object. " alt="" coords="197,107,320,133"/>
+<area shape="rect" id="node9" href="$d6/d6e/classtorc_1_1generic_1_1View.html" title="Represents and EDIF View. " alt="" coords="195,157,322,184"/>
+<area shape="rect" id="node5" href="$d7/d1c/classtorc_1_1generic_1_1PortBundle.html" title="Represents a bundle of ports. " alt="" coords="383,31,545,57"/>
+<area shape="rect" id="node6" href="$d2/dca/classtorc_1_1generic_1_1ScalarPort.html" title="Represents a standalone port. " alt="" coords="385,81,543,108"/>
+<area shape="rect" id="node7" href="$d2/d81/classtorc_1_1generic_1_1VectorPort.html" title="Represents a port array. " alt="" coords="384,132,544,159"/>
+<area shape="rect" id="node8" href="$d7/d1b/classtorc_1_1generic_1_1VectorPortBit.html" title="Represents a bit of a port. " alt="" coords="376,183,552,209"/>
+</map>

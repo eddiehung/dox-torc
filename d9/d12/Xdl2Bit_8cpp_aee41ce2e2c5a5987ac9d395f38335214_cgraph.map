@@ -1,0 +1,8 @@
+<map id="GetFrameBlocksFromTileIndex" name="GetFrameBlocksFromTileIndex">
+<area shape="rect" id="node2" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a62816b62b67b01034e660ed89a6f0d99" title="Returns the TileInfo object for the specified tile. " alt="" coords="272,5,395,46"/>
+<area shape="rect" id="node3" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a03aca096f150d01eecd07f159578a48a" title="Returns the row for this tile. " alt="" coords="273,70,394,111"/>
+<area shape="rect" id="node4" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#ae145afababcbd401dbc866188f1008ce" title="Returns the column for this tile. " alt="" coords="274,135,393,177"/>
+<area shape="rect" id="node5" href="$dd/d9a/classtorc_1_1bitstream_1_1Virtex5.html#a43cb0728ebd386e04c76d7c4a98def9c" title="Returns the primary column corresponding to the given column. If immediately to the left of a BRAM..." alt="" coords="257,201,410,242"/>
+<area shape="rect" id="node7" href="$dd/d9a/classtorc_1_1bitstream_1_1Virtex5.html#a32f835da769c672ea933a03fdc34c970" title="Returns frames for specified XDL tile coordinates. &#160;inXldRow The XDL row coordinate. &#160;inXdlCol The XDL column coordinate. &#160;outBeginBit The bit index of the beginning of the requested tile. &#160;outEndBit The bit index of the end of the requested tile. &#160;inBlockCount The highest block type requested (8 for Xilinx architectures). " alt="" coords="258,266,409,307"/>
+<area shape="rect" id="node6" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#a48388a49dccfe1173809c80b3f18974a" title="Returns the column type vector. " alt="" coords="459,234,631,275"/>
+</map>

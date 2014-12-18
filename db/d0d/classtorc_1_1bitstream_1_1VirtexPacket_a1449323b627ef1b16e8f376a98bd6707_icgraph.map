@@ -1,0 +1,4 @@
+<map id="torc::bitstream::VirtexPacket::isNop" name="torc::bitstream::VirtexPacket::isNop">
+<area shape="rect" id="node2" href="$d6/d7e/namespacetorc_1_1bitstream.html#acd1feeeb0e874f88692413a8ced11226" title="Virtex2 stream inserter. " alt="" coords="251,5,424,32"/>
+<area shape="rect" id="node3" href="$db/d95/classtorc_1_1bitstream_1_1VirtexBitstream.html#af59626f07ac21d2a20c484cb2350a81c" title="Discard the existing frame packets for Virtex4/5/6/7 devices. " alt="" coords="238,57,437,98"/>
+</map>

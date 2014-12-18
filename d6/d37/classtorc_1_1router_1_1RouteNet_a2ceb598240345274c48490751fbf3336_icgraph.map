@@ -1,0 +1,5 @@
+<map id="torc::router::RouteNet::arcsEnd" name="torc::router::RouteNet::arcsEnd">
+<area shape="rect" id="node2" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a48e9f7a55d17dda071d3c89ffad3a0c0" title="Determines whether the net contains the given arc. " alt="" coords="197,5,341,46"/>
+<area shape="rect" id="node4" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#af40fcba3c7285993867da5fde3d97764" title="Removes the given arc from this net. " alt="" coords="197,70,341,111"/>
+<area shape="rect" id="node3" href="$dc/dd6/namespacetorc_1_1router.html#a0d61cb6d997eaf1d7447086859ef7356" title="Unit test for the Net class. " alt="" coords="390,38,538,79"/>
+</map>

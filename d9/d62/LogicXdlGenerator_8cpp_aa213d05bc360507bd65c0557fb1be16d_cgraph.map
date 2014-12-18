@@ -1,0 +1,10 @@
+<map id="GenerateXdlForLUT" name="GenerateXdlForLUT">
+<area shape="rect" id="node2" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#acd689c941bde03e88f68307fd30cc7c2" title="Returns the name of the element. " alt="" coords="243,5,375,61"/>
+<area shape="rect" id="node3" href="$d9/d62/LogicXdlGenerator_8cpp.html#a0a8fd350b683c8013fa5437b3757313a" title="GetEmptyDesignWithSameMetadata" alt="" coords="193,85,426,112"/>
+<area shape="rect" id="node4" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#a3865d9a332ac998b492e01d0c3f6b90f" title="Returns a non&#45;constant array of element pins. &#160;This function should only be used by the Sites class d..." alt="" coords="243,136,375,192"/>
+<area shape="rect" id="node5" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="250,215,369,257"/>
+<area shape="rect" id="node6" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#ad34ec958b29c5793dac9e46d136e0ef9" title="Returns the non&#45;constant end iterator. " alt="" coords="250,281,369,322"/>
+<area shape="rect" id="node7" href="$d9/d62/LogicXdlGenerator_8cpp.html#a50466170b8842262629f24becec81ac9" title="GenerateReferenceXDLForThe\lElement" alt="" coords="209,346,410,387"/>
+<area shape="rect" id="node9" href="$d9/d62/LogicXdlGenerator_8cpp.html#a32cd10b3d665fc8a3bbc181cfc2b1c51" title="SetConfigAndGenerateXDL" alt="" coords="219,412,399,439"/>
+<area shape="rect" id="node8" href="$d9/d62/LogicXdlGenerator_8cpp.html#acc1c4d647070d4c3153396191893f4f2" title="GetReferenceConfigValueFor\lElement" alt="" coords="475,346,666,387"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="torc::bitstream::BOOST_AUTO_TEST_CASE" name="torc::bitstream::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d4/da0/classtorc_1_1common_1_1DirectoryTree.html#af1b18fb3aa350b4522babca30a9034b8" title="Returns the absolute path to the executable directory. " alt="" coords="219,38,402,79"/>
+<area shape="rect" id="node3" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a1e9c8025e87e1fea15a48c68058e8cf0" title="Read the bitstream header and packets from a stream. " alt="" coords="227,103,394,145"/>
+<area shape="rect" id="node9" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#abd14abbc9882c6087657d60ec361f48d" title="Set the design name. " alt="" coords="227,169,394,210"/>
+<area shape="rect" id="node10" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a4372dddbdcea49ca0d2fa7b5929b8ff6" title="Set the device name. " alt="" coords="227,234,394,275"/>
+<area shape="rect" id="node11" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a0e9488888e5bb2f7d1a63462cc082a45" title="Set the design date. " alt="" coords="227,299,394,341"/>
+<area shape="rect" id="node12" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a1fef22e3b2096eea6cdb3d3e7ded7959" title="Set the design time. " alt="" coords="227,365,394,406"/>
+<area shape="rect" id="node13" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#adec678be1c5cc1f7d8da5a735a365153" title="Construct a packet header. " alt="" coords="459,482,643,523"/>
+<area shape="rect" id="node14" href="$db/d95/classtorc_1_1bitstream_1_1VirtexBitstream.html#a2ad2e27be03de2ab6214fd5a14d870f9" title="Regular std::vector inserter. " alt="" coords="211,613,410,654"/>
+<area shape="rect" id="node15" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#ad1fb7001c77afde247673d4cf37b789e" title="Construct a type 1 write packet. " alt="" coords="219,547,403,589"/>
+<area shape="rect" id="node17" href="$dd/d9a/classtorc_1_1bitstream_1_1Virtex5.html#aab67d9c908b3f8bc5e5db4544c3164af" title="Return the masked value for a subfield of the specified register. " alt="" coords="235,678,386,719"/>
+<area shape="rect" id="node18" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#ad95bae533c174554b4d6d76ed50483e9" title="Construct a null type 1 write packet. " alt="" coords="219,482,403,523"/>
+<area shape="rect" id="node19" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a0d18e6dad16501861c5f983b10464194" title="Write a uint8_t to the stream. " alt="" coords="227,743,394,785"/>
+<area shape="rect" id="node20" href="$df/dd5/namespacetorc_1_1common.html#a1887f6d58eba4d1e5bfba31534e4f4bb" title="Compare the raw contents of two files to determine whether they are identical. " alt="" coords="223,809,398,850"/>
+<area shape="rect" id="node4" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a5169ae2bf8f4588abb0e638da031ca57" title="Read a bitstream header, and return its fields. " alt="" coords="467,38,634,79"/>
+<area shape="rect" id="node7" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a8c925813847a519cc4f9703e7b860d89" title="Read the bitstream packets. " alt="" coords="467,103,634,145"/>
+<area shape="rect" id="node8" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a44b988b356a5d6be40a4e11d1c031f97" title="Clean up the header date and time by replacing embedded spaces with zeros. " alt="" coords="467,169,634,210"/>
+<area shape="rect" id="node5" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a62e649b31e40a5d60b9eb6ccf9ccf894" title="Look for the expected uint8_t in the stream and return true if it matches. " alt="" coords="691,5,858,46"/>
+<area shape="rect" id="node6" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a6910da85cf9207951d5914d118fe35f5" title="Read and return a bitstream header string. " alt="" coords="691,70,858,111"/>
+<area shape="rect" id="node16" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#a8f0ba38d72cbf2c7ae253fa7e4d83d82" title="Null constructor. " alt="" coords="459,547,643,589"/>
+<area shape="rect" id="node21" href="$df/dd5/namespacetorc_1_1common.html#ac7c53b5c144d7da4397567f2a9d98d4d" title="Read the raw contents of the specified file into a std::string. " alt="" coords="463,809,638,850"/>
+</map>

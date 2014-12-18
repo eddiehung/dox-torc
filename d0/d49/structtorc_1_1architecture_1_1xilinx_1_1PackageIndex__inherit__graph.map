@@ -1,0 +1,4 @@
+<map id="torc::architecture::xilinx::PackageIndex" name="torc::architecture::xilinx::PackageIndex">
+<area shape="rect" id="node2" href="$da/d2c/structtorc_1_1architecture_1_1xilinx_1_1PackageCount.html" title="Encapsulation of a package count in an unsigned 16&#45;bit integer. " alt="" coords="24,97,171,138"/>
+<area shape="rect" id="node3" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint16_t \&gt;" alt="" coords="5,6,189,47"/>
+</map>

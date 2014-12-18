@@ -1,0 +1,6 @@
+<map id="torc::generic::ConnectionHandler::disconnectPortFromNet" name="torc::generic::ConnectionHandler::disconnectPortFromNet">
+<area shape="rect" id="node2" href="$d7/d1c/classtorc_1_1generic_1_1PortBundle.html#ac5235dc050f44fecda120868a99b1955" title="torc::generic::PortBundle\l::disconnect" alt="" coords="264,5,427,46"/>
+<area shape="rect" id="node3" href="$d2/dca/classtorc_1_1generic_1_1ScalarPort.html#a651c26fe3fb4a0c74a6b73b1c5b9bb4f" title="torc::generic::ScalarPort\l::disconnect" alt="" coords="266,70,425,111"/>
+<area shape="rect" id="node4" href="$d2/d81/classtorc_1_1generic_1_1VectorPort.html#ae00b5a66b2df639052ae2ad84c96783c" title="torc::generic::VectorPort\l::disconnect" alt="" coords="265,135,425,177"/>
+<area shape="rect" id="node5" href="$d7/d1b/classtorc_1_1generic_1_1VectorPortBit.html#a6f5e3e268aee9acfe0724132dd473426" title="torc::generic::VectorPort\lBit::disconnect" alt="" coords="265,201,425,242"/>
+</map>

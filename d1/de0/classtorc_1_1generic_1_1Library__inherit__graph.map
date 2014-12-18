@@ -1,0 +1,11 @@
+<map id="torc::generic::Library" name="torc::generic::Library">
+<area shape="rect" id="node2" href="$dc/d00/classtorc_1_1generic_1_1Commentable.html" title="Represents all classes that can hold user comments. " alt="" coords="20,5,199,32"/>
+<area shape="rect" id="node3" href="$d3/d97/classtorc_1_1generic_1_1Extern.html" title="Used to implement external object referencing. " alt="" coords="42,56,177,83"/>
+<area shape="rect" id="node4" href="$d1/d13/classtorc_1_1generic_1_1Nameable.html" title="An object that has a name. " alt="" coords="31,107,188,133"/>
+<area shape="rect" id="node5" href="$df/da8/classtorc_1_1generic_1_1Renamable.html" title="Represents objects that can be renamed. " alt="" coords="28,157,191,184"/>
+<area shape="rect" id="node6" href="$d7/de6/classtorc_1_1generic_1_1Visitable.html" title="An object that receives an inoutVisitor. " alt="" coords="35,208,183,235"/>
+<area shape="rect" id="node7" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html" title="torc::generic::ParentedObject\l\&lt; Root \&gt;" alt="" coords="15,259,203,301"/>
+<area shape="rect" id="node8" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Library \&gt;" alt="" coords="14,325,205,366"/>
+<area shape="rect" id="node9" href="$d7/dad/classtorc_1_1generic_1_1UserDataContainer.html" title="Represents class that can hold userData. " alt="" coords="5,391,213,417"/>
+<area shape="rect" id="node10" href="$da/dcf/classtorc_1_1generic_1_1StatusContainer.html" title="Represents objects that have status. " alt="" coords="14,441,205,468"/>
+</map>

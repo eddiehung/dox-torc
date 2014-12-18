@@ -1,0 +1,7 @@
+<map id="torc::common::DeviceDesignator::getDevicePackage" name="torc::common::DeviceDesignator::getDevicePackage">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#afce551dd7bc49388f92cc9e55b32d8d6" title="Public constructor. " alt="" coords="287,5,406,46"/>
+<area shape="rect" id="node3" href="$df/dd5/namespacetorc_1_1common.html#a90e5846321c7e8bd0b55f69f92cdbf49" title="torc::common::operator\&lt;\&lt;" alt="" coords="262,71,431,97"/>
+<area shape="rect" id="node4" href="$df/dd5/namespacetorc_1_1common.html#aacdb76dde186637f9edd7d41a0c9168a" title="Unit test for the DeviceDesignator class. " alt="" coords="271,122,423,163"/>
+<area shape="rect" id="node5" href="$d9/da8/classtorc_1_1XdlParser.html#aa2fe1251737ad4ba305ec441df42d7d2" title="torc::XdlParser::parse" alt="" coords="274,188,419,215"/>
+<area shape="rect" id="node6" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#a5a51647d7c27a73a5f6987659bfcab19" title="Import XDL from an input stream. " alt="" coords="480,181,651,222"/>
+</map>

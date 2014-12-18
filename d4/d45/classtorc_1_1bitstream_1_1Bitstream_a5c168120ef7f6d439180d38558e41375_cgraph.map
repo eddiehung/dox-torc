@@ -1,0 +1,9 @@
+<map id="torc::bitstream::Bitstream::readHeader" name="torc::bitstream::Bitstream::readHeader">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a5169ae2bf8f4588abb0e638da031ca57" title="Read a bitstream header, and return its fields. " alt="" coords="222,70,389,111"/>
+<area shape="rect" id="node5" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a8561b81d796985f4f2bd4df044fb5c68" title="Assign the device enumeration constant for the given device name. " alt="" coords="222,135,389,177"/>
+<area shape="rect" id="node3" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a62e649b31e40a5d60b9eb6ccf9ccf894" title="Look for the expected uint8_t in the stream and return true if it matches. " alt="" coords="438,5,605,46"/>
+<area shape="rect" id="node4" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a6910da85cf9207951d5914d118fe35f5" title="Read and return a bitstream header string. " alt="" coords="438,70,605,111"/>
+<area shape="rect" id="node6" href="$d7/d6c/classtorc_1_1common_1_1Devices.html#a58345b793346e306dfdf048ad3b5bbb0" title="Returns the device enumeration corresponding to the given device name. " alt="" coords="445,135,598,177"/>
+<area shape="rect" id="node7" href="$d7/d40/classtorc_1_1common_1_1DeviceDesignator.html#a00bd09ba5c08dd9db11c0b0e30248ef2" title="Returns the device name. " alt="" coords="653,102,861,143"/>
+<area shape="rect" id="node8" href="$d7/d6c/classtorc_1_1common_1_1Devices.html#a99bf2c435599c1689a67b613b5528e26" title="Returns the device map. " alt="" coords="681,167,834,209"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="torc::architecture::PrimitiveElement::getName" name="torc::architecture::PrimitiveElement::getName">
+<area shape="rect" id="node2" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a90b80d86a73c4f8e66eff7376e68acea" title="Generrate Xdls for logic sites. " alt="" coords="768,66,947,108"/>
+<area shape="rect" id="node3" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#aad3e12d5e2c85b802c01f4df870f9bc4" title="Create Xdls for each config value of the config setting " alt="" coords="491,121,719,162"/>
+<area shape="rect" id="node4" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a741354c762a1cb6dab6facc56ec05a66" title="Create Xdls for compound settings. " alt="" coords="187,146,442,188"/>
+<area shape="rect" id="node5" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a1373812cec9b472d20a7891d574c8917" title="Create Xdls for orphan elements with empty reference Xdl. " alt="" coords="195,212,435,253"/>
+<area shape="rect" id="node6" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a8c5562ce5781503810c3fa68dcc0339f" title="Create Xdl for Lut. " alt="" coords="229,277,401,318"/>
+<area shape="rect" id="node7" href="$d9/d62/LogicXdlGenerator_8cpp.html#a8450f5937155ebc8e9548858745576d9" title="GenerateXdlForCompoundSettings" alt="" coords="494,495,717,522"/>
+<area shape="rect" id="node8" href="$d9/d62/LogicXdlGenerator_8cpp.html#aa7743a684d5ed27d44491854192b2d68" title="GenerateXdlForElement" alt="" coords="777,470,937,496"/>
+<area shape="rect" id="node9" href="$d9/d62/LogicXdlGenerator_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Generates XDLs for various site types. An XDL is generated for each. " alt="" coords="995,534,1045,560"/>
+<area shape="rect" id="node10" href="$d9/d62/LogicXdlGenerator_8cpp.html#aa213d05bc360507bd65c0557fb1be16d" title="GenerateXdlForLUT" alt="" coords="536,343,675,370"/>
+<area shape="rect" id="node11" href="$d9/d62/LogicXdlGenerator_8cpp.html#a97e9844627efe6718edaad3874015afd" title="GenerateXdlForGenericElement" alt="" coords="212,394,417,420"/>
+<area shape="rect" id="node12" href="$d9/d62/LogicXdlGenerator_8cpp.html#a0a7b5134c755a42fefdf44fbe65374dd" title="GenerateXdlForOrphanElements" alt="" coords="501,444,710,471"/>
+<area shape="rect" id="node13" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#a75af67035741a07620747f28f3370f1b" title="Return true if the element has been preclassified (typically by a subclass). " alt="" coords="215,648,414,689"/>
+<area shape="rect" id="node14" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#ae596f474362021c4202dfc0e189ccb53" title="Return true if the element is the principal element (a parent to the orphans). " alt="" coords="215,713,414,754"/>
+<area shape="rect" id="node15" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#a9401df08cfc7335997e57c082bd59c1e" title="Return true if the element is a terminal. " alt="" coords="215,778,414,820"/>
+<area shape="rect" id="node16" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#a8b498573db03d6080602a69ba11aa00c" title="Return true if the element is a power source. " alt="" coords="215,844,414,885"/>
+<area shape="rect" id="node17" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#a1fffde2f6d9a8140f8051dc61e572f3c" title="Return true if the element is a ground source. " alt="" coords="215,909,414,950"/>
+<area shape="rect" id="node18" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#a2e39f7074175608df2462a5480346866" title="Return true if the element is a routethrough. " alt="" coords="215,974,414,1016"/>
+<area shape="rect" id="node19" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html#a8d0644080ce4ab5bd6fb08e79cd02c9a" title="Initialize this object based on the PrimitiveDef information. " alt="" coords="215,1040,414,1081"/>
+<area shape="rect" id="node20" href="$d0/d88/namespacetorc_1_1architecture.html#a35beee467bc68a9731945eb596280b5c" title="Unit test to iterate through a database and classify all existing elements into pseudo&#45;types. " alt="" coords="215,1105,415,1146"/>
+<area shape="rect" id="node21" href="$d7/dc5/classtorc_1_1packer_1_1Unpacker.html#a6351b01fc431bd827a96f80ad816f493" title="Function to find the next element. " alt="" coords="239,1170,390,1212"/>
+<area shape="rect" id="node22" href="$d7/dc5/classtorc_1_1packer_1_1Unpacker.html#aeccba4ebf3199f28e69dc2e9aff01fda" title="Unpack function that takes Instance iterators as input. " alt="" coords="239,1236,390,1277"/>
+<area shape="rect" id="node23" href="$d0/d8d/classtorc_1_1packer_1_1Virtex2PrimitiveStructure.html#a55537a36270fbf92f8863576df384968" title="Initialize this object based on the PrimitiveDef information. " alt="" coords="221,1301,408,1342"/>
+<area shape="rect" id="node24" href="$d3/d70/classtorc_1_1packer_1_1Virtex5PrimitiveStructure.html#a4c57ea351747a8e1607b15cbe41c818c" title="Initialize this object based on the PrimitiveDef information. " alt="" coords="221,1366,408,1408"/>
+<area shape="rect" id="node25" href="$d5/d89/classtorc_1_1packer_1_1Virtex7PrimitiveStructure.html#ae833000a119998391bc6bdc93be29489" title="Initialize this object based on the PrimitiveDef information. " alt="" coords="221,1432,408,1473"/>
+</map>

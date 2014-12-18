@@ -1,0 +1,8 @@
+<map id="GenerateReferenceXDLForTheElement" name="GenerateReferenceXDLForTheElement">
+<area shape="rect" id="node2" href="$d9/d62/LogicXdlGenerator_8cpp.html#a8450f5937155ebc8e9548858745576d9" title="GenerateXdlForCompoundSettings" alt="" coords="257,5,479,32"/>
+<area shape="rect" id="node4" href="$d9/d62/LogicXdlGenerator_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Generates XDLs for various site types. An XDL is generated for each. " alt="" coords="771,157,821,184"/>
+<area shape="rect" id="node5" href="$d9/d62/LogicXdlGenerator_8cpp.html#a1e1e771a578064fa518847bd538a1201" title="GenerateXdlForDSPMaskAnd\lPattern" alt="" coords="528,209,723,250"/>
+<area shape="rect" id="node6" href="$d9/d62/LogicXdlGenerator_8cpp.html#aa213d05bc360507bd65c0557fb1be16d" title="GenerateXdlForLUT" alt="" coords="299,56,437,83"/>
+<area shape="rect" id="node7" href="$d9/d62/LogicXdlGenerator_8cpp.html#a0a7b5134c755a42fefdf44fbe65374dd" title="GenerateXdlForOrphanElements" alt="" coords="263,107,473,133"/>
+<area shape="rect" id="node3" href="$d9/d62/LogicXdlGenerator_8cpp.html#aa7743a684d5ed27d44491854192b2d68" title="GenerateXdlForElement" alt="" coords="545,81,705,108"/>
+</map>

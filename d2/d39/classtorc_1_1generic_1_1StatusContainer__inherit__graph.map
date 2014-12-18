@@ -1,0 +1,7 @@
+<map id="torc::generic::StatusContainer" name="torc::generic::StatusContainer">
+<area shape="rect" id="node2" href="$d1/dda/classtorc_1_1generic_1_1Cell.html" title="Represents an EDIF cell. " alt="" coords="255,5,375,32"/>
+<area shape="rect" id="node3" href="$d2/d00/classtorc_1_1generic_1_1Design.html" title="torc::generic::Design" alt="" coords="245,56,384,83"/>
+<area shape="rect" id="node4" href="$d7/db4/classtorc_1_1generic_1_1Library.html" title="An EDIF cell library. " alt="" coords="246,107,383,133"/>
+<area shape="rect" id="node5" href="$db/d86/classtorc_1_1generic_1_1Root.html" title="Root of the EDIF Object Model. " alt="" coords="252,157,377,184"/>
+<area shape="rect" id="node6" href="$d6/d6e/classtorc_1_1generic_1_1View.html" title="Represents and EDIF View. " alt="" coords="251,208,378,235"/>
+</map>

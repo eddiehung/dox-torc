@@ -1,0 +1,6 @@
+<map id="torc::generic::Linker::linkUnresolved" name="torc::generic::Linker::linkUnresolved">
+<area shape="rect" id="node2" href="$de/d74/classtorc_1_1generic_1_1SymTab.html#a4dc2c9d8ebad9357828c478bbbc1fe6b" title="torc::generic::SymTab::get" alt="" coords="201,5,372,32"/>
+<area shape="rect" id="node3" href="$dd/dad/classtorc_1_1generic_1_1Error.html#ac25097657c1ef0d976300ca82e7bbaf5" title="torc::generic::Error\l::setCurrentLocation" alt="" coords="217,57,356,98"/>
+<area shape="rect" id="node4" href="$d0/da4/classtorc_1_1generic_1_1Linker.html#a8f845f6a0dcad2fef3bc01a15dac0906" title="torc::generic::Linker\l::removeUnresolvedInstances" alt="" coords="189,122,384,163"/>
+<area shape="rect" id="node5" href="$de/d74/classtorc_1_1generic_1_1SymTab.html#a2e56d4ca3e7f9988db62c58a88906ecd" title="torc::generic::SymTab\l::remove" alt="" coords="432,122,579,163"/>
+</map>

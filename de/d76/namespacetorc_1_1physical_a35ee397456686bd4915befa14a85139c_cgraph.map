@@ -1,0 +1,9 @@
+<map id="torc::physical::BOOST_AUTO_TEST_CASE" name="torc::physical::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$de/d76/namespacetorc_1_1physical.html#aa853285a8255b62003c41444e831dea2" title="Verify that the design file opened successfully. " alt="" coords="223,37,398,78"/>
+<area shape="rect" id="node5" href="$de/d76/namespacetorc_1_1physical.html#aff47422fed2089c9846dfd9bd7aed12d" title="Retrieve the instances to modularize from the design and return them in a vector. ..." alt="" coords="221,102,400,143"/>
+<area shape="rect" id="node6" href="$de/d76/namespacetorc_1_1physical.html#a64f6caa78bf1e08bab95548669e93955" title="Perform pre&#45;modularization tests on a design. " alt="" coords="209,167,413,209"/>
+<area shape="rect" id="node7" href="$d9/dae/classtorc_1_1physical_1_1ModuleTransformer.html#a0826f28adc866d1456781173a1540c5e" title="Group a set of instances into a module. " alt="" coords="203,233,418,274"/>
+<area shape="rect" id="node8" href="$de/d76/namespacetorc_1_1physical.html#a5891d63f694a955e4669f42c00cf2950" title="Perform post&#45;modularization tests on a design. " alt="" coords="205,298,416,339"/>
+<area shape="rect" id="node3" href="$d4/da0/classtorc_1_1common_1_1DirectoryTree.html#af1b18fb3aa350b4522babca30a9034b8" title="Returns the absolute path to the executable directory. " alt="" coords="467,5,650,46"/>
+<area shape="rect" id="node4" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#ac9c8c474aaa38744850a967ebbfd3c7e" title="Returns a shared pointer for the design. " alt="" coords="473,70,644,111"/>
+</map>

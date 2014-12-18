@@ -1,0 +1,5 @@
+<map id="torc::router::NetRouterHeuristic::distanceToSink" name="torc::router::NetRouterHeuristic::distanceToSink">
+<area shape="rect" id="node2" href="$d9/d5b/classtorc_1_1router_1_1NetRouterHeuristic.html#a9372010d72449637f8e94026340f4eaf" title="Calculate the node cost based on distance to the sink and path length. " alt="" coords="253,5,453,46"/>
+<area shape="rect" id="node4" href="$d9/d5b/classtorc_1_1router_1_1NetRouterHeuristic.html#aa3f7e529bfb881dc1b6f0862ac94c4b5" title="torc::router::NetRouterHeuristic\l::nodeCostInitial" alt="" coords="253,70,453,111"/>
+<area shape="rect" id="node3" href="$dc/dd6/namespacetorc_1_1router.html#a5d97108ca173ef1f4d1ff0db34fca845" title="Unit test for the Heuristic. " alt="" coords="502,38,650,79"/>
+</map>

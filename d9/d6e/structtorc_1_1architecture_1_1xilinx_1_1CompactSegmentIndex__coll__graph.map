@@ -1,0 +1,4 @@
+<map id="torc::architecture::xilinx::CompactSegmentIndex" name="torc::architecture::xilinx::CompactSegmentIndex">
+<area shape="rect" id="node2" href="$df/d1c/structtorc_1_1architecture_1_1xilinx_1_1CompactSegmentCount.html" title="Encapsulation of a compact segment count in an unsigned 32&#45;bit integer. " alt="" coords="4,97,203,138"/>
+<area shape="rect" id="node3" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32_t \&gt;" alt="" coords="12,6,196,47"/>
+</map>

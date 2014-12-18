@@ -1,0 +1,9 @@
+<map id="torc::bitstream::Spartan6BuildHelper::buildFamilyDeviceInfo" name="torc::bitstream::Spartan6BuildHelper::buildFamilyDeviceInfo">
+<area shape="rect" id="node2" href="$d4/da0/classtorc_1_1common_1_1DirectoryTree.html#a789f1fa64752b288b2b67aa3f486a60b" title="Returns the absolute path to the working directory. " alt="" coords="278,5,461,46"/>
+<area shape="rect" id="node3" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a6098fd68cac22ba966dec1965a2fd0d6" title="Initialize the maps between frame indexes and frame addresses. &#160;This is generally only useful for int..." alt="" coords="286,70,453,111"/>
+<area shape="rect" id="node4" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a94f50e631a4f27e521e627d6ae481651" title="Output static device information to a stream. " alt="" coords="286,135,453,177"/>
+<area shape="rect" id="node5" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#a48388a49dccfe1173809c80b3f18974a" title="Returns the column type vector. " alt="" coords="510,37,682,78"/>
+<area shape="rect" id="node6" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#a3e4021abad441e48417f51fb3bb51cb1" title="Returns the tile count. " alt="" coords="510,102,682,143"/>
+<area shape="rect" id="node7" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#ac52e4f741573f90b7e5eb7e63a6729f9" title="Returns the row count. " alt="" coords="510,167,682,209"/>
+<area shape="rect" id="node8" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#af416da9c16a1e09b86284dac079eb91d" title="Returns the column count. " alt="" coords="510,233,682,274"/>
+</map>

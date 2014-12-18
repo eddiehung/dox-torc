@@ -1,0 +1,6 @@
+<map id="torc::bitstream::Factory::newBitstreamPtr" name="torc::bitstream::Factory::newBitstreamPtr">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a5169ae2bf8f4588abb0e638da031ca57" title="Read a bitstream header, and return its fields. " alt="" coords="209,37,375,78"/>
+<area shape="rect" id="node5" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a66ddeb303a05dc08f1872966be8fd614" title="Return the device name. " alt="" coords="209,102,375,143"/>
+<area shape="rect" id="node3" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a62e649b31e40a5d60b9eb6ccf9ccf894" title="Look for the expected uint8_t in the stream and return true if it matches. " alt="" coords="425,5,591,46"/>
+<area shape="rect" id="node4" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a6910da85cf9207951d5914d118fe35f5" title="Read and return a bitstream header string. " alt="" coords="425,70,591,111"/>
+</map>

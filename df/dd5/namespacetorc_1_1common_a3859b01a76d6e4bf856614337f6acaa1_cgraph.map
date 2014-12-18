@@ -1,0 +1,8 @@
+<map id="torc::common::BOOST_AUTO_TEST_CASE" name="torc::common::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d7/d6c/classtorc_1_1common_1_1Devices.html#ae4e6e8ba37c7bd98698768e21b43883a" title="Returns all devices. " alt="" coords="206,5,359,46"/>
+<area shape="rect" id="node3" href="$d7/d6c/classtorc_1_1common_1_1Devices.html#a58345b793346e306dfdf048ad3b5bbb0" title="Returns the device enumeration corresponding to the given device name. " alt="" coords="206,70,359,111"/>
+<area shape="rect" id="node6" href="$d7/d6c/classtorc_1_1common_1_1Devices.html#a24a3aae31ddda2ffe3ef921baaacfc7d" title="Returns the device name corresponding to the given enumeration constant. " alt="" coords="206,135,359,177"/>
+<area shape="rect" id="node4" href="$d7/d40/classtorc_1_1common_1_1DeviceDesignator.html#a00bd09ba5c08dd9db11c0b0e30248ef2" title="Returns the device name. " alt="" coords="408,5,616,46"/>
+<area shape="rect" id="node5" href="$d7/d6c/classtorc_1_1common_1_1Devices.html#a99bf2c435599c1689a67b613b5528e26" title="Returns the device map. " alt="" coords="435,70,589,111"/>
+<area shape="rect" id="node7" href="$d7/d6c/classtorc_1_1common_1_1Devices.html#adae121d8b7acba96603504340b76f0d1" title="Returns all devices. " alt="" coords="435,135,589,177"/>
+</map>

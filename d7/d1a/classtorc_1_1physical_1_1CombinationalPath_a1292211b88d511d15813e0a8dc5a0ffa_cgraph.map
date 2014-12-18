@@ -1,0 +1,6 @@
+<map id="torc::physical::CombinationalPath::setPatchCounts" name="torc::physical::CombinationalPath::setPatchCounts">
+<area shape="rect" id="node2" href="$d7/d1a/classtorc_1_1physical_1_1CombinationalPath.html#aaf9b949c1a7ec4b8df4a720d741bd8e1" title="Returns instance pin type. " alt="" coords="241,5,426,46"/>
+<area shape="rect" id="node3" href="$d7/d1a/classtorc_1_1physical_1_1CombinationalPath.html#afed161b45f2764705da1abf9cde0055e" title="Find a net by name. " alt="" coords="241,70,426,111"/>
+<area shape="rect" id="node4" href="$d7/d1a/classtorc_1_1physical_1_1CombinationalPath.html#acc507a6316d47d845227e886ab1c0e4c" title="Returns the begin constant iterator for routingNets. " alt="" coords="475,37,661,78"/>
+<area shape="rect" id="node5" href="$d7/d1a/classtorc_1_1physical_1_1CombinationalPath.html#a192f1e7d2127bf180e02ba1b5883b671" title="Returns the end constant iterator for routingNets. " alt="" coords="475,102,661,143"/>
+</map>

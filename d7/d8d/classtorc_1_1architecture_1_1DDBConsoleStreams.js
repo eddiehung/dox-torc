@@ -1,0 +1,27 @@
+var classtorc_1_1architecture_1_1DDBConsoleStreams =
+[
+    [ "istream", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#ab8bc687e7a1929df34ff2bffe30c8e79", null ],
+    [ "ostream", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a1ac59c453edc74828d40373d742cf92f", null ],
+    [ "DDBConsoleStreams", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#ab8ceda353370ae7629a243a9296baf7e", null ],
+    [ "DDBConsoleStreams", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a06aca1c124af9acb1aa60145106d196d", null ],
+    [ "~DDBConsoleStreams", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a1502e512eb7d9be1bd887877539f2df5", null ],
+    [ "getConsoleErr", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a57a6d436f7c0f8400502d23cb0983666", null ],
+    [ "getConsoleIn", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a497a6de80b2d6fe3f95df9a5411c7240", null ],
+    [ "getConsoleLog", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a55a90922b21a6ab390c11182e52701bb", null ],
+    [ "getConsoleOut", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a2052ff6f6cf4bcbd50464593807e1a4a", null ],
+    [ "mErr", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a73b271d7a91e5ef653f3a467a6909b33", null ],
+    [ "mIn", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a4b551079241cf84413cd3c997b1d6263", null ],
+    [ "mLog", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#aaa0ce6f28f8532c83a441bbfa66713cd", null ],
+    [ "mOut", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#ac883f43343c312c23f5c772736129fe8", null ],
+    [ "setConsoleErr", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a3036b016989e266854fee11b8c25b6c9", null ],
+    [ "setConsoleIn", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#abd5289c652108bcc68b80fcf56233df0", null ],
+    [ "setConsoleLog", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a82bed28995801de169234fcb121bf0ab", null ],
+    [ "setConsoleOut", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#ada476e652116b041db8b293f8c9ee63e", null ],
+    [ "setConsoleStreams", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a7ef1f060e88d97307d1beb44bddd355d", null ],
+    [ "mErrPtr", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#ac2516940f6210bea4873815a1c1f0b11", null ],
+    [ "mInPtr", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a506bf5ab3b4a6d4122cc694f6679126c", null ],
+    [ "mLogPtr", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a4e3b8641af542916458c2ce02f05d595", null ],
+    [ "mOutPtr", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a6023d218a31cbead217ec9aad3077d1f", null ],
+    [ "sDefaultConsoleStreams", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#aa0a0ca7d5b167da1112c12ccfbdfafbb", null ],
+    [ "sNullConsoleStreams", "d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a245f9956c708795b2dc3a517c3f7ff20", null ]
+];

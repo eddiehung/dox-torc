@@ -1,0 +1,4 @@
+<map id="torc::architecture::Segments::getTilewireSegment" name="torc::architecture::Segments::getTilewireSegment">
+<area shape="rect" id="node2" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#ad1789982f584140ebf77d4e8bc396e3d" title="Returns the tile index. " alt="" coords="264,5,413,46"/>
+<area shape="rect" id="node3" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#a38f0ea37481a14b712b82ccd4fa7544a" title="Returns the wire index. " alt="" coords="261,70,416,111"/>
+</map>

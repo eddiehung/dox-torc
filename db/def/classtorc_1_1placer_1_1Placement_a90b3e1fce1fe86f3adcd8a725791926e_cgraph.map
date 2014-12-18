@@ -1,0 +1,9 @@
+<map id="torc::placer::Placement::updateCostAddPair" name="torc::placer::Placement::updateCostAddPair">
+<area shape="rect" id="node2" href="$db/def/classtorc_1_1placer_1_1Placement.html#a8e4be4a672abd8e915443ac9f61a0f18" title="torc::placer::Placement\l::updateCostHelper" alt="" coords="209,135,362,177"/>
+<area shape="rect" id="node3" href="$db/def/classtorc_1_1placer_1_1Placement.html#a6ef384d3573d3d33d0b34b7d3fcb6467" title="torc::placer::Placement\l::getNetCost" alt="" coords="411,135,565,177"/>
+<area shape="rect" id="node4" href="$da/dd8/classtorc_1_1architecture_1_1Site.html#a6d90d80f1fb58803e985344de6120d60" title="Returns the site name. " alt="" coords="619,5,738,46"/>
+<area shape="rect" id="node5" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ad0b7f6d2bdd6750089c8e24e467d9151" title="Returns a constant reference to the family and device tile data. " alt="" coords="619,70,738,111"/>
+<area shape="rect" id="node6" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a62816b62b67b01034e660ed89a6f0d99" title="Returns the TileInfo object for the specified tile. " alt="" coords="617,135,740,177"/>
+<area shape="rect" id="node7" href="$da/dd8/classtorc_1_1architecture_1_1Site.html#aa6161f227602b45ee6775d161c94ad2d" title="Returns the index of the containing tile. " alt="" coords="615,201,742,242"/>
+<area shape="rect" id="node8" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a47f66c745c2abf956a03b246dd55b363" title="Returns the name for this tile. " alt="" coords="613,266,744,307"/>
+</map>

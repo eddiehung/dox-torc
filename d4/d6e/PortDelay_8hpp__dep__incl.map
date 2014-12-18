@@ -1,0 +1,17 @@
+<map id="PortDelay.hpp" name="PortDelay.hpp">
+<area shape="rect" id="node2" href="$d5/d00/PortAttributes_8hpp.html" title="PortAttributes.hpp" alt="" coords="377,80,503,107"/>
+<area shape="rect" id="node9" href="$d8/d2c/Generic_8hpp.html" title="Main torc::generic namespace header. " alt="" coords="703,155,793,181"/>
+<area shape="rect" id="node16" href="$d7/d5d/PortDelay_8cpp.html" title="PortDelay.cpp" alt="" coords="707,80,809,107"/>
+<area shape="rect" id="node3" href="$d7/d8c/Decompiler_8cpp.html" title="Decompiler.cpp" alt="" coords="5,155,115,181"/>
+<area shape="rect" id="node4" href="$df/dd9/Driver_8cpp.html" title="Driver.cpp" alt="" coords="140,155,219,181"/>
+<area shape="rect" id="node5" href="$d0/df1/Parser_8cc.html" title="Parser.cc" alt="" coords="244,155,320,181"/>
+<area shape="rect" id="node6" href="$d0/d15/Scanner_8cc.html" title="Scanner.cc" alt="" coords="346,155,432,181"/>
+<area shape="rect" id="node7" href="$d0/dca/generic_2Port_8cpp.html" title="Port.cpp" alt="" coords="457,155,527,181"/>
+<area shape="rect" id="node8" href="$d8/d10/PortAttributes_8cpp.html" title="PortAttributes.cpp" alt="" coords="551,155,677,181"/>
+<area shape="rect" id="node10" href="$d1/d4e/EdifFlattener_8cpp.html" title="Source for the EDIF flattener. " alt="" coords="298,229,416,256"/>
+<area shape="rect" id="node11" href="$da/d89/EdifObfuscator_8cpp.html" title="Source for the EDIF obfuscator. " alt="" coords="441,229,572,256"/>
+<area shape="rect" id="node12" href="$d0/d94/GenericExample_8cpp.html" title="Example program to read in an EDIF file, do something with it, and write it back out. " alt="" coords="597,229,736,256"/>
+<area shape="rect" id="node13" href="$d5/de2/VerilogExample_8cpp.html" title="Example program to read in a structural Verilog file and write it back out. " alt="" coords="761,229,895,256"/>
+<area shape="rect" id="node14" href="$db/d5b/VerilogExporter_8cpp.html" title="Source for the VerilogExporter class. " alt="" coords="920,229,1053,256"/>
+<area shape="rect" id="node15" href="$d7/d0b/VerilogImporter_8cpp.html" title="Source for the VerilogImporter class. " alt="" coords="1078,229,1212,256"/>
+</map>

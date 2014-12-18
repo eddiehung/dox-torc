@@ -1,0 +1,4 @@
+<map id="torc::architecture::ArcUsage::clear" name="torc::architecture::ArcUsage::clear">
+<area shape="rect" id="node2" href="$d0/d88/namespacetorc_1_1architecture.html#a44e00b06e2bc57c7568eeabbace0afe7" title="Unit test for the ArcUsage class. " alt="" coords="173,5,373,46"/>
+<area shape="rect" id="node3" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ac333f02f31275c06622a029f4987d2bb" title="Clears all arc and wire usage, effectively restaring with an empty device. " alt="" coords="210,70,337,111"/>
+</map>

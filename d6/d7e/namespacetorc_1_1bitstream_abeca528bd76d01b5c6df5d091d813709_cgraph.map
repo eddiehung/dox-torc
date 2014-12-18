@@ -1,0 +1,14 @@
+<map id="torc::bitstream::operator&lt;&lt;" name="torc::bitstream::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#aa4ca3b20dfe8d212cd33ba9e860aca69" title="Return the bitstream header length in bytes. " alt="" coords="235,5,402,46"/>
+<area shape="rect" id="node3" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#a39b20c20e14c18b36d892032152425c4" title="Returns the total number of words in the packet, including the header word. " alt="" coords="227,70,411,111"/>
+<area shape="rect" id="node4" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#a3f82128176ec0348a897efc8a72830b9" title="torc::bitstream::VirtexPacket\l::isDummyWord" alt="" coords="227,135,411,177"/>
+<area shape="rect" id="node5" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#a52bc756639e734ef99a63411dd5b86e7" title="torc::bitstream::VirtexPacket\l::isSyncWord" alt="" coords="227,201,411,242"/>
+<area shape="rect" id="node6" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#ac111bd42eee82916a87f6a9189c9c005" title="torc::bitstream::VirtexPacket\l::getHeader" alt="" coords="227,266,411,307"/>
+<area shape="rect" id="node7" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#ac1548e1d208191d52562efe541421da0" title="torc::bitstream::VirtexPacket\l::isReserved" alt="" coords="227,331,411,373"/>
+<area shape="rect" id="node8" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#a49184f185fc1b5fc1b5b4007390db06d" title="torc::bitstream::VirtexPacket\l::getOpcode" alt="" coords="227,397,411,438"/>
+<area shape="rect" id="node9" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#a49f013061c9f5e0f8deccc751273e5ca" title="torc::bitstream::VirtexPacket\l::getType" alt="" coords="227,462,411,503"/>
+<area shape="rect" id="node10" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#a404636ad95b8826817ee6683a9f51c5f" title="Returns the number of payload words in the packet, excluding the header word. " alt="" coords="227,527,411,569"/>
+<area shape="rect" id="node11" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#a4d8d6f95226ad35242444e1e19c82a38" title="torc::bitstream::VirtexPacket\l::getAddress" alt="" coords="227,593,411,634"/>
+<area shape="rect" id="node12" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#aaec51731b50d957ffa91b2ff31df7faa" title="torc::bitstream::VirtexPacket\l::isRead" alt="" coords="227,658,411,699"/>
+<area shape="rect" id="node13" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a3894abaa33fb3ba362eaa5d071919028" title="Insert 32 bit subfield settings into an output stream. " alt="" coords="235,723,402,765"/>
+</map>

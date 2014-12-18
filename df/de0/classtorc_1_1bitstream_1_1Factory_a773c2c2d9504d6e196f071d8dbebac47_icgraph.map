@@ -1,0 +1,8 @@
+<map id="torc::bitstream::Factory::newBitstreamPtr" name="torc::bitstream::Factory::newBitstreamPtr">
+<area shape="rect" id="node2" href="$d6/dd4/classtorc_1_1bitstream_1_1Assembler.html#a08832ed7bac4240012ff50200b80d47c" title="Function to generate bitstream, takes target bitstream path and optional base bitstream path..." alt="" coords="209,5,381,46"/>
+<area shape="rect" id="node4" href="$d6/d7e/namespacetorc_1_1bitstream.html#a102715881baaf2d24ccc3b270f761426" title="torc::bitstream::Compare\lVirtexBitstreams" alt="" coords="213,70,376,111"/>
+<area shape="rect" id="node6" href="$db/d2e/classtorc_1_1bitstream_1_1Virtex5LibGen.html#a04fbf579ac28aa24d607119dc9a82c20" title="Compress given bitstream file against reference bitstream file. " alt="" coords="213,135,377,177"/>
+<area shape="rect" id="node7" href="$da/d69/classtorc_1_1bitstream_1_1Virtex7LibGen.html#a9195d3e0c4aad39fd944b5619f2b4e90" title="Compress given bitstream file against reference bitstream file. " alt="" coords="213,201,377,242"/>
+<area shape="rect" id="node3" href="$d4/de3/classtorc_1_1bitstream_1_1VirtexAssembler.html#abfa126eb1690acb40207f35c139d64e2" title="Function to generate bitstream to be called by user. " alt="" coords="429,5,635,46"/>
+<area shape="rect" id="node5" href="$d6/d7e/namespacetorc_1_1bitstream.html#af6699bd3fba8efe2757dd622feb01477" title="torc::bitstream::Generate\lBitstreamAndCompare" alt="" coords="451,70,613,111"/>
+</map>

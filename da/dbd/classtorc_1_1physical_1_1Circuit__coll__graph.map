@@ -1,0 +1,7 @@
+<map id="torc::physical::Circuit" name="torc::physical::Circuit">
+<area shape="rect" id="node2" href="$d9/d33/classtorc_1_1physical_1_1Named.html" title="Concept for any object that can be named. " alt="" coords="242,7,387,33"/>
+<area shape="rect" id="node4" href="$da/dc4/classtorc_1_1physical_1_1Progeny.html" title="torc::physical::Progeny\l\&lt; class Circuit \&gt;" alt="" coords="239,58,390,99"/>
+<area shape="rect" id="node5" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html" title="Configuration setting map. " alt="" coords="233,124,397,151"/>
+<area shape="rect" id="node7" href="$dd/d7f/classtorc_1_1common_1_1Annotated.html" title="Concept for any object that can be annotated. " alt="" coords="232,175,397,201"/>
+<area shape="rect" id="node8" href="$de/dca/classtorc_1_1physical_1_1Progenitor.html" title="torc::physical::Progenitor\l\&lt; class Circuit \&gt;" alt="" coords="233,226,396,267"/>
+</map>

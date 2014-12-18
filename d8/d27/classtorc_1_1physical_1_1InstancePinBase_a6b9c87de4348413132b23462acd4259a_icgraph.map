@@ -1,0 +1,5 @@
+<map id="torc::physical::InstancePinBase::getInstancePtr" name="torc::physical::InstancePinBase::getInstancePtr">
+<area shape="rect" id="node2" href="$dd/d5d/classtorc_1_1architecture_1_1InstancePin.html#a8d2433b5b591bc819f0fa645e3258c9f" title="Updates the Tilewire from the instance and pin names. " alt="" coords="216,5,403,46"/>
+<area shape="rect" id="node3" href="$de/d76/namespacetorc_1_1physical.html#abe832bb6ced548372e0dbb09090104c2" title="InstancePin stream inserter. " alt="" coords="226,71,393,97"/>
+<area shape="rect" id="node4" href="$d4/d83/classtorc_1_1physical_1_1XdlExporter.html#abcea9333808adaccd5c0fa8b5f116828" title="Writes the given InstancePin, with an optional trailing comma. " alt="" coords="225,122,394,163"/>
+</map>

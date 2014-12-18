@@ -1,0 +1,5 @@
+<map id="torc::physical::Net::pipsEnd" name="torc::physical::Net::pipsEnd">
+<area shape="rect" id="node2" href="$d4/d20/classtorc_1_1physical_1_1Net.html#a7f85ba295348cbe09b58d4e4158fe917" title="Determines whether the net contains the given pip. " alt="" coords="202,5,326,46"/>
+<area shape="rect" id="node3" href="$d4/d20/classtorc_1_1physical_1_1Net.html#ad50b4f49817c68693362a1aae599b95e" title="Removes the given pip from this net. " alt="" coords="202,70,326,111"/>
+<area shape="rect" id="node4" href="$d4/d83/classtorc_1_1physical_1_1XdlExporter.html#aef936ed6bf16d2f9ce13114b2947c3dc" title="Writes the given Net. " alt="" coords="179,135,349,177"/>
+</map>

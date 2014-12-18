@@ -1,0 +1,112 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dc/d00/classtorc_1_1generic_1_1Commentable.html" title="Represents all classes that can hold user comments. " alt="" coords="260,695,439,721"/>
+<area shape="rect" id="node2" href="$d6/dd9/classtorc_1_1generic_1_1Apply.html" title="This class is used within simulate to describe input stimuli and expected responces over a certain ti..." alt="" coords="557,549,688,576"/>
+<area shape="rect" id="node3" href="$d1/dda/classtorc_1_1generic_1_1Cell.html" title="Represents an EDIF cell. " alt="" coords="563,869,683,896"/>
+<area shape="rect" id="node4" href="$d2/d00/classtorc_1_1generic_1_1Design.html" title="torc::generic::Design" alt="" coords="553,819,692,845"/>
+<area shape="rect" id="node5" href="$da/d11/classtorc_1_1generic_1_1Instance.html" title="Represents an instantiation of a cell view in the view of another cell. " alt="" coords="549,1241,697,1268"/>
+<area shape="rect" id="node9" href="$d5/d0b/classtorc_1_1generic_1_1InterfaceAttributes.html" title="Represents attributes of a view interface. " alt="" coords="548,651,697,693"/>
+<area shape="rect" id="node10" href="$d7/db4/classtorc_1_1generic_1_1Library.html" title="An EDIF cell library. " alt="" coords="554,768,691,795"/>
+<area shape="rect" id="node11" href="$d5/d30/classtorc_1_1generic_1_1LogicValue.html" title="This class is used within simulationInfo construct to define a logic value to use for modeling in the..." alt="" coords="541,1140,704,1167"/>
+<area shape="rect" id="node13" href="$df/d6f/classtorc_1_1generic_1_1Net.html" title="Represents an EDIF Net. " alt="" coords="563,1343,682,1369"/>
+<area shape="rect" id="node18" href="$da/dc3/classtorc_1_1generic_1_1Port.html" title="Interface for an EDIF port object. " alt="" coords="561,1292,684,1319"/>
+<area shape="rect" id="node23" href="$d6/de3/classtorc_1_1generic_1_1Property.html" title="torc::generic::Property" alt="" coords="549,1191,696,1217"/>
+<area shape="rect" id="node24" href="$db/d86/classtorc_1_1generic_1_1Root.html" title="Root of the EDIF Object Model. " alt="" coords="560,920,685,947"/>
+<area shape="rect" id="node25" href="$d8/d0d/classtorc_1_1generic_1_1Simulate.html" title="This class is to model simulate construct which is a named collection of simulation stimulus and resp..." alt="" coords="548,1077,697,1104"/>
+<area shape="rect" id="node26" href="$de/d2d/classtorc_1_1generic_1_1SimulationInfo.html" title="This class is used to hold all information about the logic values used within a library. " alt="" coords="532,448,713,475"/>
+<area shape="rect" id="node27" href="$da/dee/classtorc_1_1generic_1_1Status.html" title="Represents EDIF status construct. " alt="" coords="555,717,691,744"/>
+<area shape="rect" id="node28" href="$d1/dc4/classtorc_1_1generic_1_1Timing.html" title="This class is used to provide a set of path delays or timing constrains (forbidden events) ..." alt="" coords="554,600,691,627"/>
+<area shape="rect" id="node29" href="$d6/d6e/classtorc_1_1generic_1_1View.html" title="Represents and EDIF View. " alt="" coords="559,989,686,1016"/>
+<area shape="rect" id="node30" href="$da/db4/classtorc_1_1generic_1_1Written.html" title="Represents an information container relating to the writer of the EDIF file. " alt="" coords="553,499,692,525"/>
+<area shape="rect" id="node6" href="$dd/de5/classtorc_1_1generic_1_1InstanceArray.html" title="Represents an array of instances. " alt="" coords="800,1547,979,1573"/>
+<area shape="rect" id="node7" href="$d3/d00/classtorc_1_1generic_1_1InstanceArrayMember.html" title="Represents a member of an instance array. " alt="" coords="800,1762,979,1803"/>
+<area shape="rect" id="node8" href="$d6/d27/classtorc_1_1generic_1_1SingleInstance.html" title="Represents a single instance of the view of a cell. " alt="" coords="797,1913,981,1940"/>
+<area shape="rect" id="node12" href="$d9/d9e/classtorc_1_1generic_1_1LogicElement.html" title="Represents different logic elements which holds array of logic values. " alt="" coords="801,1140,978,1167"/>
+<area shape="rect" id="node14" href="$d1/dbb/classtorc_1_1generic_1_1NetBundle.html" title="Represents a bundle of nets. " alt="" coords="810,2555,969,2581"/>
+<area shape="rect" id="node15" href="$d6/d87/classtorc_1_1generic_1_1ScalarNet.html" title="Represents a standalone net. " alt="" coords="811,2321,967,2348"/>
+<area shape="rect" id="node16" href="$df/d2d/classtorc_1_1generic_1_1VectorNet.html" title="Represents a net array. " alt="" coords="811,2393,968,2420"/>
+<area shape="rect" id="node17" href="$da/d26/classtorc_1_1generic_1_1VectorNetBit.html" title="Represents a bit of a net array. " alt="" coords="803,2479,976,2505"/>
+<area shape="rect" id="node19" href="$d7/d1c/classtorc_1_1generic_1_1PortBundle.html" title="Represents a bundle of ports. " alt="" coords="808,2264,971,2291"/>
+<area shape="rect" id="node20" href="$d2/dca/classtorc_1_1generic_1_1ScalarPort.html" title="Represents a standalone port. " alt="" coords="810,2013,969,2040"/>
+<area shape="rect" id="node21" href="$d2/d81/classtorc_1_1generic_1_1VectorPort.html" title="Represents a port array. " alt="" coords="809,2104,969,2131"/>
+<area shape="rect" id="node22" href="$d7/d1b/classtorc_1_1generic_1_1VectorPortBit.html" title="Represents a bit of a port. " alt="" coords="801,2189,977,2216"/>
+<area shape="rect" id="node31" href="$d5/d7d/classtorc_1_1generic_1_1Connectable.html" title="An object that is connectable to a Net. " alt="" coords="264,2539,435,2565"/>
+<area shape="rect" id="node32" href="$df/dc5/classtorc_1_1generic_1_1PortList.html" title="Represents an ordered list of port references. " alt="" coords="551,2913,695,2940"/>
+<area shape="rect" id="node33" href="$d7/d8f/classtorc_1_1generic_1_1PortReference.html" title="Represents the usable instance of a port of a cell in another cell. " alt="" coords="532,2863,713,2889"/>
+<area shape="rect" id="node34" href="$d1/dcc/classtorc_1_1generic_1_1PortBundleReference.html" title="Represents a reference to a bundle of ports. " alt="" coords="808,2993,971,3034"/>
+<area shape="rect" id="node35" href="$dd/dc7/classtorc_1_1generic_1_1ScalarPortReference.html" title="Represents areference to a standalone port. " alt="" coords="810,3077,969,3118"/>
+<area shape="rect" id="node36" href="$de/d82/classtorc_1_1generic_1_1VectorPortBitReference.html" title="Represents a reference to a bit of a port. " alt="" coords="809,2889,969,2930"/>
+<area shape="rect" id="node37" href="$dd/da4/classtorc_1_1generic_1_1VectorPortReference.html" title="Represents a reference to a port array. " alt="" coords="809,3149,969,3190"/>
+<area shape="rect" id="node38" href="$d3/d97/classtorc_1_1generic_1_1Extern.html" title="Used to implement external object referencing. " alt="" coords="282,877,417,904"/>
+<area shape="rect" id="node39" href="$d1/d13/classtorc_1_1generic_1_1Nameable.html" title="An object that has a name. " alt="" coords="271,1409,428,1436"/>
+<area shape="rect" id="node40" href="$db/d1b/classtorc_1_1generic_1_1Parameter.html" title="Represents a parameter object in EDIF. " alt="" coords="543,1393,702,1420"/>
+<area shape="rect" id="node44" href="$d6/dce/classtorc_1_1generic_1_1PortListAlias.html" title="Represents an ordered list of port references with a name aliased. " alt="" coords="536,1728,709,1755"/>
+<area shape="rect" id="node45" href="$d1/df7/classtorc_1_1generic_1_1WaveValue.html" title="This class is used within simulate to describe input stimuli and expected responces over a certain ti..." alt="" coords="541,1779,705,1805"/>
+<area shape="rect" id="node41" href="$db/de3/classtorc_1_1generic_1_1ParameterArray.html" title="Represents a parameter array. " alt="" coords="810,2694,969,2735"/>
+<area shape="rect" id="node42" href="$db/d63/classtorc_1_1generic_1_1ParameterArrayElement.html" title="torc::generic::Parameter\lArrayElement" alt="" coords="810,2622,969,2663"/>
+<area shape="rect" id="node43" href="$d8/d1b/classtorc_1_1generic_1_1SingleParameter.html" title="torc::generic::SingleParameter" alt="" coords="792,2783,987,2809"/>
+<area shape="rect" id="node46" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html" title="torc::generic::ParentedObject\l\&lt; Cell \&gt;" alt="" coords="255,929,443,970"/>
+<area shape="rect" id="node47" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html" title="torc::generic::ParentedObject\l\&lt; Instance \&gt;" alt="" coords="255,2847,443,2889"/>
+<area shape="rect" id="node48" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html" title="torc::generic::ParentedObject\l\&lt; Library \&gt;" alt="" coords="255,331,443,373"/>
+<area shape="rect" id="node49" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html" title="torc::generic::ParentedObject\l\&lt; Root \&gt;" alt="" coords="255,462,443,503"/>
+<area shape="rect" id="node50" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html" title="torc::generic::ParentedObject\l\&lt; SimulationInfo \&gt;" alt="" coords="255,1293,443,1334"/>
+<area shape="rect" id="node51" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html" title="torc::generic::ParentedObject\l\&lt; View \&gt;" alt="" coords="255,1526,443,1567"/>
+<area shape="rect" id="node52" href="$da/df0/classtorc_1_1generic_1_1PropertyContainer.html" title="Represents objects that have properties. " alt="" coords="249,1176,450,1203"/>
+<area shape="rect" id="node53" href="$df/da8/classtorc_1_1generic_1_1Renamable.html" title="Represents objects that can be renamed. " alt="" coords="268,1125,431,1152"/>
+<area shape="rect" id="node54" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Apply \&gt;" alt="" coords="254,135,445,177"/>
+<area shape="rect" id="node55" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Cell \&gt;" alt="" coords="254,746,445,787"/>
+<area shape="rect" id="node56" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Design \&gt;" alt="" coords="254,527,445,569"/>
+<area shape="rect" id="node57" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Event \&gt;" alt="" coords="254,1591,445,1633"/>
+<area shape="rect" id="node58" href="$dc/dc4/classtorc_1_1generic_1_1Event.html" title="Event is used to describe an event on a port or a net using logic state transitions. Events can also be described for unordered groups of ports or nets using portGroup or netGroup. An ordered list of ports may also be used using a portList. " alt="" coords="557,1444,688,1471"/>
+<area shape="rect" id="node59" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; ForbiddenEvent \&gt;" alt="" coords="254,1657,445,1698"/>
+<area shape="rect" id="node60" href="$dd/d1b/classtorc_1_1generic_1_1ForbiddenEvent.html" title="ForbiddenEvent class lists events which are forbidden during a period of times which is specified by ..." alt="" coords="545,1495,700,1537"/>
+<area shape="rect" id="node61" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Instance \&gt;" alt="" coords="6,2049,197,2090"/>
+<area shape="rect" id="node62" href="$dd/dca/classtorc_1_1generic_1_1Composite.html" title="torc::generic::Composite\l\&lt; Instance \&gt;" alt="" coords="269,2049,429,2090"/>
+<area shape="rect" id="node63" href="$d7/d5b/classtorc_1_1generic_1_1Scalar.html" title="torc::generic::Scalar\l\&lt; Instance \&gt;" alt="" coords="555,1990,690,2031"/>
+<area shape="rect" id="node64" href="$d2/d79/classtorc_1_1generic_1_1Vector.html" title="torc::generic::Vector\l\&lt; Instance, InstanceArrayMember,\l InstanceArrayMember::Factory,\l false \&gt;" alt="" coords="512,1830,733,1901"/>
+<area shape="rect" id="node65" href="$d8/daa/classtorc_1_1generic_1_1VectorBit.html" title="torc::generic::VectorBit\l\&lt; Instance \&gt;" alt="" coords="547,1925,699,1966"/>
+<area shape="rect" id="node66" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; InterfaceJoinedInfo \&gt;" alt="" coords="254,1722,445,1763"/>
+<area shape="rect" id="node67" href="$d8/d29/classtorc_1_1generic_1_1InterfaceJoinedInfo.html" title="Represents the Interface joining information. " alt="" coords="548,1561,697,1602"/>
+<area shape="rect" id="node68" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Library \&gt;" alt="" coords="254,397,445,438"/>
+<area shape="rect" id="node69" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; LogicalResponse \&gt;" alt="" coords="254,1787,445,1829"/>
+<area shape="rect" id="node70" href="$df/d57/classtorc_1_1generic_1_1LogicalResponse.html" title="This class is used to model logicInput/logicOutput construct. This class holds information of logical..." alt="" coords="523,1627,722,1653"/>
+<area shape="rect" id="node71" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; LogicValue \&gt;" alt="" coords="254,1227,445,1269"/>
+<area shape="rect" id="node72" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Net \&gt;" alt="" coords="6,2426,197,2467"/>
+<area shape="rect" id="node73" href="$dd/dca/classtorc_1_1generic_1_1Composite.html" title="torc::generic::Composite\l\&lt; Net \&gt;" alt="" coords="269,2426,429,2467"/>
+<area shape="rect" id="node74" href="$d9/d0b/classtorc_1_1generic_1_1Bundle.html" title="torc::generic::Bundle\l\&lt; Net \&gt;" alt="" coords="553,2571,692,2613"/>
+<area shape="rect" id="node75" href="$d7/d5b/classtorc_1_1generic_1_1Scalar.html" title="torc::generic::Scalar\l\&lt; Net \&gt;" alt="" coords="555,2346,690,2387"/>
+<area shape="rect" id="node76" href="$d2/d79/classtorc_1_1generic_1_1Vector.html" title="torc::generic::Vector\l\&lt; Net, VectorNetBit,\l VectorNetBit::Factory,\l true \&gt;" alt="" coords="546,2411,699,2482"/>
+<area shape="rect" id="node77" href="$d8/daa/classtorc_1_1generic_1_1VectorBit.html" title="torc::generic::VectorBit\l\&lt; Net \&gt;" alt="" coords="547,2506,699,2547"/>
+<area shape="rect" id="node78" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Parameter \&gt;" alt="" coords="6,2677,197,2718"/>
+<area shape="rect" id="node79" href="$dd/dca/classtorc_1_1generic_1_1Composite.html" title="torc::generic::Composite\l\&lt; Parameter \&gt;" alt="" coords="269,2677,429,2718"/>
+<area shape="rect" id="node80" href="$d7/d5b/classtorc_1_1generic_1_1Scalar.html" title="torc::generic::Scalar\l\&lt; Parameter \&gt;" alt="" coords="555,2797,690,2838"/>
+<area shape="rect" id="node81" href="$d2/d79/classtorc_1_1generic_1_1Vector.html" title="torc::generic::Vector\l\&lt; Parameter, ParameterArray\lElement, ParameterArrayElement\l::Factory, false \&gt;" alt="" coords="516,2702,729,2773"/>
+<area shape="rect" id="node82" href="$d8/daa/classtorc_1_1generic_1_1VectorBit.html" title="torc::generic::VectorBit\l\&lt; Parameter \&gt;" alt="" coords="547,2637,699,2678"/>
+<area shape="rect" id="node83" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Permutable \&gt;" alt="" coords="254,1853,445,1894"/>
+<area shape="rect" id="node84" href="$d8/d1e/classtorc_1_1generic_1_1Permutable.html" title="Permutable is used to describe a relationship in which ports are interchangeable. ..." alt="" coords="541,1677,705,1704"/>
+<area shape="rect" id="node85" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Port \&gt;" alt="" coords="6,2135,197,2177"/>
+<area shape="rect" id="node86" href="$dd/dca/classtorc_1_1generic_1_1Composite.html" title="torc::generic::Composite\l\&lt; Port \&gt;" alt="" coords="269,2135,429,2177"/>
+<area shape="rect" id="node87" href="$d9/d0b/classtorc_1_1generic_1_1Bundle.html" title="torc::generic::Bundle\l\&lt; Port \&gt;" alt="" coords="553,2281,692,2322"/>
+<area shape="rect" id="node88" href="$d7/d5b/classtorc_1_1generic_1_1Scalar.html" title="torc::generic::Scalar\l\&lt; Port \&gt;" alt="" coords="555,2055,690,2097"/>
+<area shape="rect" id="node89" href="$d2/d79/classtorc_1_1generic_1_1Vector.html" title="torc::generic::Vector\l\&lt; Port, VectorPortBit,\l VectorPortBit::Factory,\l true \&gt;" alt="" coords="545,2121,701,2191"/>
+<area shape="rect" id="node90" href="$d8/daa/classtorc_1_1generic_1_1VectorBit.html" title="torc::generic::VectorBit\l\&lt; Port \&gt;" alt="" coords="547,2215,699,2257"/>
+<area shape="rect" id="node91" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; PortList \&gt;" alt="" coords="254,2913,445,2954"/>
+<area shape="rect" id="node92" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; PortListAlias \&gt;" alt="" coords="254,1918,445,1959"/>
+<area shape="rect" id="node93" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; PortReference \&gt;" alt="" coords="6,3030,197,3071"/>
+<area shape="rect" id="node94" href="$dd/dca/classtorc_1_1generic_1_1Composite.html" title="torc::generic::Composite\l\&lt; PortReference \&gt;" alt="" coords="269,3030,429,3071"/>
+<area shape="rect" id="node95" href="$d9/d0b/classtorc_1_1generic_1_1Bundle.html" title="torc::generic::Bundle\l\&lt; PortReference \&gt;" alt="" coords="553,3030,692,3071"/>
+<area shape="rect" id="node96" href="$d7/d5b/classtorc_1_1generic_1_1Scalar.html" title="torc::generic::Scalar\l\&lt; PortReference \&gt;" alt="" coords="555,3095,690,3137"/>
+<area shape="rect" id="node97" href="$d2/d79/classtorc_1_1generic_1_1Vector.html" title="torc::generic::Vector\l\&lt; PortReference, VectorPort\lBitReference, VectorPortBitReference\l::Factory, true \&gt;" alt="" coords="502,3161,743,3231"/>
+<area shape="rect" id="node98" href="$d8/daa/classtorc_1_1generic_1_1VectorBit.html" title="torc::generic::VectorBit\l\&lt; PortReference \&gt;" alt="" coords="547,2965,699,3006"/>
+<area shape="rect" id="node99" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Property \&gt;" alt="" coords="254,1461,445,1502"/>
+<area shape="rect" id="node100" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Root \&gt;" alt="" coords="254,811,445,853"/>
+<area shape="rect" id="node101" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Simulate \&gt;" alt="" coords="254,1059,445,1101"/>
+<area shape="rect" id="node102" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; SimulationInfo \&gt;" alt="" coords="254,5,445,46"/>
+<area shape="rect" id="node103" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Status \&gt;" alt="" coords="254,266,445,307"/>
+<area shape="rect" id="node104" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Timing \&gt;" alt="" coords="254,201,445,242"/>
+<area shape="rect" id="node105" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; View \&gt;" alt="" coords="254,994,445,1035"/>
+<area shape="rect" id="node106" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; WaveValue \&gt;" alt="" coords="254,1983,445,2025"/>
+<area shape="rect" id="node107" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Written \&gt;" alt="" coords="254,70,445,111"/>
+<area shape="rect" id="node108" href="$da/dcf/classtorc_1_1generic_1_1StatusContainer.html" title="Represents objects that have status. " alt="" coords="254,644,445,671"/>
+<area shape="rect" id="node109" href="$d7/dad/classtorc_1_1generic_1_1UserDataContainer.html" title="Represents class that can hold userData. " alt="" coords="245,593,453,620"/>
+<area shape="rect" id="node110" href="$d7/de6/classtorc_1_1generic_1_1Visitable.html" title="An object that receives an inoutVisitor. " alt="" coords="275,1359,423,1385"/>
+</map>

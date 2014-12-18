@@ -1,0 +1,6 @@
+<map id="torc::architecture::ArcUsage::getArcOffset" name="torc::architecture::ArcUsage::getArcOffset">
+<area shape="rect" id="node2" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a79ae6e9d37557e6b6745ddd6663229c5" title="Marks the specified arc as being used. " alt="" coords="259,5,378,46"/>
+<area shape="rect" id="node3" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a14d686dfbc905b370eed2e74f916c15c" title="Marks the specified arc as being unused. " alt="" coords="251,70,386,111"/>
+<area shape="rect" id="node4" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a8d361b33b1248f47a3a0ee6c24ab9754" title="Determines whether the specified arc is in use. " alt="" coords="252,135,385,177"/>
+<area shape="rect" id="node5" href="$d0/d88/namespacetorc_1_1architecture.html#a44e00b06e2bc57c7568eeabbace0afe7" title="Unit test for the ArcUsage class. " alt="" coords="219,201,419,242"/>
+</map>

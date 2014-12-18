@@ -1,0 +1,5 @@
+<map id="torc::bitstream::Virtex7::getPrimaryXdlColumn" name="torc::bitstream::Virtex7::getPrimaryXdlColumn">
+<area shape="rect" id="node2" href="$df/d15/classtorc_1_1bitstream_1_1Virtex7Assembler.html#a52cfffcebc21f41a3d7b0ad487e7cb33" title="Store frame blocks and bit offset for given tile index. " alt="" coords="216,5,416,61"/>
+<area shape="rect" id="node3" href="$df/d15/classtorc_1_1bitstream_1_1Virtex7Assembler.html#a7624112c77047eb65efe453e79c16d47" title="For an INT tile, returns associated CLB column. " alt="" coords="209,85,423,126"/>
+<area shape="rect" id="node4" href="$da/d69/classtorc_1_1bitstream_1_1Virtex7LibGen.html#a8d2ee5c35130be75b02d7e55a6aa0d74" title="Get word offset from tile row and col. " alt="" coords="214,149,418,205"/>
+</map>

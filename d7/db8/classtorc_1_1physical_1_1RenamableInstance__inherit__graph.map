@@ -1,0 +1,9 @@
+<map id="torc::physical::RenamableInstance" name="torc::physical::RenamableInstance">
+<area shape="rect" id="node2" href="$d7/dd6/classtorc_1_1physical_1_1Instance.html" title="Physical design instance. " alt="" coords="417,136,570,163"/>
+<area shape="rect" id="node3" href="$d8/d21/classtorc_1_1physical_1_1Renamable.html" title="torc::physical::Renamable\l\&lt; class Circuit \&gt;" alt="" coords="200,5,368,46"/>
+<area shape="rect" id="node4" href="$d9/d33/classtorc_1_1physical_1_1Named.html" title="Concept for any object that can be named. " alt="" coords="6,12,151,39"/>
+<area shape="rect" id="node5" href="$da/dc4/classtorc_1_1physical_1_1Progeny.html" title="torc::physical::Progeny\l\&lt; class Circuit \&gt;" alt="" coords="209,70,359,111"/>
+<area shape="rect" id="node6" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html" title="Configuration setting map. " alt="" coords="202,136,366,163"/>
+<area shape="rect" id="node8" href="$dd/d7f/classtorc_1_1common_1_1Annotated.html" title="Concept for any object that can be annotated. " alt="" coords="201,187,367,213"/>
+<area shape="rect" id="node9" href="$de/dca/classtorc_1_1physical_1_1Progenitor.html" title="torc::physical::Progenitor\l\&lt; Instance \&gt;" alt="" coords="203,238,365,279"/>
+</map>

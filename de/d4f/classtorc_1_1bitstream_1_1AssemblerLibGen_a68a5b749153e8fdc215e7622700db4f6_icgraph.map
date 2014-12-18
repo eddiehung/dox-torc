@@ -1,0 +1,7 @@
+<map id="torc::bitstream::AssemblerLibGen::createEmptyDesignWithSameMetadata" name="torc::bitstream::AssemblerLibGen::createEmptyDesignWithSameMetadata">
+<area shape="rect" id="node2" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a506bd206128a6a79243859b2d661e977" title="Create Xdl with a Ramb instane and no configuration. " alt="" coords="604,5,793,46"/>
+<area shape="rect" id="node4" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a1373812cec9b472d20a7891d574c8917" title="Create Xdls for orphan elements with empty reference Xdl. " alt="" coords="296,49,536,90"/>
+<area shape="rect" id="node5" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a8c5562ce5781503810c3fa68dcc0339f" title="Create Xdl for Lut. " alt="" coords="330,114,502,155"/>
+<area shape="rect" id="node3" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a90b80d86a73c4f8e66eff7376e68acea" title="Generrate Xdls for logic sites. " alt="" coords="861,45,1040,86"/>
+<area shape="rect" id="node6" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#aad3e12d5e2c85b802c01f4df870f9bc4" title="Create Xdls for each config value of the config setting " alt="" coords="585,85,813,126"/>
+</map>

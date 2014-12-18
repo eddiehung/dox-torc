@@ -1,0 +1,10 @@
+<map id="torc::physical::XdlImporter" name="torc::physical::XdlImporter">
+<area shape="rect" id="node2" href="$dc/ddb/classtorc_1_1physical_1_1PinName.html" title="Encapsulation of a site pin name. " alt="" coords="261,245,419,272"/>
+<area shape="rect" id="node4" href="$d9/d74/classtorc_1_1physical_1_1TileTypeName.html" title="Encapsulation of a tile type name. " alt="" coords="247,296,433,323"/>
+<area shape="rect" id="node5" href="$db/d3b/classtorc_1_1physical_1_1WireName.html" title="Encapsulation of a wire name. " alt="" coords="258,347,422,373"/>
+<area shape="rect" id="node6" href="$d0/d84/classtorc_1_1physical_1_1TileName.html" title="Encapsulation of a tile name. " alt="" coords="261,397,419,424"/>
+<area shape="rect" id="node9" href="$d3/d0b/classtorc_1_1physical_1_1InstanceName.html" title="Encapsulation of an instance name. " alt="" coords="246,448,434,475"/>
+<area shape="rect" id="node12" href="$dd/d3c/classtorc_1_1XdlScanner.html" title="torc::XdlScanner" alt="" coords="281,499,399,525"/>
+<area shape="rect" id="node7" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html" title="Configuration setting map. " alt="" coords="258,549,422,576"/>
+<area shape="rect" id="node10" href="$db/d9f/classtorc_1_1physical_1_1SiteName.html" title="Encapsulation of a site name. " alt="" coords="259,604,421,631"/>
+</map>

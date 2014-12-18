@@ -1,0 +1,32 @@
+<map id="torc::architecture::TileInfo::getName" name="torc::architecture::TileInfo::getName">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#ae5d0bbb061edabb4505b7d0c5bad9878" title="List all tiles. " alt="" coords="187,5,355,46"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a510ffcc79e692e2d75bf6b9a20af62fa" title="Filtered list of all tiles. " alt="" coords="187,135,355,177"/>
+<area shape="rect" id="node6" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#ae20af168fd1eaef7b5ef6c5186786a50" title="List all wires for a given tile type. " alt="" coords="187,70,355,111"/>
+<area shape="rect" id="node7" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#aaeef9deceabfb861c0edcc4b6f0674b3" title="Export all pips within the specified tile. " alt="" coords="185,201,357,242"/>
+<area shape="rect" id="node9" href="$de/d46/classtorc_1_1architecture_1_1ExtendedWireInfo.html#a4016982dd9f25e8dc38355492e7f5924" title="Configure the extended info fields. " alt="" coords="194,266,347,307"/>
+<area shape="rect" id="node12" href="$db/def/classtorc_1_1placer_1_1Placement.html#abf96d3ca0f4a54087657d48a54849088" title="torc::placer::Placement\l::updateCostFull" alt="" coords="907,321,1061,362"/>
+<area shape="rect" id="node14" href="$db/def/classtorc_1_1placer_1_1Placement.html#a6ef384d3573d3d33d0b34b7d3fcb6467" title="torc::placer::Placement\l::getNetCost" alt="" coords="194,386,347,427"/>
+<area shape="rect" id="node22" href="$d0/d88/namespacetorc_1_1architecture.html#a25a599538130902ab4a3f97226e91e52" title="torc::architecture\l::testDeviceTiles" alt="" coords="211,451,330,493"/>
+<area shape="rect" id="node24" href="$d6/d7e/namespacetorc_1_1bitstream.html#a9a0a3b7d7d7e4079cfa703e4390c2ed6" title="Unit test for the Virtex5 FX130T getPrimaryXdlColumn() " alt="" coords="193,517,349,558"/>
+<area shape="rect" id="node25" href="$d2/d3b/WireXdlGenerator_8cpp.html#aff74bd44b9b3c54c4d1b56a8dd502ad8" title="Export all pips within the specified tile. " alt="" coords="215,583,326,609"/>
+<area shape="rect" id="node27" href="$d9/d12/Xdl2Bit_8cpp.html#a73b44d26286730d2c741a0c4cbdeb303" title="assembleNets" alt="" coords="217,637,324,664"/>
+<area shape="rect" id="node4" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="421,45,589,86"/>
+<area shape="rect" id="node5" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="731,52,781,79"/>
+<area shape="rect" id="node8" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a2f888e050652a923245b411485c30250" title="Generate Xdls for routing pips. " alt="" coords="419,110,591,151"/>
+<area shape="rect" id="node10" href="$de/d46/classtorc_1_1architecture_1_1ExtendedWireInfo.html#ab8528f1582b2cd9c4da76a48c7c43400" title="Tilewire constructor. " alt="" coords="438,175,573,231"/>
+<area shape="rect" id="node11" href="$de/d46/classtorc_1_1architecture_1_1ExtendedWireInfo.html#a533f752fffa3f1164d97836426287f0a" title="Assignment operator. " alt="" coords="438,255,573,311"/>
+<area shape="rect" id="node13" href="$d2/dbc/classtorc_1_1placer_1_1Placer.html#a33223706cb84e1cdf44f8f3aa50422b4" title="torc::placer::Placer\l::generatePlacement" alt="" coords="1110,386,1250,427"/>
+<area shape="rect" id="node15" href="$db/def/classtorc_1_1placer_1_1Placement.html#a8e4be4a672abd8e915443ac9f61a0f18" title="torc::placer::Placement\l::updateCostHelper" alt="" coords="429,417,582,458"/>
+<area shape="rect" id="node16" href="$db/def/classtorc_1_1placer_1_1Placement.html#a72b40b6c8de46783291e802ccde0bb13" title="torc::placer::Placement\l::updateCostRemoveInstances" alt="" coords="657,517,855,558"/>
+<area shape="rect" id="node17" href="$db/def/classtorc_1_1placer_1_1Placement.html#a09a80386af43f61c10544ea1cc0c859f" title="torc::placer::Placement\l::updateCostRemovePair" alt="" coords="673,386,839,427"/>
+<area shape="rect" id="node20" href="$db/def/classtorc_1_1placer_1_1Placement.html#a3b340dd72f79b2f05048d47db4baa7c3" title="torc::placer::Placement\l::updateCostAddInstances" alt="" coords="669,582,843,623"/>
+<area shape="rect" id="node21" href="$db/def/classtorc_1_1placer_1_1Placement.html#a90b3e1fce1fe86f3adcd8a725791926e" title="torc::placer::Placement\l::updateCostAddPair" alt="" coords="679,451,833,493"/>
+<area shape="rect" id="node18" href="$db/def/classtorc_1_1placer_1_1Placement.html#a1caef004ace4a155de79358eac32215d" title="torc::placer::Placement\l::randomMove" alt="" coords="907,451,1061,493"/>
+<area shape="rect" id="node19" href="$db/def/classtorc_1_1placer_1_1Placement.html#a82069d5eb250763fc3de7237e0fdb6eb" title="torc::placer::Placement\l::undoMove" alt="" coords="907,386,1061,427"/>
+<area shape="rect" id="node23" href="$d0/d88/namespacetorc_1_1architecture.html#a08e13643210c5a5726a4c9d05e707bed" title="Unit test for the Tiles class. " alt="" coords="405,482,605,523"/>
+<area shape="rect" id="node26" href="$d2/d3b/WireXdlGenerator_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Export pips from arbitrary tiles for the given device. " alt="" coords="480,579,531,605"/>
+<area shape="rect" id="node28" href="$d6/dd4/classtorc_1_1bitstream_1_1Assembler.html#ae85a0c94555b870f8529add58d2fb1ea" title="Initiates Xdl to bitstream conversion. " alt="" coords="419,630,591,671"/>
+<area shape="rect" id="node29" href="$d9/d12/Xdl2Bit_8cpp.html#af5394c153db17bbec6ee4ca45ec276ea" title="convertXdlToBitstream" alt="" coords="428,696,583,723"/>
+<area shape="rect" id="node30" href="$d4/de3/classtorc_1_1bitstream_1_1VirtexAssembler.html#abfa126eb1690acb40207f35c139d64e2" title="Function to generate bitstream to be called by user. " alt="" coords="653,667,859,709"/>
+<area shape="rect" id="node31" href="$d9/d12/Xdl2Bit_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Converts XDL file to bitstream by merging primitive bitstreams from library. " alt="" coords="731,733,781,760"/>
+</map>

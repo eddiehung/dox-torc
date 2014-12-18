@@ -1,0 +1,7 @@
+<map id="torc::architecture::WireUsage::isUsed" name="torc::architecture::WireUsage::isUsed">
+<area shape="rect" id="node2" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a3b86ba86d920c06811a3e33fd7fd89c3" title="Route a net. " alt="" coords="787,5,935,46"/>
+<area shape="rect" id="node3" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ac87db48f8954e5856a4e0e14f99ff1b2" title="Create a new node and put it into the appropriate structure. " alt="" coords="194,34,342,75"/>
+<area shape="rect" id="node6" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#ad5d539b5a1db1ecb4e489999fd894aa9" title="torc::router::PathFinder\l::updateSharing" alt="" coords="192,99,344,141"/>
+<area shape="rect" id="node4" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a504913e9b033f2b6416942fb7978e0c3" title="Routing loop function. " alt="" coords="393,34,541,75"/>
+<area shape="rect" id="node5" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ad5e5b5d2709c05bc81de13e52c6746ee" title="Internal top level route function. " alt="" coords="590,34,738,75"/>
+</map>

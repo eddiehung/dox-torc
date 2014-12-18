@@ -1,0 +1,6 @@
+<map id="torc::generic::Apply" name="torc::generic::Apply">
+<area shape="rect" id="node2" href="$dc/d00/classtorc_1_1generic_1_1Commentable.html" title="Represents all classes that can hold user comments. " alt="" coords="20,5,199,32"/>
+<area shape="rect" id="node3" href="$d7/de6/classtorc_1_1generic_1_1Visitable.html" title="An object that receives an inoutVisitor. " alt="" coords="35,56,183,83"/>
+<area shape="rect" id="node4" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; Apply \&gt;" alt="" coords="14,107,205,149"/>
+<area shape="rect" id="node5" href="$d7/dad/classtorc_1_1generic_1_1UserDataContainer.html" title="Represents class that can hold userData. " alt="" coords="5,173,213,200"/>
+</map>

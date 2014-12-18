@@ -1,0 +1,7 @@
+<map id="torc::architecture::DDBConsoleStreams::mLog" name="torc::architecture::DDBConsoleStreams::mLog">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#adb604ac5de289d7b1aebca49466789e5" title="Initializes the database. " alt="" coords="274,70,393,111"/>
+<area shape="rect" id="node5" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#addcdae0a032def6076caade95f1ed33b" title="Sets all of the database console streams. " alt="" coords="246,5,421,46"/>
+<area shape="rect" id="node6" href="$d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a55a90922b21a6ab390c11182e52701bb" title="Returns the database console log stream. " alt="" coords="258,135,409,191"/>
+<area shape="rect" id="node3" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a34c44d3698eced70adef0ba5c9d05818" title="torc::architecture\l::DDB::mWireUsage" alt="" coords="469,5,605,46"/>
+<area shape="rect" id="node4" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a41a53206157f03fd325ca13876d57539" title="Public constructor. " alt="" coords="478,70,597,111"/>
+</map>

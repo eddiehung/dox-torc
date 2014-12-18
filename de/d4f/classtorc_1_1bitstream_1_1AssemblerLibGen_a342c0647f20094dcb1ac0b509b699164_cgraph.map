@@ -1,0 +1,5 @@
+<map id="torc::bitstream::AssemblerLibGen::compressBitFiles" name="torc::bitstream::AssemblerLibGen::compressBitFiles">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a9cc56adff56fba91c78872a4c92ca48f" title="Returns the device name. " alt="" coords="277,5,432,46"/>
+<area shape="rect" id="node3" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a679d39b0f5f9e63da57499902cfea384" title="Compress the diff of primary bitstream and reference bitstream. " alt="" coords="269,70,441,111"/>
+<area shape="rect" id="node4" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a1bfc1b599ab08dcd634d1ec6b0020777" title="Generate micro&#45;bitstreams for memory elements like LUT in RAM mode. " alt="" coords="227,135,482,177"/>
+</map>

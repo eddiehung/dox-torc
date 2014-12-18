@@ -1,0 +1,22 @@
+<map id="torc::architecture::Sites::getSite" name="torc::architecture::Sites::getSite">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a0772eacce3a3ca03fddaffbac6ef06b3" title="List of all sites. " alt="" coords="201,5,369,46"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#adb1beb0aee3905fea2818c0f13d49aba" title="Filtered list of all sites. " alt="" coords="201,70,369,111"/>
+<area shape="rect" id="node6" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a61e5ac4fb2a5bb83a2a8b67f98e457d0" title="brief Site detail function. " alt="" coords="201,135,369,177"/>
+<area shape="rect" id="node7" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a5161b5f7e9c34266db2aa2799befd8c8" title="brief Sites of a particular type function. " alt="" coords="201,201,369,242"/>
+<area shape="rect" id="node8" href="$d4/d6f/ArchitectureExample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="260,267,311,293"/>
+<area shape="rect" id="node9" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a9c16780f138e8273afc9bd72c3b96430" title="Get word offset in frame for the site/pip in corresponding Xdl. " alt="" coords="174,318,397,359"/>
+<area shape="rect" id="node12" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#af92b591270ea2f7d3aa13e6eccc671fc" title="Returns the tilewire for the specified site and pin name pair. " alt="" coords="205,383,366,425"/>
+<area shape="rect" id="node14" href="$d0/d88/namespacetorc_1_1architecture.html#abea332c7a19e7d510c7e9c126bc40fff" title="torc::architecture\l::testDevice" alt="" coords="226,449,345,490"/>
+<area shape="rect" id="node16" href="$d9/d12/Xdl2Bit_8cpp.html#a6e0095201e3a61112e9750279c99859e" title="GetFrameBlocksFromSiteName" alt="" coords="181,515,389,541"/>
+<area shape="rect" id="node4" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="461,135,629,177"/>
+<area shape="rect" id="node5" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="755,143,805,169"/>
+<area shape="rect" id="node10" href="$db/d2e/classtorc_1_1bitstream_1_1Virtex5LibGen.html#a04fbf579ac28aa24d607119dc9a82c20" title="Compress given bitstream file against reference bitstream file. " alt="" coords="463,253,627,294"/>
+<area shape="rect" id="node11" href="$da/d69/classtorc_1_1bitstream_1_1Virtex7LibGen.html#a9195d3e0c4aad39fd944b5619f2b4e90" title="Compress given bitstream file against reference bitstream file. " alt="" coords="463,318,627,359"/>
+<area shape="rect" id="node13" href="$dd/d5d/classtorc_1_1architecture_1_1InstancePin.html#a8d2433b5b591bc819f0fa645e3258c9f" title="Updates the Tilewire from the instance and pin names. " alt="" coords="452,383,639,425"/>
+<area shape="rect" id="node15" href="$d0/d88/namespacetorc_1_1architecture.html#a2b65038d19ed55136e2fd048b8a8bfd3" title="Unit test for the DDB class. " alt="" coords="445,449,645,490"/>
+<area shape="rect" id="node17" href="$d9/d12/Xdl2Bit_8cpp.html#ad6304506c423b4c5c3285017109d4701" title="assembleInstances" alt="" coords="478,515,613,541"/>
+<area shape="rect" id="node18" href="$d6/dd4/classtorc_1_1bitstream_1_1Assembler.html#ae85a0c94555b870f8529add58d2fb1ea" title="Initiates Xdl to bitstream conversion. " alt="" coords="694,478,866,519"/>
+<area shape="rect" id="node19" href="$d9/d12/Xdl2Bit_8cpp.html#af5394c153db17bbec6ee4ca45ec276ea" title="convertXdlToBitstream" alt="" coords="703,544,857,571"/>
+<area shape="rect" id="node20" href="$d4/de3/classtorc_1_1bitstream_1_1VirtexAssembler.html#abfa126eb1690acb40207f35c139d64e2" title="Function to generate bitstream to be called by user. " alt="" coords="915,507,1120,549"/>
+<area shape="rect" id="node21" href="$d9/d12/Xdl2Bit_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Converts XDL file to bitstream by merging primitive bitstreams from library. " alt="" coords="992,573,1043,600"/>
+</map>

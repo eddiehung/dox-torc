@@ -1,0 +1,21 @@
+<map id="torc::architecture::DDB::useSegment" name="torc::architecture::DDB::useSegment">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#afa98a3aac9ce6d5257377339147a5c8a" title="Expands the given tilewire&#39;s segment. " alt="" coords="189,599,344,640"/>
+<area shape="rect" id="node20" href="$dd/d65/classtorc_1_1architecture_1_1WireUsage.html#afcbd1f48c86076535884400c287c47a3" title="Marks the specified tilewire as being used. " alt="" coords="207,127,326,168"/>
+<area shape="rect" id="node3" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#a38f0ea37481a14b712b82ccd4fa7544a" title="Returns the wire index. " alt="" coords="648,280,803,321"/>
+<area shape="rect" id="node4" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#ad1789982f584140ebf77d4e8bc396e3d" title="Returns the tile index. " alt="" coords="651,345,800,387"/>
+<area shape="rect" id="node5" href="$db/dcc/classtorc_1_1architecture_1_1Segments.html#a0e29e5ed9afc3f91c5e1ea8d7ff2e1fe" title="Return the segment reference for the given tile and wire index. " alt="" coords="392,341,600,383"/>
+<area shape="rect" id="node6" href="$dc/d87/classtorc_1_1architecture_1_1Segments_1_1SegmentReference.html#ae9dba4cac9a94160a2f32663d7a60e0d" title="torc::architecture\l::Segments::SegmentReference\l::isDefined" alt="" coords="394,695,598,751"/>
+<area shape="rect" id="node7" href="$dc/d87/classtorc_1_1architecture_1_1Segments_1_1SegmentReference.html#a9fcc47efe80ba262e864363457c6db50" title="torc::architecture\l::Segments::SegmentReference\l::isTrivial" alt="" coords="394,826,598,882"/>
+<area shape="rect" id="node8" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#acbd3875ad573d582b89c47a0ff67575e" title="Discards all contents and resizes the array. " alt="" coords="437,905,555,947"/>
+<area shape="rect" id="node9" href="$dc/d87/classtorc_1_1architecture_1_1Segments_1_1SegmentReference.html#a78fc4fa9ac90b81f3d1b29bb57fdb413" title="torc::architecture\l::Segments::SegmentReference\l::getCompactSegmentIndex" alt="" coords="394,970,598,1026"/>
+<area shape="rect" id="node10" href="$dc/d87/classtorc_1_1architecture_1_1Segments_1_1SegmentReference.html#aa7fbcd0b490124285a736d9c1001ac5e" title="torc::architecture\l::Segments::SegmentReference\l::getAnchorTileIndex" alt="" coords="394,1050,598,1106"/>
+<area shape="rect" id="node11" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="437,1129,555,1171"/>
+<area shape="rect" id="node12" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#ad34ec958b29c5793dac9e46d136e0ef9" title="Returns the non&#45;constant end iterator. " alt="" coords="437,1195,555,1236"/>
+<area shape="rect" id="node13" href="$de/dc5/classtorc_1_1architecture_1_1Segments_1_1CompactSegmentTilewire.html#af2351575eb17f9743a2230336955d1c4" title="torc::architecture\l::Segments::CompactSegment\lTilewire::getWireIndex" alt="" coords="397,406,595,462"/>
+<area shape="rect" id="node14" href="$de/dc5/classtorc_1_1architecture_1_1Segments_1_1CompactSegmentTilewire.html#a9072d987f8beab3233baf60b9a79fac4" title="torc::architecture\l::Segments::CompactSegment\lTilewire::getTileOffset" alt="" coords="397,486,595,542"/>
+<area shape="rect" id="node15" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a62816b62b67b01034e660ed89a6f0d99" title="Returns the TileInfo object for the specified tile. " alt="" coords="435,93,557,135"/>
+<area shape="rect" id="node16" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#afab42a4de0d1dcb01d62fea74a977005" title="Returns the WireInfo array for the specified tile type. " alt="" coords="432,159,560,200"/>
+<area shape="rect" id="node17" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a3929d1b6b85ec182fccfc88eef0203b7" title="Returns the tile type index for this tile. " alt="" coords="419,224,573,265"/>
+<area shape="rect" id="node18" href="$d3/d5f/classtorc_1_1architecture_1_1WireInfo.html#a6e1f192aac518b865c88a2397e03950f" title="Returns the tied sink array for this wire. " alt="" coords="417,565,575,607"/>
+<area shape="rect" id="node19" href="$d3/d5f/classtorc_1_1architecture_1_1WireInfo.html#ade848db7b39cf7ea90b8ea0e56af83d1" title="Returns the tied source array for this wire. " alt="" coords="409,631,583,672"/>
+</map>

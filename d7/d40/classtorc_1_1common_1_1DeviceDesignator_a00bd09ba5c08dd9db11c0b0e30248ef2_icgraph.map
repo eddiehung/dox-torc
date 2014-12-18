@@ -1,0 +1,13 @@
+<map id="torc::common::DeviceDesignator::getDeviceName" name="torc::common::DeviceDesignator::getDeviceName">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#afce551dd7bc49388f92cc9e55b32d8d6" title="Public constructor. " alt="" coords="287,5,406,46"/>
+<area shape="rect" id="node3" href="$df/dd5/namespacetorc_1_1common.html#a90e5846321c7e8bd0b55f69f92cdbf49" title="torc::common::operator\&lt;\&lt;" alt="" coords="262,71,431,97"/>
+<area shape="rect" id="node4" href="$df/dd5/namespacetorc_1_1common.html#aacdb76dde186637f9edd7d41a0c9168a" title="Unit test for the DeviceDesignator class. " alt="" coords="271,122,423,163"/>
+<area shape="rect" id="node5" href="$d7/d6c/classtorc_1_1common_1_1Devices.html#a58345b793346e306dfdf048ad3b5bbb0" title="Returns the device enumeration corresponding to the given device name. " alt="" coords="270,187,423,229"/>
+<area shape="rect" id="node11" href="$d9/da8/classtorc_1_1XdlParser.html#aa2fe1251737ad4ba305ec441df42d7d2" title="torc::XdlParser::parse" alt="" coords="274,256,419,283"/>
+<area shape="rect" id="node6" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a8561b81d796985f4f2bd4df044fb5c68" title="Assign the device enumeration constant for the given device name. " alt="" coords="482,122,649,163"/>
+<area shape="rect" id="node10" href="$df/dd5/namespacetorc_1_1common.html#a3859b01a76d6e4bf856614337f6acaa1" title="Unit test for the Devices class. " alt="" coords="489,187,641,229"/>
+<area shape="rect" id="node7" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a5c168120ef7f6d439180d38558e41375" title="Read the bitstream header. " alt="" coords="713,57,879,98"/>
+<area shape="rect" id="node8" href="$d3/d3e/classtorc_1_1bitstream_1_1DeviceInfoHelper.html#ace1764f7727971f96f5bfaed84c02048" title="Build the static device information for the specified family. " alt="" coords="699,122,893,163"/>
+<area shape="rect" id="node9" href="$d6/d7e/namespacetorc_1_1bitstream.html#a9a0a3b7d7d7e4079cfa703e4390c2ed6" title="Unit test for the Virtex5 FX130T getPrimaryXdlColumn() " alt="" coords="718,187,874,229"/>
+<area shape="rect" id="node12" href="$d1/d1c/classtorc_1_1physical_1_1XdlImporter.html#a5a51647d7c27a73a5f6987659bfcab19" title="Import XDL from an input stream. " alt="" coords="480,253,651,294"/>
+</map>

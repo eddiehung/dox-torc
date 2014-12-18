@@ -1,0 +1,5 @@
+<map id="torc::bitstream::Virtex4::makeSubfield" name="torc::bitstream::Virtex4::makeSubfield">
+<area shape="rect" id="node2" href="$d4/daf/classtorc_1_1bitstream_1_1Virtex4.html#aa0dc99df7164ad6b0ddc3db5202616d8" title="Return a packet vector with the full bitstream prefix. " alt="" coords="213,5,400,46"/>
+<area shape="rect" id="node3" href="$d4/daf/classtorc_1_1bitstream_1_1Virtex4.html#a2bc125abf8b26e1618f0c00b5ffbaca9" title="Return a packet vector with the full bitstream suffix. " alt="" coords="213,70,400,111"/>
+<area shape="rect" id="node4" href="$d4/daf/classtorc_1_1bitstream_1_1Virtex4.html#a4a8d39a9598b278beebe137c9aa20da5" title="Return a packet vector with the partial bitstream prefix. " alt="" coords="205,135,408,177"/>
+</map>

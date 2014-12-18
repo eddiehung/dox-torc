@@ -1,0 +1,5 @@
+<map id="torc::generic::VerilogNames::getImportedVerilogViewName" name="torc::generic::VerilogNames::getImportedVerilogViewName">
+<area shape="rect" id="node2" href="$da/dab/classtorc_1_1generic_1_1VerilogImporterVisitor.html#ac945ae2640a6963f1d20c0a77798824f" title="Visit a Verilog module, and create an EDIF cell and view. " alt="" coords="256,5,443,46"/>
+<area shape="rect" id="node3" href="$da/dab/classtorc_1_1generic_1_1VerilogImporterVisitor.html#a4cf4b8158ae2a050a8b27392100c4169" title="Find the specified view, or optionally create it. " alt="" coords="256,70,443,111"/>
+<area shape="rect" id="node4" href="$da/dab/classtorc_1_1generic_1_1VerilogImporterVisitor.html#a473c5ef33b60c2d1c87736e05b98c22f" title="Visit a Verilog instance, and create and EDIF instance with populated pins. " alt="" coords="491,70,677,111"/>
+</map>

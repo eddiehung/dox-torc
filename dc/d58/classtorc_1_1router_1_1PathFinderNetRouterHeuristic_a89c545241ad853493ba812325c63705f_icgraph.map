@@ -1,0 +1,4 @@
+<map id="torc::router::PathFinderNetRouterHeuristic::expandSegmentSinks" name="torc::router::PathFinderNetRouterHeuristic::expandSegmentSinks">
+<area shape="rect" id="node2" href="$dc/d58/classtorc_1_1router_1_1PathFinderNetRouterHeuristic.html#abd4f7e86e2e3f54c8207974aedc74b4e" title="Calculate the node cost based on distance to the sink and path length. " alt="" coords="320,5,515,46"/>
+<area shape="rect" id="node3" href="$dc/d58/classtorc_1_1router_1_1PathFinderNetRouterHeuristic.html#a1559d59085f41159eeab05a07917a12d" title="torc::router::PathFinder\lNetRouterHeuristic::nodeCost\lInitial" alt="" coords="320,69,515,125"/>
+</map>

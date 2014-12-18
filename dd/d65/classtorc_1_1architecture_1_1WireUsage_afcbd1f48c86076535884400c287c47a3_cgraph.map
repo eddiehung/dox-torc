@@ -1,0 +1,7 @@
+<map id="torc::architecture::WireUsage::use" name="torc::architecture::WireUsage::use">
+<area shape="rect" id="node2" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#ad1789982f584140ebf77d4e8bc396e3d" title="Returns the tile index. " alt="" coords="176,5,325,46"/>
+<area shape="rect" id="node3" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#a38f0ea37481a14b712b82ccd4fa7544a" title="Returns the wire index. " alt="" coords="173,70,328,111"/>
+<area shape="rect" id="node4" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a62816b62b67b01034e660ed89a6f0d99" title="Returns the TileInfo object for the specified tile. " alt="" coords="189,135,312,177"/>
+<area shape="rect" id="node5" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a3929d1b6b85ec182fccfc88eef0203b7" title="Returns the tile type index for this tile. " alt="" coords="173,201,328,242"/>
+<area shape="rect" id="node6" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#afab42a4de0d1dcb01d62fea74a977005" title="Returns the WireInfo array for the specified tile type. " alt="" coords="187,266,315,307"/>
+</map>

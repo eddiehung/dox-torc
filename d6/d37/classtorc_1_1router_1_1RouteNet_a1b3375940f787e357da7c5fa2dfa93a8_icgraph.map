@@ -1,0 +1,5 @@
+<map id="torc::router::RouteNet::sourcesEnd" name="torc::router::RouteNet::sourcesEnd">
+<area shape="rect" id="node2" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a797f90047f837331d02a8e1a878ec429" title="Determines whether the given Tilewire is a source of this net. " alt="" coords="197,5,341,46"/>
+<area shape="rect" id="node4" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#adfef7f89edb1b7c265d6369b4867a43f" title="Removes the given Tilewire from the sources of this net. " alt="" coords="197,70,341,111"/>
+<area shape="rect" id="node3" href="$dc/dd6/namespacetorc_1_1router.html#a0d61cb6d997eaf1d7447086859ef7356" title="Unit test for the Net class. " alt="" coords="390,38,538,79"/>
+</map>

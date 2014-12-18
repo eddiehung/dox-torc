@@ -1,0 +1,7 @@
+<map id="torc::generic::Composite::getCompositionType" name="torc::generic::Composite::getCompositionType">
+<area shape="rect" id="node2" href="$da/d26/classtorc_1_1generic_1_1VectorNetBit.html#a6d8633f4b52ed35ec0b51244977faa33" title="torc::generic::VectorNet\lBit::getConnectedNets" alt="" coords="240,5,397,46"/>
+<area shape="rect" id="node3" href="$da/d26/classtorc_1_1generic_1_1VectorNetBit.html#a8bf0dda9f3aba25f3e33c22a7b4b1eca" title="torc::generic::VectorNet\lBit::getConnectedPorts" alt="" coords="240,70,397,111"/>
+<area shape="rect" id="node4" href="$da/d26/classtorc_1_1generic_1_1VectorNetBit.html#ab4db9016d62257dcccefdd25b4fe4e8c" title="torc::generic::VectorNet\lBit::getConnectedPortRefs" alt="" coords="231,135,406,177"/>
+<area shape="rect" id="node5" href="$d7/d1b/classtorc_1_1generic_1_1VectorPortBit.html#a61197ca1eb987d81a33ca4fb882265fd" title="torc::generic::VectorPort\lBit::getConnectedNets" alt="" coords="239,201,399,242"/>
+<area shape="rect" id="node6" href="$de/d82/classtorc_1_1generic_1_1VectorPortBitReference.html#af73c589c183720e7addd49cc7ea5108c" title="torc::generic::VectorPort\lBitReference::getConnectedNets" alt="" coords="213,266,424,307"/>
+</map>

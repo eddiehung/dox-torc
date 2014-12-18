@@ -1,0 +1,4 @@
+<map id="torc::bitstream::Virtex7::getXdlFrames" name="torc::bitstream::Virtex7::getXdlFrames">
+<area shape="rect" id="node2" href="$d5/d8c/classtorc_1_1bitstream_1_1Virtex7.html#a88c6963d95f50ff5eaa413874993f84a" title="Return the number of frame rows for the current device. " alt="" coords="217,5,367,46"/>
+<area shape="rect" id="node3" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#a48388a49dccfe1173809c80b3f18974a" title="Returns the column type vector. " alt="" coords="206,70,378,111"/>
+</map>

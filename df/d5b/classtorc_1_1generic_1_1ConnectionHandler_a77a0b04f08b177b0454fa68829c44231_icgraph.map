@@ -1,0 +1,5 @@
+<map id="torc::generic::ConnectionHandler::disconnectPortRefFromNet" name="torc::generic::ConnectionHandler::disconnectPortRefFromNet">
+<area shape="rect" id="node2" href="$d1/dcc/classtorc_1_1generic_1_1PortBundleReference.html#ad1d4c6ea6ac5b61a2f75bae9e6b038df" title="torc::generic::PortBundle\lReference::disconnect" alt="" coords="288,5,451,46"/>
+<area shape="rect" id="node3" href="$dd/dc7/classtorc_1_1generic_1_1ScalarPortReference.html#a679dbf14e50eea8b4da4a6f6cf6fe8e7" title="torc::generic::ScalarPort\lReference::disconnect" alt="" coords="290,70,449,111"/>
+<area shape="rect" id="node4" href="$de/d82/classtorc_1_1generic_1_1VectorPortBitReference.html#a3c451999397b0faaedc5d5c3063aeda3" title="torc::generic::VectorPort\lBitReference::disconnect" alt="" coords="286,135,453,177"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="torc::architecture::DDB::getFamilyName" name="torc::architecture::DDB::getFamilyName">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af273934427824a6680916eafc64c88cf" title="A brief summary of device information. " alt="" coords="249,5,417,46"/>
+<area shape="rect" id="node5" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a58ce56009971ef7cb620e67ad32b29b0" title="Initialize object of this class. " alt="" coords="247,70,419,111"/>
+<area shape="rect" id="node7" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a90b80d86a73c4f8e66eff7376e68acea" title="Generrate Xdls for logic sites. " alt="" coords="520,162,699,203"/>
+<area shape="rect" id="node8" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a1ff111c6c92c1369889dbd0412a9545e" title="Export a single pip. " alt="" coords="247,253,419,294"/>
+<area shape="rect" id="node11" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a506bd206128a6a79243859b2d661e977" title="Create Xdl with a Ramb instane and no configuration. " alt="" coords="239,187,428,229"/>
+<area shape="rect" id="node12" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#aedfb833a4a2ba5d51854c2b526018755" title="Returns parent family name. " alt="" coords="234,318,433,359"/>
+<area shape="rect" id="node15" href="$db/d2e/classtorc_1_1bitstream_1_1Virtex5LibGen.html#ab9b49c98cbb2b3333ea592113f937f78" title="Generate micro&#45;bitstreams for memory elements like LUT in RAM mode. " alt="" coords="206,383,461,425"/>
+<area shape="rect" id="node16" href="$d9/d12/Xdl2Bit_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Converts XDL file to bitstream by merging primitive bitstreams from library. " alt="" coords="308,449,359,476"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="525,5,693,46"/>
+<area shape="rect" id="node4" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="831,12,881,39"/>
+<area shape="rect" id="node6" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#af2e8d91c6c3930b90f2a5c064f794bd8" title="Constructor. " alt="" coords="522,70,697,111"/>
+<area shape="rect" id="node9" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#aaeef9deceabfb861c0edcc4b6f0674b3" title="Export all pips within the specified tile. " alt="" coords="523,253,695,294"/>
+<area shape="rect" id="node10" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a2f888e050652a923245b411485c30250" title="Generate Xdls for routing pips. " alt="" coords="770,253,942,294"/>
+<area shape="rect" id="node13" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a5142a14526ea84660dd20eccc7ec86af" title="Save library map to file. " alt="" coords="510,318,709,359"/>
+<area shape="rect" id="node14" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a15acfe2c85caab107c3c906756b25e5d" title="Stitch micro&#45;bitstreams in mXdlGenerationFolder. " alt="" coords="757,318,955,359"/>
+</map>

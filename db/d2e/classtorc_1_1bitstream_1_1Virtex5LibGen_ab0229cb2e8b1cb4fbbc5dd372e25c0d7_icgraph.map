@@ -1,0 +1,6 @@
+<map id="torc::bitstream::Virtex5LibGen::getCompoundSettingsMap" name="torc::bitstream::Virtex5LibGen::getCompoundSettingsMap">
+<area shape="rect" id="node2" href="$d6/d40/classtorc_1_1bitstream_1_1Virtex5Assembler.html#ae4dfaa0b0312ebf6c8b490bb1a986758" title="torc::bitstream::Virtex5\lAssembler::initialize" alt="" coords="278,5,429,46"/>
+<area shape="rect" id="node4" href="$db/d2e/classtorc_1_1bitstream_1_1Virtex5LibGen.html#a73eaa609fc2e381d1bb1120616ba3598" title="Do architecture specific part of initialization. " alt="" coords="278,70,429,111"/>
+<area shape="rect" id="node3" href="$d6/d40/classtorc_1_1bitstream_1_1Virtex5Assembler.html#ab8fdaaae38947f85b9d46de105b569cc" title="torc::bitstream::Virtex5\lAssembler::Virtex5Assembler" alt="" coords="477,5,669,46"/>
+<area shape="rect" id="node5" href="$db/d2e/classtorc_1_1bitstream_1_1Virtex5LibGen.html#a5a2fbb1ac0b92ed34df1c6677c33b789" title="Constructor. " alt="" coords="497,70,649,111"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="torc::architecture::Tiles" name="torc::architecture::Tiles">
+<area shape="rect" id="node2" href="$d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html" title="Device database console streams class. " alt="" coords="1213,75,1363,117"/>
+<area shape="rect" id="node3" href="$d8/d33/classstd_1_1basic__istream.html" title="Forward declaration of template basic_istream. " alt="" coords="776,75,909,117"/>
+<area shape="rect" id="node4" href="$df/d57/classstd_1_1basic__ostream.html" title="Forward declaration of template basic_ostream. " alt="" coords="776,10,909,51"/>
+<area shape="rect" id="node5" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const torc\l::architecture::TileInfo \&gt;" alt="" coords="1210,429,1366,485"/>
+<area shape="rect" id="node13" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const torc\l::architecture::Tiles\l::CharStringWrapper \&gt;" alt="" coords="769,351,917,422"/>
+<area shape="rect" id="node18" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; Array\&lt; const\l torc::architecture::WireInfo \&gt; \&gt;" alt="" coords="744,140,941,196"/>
+<area shape="rect" id="node21" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; Array\&lt; const\l WireNameIndexPair \&gt; \&gt;" alt="" coords="761,220,924,276"/>
+<area shape="rect" id="node22" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const TileNameIndex\lPair \&gt;" alt="" coords="966,288,1157,344"/>
+<area shape="rect" id="node7" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html" title="Encapsulation of a tile within a device tile map. " alt="" coords="783,571,902,613"/>
+<area shape="rect" id="node8" href="$d2/d0e/structtorc_1_1architecture_1_1xilinx_1_1TileTypeIndex.html" title="Encapsulation of a tile type index in an unsigned 16&#45;bit integer. " alt="" coords="458,607,601,649"/>
+<area shape="rect" id="node9" href="$d0/d91/structtorc_1_1architecture_1_1xilinx_1_1TileTypeCount.html" title="Encapsulation of a tile type count in an unsigned 16&#45;bit integer. " alt="" coords="241,657,386,698"/>
+<area shape="rect" id="node10" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint16_t \&gt;" alt="" coords="5,657,189,698"/>
+<area shape="rect" id="node11" href="$d8/d45/structtorc_1_1architecture_1_1xilinx_1_1TileRow.html" title="Encapsulation of a tile row in an unsigned 16&#45;bit integer. " alt="" coords="470,537,589,578"/>
+<area shape="rect" id="node12" href="$d9/deb/structtorc_1_1architecture_1_1xilinx_1_1TileCol.html" title="Encapsulation of a tile column in an unsigned 16&#45;bit integer. " alt="" coords="470,730,589,771"/>
+<area shape="rect" id="node14" href="$d3/d42/classtorc_1_1architecture_1_1Tiles_1_1CharStringWrapper.html" title="Wrapper around char* for use with the Array template. " alt="" coords="444,458,615,499"/>
+<area shape="rect" id="node15" href="$d0/de0/structtorc_1_1architecture_1_1xilinx_1_1TileCount.html" title="Encapsulation of a tile count in an unsigned 32&#45;bit integer. " alt="" coords="783,826,902,867"/>
+<area shape="rect" id="node19" href="$de/da8/structtorc_1_1architecture_1_1xilinx_1_1TileIndex.html" title="Encapsulation of a tile index in an unsigned 32&#45;bit integer. " alt="" coords="1229,789,1347,830"/>
+<area shape="rect" id="node16" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32_t \&gt;" alt="" coords="437,826,621,867"/>
+<area shape="rect" id="node17" href="$d3/d8f/classtorc_1_1architecture_1_1Array2D.html" title="torc::architecture\l::Array2D\&lt; const torc\l::architecture::WireInfo \&gt;" alt="" coords="1207,140,1369,196"/>
+<area shape="rect" id="node20" href="$d3/d8f/classtorc_1_1architecture_1_1Array2D.html" title="torc::architecture\l::Array2D\&lt; const WireNameIndex\lPair \&gt;" alt="" coords="1182,221,1394,277"/>
+</map>

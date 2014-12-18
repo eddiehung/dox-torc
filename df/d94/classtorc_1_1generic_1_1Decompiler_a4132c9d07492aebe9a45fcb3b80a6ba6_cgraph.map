@@ -1,0 +1,6 @@
+<map id="torc::generic::Decompiler::printNetAttributes" name="torc::generic::Decompiler::printNetAttributes">
+<area shape="rect" id="node2" href="$d2/d20/classtorc_1_1generic_1_1NetDelay.html#acc1c7f3e2f506d8e8f077ae8486cb691" title="torc::generic::NetDelay\l::getDerivation" alt="" coords="217,5,367,46"/>
+<area shape="rect" id="node3" href="$d2/d20/classtorc_1_1generic_1_1NetDelay.html#aabe1b4ac939a0b6b6a4d30c6ab901c56" title="torc::generic::NetDelay\l::getDelay" alt="" coords="217,70,367,111"/>
+<area shape="rect" id="node4" href="$d2/d20/classtorc_1_1generic_1_1NetDelay.html#a258e426616a2224b36322a16fa9d5540" title="torc::generic::NetDelay\l::getTransition" alt="" coords="217,135,367,177"/>
+<area shape="rect" id="node5" href="$dd/dad/classtorc_1_1generic_1_1Error.html#ac25097657c1ef0d976300ca82e7bbaf5" title="torc::generic::Error\l::setCurrentLocation" alt="" coords="223,201,361,242"/>
+</map>

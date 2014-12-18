@@ -1,0 +1,26 @@
+<map id="torc::router::BOOST_AUTO_TEST_CASE" name="torc::router::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a584d0ae784b6e6c8d5ddb16c84dc8296" title="Returns the name of the net. " alt="" coords="203,5,347,46"/>
+<area shape="rect" id="node3" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a797f90047f837331d02a8e1a878ec429" title="Determines whether the given Tilewire is a source of this net. " alt="" coords="203,70,347,111"/>
+<area shape="rect" id="node6" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a965c0c6c43e8f113b5fd3ea357e484cb" title="Determines whether the given Tilewire is a sink of this net. " alt="" coords="203,201,347,242"/>
+<area shape="rect" id="node9" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a48e9f7a55d17dda071d3c89ffad3a0c0" title="Determines whether the net contains the given arc. " alt="" coords="203,331,347,373"/>
+<area shape="rect" id="node12" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a3879257417ad452a71de737e27e80ce5" title="Returns true if the net has any sources. " alt="" coords="203,462,347,503"/>
+<area shape="rect" id="node13" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#aa6f0701201e6a3d1a3eda7892d380e7d" title="Returns true if the net has exactly one source. " alt="" coords="203,527,347,569"/>
+<area shape="rect" id="node14" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a75eb722423355655b42769f69c00e737" title="Returns true if the net has any sinks. " alt="" coords="203,593,347,634"/>
+<area shape="rect" id="node15" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a53446955f0d120806bf5d4b51a6f9af3" title="Returns true if the net has exactly one sink. " alt="" coords="203,658,347,699"/>
+<area shape="rect" id="node16" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#acf002748667667c7ae0e04a39fa8ac53" title="Returns true if the net has more than one source. " alt="" coords="203,723,347,765"/>
+<area shape="rect" id="node17" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a9a8db68ea8b819b04bd1d6cd8b0c0bdc" title="Returns true if the next has more than one sink. " alt="" coords="203,789,347,830"/>
+<area shape="rect" id="node18" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#afa41285d385ae6d02611095453a4719a" title="Returns true if the net has any arcs. " alt="" coords="203,854,347,895"/>
+<area shape="rect" id="node19" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#adfef7f89edb1b7c265d6369b4867a43f" title="Removes the given Tilewire from the sources of this net. " alt="" coords="203,135,347,177"/>
+<area shape="rect" id="node20" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#af327f70db7d650f07887b604aff5634a" title="Removes the given instance pin from the sinks of this net. " alt="" coords="203,266,347,307"/>
+<area shape="rect" id="node21" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#af40fcba3c7285993867da5fde3d97764" title="Removes the given arc from this net. " alt="" coords="203,397,347,438"/>
+<area shape="rect" id="node22" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#ac36c81249c72963a38ce0f86044ab7f5" title="Adds the given arc to this net. " alt="" coords="203,919,347,961"/>
+<area shape="rect" id="node23" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a874e326b634b4184f1baf885ff64e98d" title="Adds the given Tilewire as a source for this net. " alt="" coords="203,985,347,1026"/>
+<area shape="rect" id="node24" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a4b0d3b887c5832331b320c88655179c2" title="Adds the given Tilewire as a sink for this net. " alt="" coords="203,1050,347,1091"/>
+<area shape="rect" id="node25" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#ab60a406f7c39f8aa8ef817362d4215a9" title="Returns the number of arcs on the net. " alt="" coords="203,1115,347,1157"/>
+<area shape="rect" id="node4" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#ad8a0630726d56523466b24aff893e58a" title="Returns the begin constant iterator for source Tilewires. " alt="" coords="395,70,539,111"/>
+<area shape="rect" id="node5" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a1b3375940f787e357da7c5fa2dfa93a8" title="Returns the end constant iterator for source Tilewires. " alt="" coords="395,135,539,177"/>
+<area shape="rect" id="node7" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#abfbfd0d074a05abec19d3fbaccb98bec" title="Returns the begin constant iterator for sink Tilewires. " alt="" coords="395,201,539,242"/>
+<area shape="rect" id="node8" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a6d184d8b76f5084c13e680b07143deaf" title="Returns the end constant iterator for sink Tilewires. " alt="" coords="395,266,539,307"/>
+<area shape="rect" id="node10" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a696df8e3f546a294cd239c8e55c762cc" title="Returns the begin constant iterator for arcs. " alt="" coords="395,331,539,373"/>
+<area shape="rect" id="node11" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a2ceb598240345274c48490751fbf3336" title="Returns the end constant iterator for arcs. " alt="" coords="395,397,539,438"/>
+</map>

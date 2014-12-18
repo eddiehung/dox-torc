@@ -1,0 +1,9 @@
+<map id="torc::router::PathFinder::PathFinder" name="torc::router::PathFinder::PathFinder">
+<area shape="rect" id="node2" href="$dd/d65/classtorc_1_1architecture_1_1WireUsage.html#af80630b7400b0d459b10c9cce450268a" title="Size the wire usage according to the number of device tiles. " alt="" coords="221,70,368,111"/>
+<area shape="rect" id="node6" href="$d5/dd4/classtorc_1_1router_1_1NetRouterBase.html#a3cbb7067346342d1923eb155d604fff5" title="Get the current heuristic. " alt="" coords="205,135,384,177"/>
+<area shape="rect" id="node7" href="$d5/df5/classtorc_1_1router_1_1RouterHeuristicBase.html#a6d66a03422a9ca3e6686aff8ac59e3ad" title="Set a parameter. " alt="" coords="205,201,384,242"/>
+<area shape="rect" id="node8" href="$d5/df5/classtorc_1_1router_1_1RouterHeuristicBase.html#a331f0025a3704d151524e0af1ca67788" title="Do something with the parameters. " alt="" coords="205,266,384,307"/>
+<area shape="rect" id="node3" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#af596a8df4be7401c5874b82c44e73bd7" title="Returns the array size. " alt="" coords="441,5,559,46"/>
+<area shape="rect" id="node4" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#aa6815707f3f377980ed9f97c63e2b4f1" title="Returns the tile count for this device. " alt="" coords="433,70,567,111"/>
+<area shape="rect" id="node5" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#acbd3875ad573d582b89c47a0ff67575e" title="Discards all contents and resizes the array. " alt="" coords="441,135,559,177"/>
+</map>

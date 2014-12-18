@@ -1,0 +1,11 @@
+<map id="torc::architecture::DDB::getDeviceName" name="torc::architecture::DDB::getDeviceName">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af273934427824a6680916eafc64c88cf" title="A brief summary of device information. " alt="" coords="211,5,379,46"/>
+<area shape="rect" id="node5" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a1ff111c6c92c1369889dbd0412a9545e" title="Export a single pip. " alt="" coords="209,70,381,111"/>
+<area shape="rect" id="node8" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a342c0647f20094dcb1ac0b509b699164" title="Compress all Xilinx bitfiles in mXdlGenerationFolder. " alt="" coords="209,135,381,177"/>
+<area shape="rect" id="node9" href="$d0/d88/namespacetorc_1_1architecture.html#abea332c7a19e7d510c7e9c126bc40fff" title="torc::architecture\l::testDevice" alt="" coords="235,201,354,242"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="445,5,613,46"/>
+<area shape="rect" id="node4" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="739,12,789,39"/>
+<area shape="rect" id="node6" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#aaeef9deceabfb861c0edcc4b6f0674b3" title="Export all pips within the specified tile. " alt="" coords="443,70,615,111"/>
+<area shape="rect" id="node7" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a2f888e050652a923245b411485c30250" title="Generate Xdls for routing pips. " alt="" coords="678,70,850,111"/>
+<area shape="rect" id="node10" href="$d0/d88/namespacetorc_1_1architecture.html#a2b65038d19ed55136e2fd048b8a8bfd3" title="Unit test for the DDB class. " alt="" coords="429,201,629,242"/>
+</map>

@@ -1,0 +1,41 @@
+<map id="EdifVersion.hpp" name="EdifVersion.hpp">
+<area shape="rect" id="node2" href="$df/dce/EdifVersion_8cpp.html" title="EdifVersion.cpp" alt="" coords="5,80,116,107"/>
+<area shape="rect" id="node3" href="$da/d64/Root_8hpp.html" title="Root.hpp" alt="" coords="1505,80,1577,107"/>
+<area shape="rect" id="node7" href="$d8/d2c/Generic_8hpp.html" title="Main torc::generic namespace header. " alt="" coords="840,379,931,405"/>
+<area shape="rect" id="node4" href="$df/ddb/Cloning_8hpp.html" title="Cloning.hpp" alt="" coords="1294,304,1383,331"/>
+<area shape="rect" id="node14" href="$d8/d30/generic_2Design_8hpp.html" title="Design.hpp" alt="" coords="667,155,753,181"/>
+<area shape="rect" id="node16" href="$dc/d4b/ObjectVisitor_8hpp.html" title="ObjectVisitor.hpp" alt="" coords="347,229,468,256"/>
+<area shape="rect" id="node23" href="$df/d1f/ObjectFactory_8hpp.html" title="ObjectFactory.hpp" alt="" coords="873,229,999,256"/>
+<area shape="rect" id="node24" href="$d0/df1/Parser_8cc.html" title="Parser.cc" alt="" coords="1540,379,1616,405"/>
+<area shape="rect" id="node28" href="$d9/d8d/VerilogImporterVisitor_8hpp.html" title="Header for the VerilogImporterVisitor class. " alt="" coords="1845,304,2016,331"/>
+<area shape="rect" id="node31" href="$dd/ddb/Root_8cpp.html" title="Root.cpp" alt="" coords="1023,229,1096,256"/>
+<area shape="rect" id="node32" href="$d2/d93/EdifParser_8cpp.html" title="EdifParser.cpp" alt="" coords="2145,155,2252,181"/>
+<area shape="rect" id="node33" href="$df/d67/Library_8hpp.html" title="Library.hpp" alt="" coords="1121,155,1207,181"/>
+<area shape="rect" id="node37" href="$da/d17/VerilogExporter_8hpp.html" title="Header for the VerilogExporter class. " alt="" coords="1703,155,1836,181"/>
+<area shape="rect" id="node38" href="$d4/d53/VerilogExporterUnitTest_8cpp.html" title="Unit test for the VerilogExporter class. " alt="" coords="1782,229,1964,256"/>
+<area shape="rect" id="node39" href="$d1/d45/VerilogImporter_8hpp.html" title="Header for the VerilogImporter class. " alt="" coords="1935,155,2069,181"/>
+<area shape="rect" id="node40" href="$d6/da7/VerilogImporterUnitTest_8cpp.html" title="Unit test for the VerilogImporter class. " alt="" coords="2091,229,2275,256"/>
+<area shape="rect" id="node5" href="$d6/d0c/Cloning_8cpp.html" title="Cloning.cpp" alt="" coords="1414,379,1503,405"/>
+<area shape="rect" id="node6" href="$d3/d67/Flattening_8cpp.html" title="Flattening.cpp" alt="" coords="1287,379,1389,405"/>
+<area shape="rect" id="node8" href="$d1/d4e/EdifFlattener_8cpp.html" title="Source for the EDIF flattener. " alt="" coords="977,453,1095,480"/>
+<area shape="rect" id="node9" href="$da/d89/EdifObfuscator_8cpp.html" title="Source for the EDIF obfuscator. " alt="" coords="498,453,629,480"/>
+<area shape="rect" id="node10" href="$d0/d94/GenericExample_8cpp.html" title="Example program to read in an EDIF file, do something with it, and write it back out. " alt="" coords="654,453,793,480"/>
+<area shape="rect" id="node11" href="$d5/de2/VerilogExample_8cpp.html" title="Example program to read in a structural Verilog file and write it back out. " alt="" coords="818,453,952,480"/>
+<area shape="rect" id="node12" href="$db/d5b/VerilogExporter_8cpp.html" title="Source for the VerilogExporter class. " alt="" coords="1120,453,1253,480"/>
+<area shape="rect" id="node13" href="$d7/d0b/VerilogImporter_8cpp.html" title="Source for the VerilogImporter class. " alt="" coords="1929,453,2063,480"/>
+<area shape="rect" id="node15" href="$d8/d3b/generic_2Design_8cpp.html" title="Design.cpp" alt="" coords="545,229,631,256"/>
+<area shape="rect" id="node30" href="$d0/d42/Pruning_8cpp.html" title="Pruning.cpp" alt="" coords="707,229,797,256"/>
+<area shape="rect" id="node17" href="$d1/d1b/Decompiler_8hpp.html" title="Decompiler.hpp" alt="" coords="585,304,695,331"/>
+<area shape="rect" id="node20" href="$df/d01/ObjectVisitor_8cpp.html" title="ObjectVisitor.cpp" alt="" coords="243,304,364,331"/>
+<area shape="rect" id="node21" href="$df/d48/VerilogExporterVisitor_8hpp.html" title="Header for the VerilogExporterVisitor class. " alt="" coords="389,304,560,331"/>
+<area shape="rect" id="node18" href="$d7/d8c/Decompiler_8cpp.html" title="Decompiler.cpp" alt="" coords="557,379,667,405"/>
+<area shape="rect" id="node19" href="$d4/d2b/Om1UnitTest_8cpp.html" title="Unit test for the generic object model class. " alt="" coords="691,379,815,405"/>
+<area shape="rect" id="node22" href="$db/dd4/VerilogExporterVisitor_8cpp.html" title="Source for the VerilogExporterVisitor class. " alt="" coords="311,379,481,405"/>
+<area shape="rect" id="node25" href="$df/d32/ObjectFactory_8cpp.html" title="ObjectFactory.cpp" alt="" coords="923,304,1049,331"/>
+<area shape="rect" id="node26" href="$d6/d95/PortRefCreator_8hpp.html" title="PortRefCreator.hpp" alt="" coords="1126,304,1257,331"/>
+<area shape="rect" id="node27" href="$d9/d7d/PortBundleReference_8cpp.html" title="PortBundleReference.cpp" alt="" coords="1094,379,1263,405"/>
+<area shape="rect" id="node29" href="$d2/d51/VerilogImporterVisitor_8cpp.html" title="Source for the VerilogImporterVisitor class. " alt="" coords="1788,379,1959,405"/>
+<area shape="rect" id="node34" href="$d2/d2a/Cell_8cpp.html" title="Cell.cpp" alt="" coords="1385,229,1452,256"/>
+<area shape="rect" id="node35" href="$dc/d7d/Library_8cpp.html" title="Library.cpp" alt="" coords="1121,229,1207,256"/>
+<area shape="rect" id="node36" href="$d2/da0/SimulationInfo_8cpp.html" title="SimulationInfo.cpp" alt="" coords="1231,229,1360,256"/>
+</map>

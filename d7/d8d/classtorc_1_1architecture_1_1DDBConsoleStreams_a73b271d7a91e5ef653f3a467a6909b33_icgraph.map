@@ -1,0 +1,49 @@
+<map id="torc::architecture::DDBConsoleStreams::mErr" name="torc::architecture::DDBConsoleStreams::mErr">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#adb604ac5de289d7b1aebca49466789e5" title="Initializes the database. " alt="" coords="522,12,641,53"/>
+<area shape="rect" id="node5" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a602d0e355fcd517e8be4570774af2b17" title="Expands the given tilewire&#39;s arc sinks. " alt="" coords="245,514,425,556"/>
+<area shape="rect" id="node39" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a167f79cc1f18b5c71f3268a563a0f318" title="Expands the given tilewire&#39;s arc sources. " alt="" coords="237,334,432,376"/>
+<area shape="rect" id="node44" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#addcdae0a032def6076caade95f1ed33b" title="Sets all of the database console streams. " alt="" coords="494,142,669,184"/>
+<area shape="rect" id="node45" href="$d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a57a6d436f7c0f8400502d23cb0983666" title="Returns the database console error stream. " alt="" coords="259,579,410,635"/>
+<area shape="rect" id="node46" href="$db/dcc/classtorc_1_1architecture_1_1Segments.html#acc8c79d6c65ce4a431519a0972d5e957" title="Read the compact segments for the device. " alt="" coords="246,45,423,86"/>
+<area shape="rect" id="node47" href="$d9/db0/classtorc_1_1architecture_1_1Versions.html#a244e6b2ac1f143c87ce0c67a969012f8" title="Read the version information. " alt="" coords="254,110,415,152"/>
+<area shape="rect" id="node3" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a34c44d3698eced70adef0ba5c9d05818" title="torc::architecture\l::DDB::mWireUsage" alt="" coords="796,29,932,70"/>
+<area shape="rect" id="node4" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a41a53206157f03fd325ca13876d57539" title="Public constructor. " alt="" coords="805,110,923,152"/>
+<area shape="rect" id="node6" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af92393fa7ceb66e0d78ed245861d523a" title="Display sink Tilewires of a segment. " alt="" coords="497,338,665,380"/>
+<area shape="rect" id="node9" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a0b56836adab91e293614f7a1bcba27fa" title="Display segment connectivity. " alt="" coords="497,273,665,314"/>
+<area shape="rect" id="node10" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#afd0cb4c3956aef2edc59ab920a760dd8" title="Display segment connectivity. " alt="" coords="488,456,675,497"/>
+<area shape="rect" id="node11" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#aaeef9deceabfb861c0edcc4b6f0674b3" title="Export all pips within the specified tile. " alt="" coords="495,809,667,850"/>
+<area shape="rect" id="node13" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ad469733045bb59f6fb2829c61911a9ec" title="Expands all sink arcs for the given tilewire&#39;s segment. " alt="" coords="488,744,675,785"/>
+<area shape="rect" id="node30" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#ac30263aa9775f1f1bdd677ac2816b666" title="torc::router::Unrouter\l::unrouteToSinks" alt="" coords="512,874,651,916"/>
+<area shape="rect" id="node31" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#ada8da8bcfb8e8786ed53ba6a5167c7fa" title="Remove the dummy node if possible. " alt="" coords="512,573,651,614"/>
+<area shape="rect" id="node33" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a158784e698293328f1f6005a3c20a9d6" title="Recursively traces from the specified RouteTreeNode in one of three modes. " alt="" coords="795,397,933,438"/>
+<area shape="rect" id="node37" href="$d2/d3b/WireXdlGenerator_8cpp.html#aff74bd44b9b3c54c4d1b56a8dd502ad8" title="Export all pips within the specified tile. " alt="" coords="526,1064,637,1091"/>
+<area shape="rect" id="node7" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="780,273,948,314"/>
+<area shape="rect" id="node8" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="1117,280,1168,307"/>
+<area shape="rect" id="node12" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a2f888e050652a923245b411485c30250" title="Generate Xdls for routing pips. " alt="" coords="778,1154,950,1196"/>
+<area shape="rect" id="node14" href="$d4/d6f/ArchitectureExample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="839,659,889,686"/>
+<area shape="rect" id="node15" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a93f914b0ebe8bad7acf038593613f35d" title="Move the source terminal of a net in the sinkwards direction. " alt="" coords="784,710,944,752"/>
+<area shape="rect" id="node18" href="$d9/d5b/classtorc_1_1router_1_1NetRouterHeuristic.html#a9372010d72449637f8e94026340f4eaf" title="Calculate the node cost based on distance to the sink and path length. " alt="" coords="764,893,964,934"/>
+<area shape="rect" id="node20" href="$d9/d5b/classtorc_1_1router_1_1NetRouterHeuristic.html#aa3f7e529bfb881dc1b6f0862ac94c4b5" title="torc::router::NetRouterHeuristic\l::nodeCostInitial" alt="" coords="764,958,964,1000"/>
+<area shape="rect" id="node21" href="$d9/d5b/classtorc_1_1router_1_1NetRouterHeuristic.html#ab7f4caa716a6d33d1ae025f5975c3c8d" title="Heuristic handling of expansion of a node. " alt="" coords="764,1024,964,1065"/>
+<area shape="rect" id="node22" href="$dc/d3d/classtorc_1_1router_1_1NetRouterHeuristicBase.html#a415d32b9c911c963afd77d21c2a5b73b" title="Heuristically expand a segment. " alt="" coords="764,776,964,817"/>
+<area shape="rect" id="node25" href="$dc/d58/classtorc_1_1router_1_1PathFinderNetRouterHeuristic.html#a89c545241ad853493ba812325c63705f" title="Heuristic handling of expansion of a node. " alt="" coords="731,1089,997,1130"/>
+<area shape="rect" id="node28" href="$d5/da9/classtorc_1_1router_1_1Trace.html#a01518958c8b2dd38be696507e17ae814" title="Recursively traces from the specified TraceNode in the specified mode. " alt="" coords="803,528,925,569"/>
+<area shape="rect" id="node16" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#af5593bf5a5f8d7a801a31c579302db03" title="Move net terminals out into the INT tiles. " alt="" coords="1069,710,1217,752"/>
+<area shape="rect" id="node17" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a3b86ba86d920c06811a3e33fd7fd89c3" title="Route a net. " alt="" coords="1486,769,1634,810"/>
+<area shape="rect" id="node19" href="$dc/dd6/namespacetorc_1_1router.html#a5d97108ca173ef1f4d1ff0db34fca845" title="Unit test for the Heuristic. " alt="" coords="1069,925,1217,966"/>
+<area shape="rect" id="node23" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a504913e9b033f2b6416942fb7978e0c3" title="Routing loop function. " alt="" coords="1069,776,1217,817"/>
+<area shape="rect" id="node24" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ad5e5b5d2709c05bc81de13e52c6746ee" title="Internal top level route function. " alt="" coords="1289,769,1437,810"/>
+<area shape="rect" id="node26" href="$dc/d58/classtorc_1_1router_1_1PathFinderNetRouterHeuristic.html#abd4f7e86e2e3f54c8207974aedc74b4e" title="Calculate the node cost based on distance to the sink and path length. " alt="" coords="1045,1053,1240,1094"/>
+<area shape="rect" id="node27" href="$dc/d58/classtorc_1_1router_1_1PathFinderNetRouterHeuristic.html#a1559d59085f41159eeab05a07917a12d" title="torc::router::PathFinder\lNetRouterHeuristic::nodeCost\lInitial" alt="" coords="1045,1118,1240,1174"/>
+<area shape="rect" id="node29" href="$d5/da9/classtorc_1_1router_1_1Trace.html#abbdd123f43fd499ebe509c7f691b7b78" title="Public Constructor. " alt="" coords="1081,528,1204,569"/>
+<area shape="rect" id="node32" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#af48c5b4dbeb7e1adaa400bd50dee23d4" title="Trace from given Tilewire in a sinkwards direction only. " alt="" coords="795,462,933,504"/>
+<area shape="rect" id="node34" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a137179d28fd3a7d8e3a13a5d570cf865" title="Trace from given Tilewire sinkwards and sourcewards to source or branch. " alt="" coords="1073,332,1212,373"/>
+<area shape="rect" id="node35" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#aa1f029715f5bb9a089f080357439b85e" title="Trace from given Tilewire sourcewards to the source of the net. " alt="" coords="1073,397,1212,438"/>
+<area shape="rect" id="node36" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a39c3d53615f4c917db79f68544dfa2ff" title="Trace from given Tilewire and recover the entire net. " alt="" coords="1073,462,1212,504"/>
+<area shape="rect" id="node38" href="$d2/d3b/WireXdlGenerator_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Export pips from arbitrary tiles for the given device. " alt="" coords="839,1220,889,1247"/>
+<area shape="rect" id="node40" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a5fc3b477957ef904fe43501ee70a8ec8" title="Display source Tilewires of a segment. " alt="" coords="497,208,665,249"/>
+<area shape="rect" id="node41" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a367ecff0db646a01a4e918e6eeb4a84c" title="Expands all source arcs for the given tilewire&#39;s segment. " alt="" coords="480,638,683,680"/>
+<area shape="rect" id="node42" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ae7b4e428e72e476dce08bee36219932b" title="Test for a dedicated routing path. " alt="" coords="1289,834,1437,876"/>
+<area shape="rect" id="node43" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#acd57249d362d21ae852455006b3d249b" title="Move the sink terminal of a net in the sourcewards direction. " alt="" coords="790,593,938,634"/>
+<area shape="rect" id="node48" href="$d0/d88/namespacetorc_1_1architecture.html#a698421ee3ba689d7ac383b843a28c416" title="Unit test for the DigestStream class. " alt="" coords="481,77,681,118"/>
+</map>

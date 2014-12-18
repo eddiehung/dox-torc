@@ -1,0 +1,7 @@
+<map id="torc::architecture::BOOST_AUTO_TEST_CASE" name="torc::architecture::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$da/df9/classtorc_1_1architecture_1_1PrimitiveElementPin.html#a86a4512fbb468f209e14cd9897c245ef" title="Returns a pointer to the primitive element that owns this pin. " alt="" coords="254,5,399,61"/>
+<area shape="rect" id="node3" href="$da/df9/classtorc_1_1architecture_1_1PrimitiveElementPin.html#aab2ae8970e7d2871c47b37d8048db7e9" title="Returns the pin name. " alt="" coords="254,85,399,141"/>
+<area shape="rect" id="node4" href="$da/df9/classtorc_1_1architecture_1_1PrimitiveElementPin.html#a88134f09e573bd9193c5c1d2e06b560d" title="Returns the pin direction flags. " alt="" coords="254,165,399,221"/>
+<area shape="rect" id="node5" href="$da/df9/classtorc_1_1architecture_1_1PrimitiveElementPin.html#a5ed17f56a4df064bfdc4a18b948234ab" title="Returns true if this pin is a primitive input. " alt="" coords="254,245,399,301"/>
+<area shape="rect" id="node6" href="$da/df9/classtorc_1_1architecture_1_1PrimitiveElementPin.html#a51b80ff3cfdce1552f903467b0c93109" title="Returns true if this pin is a primitive output. " alt="" coords="254,325,399,381"/>
+</map>

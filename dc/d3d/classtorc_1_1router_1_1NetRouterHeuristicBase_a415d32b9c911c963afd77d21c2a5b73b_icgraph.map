@@ -1,0 +1,5 @@
+<map id="torc::router::NetRouterHeuristicBase::expandSegmentSinks" name="torc::router::NetRouterHeuristicBase::expandSegmentSinks">
+<area shape="rect" id="node2" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a504913e9b033f2b6416942fb7978e0c3" title="Routing loop function. " alt="" coords="254,5,402,46"/>
+<area shape="rect" id="node3" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ad5e5b5d2709c05bc81de13e52c6746ee" title="Internal top level route function. " alt="" coords="451,5,599,46"/>
+<area shape="rect" id="node4" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a3b86ba86d920c06811a3e33fd7fd89c3" title="Route a net. " alt="" coords="649,5,797,46"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="torc::generic::Decompiler::visit" name="torc::generic::Decompiler::visit">
+<area shape="rect" id="node2" href="$dc/d3e/classtorc_1_1generic_1_1TimeStamp.html#ad73e9bf7a6729544789900123bfa1b48" title="torc::generic::TimeStamp\l::getYear" alt="" coords="216,5,381,46"/>
+<area shape="rect" id="node3" href="$dc/d3e/classtorc_1_1generic_1_1TimeStamp.html#a336e346ad18364c8b434711af47bb1b1" title="torc::generic::TimeStamp\l::getMonth" alt="" coords="216,70,381,111"/>
+<area shape="rect" id="node4" href="$dc/d3e/classtorc_1_1generic_1_1TimeStamp.html#aa19220d602498a5ac2f06b68aa8296b1" title="torc::generic::TimeStamp\l::getDay" alt="" coords="216,135,381,177"/>
+<area shape="rect" id="node5" href="$dc/d3e/classtorc_1_1generic_1_1TimeStamp.html#a944a62e7ff8cf6c47688653d4ef3f208" title="torc::generic::TimeStamp\l::getHour" alt="" coords="216,201,381,242"/>
+<area shape="rect" id="node6" href="$dc/d3e/classtorc_1_1generic_1_1TimeStamp.html#a294477d66c9ff64e705653e6da95edff" title="torc::generic::TimeStamp\l::getMinute" alt="" coords="216,266,381,307"/>
+<area shape="rect" id="node7" href="$dc/d3e/classtorc_1_1generic_1_1TimeStamp.html#aa63652955fe9906a4490baf86b673c3e" title="torc::generic::TimeStamp\l::getSecond" alt="" coords="216,331,381,373"/>
+<area shape="rect" id="node8" href="$dd/dad/classtorc_1_1generic_1_1Error.html#ac25097657c1ef0d976300ca82e7bbaf5" title="torc::generic::Error\l::setCurrentLocation" alt="" coords="229,397,368,438"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="torc::architecture::InstancePin" name="torc::architecture::InstancePin">
+<area shape="rect" id="node2" href="$d8/d27/classtorc_1_1physical_1_1InstancePinBase.html" title="Physical design instance&#45;pin pair, suitable for specifying a net endpoint. " alt="" coords="697,77,850,118"/>
+<area shape="rect" id="node3" href="$da/dc4/classtorc_1_1physical_1_1Progeny.html" title="torc::physical::Progeny\l\&lt; class Net \&gt;" alt="" coords="419,5,570,46"/>
+<area shape="rect" id="node4" href="$de/dca/classtorc_1_1physical_1_1Progenitor.html" title="torc::physical::Progenitor\l\&lt; InstancePin \&gt;" alt="" coords="413,70,576,111"/>
+<area shape="rect" id="node5" href="$dc/ddb/classtorc_1_1physical_1_1PinName.html" title="Encapsulation of a site pin name. " alt="" coords="416,136,573,163"/>
+<area shape="rect" id="node7" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html" title="Encapsulation of a device tile and wire pair. " alt="" coords="714,187,833,229"/>
+<area shape="rect" id="node8" href="$de/da8/structtorc_1_1architecture_1_1xilinx_1_1TileIndex.html" title="Encapsulation of a tile index in an unsigned 32&#45;bit integer. " alt="" coords="435,187,554,229"/>
+<area shape="rect" id="node9" href="$d0/de0/structtorc_1_1architecture_1_1xilinx_1_1TileCount.html" title="Encapsulation of a tile count in an unsigned 32&#45;bit integer. " alt="" coords="242,187,361,229"/>
+<area shape="rect" id="node10" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32_t \&gt;" alt="" coords="5,187,189,229"/>
+<area shape="rect" id="node11" href="$d3/df8/structtorc_1_1architecture_1_1xilinx_1_1WireIndex.html" title="Encapsulation of a wire index in an unsigned 16&#45;bit integer. " alt="" coords="435,253,554,294"/>
+<area shape="rect" id="node12" href="$dc/dd8/structtorc_1_1architecture_1_1xilinx_1_1WireCount.html" title="Encapsulation of a wire count in an unsigned 16&#45;bit integer. " alt="" coords="240,253,363,294"/>
+<area shape="rect" id="node13" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint16_t \&gt;" alt="" coords="5,253,189,294"/>
+</map>

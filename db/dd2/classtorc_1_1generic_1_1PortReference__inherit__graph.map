@@ -1,0 +1,12 @@
+<map id="torc::generic::PortReference" name="torc::generic::PortReference">
+<area shape="rect" id="node8" href="$d1/dcc/classtorc_1_1generic_1_1PortBundleReference.html" title="Represents a reference to a bundle of ports. " alt="" coords="725,5,888,46"/>
+<area shape="rect" id="node9" href="$dd/dc7/classtorc_1_1generic_1_1ScalarPortReference.html" title="Represents areference to a standalone port. " alt="" coords="727,70,886,111"/>
+<area shape="rect" id="node10" href="$de/d82/classtorc_1_1generic_1_1VectorPortBitReference.html" title="Represents a reference to a bit of a port. " alt="" coords="727,135,887,177"/>
+<area shape="rect" id="node11" href="$dd/da4/classtorc_1_1generic_1_1VectorPortReference.html" title="Represents a reference to a port array. " alt="" coords="727,201,887,242"/>
+<area shape="rect" id="node2" href="$d5/d7d/classtorc_1_1generic_1_1Connectable.html" title="An object that is connectable to a Net. " alt="" coords="261,9,432,36"/>
+<area shape="rect" id="node3" href="$da/df0/classtorc_1_1generic_1_1PropertyContainer.html" title="Represents objects that have properties. " alt="" coords="246,60,447,87"/>
+<area shape="rect" id="node4" href="$d7/de6/classtorc_1_1generic_1_1Visitable.html" title="An object that receives an inoutVisitor. " alt="" coords="273,111,421,137"/>
+<area shape="rect" id="node5" href="$dd/dca/classtorc_1_1generic_1_1Composite.html" title="torc::generic::Composite\l\&lt; PortReference \&gt;" alt="" coords="267,162,427,203"/>
+<area shape="rect" id="node6" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; PortReference \&gt;" alt="" coords="6,162,197,203"/>
+<area shape="rect" id="node7" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html" title="torc::generic::ParentedObject\l\&lt; Instance \&gt;" alt="" coords="253,227,441,269"/>
+</map>

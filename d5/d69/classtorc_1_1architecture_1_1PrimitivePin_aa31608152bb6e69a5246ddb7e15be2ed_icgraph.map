@@ -1,0 +1,5 @@
+<map id="torc::architecture::PrimitivePin::isInput" name="torc::architecture::PrimitivePin::isInput">
+<area shape="rect" id="node2" href="$d0/d88/namespacetorc_1_1architecture.html#aa25b5f8d5603f5ed026656f3cafaa341" title="Unit test for the PrimitivePin class. " alt="" coords="197,5,397,46"/>
+<area shape="rect" id="node3" href="$df/d7e/namespacetorc_1_1packer.html#af31e95676a7990df2c60415b390a2cfc" title="Unit test for the PrimitiveStructure class. " alt="" coords="223,70,371,111"/>
+<area shape="rect" id="node4" href="$d7/dc5/classtorc_1_1packer_1_1Unpacker.html#aeccba4ebf3199f28e69dc2e9aff01fda" title="Unpack function that takes Instance iterators as input. " alt="" coords="222,135,373,177"/>
+</map>

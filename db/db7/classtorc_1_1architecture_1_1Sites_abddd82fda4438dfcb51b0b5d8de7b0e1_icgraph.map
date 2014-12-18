@@ -1,0 +1,10 @@
+<map id="torc::architecture::Sites::getSites" name="torc::architecture::Sites::getSites">
+<area shape="rect" id="node2" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#ae9a4fd1418193ac0931489ad9975e13e" title="Populate map of tile type to set of include site types. " alt="" coords="174,5,402,46"/>
+<area shape="rect" id="node4" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a9c16780f138e8273afc9bd72c3b96430" title="Get word offset in frame for the site/pip in corresponding Xdl. " alt="" coords="177,70,399,111"/>
+<area shape="rect" id="node7" href="$df/d7e/namespacetorc_1_1packer.html#af31e95676a7990df2c60415b390a2cfc" title="Unit test for the PrimitiveStructure class. " alt="" coords="214,135,362,177"/>
+<area shape="rect" id="node8" href="$d7/dc5/classtorc_1_1packer_1_1Unpacker.html#a67c075883eb2433c3db626531e127055" title="Initialize this object based on the PrimitiveDef information. " alt="" coords="213,201,363,242"/>
+<area shape="rect" id="node3" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a90b80d86a73c4f8e66eff7376e68acea" title="Generrate Xdls for logic sites. " alt="" coords="451,5,629,46"/>
+<area shape="rect" id="node5" href="$db/d2e/classtorc_1_1bitstream_1_1Virtex5LibGen.html#a04fbf579ac28aa24d607119dc9a82c20" title="Compress given bitstream file against reference bitstream file. " alt="" coords="458,70,622,111"/>
+<area shape="rect" id="node6" href="$da/d69/classtorc_1_1bitstream_1_1Virtex7LibGen.html#a9195d3e0c4aad39fd944b5619f2b4e90" title="Compress given bitstream file against reference bitstream file. " alt="" coords="458,135,622,177"/>
+<area shape="rect" id="node9" href="$d7/dc5/classtorc_1_1packer_1_1Unpacker.html#acd094eb627bcc66c032741ce69736c63" title="torc::packer::Unpacker\l::Unpacker" alt="" coords="465,201,615,242"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="torc::bitstream::AssemblerLibGen::createXdlForOrphanElements" name="torc::bitstream::AssemblerLibGen::createXdlForOrphanElements">
+<area shape="rect" id="node2" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#acd689c941bde03e88f68307fd30cc7c2" title="Returns the name of the element. " alt="" coords="349,5,481,61"/>
+<area shape="rect" id="node3" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a68a5b749153e8fdc215e7622700db4f6" title="Create an empty design with same metadata. Does not copy configurations. " alt="" coords="293,85,536,141"/>
+<area shape="rect" id="node5" href="$d7/de0/classtorc_1_1physical_1_1Factory.html#a521f05fb2031a16e2df46b1f57f092fe" title="Construct and return a new Instance shared pointer. " alt="" coords="341,165,488,206"/>
+<area shape="rect" id="node6" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#ac5999925747c3592bd38b9e05d9566ba" title="Create reference Xdl for given config setting. " alt="" coords="295,229,534,285"/>
+<area shape="rect" id="node8" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html#af54563c53c7e0d484f507e8eff9618ab" title="Returns the set of allowable configuration values. " alt="" coords="349,309,481,365"/>
+<area shape="rect" id="node9" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a6e9242a8f2bb2486a76fbf29ce05d6a5" title="Set given config and generate Xdl. " alt="" coords="305,389,524,430"/>
+<area shape="rect" id="node4" href="$d7/de0/classtorc_1_1physical_1_1Factory.html#a42de3cde7c25914a0b4619e654a1a0cd" title="Create and return a new Design shared pointer. " alt="" coords="619,93,765,134"/>
+<area shape="rect" id="node7" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a11a92400889a8692fdf185c8dcb95395" title="Return config value which results in off bit in bitstream. " alt="" coords="584,237,800,278"/>
+</map>

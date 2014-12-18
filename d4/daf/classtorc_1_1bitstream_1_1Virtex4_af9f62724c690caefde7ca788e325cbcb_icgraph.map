@@ -1,0 +1,5 @@
+<map id="torc::bitstream::Virtex4::getFrameRowCount" name="torc::bitstream::Virtex4::getFrameRowCount">
+<area shape="rect" id="node2" href="$d4/daf/classtorc_1_1bitstream_1_1Virtex4.html#ad76179a1088d7aedd308bef16211b710" title="Loads full bitstream frames into block data structure. " alt="" coords="206,5,378,46"/>
+<area shape="rect" id="node3" href="$d4/daf/classtorc_1_1bitstream_1_1Virtex4.html#a06370655efb4140051d743ef820f7aef" title="Returns frames for queried bitstream coordinates. " alt="" coords="217,70,367,111"/>
+<area shape="rect" id="node4" href="$d4/daf/classtorc_1_1bitstream_1_1Virtex4.html#ac4ea1f0397764f2f68d8d38ca4046265" title="Returns frames for queried xdl coordinates. " alt="" coords="217,135,367,177"/>
+</map>

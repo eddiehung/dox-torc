@@ -1,0 +1,10 @@
+<map id="torc::architecture::WireInfo::getName" name="torc::architecture::WireInfo::getName">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#ae20af168fd1eaef7b5ef6c5186786a50" title="List all wires for a given tile type. " alt="" coords="189,27,357,69"/>
+<area shape="rect" id="node5" href="$de/d46/classtorc_1_1architecture_1_1ExtendedWireInfo.html#a4016982dd9f25e8dc38355492e7f5924" title="Configure the extended info fields. " alt="" coords="197,135,350,177"/>
+<area shape="rect" id="node8" href="$d0/d88/namespacetorc_1_1architecture.html#a25a599538130902ab4a3f97226e91e52" title="torc::architecture\l::testDeviceTiles" alt="" coords="214,203,333,245"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="421,5,589,46"/>
+<area shape="rect" id="node4" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="653,12,704,39"/>
+<area shape="rect" id="node6" href="$de/d46/classtorc_1_1architecture_1_1ExtendedWireInfo.html#ab8528f1582b2cd9c4da76a48c7c43400" title="Tilewire constructor. " alt="" coords="438,69,573,125"/>
+<area shape="rect" id="node7" href="$de/d46/classtorc_1_1architecture_1_1ExtendedWireInfo.html#a533f752fffa3f1164d97836426287f0a" title="Assignment operator. " alt="" coords="438,149,573,205"/>
+<area shape="rect" id="node9" href="$d0/d88/namespacetorc_1_1architecture.html#a08e13643210c5a5726a4c9d05e707bed" title="Unit test for the Tiles class. " alt="" coords="405,229,605,270"/>
+</map>

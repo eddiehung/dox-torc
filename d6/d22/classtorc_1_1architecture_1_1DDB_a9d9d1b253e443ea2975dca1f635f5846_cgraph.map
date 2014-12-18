@@ -1,0 +1,12 @@
+<map id="torc::architecture::DDB::lookupTilewire" name="torc::architecture::DDB::lookupTilewire">
+<area shape="rect" id="node2" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#ab3eeb3d38f25c4b394ad27b802f1155d" title="Returns the tile index for the given tile name. " alt="" coords="222,167,357,209"/>
+<area shape="rect" id="node7" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html#a8e96191a67e659e996b6d9306ccabc74" title="torc::common::Encapsulated\lInteger::isUndefined" alt="" coords="197,233,381,274"/>
+<area shape="rect" id="node8" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a62816b62b67b01034e660ed89a6f0d99" title="Returns the TileInfo object for the specified tile. " alt="" coords="228,298,351,339"/>
+<area shape="rect" id="node9" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a3929d1b6b85ec182fccfc88eef0203b7" title="Returns the tile type index for this tile. " alt="" coords="212,363,367,405"/>
+<area shape="rect" id="node10" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a756864cc17069bce392d4a002f751e40" title="Returns the wire index for the given wire name in the given tile type. " alt="" coords="220,102,359,143"/>
+<area shape="rect" id="node3" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#a880b4359e97aff47f5f6169dabeda571" title="Returns the non&#45;constant begin iterator. " alt="" coords="477,70,595,111"/>
+<area shape="rect" id="node4" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#ad34ec958b29c5793dac9e46d136e0ef9" title="Returns the non&#45;constant end iterator. " alt="" coords="477,135,595,177"/>
+<area shape="rect" id="node5" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html#aa37d2cb4d824d944c044a67c2170aebc" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32\l_t \&gt;::undefined" alt="" coords="444,200,628,256"/>
+<area shape="rect" id="node6" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#ad77e5d82b85e0d2efcdb3aa4c1f66c1c" title="Compare tile pairs by name, for ordering purposes. " alt="" coords="432,279,640,321"/>
+<area shape="rect" id="node11" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a5c9201f367ece02839f7051c13b19a1f" title="Compare wire pairs by name, for ordering purposes. " alt="" coords="429,5,643,46"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="torc::architecture::operator&lt;&lt;" name="torc::architecture::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$d6/d64/classtorc_1_1architecture_1_1DDBStreamHelper.html#aa585d7d339148b5b8ecfda1cc24cf2f2" title="Return the device database pointer associated with this stream. " alt="" coords="173,5,376,46"/>
+<area shape="rect" id="node3" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#a38f0ea37481a14b712b82ccd4fa7544a" title="Returns the wire index. " alt="" coords="197,70,352,111"/>
+<area shape="rect" id="node4" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#ad1789982f584140ebf77d4e8bc396e3d" title="Returns the tile index. " alt="" coords="200,135,349,177"/>
+</map>

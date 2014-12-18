@@ -1,0 +1,5 @@
+<map id="torc::architecture::WireUsage::getWireUsageCount" name="torc::architecture::WireUsage::getWireUsageCount">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af273934427824a6680916eafc64c88cf" title="A brief summary of device information. " alt="" coords="269,5,437,46"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="485,5,653,46"/>
+<area shape="rect" id="node4" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="701,12,752,39"/>
+</map>

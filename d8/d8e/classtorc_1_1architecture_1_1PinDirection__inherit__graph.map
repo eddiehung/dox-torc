@@ -1,0 +1,4 @@
+<map id="torc::architecture::PinDirection" name="torc::architecture::PinDirection">
+<area shape="rect" id="node2" href="$da/df9/classtorc_1_1architecture_1_1PrimitiveElementPin.html" title="Encapsulation of a primitive element pin&#39;s name, flags, and element pointer. &#160;Primitive element pins ..." alt="" coords="5,97,149,138"/>
+<area shape="rect" id="node3" href="$d5/d69/classtorc_1_1architecture_1_1PrimitivePin.html" title="Encapsulation of a primitive pin&#39;s name and flags. &#160;Primitive pins are logic site inputs or outputs..." alt="" coords="174,97,292,138"/>
+</map>

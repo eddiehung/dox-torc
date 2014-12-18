@@ -1,0 +1,5 @@
+<map id="torc::common::operator&lt;&lt;" name="torc::common::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$d7/d40/classtorc_1_1common_1_1DeviceDesignator.html#a00bd09ba5c08dd9db11c0b0e30248ef2" title="Returns the device name. " alt="" coords="224,5,432,46"/>
+<area shape="rect" id="node3" href="$d7/d40/classtorc_1_1common_1_1DeviceDesignator.html#a46d41ab3b3dc4076bbfd619a2cb2cbde" title="Returns the device package. " alt="" coords="224,70,432,111"/>
+<area shape="rect" id="node4" href="$d7/d40/classtorc_1_1common_1_1DeviceDesignator.html#a217c8982938ec8846d912771d92de3cf" title="Returns the device speed grade. " alt="" coords="224,135,432,177"/>
+</map>

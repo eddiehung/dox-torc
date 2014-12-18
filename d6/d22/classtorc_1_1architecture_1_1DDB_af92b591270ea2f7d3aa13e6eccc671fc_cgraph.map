@@ -1,0 +1,8 @@
+<map id="torc::architecture::DDB::sitePinToTilewire" name="torc::architecture::DDB::sitePinToTilewire">
+<area shape="rect" id="node2" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#ae9dfdb8efa0e1268d2ddd744dc907375" title="Returns the site index for the given site name. " alt="" coords="425,5,564,46"/>
+<area shape="rect" id="node4" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html#a8e96191a67e659e996b6d9306ccabc74" title="torc::common::Encapsulated\lInteger::isUndefined" alt="" coords="403,89,587,130"/>
+<area shape="rect" id="node5" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#adb80b2161c0ca2059c99a1ef491b9024" title="Returns the site for the specified index. " alt="" coords="226,109,345,150"/>
+<area shape="rect" id="node6" href="$da/dd8/classtorc_1_1architecture_1_1Site.html#afffd0b3efb07c192aa39fb380b7d9a08" title="Returns the Tilewire associated with the specified pin name. " alt="" coords="216,174,355,215"/>
+<area shape="rect" id="node3" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html#aa37d2cb4d824d944c044a67c2170aebc" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32\l_t \&gt;::undefined" alt="" coords="635,80,819,136"/>
+<area shape="rect" id="node7" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html#acdc2a368872f9cadac5a6ba40f08b77f" title="Returns the pin index corresponding to the given pin name, or PinIndex::undefined() if the pin name d..." alt="" coords="407,163,582,219"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="torc::architecture::Sites::getSiteTypes" name="torc::architecture::Sites::getSiteTypes">
+<area shape="rect" id="node2" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#a55314e523cb6744ebde1b91e3e6884ff" title="torc::ArchitectureBrowser\l::enumerateSiteTypes" alt="" coords="241,5,409,46"/>
+<area shape="rect" id="node5" href="$d9/d62/LogicXdlGenerator_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Generates XDLs for various site types. An XDL is generated for each. " alt="" coords="300,71,351,97"/>
+<area shape="rect" id="node6" href="$d0/d88/namespacetorc_1_1architecture.html#a35beee467bc68a9731945eb596280b5c" title="Unit test to iterate through a database and classify all existing elements into pseudo&#45;types. " alt="" coords="225,122,425,163"/>
+<area shape="rect" id="node7" href="$d7/dc5/classtorc_1_1packer_1_1Unpacker.html#a67c075883eb2433c3db626531e127055" title="Initialize this object based on the PrimitiveDef information. " alt="" coords="250,187,401,229"/>
+<area shape="rect" id="node9" href="$db/d2e/classtorc_1_1bitstream_1_1Virtex5LibGen.html#ade866663e21877791d4bb0811113cf60" title="Populate primitive name to primitive structure map. " alt="" coords="195,253,455,294"/>
+<area shape="rect" id="node10" href="$da/d69/classtorc_1_1bitstream_1_1Virtex7LibGen.html#a56fbc4cbd8fe23af20cd0c6b13475689" title="Populate primitive name to primitive structure map. " alt="" coords="195,318,455,359"/>
+<area shape="rect" id="node3" href="$de/d8f/classtorc_1_1ArchitectureBrowser.html#af0a3d6b38301f4c47330f23c8dd92637" title="Function to begin an interactive browsing session. " alt="" coords="504,5,672,46"/>
+<area shape="rect" id="node4" href="$d6/d59/BrowserMain_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Main entry point for the architecture browser tool. " alt="" coords="720,12,771,39"/>
+<area shape="rect" id="node8" href="$d7/dc5/classtorc_1_1packer_1_1Unpacker.html#acd094eb627bcc66c032741ce69736c63" title="torc::packer::Unpacker\l::Unpacker" alt="" coords="513,187,663,229"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="torc::architecture::Tiles::getWireCount" name="torc::architecture::Tiles::getWireCount">
+<area shape="rect" id="node2" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#aaeef9deceabfb861c0edcc4b6f0674b3" title="Export all pips within the specified tile. " alt="" coords="195,5,367,46"/>
+<area shape="rect" id="node4" href="$d0/d88/namespacetorc_1_1architecture.html#a25a599538130902ab4a3f97226e91e52" title="torc::architecture\l::testDeviceTiles" alt="" coords="222,70,341,111"/>
+<area shape="rect" id="node6" href="$d2/d3b/WireXdlGenerator_8cpp.html#aff74bd44b9b3c54c4d1b56a8dd502ad8" title="Export all pips within the specified tile. " alt="" coords="226,136,337,163"/>
+<area shape="rect" id="node3" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#a2f888e050652a923245b411485c30250" title="Generate Xdls for routing pips. " alt="" coords="430,5,602,46"/>
+<area shape="rect" id="node5" href="$d0/d88/namespacetorc_1_1architecture.html#a08e13643210c5a5726a4c9d05e707bed" title="Unit test for the Tiles class. " alt="" coords="416,70,616,111"/>
+<area shape="rect" id="node7" href="$d2/d3b/WireXdlGenerator_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Export pips from arbitrary tiles for the given device. " alt="" coords="491,136,541,163"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="torc::architecture::BOOST_AUTO_TEST_CASE" name="torc::architecture::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d0/df5/classtorc_1_1architecture_1_1PrimitiveConn.html#a52e06dd4e778619a2ccdf857a1ebe893" title="Returns a pointer to the source primitive element pin. " alt="" coords="254,5,445,46"/>
+<area shape="rect" id="node3" href="$d0/df5/classtorc_1_1architecture_1_1PrimitiveConn.html#a4d5bea0a4e844a1a49452a9b632087e3" title="Returns a vector of pointers to the sink primitive element pins. " alt="" coords="266,70,433,111"/>
+</map>

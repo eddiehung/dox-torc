@@ -1,0 +1,5 @@
+<map id="torc::generic::PortList::connect" name="torc::generic::PortList::connect">
+<area shape="rect" id="node2" href="$dd/dad/classtorc_1_1generic_1_1Error.html#ac25097657c1ef0d976300ca82e7bbaf5" title="torc::generic::Error\l::setCurrentLocation" alt="" coords="448,26,587,67"/>
+<area shape="rect" id="node3" href="$df/d5b/classtorc_1_1generic_1_1ConnectionHandler.html#aa52f4ec3640ad08707db969216600995" title="torc::generic::Connection\lHandler::connectPortListToNet" alt="" coords="198,26,399,67"/>
+<area shape="rect" id="node4" href="$d5/d7d/classtorc_1_1generic_1_1Connectable.html#a6052bccd5e1a3b8f0498ec3e01110c7b" title="torc::generic::Connectable\l::connect" alt="" coords="213,91,384,132"/>
+</map>

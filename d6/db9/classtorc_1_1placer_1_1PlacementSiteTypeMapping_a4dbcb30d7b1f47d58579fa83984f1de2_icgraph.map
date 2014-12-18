@@ -1,0 +1,5 @@
+<map id="torc::placer::PlacementSiteTypeMapping::getTypeIndex" name="torc::placer::PlacementSiteTypeMapping::getTypeIndex">
+<area shape="rect" id="node2" href="$db/def/classtorc_1_1placer_1_1Placement.html#a87fefd53eb47b7751246a349b49c5342" title="torc::placer::Placement\l::Placement" alt="" coords="245,5,398,46"/>
+<area shape="rect" id="node3" href="$d6/df9/classtorc_1_1placer_1_1PlacerNetlist.html#adb37a2da1a25059af7db4e87bf66c59f" title="torc::placer::PlacerNetlist\l::addInstance" alt="" coords="238,70,405,111"/>
+<area shape="rect" id="node4" href="$d6/df9/classtorc_1_1placer_1_1PlacerNetlist.html#ad60716476856a1350f304eba1c1d64e1" title="torc::placer::PlacerNetlist\l::PlacerNetlist" alt="" coords="454,70,621,111"/>
+</map>

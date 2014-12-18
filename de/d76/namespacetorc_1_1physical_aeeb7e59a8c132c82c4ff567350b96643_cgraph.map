@@ -1,0 +1,7 @@
+<map id="torc::physical::operator&lt;&lt;" name="torc::physical::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$d9/d33/classtorc_1_1physical_1_1Named.html#a699324d37cb8b305adcea589623974ac" title="Returns the object name. " alt="" coords="222,5,367,46"/>
+<area shape="rect" id="node3" href="$d5/d80/classtorc_1_1physical_1_1Design.html#ad211170f52a72d7b38eccc379c352f63" title="Returns the target device for this design. " alt="" coords="223,70,366,111"/>
+<area shape="rect" id="node4" href="$d5/d80/classtorc_1_1physical_1_1Design.html#a89618e37de8d03e7d5b33dd1f83040de" title="Returns the device package for this design. " alt="" coords="223,135,366,177"/>
+<area shape="rect" id="node5" href="$d5/d80/classtorc_1_1physical_1_1Design.html#a1c7d376ef9eaf6e29ea7657930baff42" title="Returns the device speed grade for this design. " alt="" coords="223,201,366,242"/>
+<area shape="rect" id="node6" href="$d5/d80/classtorc_1_1physical_1_1Design.html#a3ff81a0ec1f1a7982e8d0f7794ccabad" title="Returns the XDL version for this design. " alt="" coords="223,266,366,307"/>
+</map>

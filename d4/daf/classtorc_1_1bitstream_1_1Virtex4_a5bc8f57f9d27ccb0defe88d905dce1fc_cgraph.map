@@ -1,0 +1,5 @@
+<map id="torc::bitstream::Virtex4::generatePartialBitstreamSuffix" name="torc::bitstream::Virtex4::generatePartialBitstreamSuffix">
+<area shape="rect" id="node2" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#adec678be1c5cc1f7d8da5a735a365153" title="Construct a packet header. " alt="" coords="488,5,672,46"/>
+<area shape="rect" id="node3" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#ad1fb7001c77afde247673d4cf37b789e" title="Construct a type 1 write packet. " alt="" coords="256,63,440,105"/>
+<area shape="rect" id="node4" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#a8f0ba38d72cbf2c7ae253fa7e4d83d82" title="Null constructor. " alt="" coords="488,70,672,111"/>
+</map>

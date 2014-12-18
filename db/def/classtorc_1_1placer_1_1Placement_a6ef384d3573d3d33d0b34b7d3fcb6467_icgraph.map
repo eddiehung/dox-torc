@@ -1,0 +1,10 @@
+<map id="torc::placer::Placement::getNetCost" name="torc::placer::Placement::getNetCost">
+<area shape="rect" id="node2" href="$db/def/classtorc_1_1placer_1_1Placement.html#a8e4be4a672abd8e915443ac9f61a0f18" title="torc::placer::Placement\l::updateCostHelper" alt="" coords="209,103,362,145"/>
+<area shape="rect" id="node3" href="$db/def/classtorc_1_1placer_1_1Placement.html#a72b40b6c8de46783291e802ccde0bb13" title="torc::placer::Placement\l::updateCostRemoveInstances" alt="" coords="411,5,610,46"/>
+<area shape="rect" id="node4" href="$db/def/classtorc_1_1placer_1_1Placement.html#a09a80386af43f61c10544ea1cc0c859f" title="torc::placer::Placement\l::updateCostRemovePair" alt="" coords="428,70,593,111"/>
+<area shape="rect" id="node8" href="$db/def/classtorc_1_1placer_1_1Placement.html#a3b340dd72f79b2f05048d47db4baa7c3" title="torc::placer::Placement\l::updateCostAddInstances" alt="" coords="423,201,598,242"/>
+<area shape="rect" id="node9" href="$db/def/classtorc_1_1placer_1_1Placement.html#a90b3e1fce1fe86f3adcd8a725791926e" title="torc::placer::Placement\l::updateCostAddPair" alt="" coords="434,135,587,177"/>
+<area shape="rect" id="node5" href="$db/def/classtorc_1_1placer_1_1Placement.html#a1caef004ace4a155de79358eac32215d" title="torc::placer::Placement\l::randomMove" alt="" coords="659,70,813,111"/>
+<area shape="rect" id="node7" href="$db/def/classtorc_1_1placer_1_1Placement.html#a82069d5eb250763fc3de7237e0fdb6eb" title="torc::placer::Placement\l::undoMove" alt="" coords="659,135,813,177"/>
+<area shape="rect" id="node6" href="$d2/dbc/classtorc_1_1placer_1_1Placer.html#a33223706cb84e1cdf44f8f3aa50422b4" title="torc::placer::Placer\l::generatePlacement" alt="" coords="862,103,1002,145"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="torc::router::RouteTreeNode::getNumChildren" name="torc::router::RouteTreeNode::getNumChildren">
+<area shape="rect" id="node2" href="$dc/dd6/namespacetorc_1_1router.html#aeb38130546c0a6269441ba86a0247571" title="Unit test for the RouteNode class. " alt="" coords="235,5,383,46"/>
+<area shape="rect" id="node3" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a158784e698293328f1f6005a3c20a9d6" title="Recursively traces from the specified RouteTreeNode in one of three modes. " alt="" coords="240,70,379,111"/>
+<area shape="rect" id="node4" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a137179d28fd3a7d8e3a13a5d570cf865" title="Trace from given Tilewire sinkwards and sourcewards to source or branch. " alt="" coords="432,5,571,46"/>
+<area shape="rect" id="node5" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#aa1f029715f5bb9a089f080357439b85e" title="Trace from given Tilewire sourcewards to the source of the net. " alt="" coords="432,70,571,111"/>
+<area shape="rect" id="node6" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a39c3d53615f4c917db79f68544dfa2ff" title="Trace from given Tilewire and recover the entire net. " alt="" coords="432,135,571,177"/>
+</map>

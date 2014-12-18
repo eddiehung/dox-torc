@@ -1,0 +1,4 @@
+<map id="torc::bitstream::Virtex5LibGen::getWordOffsetFromTileLocation" name="torc::bitstream::Virtex5LibGen::getWordOffsetFromTileLocation">
+<area shape="rect" id="node2" href="$dd/d9a/classtorc_1_1bitstream_1_1Virtex5.html#a43cb0728ebd386e04c76d7c4a98def9c" title="Returns the primary column corresponding to the given column. If immediately to the left of a BRAM..." alt="" coords="259,11,413,53"/>
+<area shape="rect" id="node3" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#a48388a49dccfe1173809c80b3f18974a" title="Returns the column type vector. " alt="" coords="462,11,634,53"/>
+</map>

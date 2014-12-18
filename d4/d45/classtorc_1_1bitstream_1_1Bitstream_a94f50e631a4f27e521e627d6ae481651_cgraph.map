@@ -1,0 +1,6 @@
+<map id="torc::bitstream::Bitstream::writeDeviceInfo" name="torc::bitstream::Bitstream::writeDeviceInfo">
+<area shape="rect" id="node2" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#a48388a49dccfe1173809c80b3f18974a" title="Returns the column type vector. " alt="" coords="222,5,394,46"/>
+<area shape="rect" id="node3" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#a3e4021abad441e48417f51fb3bb51cb1" title="Returns the tile count. " alt="" coords="222,70,394,111"/>
+<area shape="rect" id="node4" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#ac52e4f741573f90b7e5eb7e63a6729f9" title="Returns the row count. " alt="" coords="222,135,394,177"/>
+<area shape="rect" id="node5" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#af416da9c16a1e09b86284dac079eb91d" title="Returns the column count. " alt="" coords="222,201,394,242"/>
+</map>

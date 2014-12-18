@@ -1,0 +1,7 @@
+<map id="torc::ArchitectureBrowser::displaySitesOfType" name="torc::ArchitectureBrowser::displaySitesOfType">
+<area shape="rect" id="node2" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#a07ee9e32b604433ceaa94fdc27eff303" title="Returns the site count for this device. " alt="" coords="233,5,372,46"/>
+<area shape="rect" id="node3" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#adb80b2161c0ca2059c99a1ef491b9024" title="Returns the site for the specified index. " alt="" coords="243,70,362,111"/>
+<area shape="rect" id="node4" href="$da/dd8/classtorc_1_1architecture_1_1Site.html#a9f759d777e56f6a3929d86a973022659" title="Returns a pointer to the associated primitive definition. " alt="" coords="221,135,384,177"/>
+<area shape="rect" id="node5" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html#ab8d6b185e643193e8de87bd1e3fb8635" title="Returns the name of the primitive. " alt="" coords="223,201,382,242"/>
+<area shape="rect" id="node6" href="$da/dd8/classtorc_1_1architecture_1_1Site.html#a6d90d80f1fb58803e985344de6120d60" title="Returns the site name. " alt="" coords="243,266,362,307"/>
+</map>

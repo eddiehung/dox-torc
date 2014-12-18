@@ -1,0 +1,4 @@
+<map id="torc::architecture::ArcUsage::isUsed" name="torc::architecture::ArcUsage::isUsed">
+<area shape="rect" id="node2" href="$d8/d60/classtorc_1_1architecture_1_1Arc.html#a3f0fe601529174f07ea99cc40b9a0603" title="Returns the source tilewire. " alt="" coords="187,5,346,46"/>
+<area shape="rect" id="node3" href="$d8/d60/classtorc_1_1architecture_1_1Arc.html#a95f17048a775a14b33e87283cdc264a4" title="Returns the sink tilewire. " alt="" coords="195,70,338,111"/>
+</map>

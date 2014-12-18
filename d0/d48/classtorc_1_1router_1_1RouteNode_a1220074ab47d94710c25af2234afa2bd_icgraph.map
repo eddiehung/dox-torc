@@ -1,0 +1,6 @@
+<map id="torc::router::RouteNode::getCost" name="torc::router::RouteNode::getCost">
+<area shape="rect" id="node2" href="$d9/d5b/classtorc_1_1router_1_1NetRouterHeuristic.html#a9372010d72449637f8e94026340f4eaf" title="Calculate the node cost based on distance to the sink and path length. " alt="" coords="208,5,408,46"/>
+<area shape="rect" id="node3" href="$dc/dd6/namespacetorc_1_1router.html#a5d97108ca173ef1f4d1ff0db34fca845" title="Unit test for the Heuristic. " alt="" coords="457,34,605,75"/>
+<area shape="rect" id="node4" href="$dc/d58/classtorc_1_1router_1_1PathFinderNetRouterHeuristic.html#abd4f7e86e2e3f54c8207974aedc74b4e" title="Calculate the node cost based on distance to the sink and path length. " alt="" coords="211,122,405,163"/>
+<area shape="rect" id="node5" href="$d0/d58/classtorc_1_1router_1_1RouteNodePtrCostCompare.html#af3f1f5d51d14c220e3b243409c59b5e8" title="torc::router::RouteNodePtr\lCostCompare::operator()" alt="" coords="223,187,393,229"/>
+</map>

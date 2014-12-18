@@ -1,0 +1,4 @@
+<map id="torc::architecture::DDB::tilePipToArc" name="torc::architecture::DDB::tilePipToArc">
+<area shape="rect" id="node2" href="$d1/d2c/structtorc_1_1router_1_1TraceUnitTestFixture.html#a18f278b4efdaf3e40c0a482c21cfc40c" title="torc::router::TraceUnitTest\lFixture::TraceUnitTestFixture" alt="" coords="187,5,376,46"/>
+<area shape="rect" id="node3" href="$d2/d42/classtorc_1_1architecture_1_1XdlImporter.html#a48b7dcce892f70e32afa16fed316434b" title="Bind the given pip to the database arc and wire usage if applicable. " alt="" coords="219,70,344,111"/>
+</map>

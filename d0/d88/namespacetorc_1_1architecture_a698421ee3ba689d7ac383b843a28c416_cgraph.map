@@ -1,0 +1,9 @@
+<map id="torc::architecture::BOOST_AUTO_TEST_CASE" name="torc::architecture::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d4/da0/classtorc_1_1common_1_1DirectoryTree.html#afe8fc7b241abe7ad1f83443bc1d97550" title="Returns the absolute path to the family and device database directory. " alt="" coords="254,5,437,46"/>
+<area shape="rect" id="node3" href="$d9/db0/classtorc_1_1architecture_1_1Versions.html#a244e6b2ac1f143c87ce0c67a969012f8" title="Read the version information. " alt="" coords="265,175,426,217"/>
+<area shape="rect" id="node4" href="$d0/d83/classtorc_1_1architecture_1_1DigestStream.html#acd6f871c0be0622f30b0cf93eec93687" title="Returns the number of bytes read. " alt="" coords="485,46,680,87"/>
+<area shape="rect" id="node5" href="$d0/d83/classtorc_1_1architecture_1_1DigestStream.html#a2b034f47edd9ee82b4b35d6df1543c52" title="Read and return a uint8_t. " alt="" coords="513,111,652,153"/>
+<area shape="rect" id="node7" href="$d0/d83/classtorc_1_1architecture_1_1DigestStream.html#a5ab9fd456f3f13fc79b24550ccf9ec20" title="Read and return a section header. " alt="" coords="491,307,674,363"/>
+<area shape="rect" id="node6" href="$d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#a73b271d7a91e5ef653f3a467a6909b33" title="Returns the database console error stream. " alt="" coords="491,242,675,283"/>
+<area shape="rect" id="node8" href="$d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html#ac883f43343c312c23f5c772736129fe8" title="Returns the database console output stream. " alt="" coords="488,177,677,218"/>
+</map>

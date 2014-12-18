@@ -1,0 +1,6 @@
+<map id="torc::physical::Primitive" name="torc::physical::Primitive">
+<area shape="rect" id="node2" href="$d2/d7a/classtorc_1_1physical_1_1Component.html" title="Hierarchical componenet. " alt="" coords="374,65,543,92"/>
+<area shape="rect" id="node3" href="$d9/d33/classtorc_1_1physical_1_1Named.html" title="Concept for any object that can be named. " alt="" coords="169,7,314,33"/>
+<area shape="rect" id="node5" href="$da/dc4/classtorc_1_1physical_1_1Progeny.html" title="torc::physical::Progeny\l\&lt; class Component \&gt;" alt="" coords="166,58,317,99"/>
+<area shape="rect" id="node6" href="$de/dca/classtorc_1_1physical_1_1Progenitor.html" title="torc::physical::Progenitor\l\&lt; class Component \&gt;" alt="" coords="160,123,323,165"/>
+</map>

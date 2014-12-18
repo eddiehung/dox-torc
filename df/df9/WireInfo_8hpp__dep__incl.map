@@ -1,0 +1,51 @@
+<map id="WireInfo.hpp" name="WireInfo.hpp">
+<area shape="rect" id="node2" href="$d8/d76/ExtendedWireInfo_8cpp.html" title="Source for the ExtendedWireInfo class. " alt="" coords="5,304,152,331"/>
+<area shape="rect" id="node3" href="$dd/de0/Tiles_8hpp.html" title="Header for the Tiles class. " alt="" coords="4561,80,4635,107"/>
+<area shape="rect" id="node23" href="$d0/dd6/Architecture_8hpp.html" title="Main torc::architecture namespace header. " alt="" coords="4670,379,4785,405"/>
+<area shape="rect" id="node49" href="$de/dda/WireInfo_8cpp.html" title="Source for the WireInfo class. " alt="" coords="5107,80,5201,107"/>
+<area shape="rect" id="node50" href="$d7/d1b/WireInfoUnitTest_8cpp.html" title="Unit test for the WireInfo class. " alt="" coords="5227,80,5371,107"/>
+<area shape="rect" id="node4" href="$d3/d2e/ArcUsage_8hpp.html" title="Header for the ArcUsage class. " alt="" coords="4687,155,4791,181"/>
+<area shape="rect" id="node7" href="$d1/d5d/DDB_8hpp.html" title="Header for the DDB class. " alt="" coords="2897,229,2969,256"/>
+<area shape="rect" id="node13" href="$dd/d90/architecture_2OutputStreamHelpers_8cpp.html" title="Source for torc::architecture output stream helpers. " alt="" coords="177,304,348,331"/>
+<area shape="rect" id="node19" href="$df/d9e/TilesUnitTest_8cpp.html" title="Unit test for the Tiles class. " alt="" coords="4578,304,4701,331"/>
+<area shape="rect" id="node47" href="$da/d0f/Tiles_8cpp.html" title="Source for the Tiles class. " alt="" coords="4397,155,4471,181"/>
+<area shape="rect" id="node48" href="$dc/d0a/WireUsage_8hpp.html" title="Header for the WireUsage class. " alt="" coords="4497,155,4607,181"/>
+<area shape="rect" id="node5" href="$da/d39/ArcUsage_8cpp.html" title="Source for the ArcUsage class. " alt="" coords="4827,229,4931,256"/>
+<area shape="rect" id="node6" href="$da/d40/ArcUsageUnitTest_8cpp.html" title="Unit test for the ArcUsage class. " alt="" coords="4725,304,4879,331"/>
+<area shape="rect" id="node8" href="$d3/dc5/DDB_8cpp.html" title="Source for the DDB class. " alt="" coords="975,304,1048,331"/>
+<area shape="rect" id="node9" href="$d1/d0d/DDBStreamHelper_8cpp.html" title="Source for the DDBStreamHelper class. " alt="" coords="1073,304,1225,331"/>
+<area shape="rect" id="node10" href="$dd/dc5/DDBStreamHelperUnitTest_8cpp.html" title="Unit test for the DDBStreamHelper class. " alt="" coords="1251,304,1453,331"/>
+<area shape="rect" id="node11" href="$d2/dd2/DDBUnitTest_8cpp.html" title="Unit test for the DDB class. " alt="" coords="1477,304,1600,331"/>
+<area shape="rect" id="node12" href="$d6/d36/architecture_2InstancePin_8cpp.html" title="Source for the InstancePin class. " alt="" coords="1624,304,1739,331"/>
+<area shape="rect" id="node14" href="$d1/d70/PackageUnitTest_8cpp.html" title="Unit test for the Package class. " alt="" coords="1763,304,1909,331"/>
+<area shape="rect" id="node15" href="$d9/db6/SegmentsRegressionTest_8cpp.html" title="Regression test for the Segments class. " alt="" coords="1934,304,2129,331"/>
+<area shape="rect" id="node16" href="$d4/d71/SegmentsUnitTest_8cpp.html" title="Unit test for the Segments class. " alt="" coords="2256,304,2409,331"/>
+<area shape="rect" id="node17" href="$d5/dfd/SitesUnitTest_8cpp.html" title="Unit test for the Sites class. " alt="" coords="2435,304,2561,331"/>
+<area shape="rect" id="node18" href="$d4/d3e/SiteTypesUnitTest_8cpp.html" title="Unit test for the SiteTypes class. " alt="" coords="3848,379,4001,405"/>
+<area shape="rect" id="node20" href="$db/deb/VersionsUnitTest_8cpp.html" title="Unit test for the Versions class. " alt="" coords="2587,304,2733,331"/>
+<area shape="rect" id="node21" href="$df/dc3/VprExporter_8hpp.html" title="Header for the DDB class. " alt="" coords="2809,304,2921,331"/>
+<area shape="rect" id="node22" href="$dd/dc8/architecture_2XdlImporter_8hpp.html" title="Header for the XdlImporter class. " alt="" coords="3885,304,3997,331"/>
+<area shape="rect" id="node25" href="$d5/de4/Virtex5Assembler_8hpp.html" title="Virtex5Assembler.hpp" alt="" coords="2885,528,3032,555"/>
+<area shape="rect" id="node26" href="$dd/dd6/Virtex7Assembler_8hpp.html" title="Virtex7Assembler.hpp" alt="" coords="2702,528,2849,555"/>
+<area shape="rect" id="node28" href="$da/d2e/Virtex5UnitTest_8cpp.html" title="Unit test for the Virtex5 class. " alt="" coords="4021,453,4156,480"/>
+<area shape="rect" id="node31" href="$d4/d03/Assembler_8cpp.html" title="Implementation of base class Assembler for Xdl to bitstream conversion. " alt="" coords="2997,379,3104,405"/>
+<area shape="rect" id="node32" href="$d8/d00/Assembler_8hpp.html" title="Base class for Xdl to bitstream conversion. This class is abstract but still contains lot of architec..." alt="" coords="2946,304,3053,331"/>
+<area shape="rect" id="node33" href="$dd/d01/VirtexAssembler_8hpp.html" title="Definition of base Virtex class to implement functions common across all/some Virtex architectures..." alt="" coords="2705,379,2845,405"/>
+<area shape="rect" id="node34" href="$d9/df4/VirtexAssembler_8cpp.html" title="Class to implement common functionalities of Virtex architectures. " alt="" coords="2404,453,2544,480"/>
+<area shape="rect" id="node35" href="$d9/d62/LogicXdlGenerator_8cpp.html" title="XDL generator for supported logic sites. Generates an XDL for each config and also an harness XDL for..." alt="" coords="3180,304,3333,331"/>
+<area shape="rect" id="node36" href="$d9/d12/Xdl2Bit_8cpp.html" title="Convert an XDL to bitstream by merging the compressed bitstreams from library. " alt="" coords="3359,304,3447,331"/>
+<area shape="rect" id="node37" href="$d0/d80/Spartan3E_8cpp.html" title="Source for the Spartan3E class. " alt="" coords="3471,304,3577,331"/>
+<area shape="rect" id="node38" href="$d2/d50/Spartan3EUnitTest_8cpp.html" title="Unit test for the Spartan3E class. " alt="" coords="3602,304,3757,331"/>
+<area shape="rect" id="node39" href="$d7/d57/Spartan6UnitTest_8cpp.html" title="Unit test for the Spartan6 class. " alt="" coords="4022,304,4169,331"/>
+<area shape="rect" id="node40" href="$d7/dc9/Virtex_8cpp.html" title="Source for the Virtex class. " alt="" coords="4194,304,4272,331"/>
+<area shape="rect" id="node41" href="$d5/d2f/Virtex2_8cpp.html" title="Source for the Virtex2 class. " alt="" coords="4297,304,4383,331"/>
+<area shape="rect" id="node42" href="$de/d61/Virtex2P_8cpp.html" title="Source for the Virtex2P class. " alt="" coords="4407,304,4501,331"/>
+<area shape="rect" id="node43" href="$da/dde/Virtex2PUnitTest_8cpp.html" title="Unit test for the Virtex2P class. " alt="" coords="373,304,517,331"/>
+<area shape="rect" id="node44" href="$d0/d85/Virtex2UnitTest_8cpp.html" title="Unit test for the Virtex2 class. " alt="" coords="543,304,677,331"/>
+<area shape="rect" id="node45" href="$da/d6f/Virtex4_8cpp.html" title="Source for the Virtex4 class. " alt="" coords="703,304,789,331"/>
+<area shape="rect" id="node46" href="$da/dc6/Virtex4UnitTest_8cpp.html" title="Unit test for the Virtex4 class. " alt="" coords="815,304,949,331"/>
+<area shape="rect" id="node24" href="$d9/dfb/AssemblerLibGen_8hpp.html" title="AssemblerLibGen.hpp" alt="" coords="2883,453,3033,480"/>
+<area shape="rect" id="node27" href="$d2/d3b/WireXdlGenerator_8cpp.html" title="Open a device, go over all the pips of some tile types. " alt="" coords="4473,453,4620,480"/>
+<area shape="rect" id="node29" href="$d4/d6f/ArchitectureExample_8cpp.html" title="Example program to open a device database and do something with it. " alt="" coords="4645,453,4809,480"/>
+<area shape="rect" id="node30" href="$d5/db2/ModuleTransformer_8hpp.html" title="ModuleTransformer class to modularize/flatten designs. " alt="" coords="4835,453,4993,480"/>
+</map>

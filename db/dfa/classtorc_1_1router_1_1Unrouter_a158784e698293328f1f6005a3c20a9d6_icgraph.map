@@ -1,0 +1,5 @@
+<map id="torc::router::Unrouter::traceUpstream" name="torc::router::Unrouter::traceUpstream">
+<area shape="rect" id="node2" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a137179d28fd3a7d8e3a13a5d570cf865" title="Trace from given Tilewire sinkwards and sourcewards to source or branch. " alt="" coords="192,5,331,46"/>
+<area shape="rect" id="node3" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#aa1f029715f5bb9a089f080357439b85e" title="Trace from given Tilewire sourcewards to the source of the net. " alt="" coords="192,70,331,111"/>
+<area shape="rect" id="node4" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#a39c3d53615f4c917db79f68544dfa2ff" title="Trace from given Tilewire and recover the entire net. " alt="" coords="192,135,331,177"/>
+</map>

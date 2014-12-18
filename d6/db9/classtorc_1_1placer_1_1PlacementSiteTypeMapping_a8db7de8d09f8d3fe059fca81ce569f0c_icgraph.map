@@ -1,0 +1,6 @@
+<map id="torc::placer::PlacementSiteTypeMapping::getLegalSitesForInstance" name="torc::placer::PlacementSiteTypeMapping::getLegalSitesForInstance">
+<area shape="rect" id="node2" href="$db/def/classtorc_1_1placer_1_1Placement.html#a80d8d6ea1f263af53104eb28641ee69e" title="torc::placer::Placement\l::initialPlacement" alt="" coords="310,5,463,46"/>
+<area shape="rect" id="node4" href="$db/def/classtorc_1_1placer_1_1Placement.html#a1caef004ace4a155de79358eac32215d" title="torc::placer::Placement\l::randomMove" alt="" coords="310,70,463,111"/>
+<area shape="rect" id="node3" href="$db/def/classtorc_1_1placer_1_1Placement.html#a87fefd53eb47b7751246a349b49c5342" title="torc::placer::Placement\l::Placement" alt="" coords="513,5,666,46"/>
+<area shape="rect" id="node5" href="$d2/dbc/classtorc_1_1placer_1_1Placer.html#a33223706cb84e1cdf44f8f3aa50422b4" title="torc::placer::Placer\l::generatePlacement" alt="" coords="519,70,659,111"/>
+</map>

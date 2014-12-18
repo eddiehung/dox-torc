@@ -1,0 +1,12 @@
+<map id="InternalUtilityFunctions.hpp" name="InternalUtilityFunctions.hpp">
+<area shape="rect" id="node2" href="$df/ddb/Cloning_8hpp.html" title="Cloning.hpp" alt="" coords="298,80,387,107"/>
+<area shape="rect" id="node5" href="$d8/d2c/Generic_8hpp.html" title="Main torc::generic namespace header. " alt="" coords="409,155,500,181"/>
+<area shape="rect" id="node3" href="$d6/d0c/Cloning_8cpp.html" title="Cloning.cpp" alt="" coords="169,155,257,181"/>
+<area shape="rect" id="node4" href="$d3/d67/Flattening_8cpp.html" title="Flattening.cpp" alt="" coords="282,155,384,181"/>
+<area shape="rect" id="node6" href="$d1/d4e/EdifFlattener_8cpp.html" title="Source for the EDIF flattener. " alt="" coords="5,229,123,256"/>
+<area shape="rect" id="node7" href="$da/d89/EdifObfuscator_8cpp.html" title="Source for the EDIF obfuscator. " alt="" coords="147,229,279,256"/>
+<area shape="rect" id="node8" href="$d0/d94/GenericExample_8cpp.html" title="Example program to read in an EDIF file, do something with it, and write it back out. " alt="" coords="303,229,443,256"/>
+<area shape="rect" id="node9" href="$d5/de2/VerilogExample_8cpp.html" title="Example program to read in a structural Verilog file and write it back out. " alt="" coords="467,229,601,256"/>
+<area shape="rect" id="node10" href="$db/d5b/VerilogExporter_8cpp.html" title="Source for the VerilogExporter class. " alt="" coords="627,229,760,256"/>
+<area shape="rect" id="node11" href="$d7/d0b/VerilogImporter_8cpp.html" title="Source for the VerilogImporter class. " alt="" coords="785,229,919,256"/>
+</map>

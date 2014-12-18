@@ -1,0 +1,8 @@
+<map id="torc::architecture::PrimitiveDef::findPinIndexByName" name="torc::architecture::PrimitiveDef::findPinIndexByName">
+<area shape="rect" id="node2" href="$da/dd8/classtorc_1_1architecture_1_1Site.html#afffd0b3efb07c192aa39fb380b7d9a08" title="Returns the Tilewire associated with the specified pin name. " alt="" coords="236,27,375,69"/>
+<area shape="rect" id="node6" href="$d7/dc5/classtorc_1_1packer_1_1Unpacker.html#a6351b01fc431bd827a96f80ad816f493" title="Function to find the next element. " alt="" coords="230,93,381,134"/>
+<area shape="rect" id="node7" href="$d7/dc5/classtorc_1_1packer_1_1Unpacker.html#aeccba4ebf3199f28e69dc2e9aff01fda" title="Unpack function that takes Instance iterators as input. " alt="" coords="230,158,381,199"/>
+<area shape="rect" id="node3" href="$d4/d6f/ArchitectureExample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="485,5,536,32"/>
+<area shape="rect" id="node4" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#af92b591270ea2f7d3aa13e6eccc671fc" title="Returns the tilewire for the specified site and pin name pair. " alt="" coords="430,57,591,98"/>
+<area shape="rect" id="node5" href="$dd/d5d/classtorc_1_1architecture_1_1InstancePin.html#a8d2433b5b591bc819f0fa645e3258c9f" title="Updates the Tilewire from the instance and pin names. " alt="" coords="640,57,827,98"/>
+</map>

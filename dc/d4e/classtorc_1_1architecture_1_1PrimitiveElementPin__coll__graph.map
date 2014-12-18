@@ -1,0 +1,7 @@
+<map id="torc::architecture::PrimitiveElementPin" name="torc::architecture::PrimitiveElementPin">
+<area shape="rect" id="node7" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const PrimitiveElement\lPin \&gt;" alt="" coords="704,111,907,167"/>
+<area shape="rect" id="node2" href="$df/dbb/classtorc_1_1architecture_1_1PinDirection.html" title="torc::architecture\l::PinDirection" alt="" coords="241,67,359,109"/>
+<area shape="rect" id="node3" href="$d0/d3a/structtorc_1_1architecture_1_1xilinx_1_1PinFlags.html" title="Encapsulation of pin attribute flags in an unsigned 16&#45;bit integer. " alt="" coords="241,133,359,174"/>
+<area shape="rect" id="node4" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint16_t \&gt;" alt="" coords="5,133,189,174"/>
+<area shape="rect" id="node6" href="$dc/d9a/classtorc_1_1architecture_1_1PrimitiveElement.html" title="Encapsulation of a primitive site element. &#160;Primitive elements are subcomponents of logic primitive s..." alt="" coords="998,42,1125,83"/>
+</map>

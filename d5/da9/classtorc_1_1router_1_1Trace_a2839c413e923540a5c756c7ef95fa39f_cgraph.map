@@ -1,0 +1,9 @@
+<map id="torc::router::Trace::normalizeDepth" name="torc::router::Trace::normalizeDepth">
+<area shape="rect" id="node2" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#a91c2a0c03c26fe305118d028aa89f411" title="Set the depth of this node. " alt="" coords="177,5,330,46"/>
+<area shape="rect" id="node3" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#a4178938f3b9792ae04f3b53478b8cb5d" title="Get the Tilewire associated with this node. " alt="" coords="177,70,330,111"/>
+<area shape="rect" id="node4" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#a42fd088edb67a58c16a1c5f7003b045b" title="Get the number of parents. " alt="" coords="177,135,330,177"/>
+<area shape="rect" id="node5" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#ae82c061b188b777b76f113ca655229cc" title="Get a parent by index, returns 0 for invalid index. " alt="" coords="177,201,330,242"/>
+<area shape="rect" id="node6" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#adf51596da45236eae4fa58094c963d2c" title="Get the depth of this node from the furthest node with no parent. " alt="" coords="177,266,330,307"/>
+<area shape="rect" id="node7" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#a6fa2591b12eb9f08da0077bbc9bcb7af" title="Get the number of children. " alt="" coords="177,331,330,373"/>
+<area shape="rect" id="node8" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#a15a2b450a0d0b2cbffbb3ba099fc14b6" title="Get a child by index, returns 0 for invalid index. " alt="" coords="177,397,330,438"/>
+</map>

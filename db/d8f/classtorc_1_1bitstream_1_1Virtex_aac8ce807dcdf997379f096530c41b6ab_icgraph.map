@@ -1,0 +1,4 @@
+<map id="torc::bitstream::Virtex::prepareFrames" name="torc::bitstream::Virtex::prepareFrames">
+<area shape="rect" id="node2" href="$db/d8f/classtorc_1_1bitstream_1_1Virtex.html#a8faec3bd73cab7e644e0082ae51088b7" title="Initialize the maps between frame indexes and frame addresses. &#160;This is generally only useful for int..." alt="" coords="202,5,345,46"/>
+<area shape="rect" id="node3" href="$dc/d40/classtorc_1_1bitstream_1_1VirtexE.html#a7e11cdc27784d42f5eda602ea233021a" title="Initialize the maps between frame indexes and frame addresses. &#160;This is generally only useful for int..." alt="" coords="198,70,349,111"/>
+</map>

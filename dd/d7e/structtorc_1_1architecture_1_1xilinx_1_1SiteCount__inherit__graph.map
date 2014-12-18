@@ -1,0 +1,4 @@
+<map id="torc::architecture::xilinx::SiteCount" name="torc::architecture::xilinx::SiteCount">
+<area shape="rect" id="node3" href="$db/dd9/structtorc_1_1architecture_1_1xilinx_1_1SiteIndex.html" title="Encapsulation of a site index in an unsigned 32&#45;bit integer. " alt="" coords="38,187,156,229"/>
+<area shape="rect" id="node2" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32_t \&gt;" alt="" coords="5,6,189,47"/>
+</map>

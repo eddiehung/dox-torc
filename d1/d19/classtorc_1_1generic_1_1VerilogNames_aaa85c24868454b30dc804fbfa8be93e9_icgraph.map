@@ -1,0 +1,4 @@
+<map id="torc::generic::VerilogNames::getTorcAssignRHSPropertyName" name="torc::generic::VerilogNames::getTorcAssignRHSPropertyName">
+<area shape="rect" id="node2" href="$d9/da8/classtorc_1_1generic_1_1VerilogExporterVisitor.html#ac9262beede4dee6da03c46b4c86cf50b" title="torc::generic::VerilogExporter\lVisitor::visit" alt="" coords="278,5,463,46"/>
+<area shape="rect" id="node3" href="$da/dab/classtorc_1_1generic_1_1VerilogImporterVisitor.html#a0f0dd26d8bf4bfdade42d0d6e3278449" title="Visit a Verilog assignment, and add an appropriate EDIF property. " alt="" coords="277,70,464,111"/>
+</map>

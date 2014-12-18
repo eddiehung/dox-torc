@@ -1,0 +1,5 @@
+<map id="torc::bitstream::Virtex5LibGen::getPrimitiveNameToStructreMap" name="torc::bitstream::Virtex5LibGen::getPrimitiveNameToStructreMap">
+<area shape="rect" id="node2" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#aff8c8ae5585c2554998398f539c49aac" title="Returns the site types for this family. " alt="" coords="331,5,471,46"/>
+<area shape="rect" id="node3" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html#ab8d6b185e643193e8de87bd1e3fb8635" title="Returns the name of the primitive. " alt="" coords="322,70,481,111"/>
+<area shape="rect" id="node4" href="$de/d4f/classtorc_1_1bitstream_1_1AssemblerLibGen.html#ad3436e97671fb4c500f2a8a64c57e32a" title="Return true if site type is SLICEL. " alt="" coords="315,135,487,177"/>
+</map>

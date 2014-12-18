@@ -1,0 +1,5 @@
+<map id="torc::architecture::ArcUsage::release" name="torc::architecture::ArcUsage::release">
+<area shape="rect" id="node2" href="$d0/d88/namespacetorc_1_1architecture.html#a44e00b06e2bc57c7568eeabbace0afe7" title="Unit test for the ArcUsage class. " alt="" coords="189,5,389,46"/>
+<area shape="rect" id="node3" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a0f05795f964ee1a8750b3d64861f59a9" title="Marks the arc and all of its source and sink segment wires as unused. " alt="" coords="228,70,351,111"/>
+<area shape="rect" id="node4" href="$db/dfa/classtorc_1_1router_1_1Unrouter.html#ac30263aa9775f1f1bdd677ac2816b666" title="torc::router::Unrouter\l::unrouteToSinks" alt="" coords="437,70,576,111"/>
+</map>

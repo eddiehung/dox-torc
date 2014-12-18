@@ -1,0 +1,6 @@
+<map id="torc::bitstream::Virtex6::getRowPadFrames" name="torc::bitstream::Virtex6::getRowPadFrames">
+<area shape="rect" id="node2" href="$dd/d7c/classtorc_1_1bitstream_1_1Virtex6.html#a6536b8a6f72bf3329a19bd978be41139" title="Initialize the maps between frame indexes and frame addresses. &#160;This is generally only useful for int..." alt="" coords="217,5,367,46"/>
+<area shape="rect" id="node3" href="$dd/d7c/classtorc_1_1bitstream_1_1Virtex6.html#a176b2dc8245d3ae7d874f2a14dfc3e30" title="Loads full bitstream frames into block data structure. " alt="" coords="206,70,378,111"/>
+<area shape="rect" id="node4" href="$dd/d7c/classtorc_1_1bitstream_1_1Virtex6.html#a89bce57fa30b55b739bfd6a5b3e262a7" title="Returns frames for queried bitstream coordinates. " alt="" coords="217,135,367,177"/>
+<area shape="rect" id="node5" href="$dd/d7c/classtorc_1_1bitstream_1_1Virtex6.html#aaa0936c1914d5c14c35791206cfc70bc" title="Returns frames for queried xdl coordinates. " alt="" coords="217,201,367,242"/>
+</map>

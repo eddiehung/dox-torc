@@ -1,0 +1,67 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="A placeholder for a factory method. " alt="" coords="6,286,175,327"/>
+<area shape="rect" id="node2" href="$d9/d8d/classtorc_1_1generic_1_1Cell_1_1Factory.html" title="torc::generic::Cell\l::Factory" alt="" coords="264,5,384,46"/>
+<area shape="rect" id="node3" href="$d4/d10/classtorc_1_1generic_1_1ObjectFactory.html" title="torc::generic::ObjectFactory" alt="" coords="472,1175,651,1201"/>
+<area shape="rect" id="node4" href="$d4/d5a/classtorc_1_1generic_1_1ForbiddenEvent_1_1Factory.html" title="torc::generic::Forbidden\lEvent::Factory" alt="" coords="247,122,401,163"/>
+<area shape="rect" id="node5" href="$d2/d8a/classtorc_1_1generic_1_1InstanceArray_1_1Factory.html" title="torc::generic::InstanceArray\l::Factory" alt="" coords="235,187,413,229"/>
+<area shape="rect" id="node6" href="$de/d29/classtorc_1_1generic_1_1InterfaceJoinedInfo_1_1Factory.html" title="torc::generic::Interface\lJoinedInfo::Factory" alt="" coords="249,253,399,294"/>
+<area shape="rect" id="node7" href="$df/d72/classtorc_1_1generic_1_1LogicValue_1_1Factory.html" title="torc::generic::LogicValue\l::Factory" alt="" coords="243,318,405,359"/>
+<area shape="rect" id="node8" href="$d3/dac/classtorc_1_1generic_1_1Permutable_1_1Factory.html" title="torc::generic::Permutable\l::Factory" alt="" coords="242,383,406,425"/>
+<area shape="rect" id="node9" href="$d7/d57/classtorc_1_1generic_1_1PortBundleReference_1_1Factory.html" title="torc::generic::PortBundle\lReference::Factory" alt="" coords="243,449,405,490"/>
+<area shape="rect" id="node10" href="$d2/da2/classtorc_1_1generic_1_1Timing_1_1Factory.html" title="torc::generic::Timing\l::Factory" alt="" coords="255,514,393,555"/>
+<area shape="rect" id="node11" href="$dc/dbf/classtorc_1_1generic_1_1WaveValue_1_1Factory.html" title="torc::generic::WaveValue\l::Factory" alt="" coords="242,579,406,621"/>
+<area shape="rect" id="node12" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; Apply \&gt;" alt="" coords="6,645,175,686"/>
+<area shape="rect" id="node13" href="$d6/dac/classtorc_1_1generic_1_1Apply_1_1Factory.html" title="torc::generic::Apply\l::Factory" alt="" coords="259,645,389,686"/>
+<area shape="rect" id="node14" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; Design \&gt;" alt="" coords="6,710,175,751"/>
+<area shape="rect" id="node15" href="$d8/d21/classtorc_1_1generic_1_1Design_1_1Factory.html" title="torc::generic::Design\l::Factory" alt="" coords="255,710,393,751"/>
+<area shape="rect" id="node16" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; Event \&gt;" alt="" coords="6,775,175,817"/>
+<area shape="rect" id="node17" href="$db/db2/classtorc_1_1generic_1_1Event_1_1Factory.html" title="torc::generic::Event\l::Factory" alt="" coords="259,775,389,817"/>
+<area shape="rect" id="node18" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; Library \&gt;" alt="" coords="6,841,175,882"/>
+<area shape="rect" id="node19" href="$d1/d25/classtorc_1_1generic_1_1Library_1_1Factory.html" title="torc::generic::Library\l::Factory" alt="" coords="255,841,393,882"/>
+<area shape="rect" id="node20" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; LogicalResponse \&gt;" alt="" coords="6,906,175,947"/>
+<area shape="rect" id="node21" href="$d6/d19/classtorc_1_1generic_1_1LogicalResponse_1_1Factory.html" title="torc::generic::LogicalResponse\l::Factory" alt="" coords="225,906,423,947"/>
+<area shape="rect" id="node22" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; LogicElement \&gt;" alt="" coords="6,971,175,1013"/>
+<area shape="rect" id="node23" href="$d0/dba/classtorc_1_1generic_1_1LogicElement_1_1Factory.html" title="torc::generic::LogicElement\l::Factory" alt="" coords="235,971,413,1013"/>
+<area shape="rect" id="node24" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; NetBundle \&gt;" alt="" coords="6,1037,175,1078"/>
+<area shape="rect" id="node25" href="$da/d0e/classtorc_1_1generic_1_1NetBundle_1_1Factory.html" title="torc::generic::NetBundle\l::Factory" alt="" coords="245,1037,403,1078"/>
+<area shape="rect" id="node26" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; ParameterArray \&gt;" alt="" coords="6,1102,175,1143"/>
+<area shape="rect" id="node27" href="$d5/def/classtorc_1_1generic_1_1ParameterArray_1_1Factory.html" title="torc::generic::Parameter\lArray::Factory" alt="" coords="245,1102,403,1143"/>
+<area shape="rect" id="node28" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; PathDelay \&gt;" alt="" coords="6,1167,175,1209"/>
+<area shape="rect" id="node29" href="$dd/d4b/classtorc_1_1generic_1_1PathDelay_1_1Factory.html" title="torc::generic::PathDelay\l::Factory" alt="" coords="245,1167,403,1209"/>
+<area shape="rect" id="node30" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; PortBundle \&gt;" alt="" coords="6,1233,175,1274"/>
+<area shape="rect" id="node31" href="$d1/d37/classtorc_1_1generic_1_1PortBundle_1_1Factory.html" title="torc::generic::PortBundle\l::Factory" alt="" coords="243,1233,405,1274"/>
+<area shape="rect" id="node32" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; PortList \&gt;" alt="" coords="6,1298,175,1339"/>
+<area shape="rect" id="node33" href="$db/d96/classtorc_1_1generic_1_1PortList_1_1Factory.html" title="torc::generic::PortList\l::Factory" alt="" coords="252,1298,396,1339"/>
+<area shape="rect" id="node34" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; PortListAlias \&gt;" alt="" coords="6,1363,175,1405"/>
+<area shape="rect" id="node35" href="$d9/dbd/classtorc_1_1generic_1_1PortListAlias_1_1Factory.html" title="torc::generic::PortListAlias\l::Factory" alt="" coords="237,1363,411,1405"/>
+<area shape="rect" id="node36" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; Property \&gt;" alt="" coords="6,1429,175,1470"/>
+<area shape="rect" id="node37" href="$d9/da3/classtorc_1_1generic_1_1Property_1_1Factory.html" title="torc::generic::Property\l::Factory" alt="" coords="251,1429,397,1470"/>
+<area shape="rect" id="node38" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; Root \&gt;" alt="" coords="6,1494,175,1535"/>
+<area shape="rect" id="node39" href="$d5/d4b/classtorc_1_1generic_1_1Root_1_1Factory.html" title="torc::generic::Root\l::Factory" alt="" coords="261,1494,387,1535"/>
+<area shape="rect" id="node40" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; ScalarNet \&gt;" alt="" coords="6,1559,175,1601"/>
+<area shape="rect" id="node41" href="$da/d22/classtorc_1_1generic_1_1ScalarNet_1_1Factory.html" title="torc::generic::ScalarNet\l::Factory" alt="" coords="246,1559,402,1601"/>
+<area shape="rect" id="node42" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; ScalarPort \&gt;" alt="" coords="6,1625,175,1666"/>
+<area shape="rect" id="node43" href="$df/d23/classtorc_1_1generic_1_1ScalarPort_1_1Factory.html" title="torc::generic::ScalarPort\l::Factory" alt="" coords="245,1625,403,1666"/>
+<area shape="rect" id="node44" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; ScalarPortReference \&gt;" alt="" coords="6,1690,175,1731"/>
+<area shape="rect" id="node45" href="$d0/d0e/classtorc_1_1generic_1_1ScalarPortReference_1_1Factory.html" title="torc::generic::ScalarPort\lReference::Factory" alt="" coords="245,1690,403,1731"/>
+<area shape="rect" id="node46" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; Simulate \&gt;" alt="" coords="6,1755,175,1797"/>
+<area shape="rect" id="node47" href="$d5/d19/classtorc_1_1generic_1_1Simulate_1_1Factory.html" title="torc::generic::Simulate\l::Factory" alt="" coords="249,1755,399,1797"/>
+<area shape="rect" id="node48" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; SimulationInfo \&gt;" alt="" coords="6,1821,175,1862"/>
+<area shape="rect" id="node49" href="$d9/dd6/classtorc_1_1generic_1_1SimulationInfo_1_1Factory.html" title="torc::generic::Simulation\lInfo::Factory" alt="" coords="245,1821,403,1862"/>
+<area shape="rect" id="node50" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; SingleInstance \&gt;" alt="" coords="6,1886,175,1927"/>
+<area shape="rect" id="node51" href="$dc/dc5/classtorc_1_1generic_1_1SingleInstance_1_1Factory.html" title="torc::generic::SingleInstance\l::Factory" alt="" coords="232,1886,416,1927"/>
+<area shape="rect" id="node52" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; SingleParameter \&gt;" alt="" coords="6,1951,175,1993"/>
+<area shape="rect" id="node53" href="$d6/d1f/classtorc_1_1generic_1_1SingleParameter_1_1Factory.html" title="torc::generic::SingleParameter\l::Factory" alt="" coords="227,1951,421,1993"/>
+<area shape="rect" id="node54" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; Status \&gt;" alt="" coords="6,2017,175,2058"/>
+<area shape="rect" id="node55" href="$de/d24/classtorc_1_1generic_1_1Status_1_1Factory.html" title="torc::generic::Status\l::Factory" alt="" coords="256,2017,392,2058"/>
+<area shape="rect" id="node56" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; VectorNet \&gt;" alt="" coords="6,2082,175,2123"/>
+<area shape="rect" id="node57" href="$d6/d45/classtorc_1_1generic_1_1VectorNet_1_1Factory.html" title="torc::generic::VectorNet\l::Factory" alt="" coords="245,2082,403,2123"/>
+<area shape="rect" id="node58" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; VectorPort \&gt;" alt="" coords="6,2147,175,2189"/>
+<area shape="rect" id="node59" href="$d2/d5d/classtorc_1_1generic_1_1VectorPort_1_1Factory.html" title="torc::generic::VectorPort\l::Factory" alt="" coords="244,2147,404,2189"/>
+<area shape="rect" id="node60" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; VectorPortReference \&gt;" alt="" coords="6,2213,175,2254"/>
+<area shape="rect" id="node61" href="$de/d97/classtorc_1_1generic_1_1VectorPortReference_1_1Factory.html" title="torc::generic::VectorPort\lReference::Factory" alt="" coords="244,2213,404,2254"/>
+<area shape="rect" id="node62" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; View \&gt;" alt="" coords="6,2278,175,2319"/>
+<area shape="rect" id="node63" href="$d0/d75/classtorc_1_1generic_1_1View_1_1Factory.html" title="torc::generic::View\l::Factory" alt="" coords="261,2278,387,2319"/>
+<area shape="rect" id="node64" href="$d2/d3b/classtorc_1_1generic_1_1FactoryType.html" title="torc::generic::FactoryType\l\&lt; Written \&gt;" alt="" coords="6,2343,175,2385"/>
+<area shape="rect" id="node65" href="$d9/d1c/classtorc_1_1generic_1_1Written_1_1Factory.html" title="torc::generic::Written\l::Factory" alt="" coords="255,2343,393,2385"/>
+</map>

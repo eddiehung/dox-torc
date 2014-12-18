@@ -1,0 +1,13 @@
+<map id="torc::architecture::DDB::useSegment" name="torc::architecture::DDB::useSegment">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#adb4aa4b29a89a672b3c87925237600f8" title="Marks the arc and all of its source and sink segment wires as used. " alt="" coords="211,194,330,235"/>
+<area shape="rect" id="node11" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a60fb32e30f397cfe7a719d73a956fe22" title="torc::router::PathFinder\l::markSourcesAndSinks" alt="" coords="190,325,351,366"/>
+<area shape="rect" id="node3" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ae7b4e428e72e476dce08bee36219932b" title="Test for a dedicated routing path. " alt="" coords="638,5,786,46"/>
+<area shape="rect" id="node5" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a93f914b0ebe8bad7acf038593613f35d" title="Move the source terminal of a net in the sinkwards direction. " alt="" coords="415,63,575,105"/>
+<area shape="rect" id="node7" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#acd57249d362d21ae852455006b3d249b" title="Move the sink terminal of a net in the sourcewards direction. " alt="" coords="421,129,569,170"/>
+<area shape="rect" id="node8" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#ae9dd38580a78bd41dd881adc158ef07b" title="torc::router::PathFinder\l::recordResult" alt="" coords="419,194,571,235"/>
+<area shape="rect" id="node9" href="$d1/d2c/structtorc_1_1router_1_1TraceUnitTestFixture.html#a18f278b4efdaf3e40c0a482c21cfc40c" title="torc::router::TraceUnitTest\lFixture::TraceUnitTestFixture" alt="" coords="400,259,589,301"/>
+<area shape="rect" id="node10" href="$d2/d42/classtorc_1_1architecture_1_1XdlImporter.html#a48b7dcce892f70e32afa16fed316434b" title="Bind the given pip to the database arc and wire usage if applicable. " alt="" coords="432,325,557,366"/>
+<area shape="rect" id="node4" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a3b86ba86d920c06811a3e33fd7fd89c3" title="Route a net. " alt="" coords="835,38,983,79"/>
+<area shape="rect" id="node6" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#af5593bf5a5f8d7a801a31c579302db03" title="Move net terminals out into the INT tiles. " alt="" coords="638,70,786,111"/>
+<area shape="rect" id="node12" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a78a148e4768eb82276f5778898653859" title="torc::router::PathFinder\l::routeNets" alt="" coords="419,390,571,431"/>
+</map>

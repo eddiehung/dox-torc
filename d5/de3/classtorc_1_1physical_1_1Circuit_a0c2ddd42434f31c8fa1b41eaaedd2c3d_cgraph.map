@@ -1,0 +1,4 @@
+<map id="torc::physical::Circuit::unplace" name="torc::physical::Circuit::unplace">
+<area shape="rect" id="node2" href="$d5/de3/classtorc_1_1physical_1_1Circuit.html#afe7d9d809d1a2e3bb6d09291f80c4fb6" title="Returns the begin constant iterator for instances. " alt="" coords="195,5,335,46"/>
+<area shape="rect" id="node3" href="$d5/de3/classtorc_1_1physical_1_1Circuit.html#a0dc7d01747399d87f7cacf496270b8ab" title="Returns the end constant iterator for instances. " alt="" coords="195,70,335,111"/>
+</map>

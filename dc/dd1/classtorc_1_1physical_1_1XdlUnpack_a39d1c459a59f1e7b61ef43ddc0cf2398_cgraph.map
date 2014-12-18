@@ -1,0 +1,11 @@
+<map id="torc::physical::XdlUnpack::readPrimitives" name="torc::physical::XdlUnpack::readPrimitives">
+<area shape="rect" id="node2" href="$dd/d96/classtorc_1_1physical_1_1ParsePrimitive.html#a65c561ad1e22da0135b1393921c6bee0" title="parse an XDLRC file " alt="" coords="222,234,410,275"/>
+<area shape="rect" id="node3" href="$dd/d96/classtorc_1_1physical_1_1ParsePrimitive.html#aa96e402b5cb3a26f9b36604ff35f8254" title="Print printError. " alt="" coords="459,5,647,46"/>
+<area shape="rect" id="node4" href="$dd/d96/classtorc_1_1physical_1_1ParsePrimitive.html#a6bdfbff370357931a3e60705d8f3a84c" title="Reads the current line. " alt="" coords="459,70,647,111"/>
+<area shape="rect" id="node5" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#ab3256fe06ba0067087501f91ed64f48e" title="Create and return a new PrimitiveSet object. " alt="" coords="472,135,635,177"/>
+<area shape="rect" id="node6" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#a27834ef71d7539e563a202544b6ae3cb" title="Create and return a new Element object. " alt="" coords="472,201,635,242"/>
+<area shape="rect" id="node7" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#ae98d952d38587fd68bb225d504d66181" title="Create and return a new PrimitivePin shared pointer. " alt="" coords="472,266,635,307"/>
+<area shape="rect" id="node8" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#a644765d643662b3c233623855ca2f06a" title="Create and return a new Element object. " alt="" coords="472,331,635,373"/>
+<area shape="rect" id="node9" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#ad3c3719e5daf46c22de612b0532cd39f" title="Construct an ConnectionPin and return a constant reference. " alt="" coords="472,397,635,438"/>
+<area shape="rect" id="node10" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#a9e27cb85d7f62f94e2641997d0c8cbc8" title="Create and return a new Element object. " alt="" coords="472,462,635,503"/>
+</map>

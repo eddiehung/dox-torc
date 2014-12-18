@@ -1,0 +1,8 @@
+<map id="torc::generic::_impl::copyObject" name="torc::generic::_impl::copyObject">
+<area shape="rect" id="node2" href="$d9/d98/namespacetorc_1_1generic.html#a43f6e3433ca1a6ad194978e52e8d5de6" title="torc::generic::clone" alt="" coords="414,40,543,67"/>
+<area shape="rect" id="node3" href="$dd/dad/classtorc_1_1generic_1_1Error.html#ac25097657c1ef0d976300ca82e7bbaf5" title="torc::generic::Error\l::setCurrentLocation" alt="" coords="608,5,747,46"/>
+<area shape="rect" id="node4" href="$d9/d98/namespacetorc_1_1generic.html#a949ce05618b50301d5921e3e7dff924a" title="torc::generic::copyParams" alt="" coords="184,95,355,121"/>
+<area shape="rect" id="node5" href="$da/d11/classtorc_1_1generic_1_1Instance.html#a712161fe188c2a098dbb69a43455518e" title="torc::generic::Instance\l::getParameters" alt="" coords="405,91,553,133"/>
+<area shape="rect" id="node7" href="$da/d11/classtorc_1_1generic_1_1Instance.html#a12133f2583b79f8e0520b9bd426bf1eb" title="torc::generic::Instance\l::getParameterContext" alt="" coords="403,157,554,198"/>
+<area shape="rect" id="node6" href="$da/d11/classtorc_1_1generic_1_1Instance.html#a65439fa705ecb860c9bf00284cfb811f" title="torc::generic::Instance\l::getMaster" alt="" coords="603,91,751,133"/>
+</map>

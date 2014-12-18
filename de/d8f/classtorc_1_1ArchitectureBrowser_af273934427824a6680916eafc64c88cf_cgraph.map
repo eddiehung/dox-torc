@@ -1,0 +1,12 @@
+<map id="torc::ArchitectureBrowser::deviceSummary" name="torc::ArchitectureBrowser::deviceSummary">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a9cc56adff56fba91c78872a4c92ca48f" title="Returns the device name. " alt="" coords="252,5,407,46"/>
+<area shape="rect" id="node3" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#a362c8b64ff9cce6a41fa29745f760101" title="Returns the family name. " alt="" coords="253,70,405,111"/>
+<area shape="rect" id="node4" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#aa161505bff30dba586547c90b543102b" title="Returns a constant reference to a vector of speed grades. " alt="" coords="250,135,409,177"/>
+<area shape="rect" id="node5" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#aa6815707f3f377980ed9f97c63e2b4f1" title="Returns the tile count for this device. " alt="" coords="262,201,397,242"/>
+<area shape="rect" id="node6" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a593241c7f5775f8296a3bf6f2a166b82" title="Returns the tile type count for this device. " alt="" coords="248,266,411,307"/>
+<area shape="rect" id="node7" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#ab372bcda2d05c528c86a6f52801f3b3a" title="Returns the row count for this device. " alt="" coords="259,331,399,373"/>
+<area shape="rect" id="node8" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a8e79712191d2344e0130b7f99057f364" title="Returns the column count for this device. " alt="" coords="263,397,396,438"/>
+<area shape="rect" id="node9" href="$dd/d65/classtorc_1_1architecture_1_1WireUsage.html#a8eb9ed0a3d2c67b77531066e1e2e9f85" title="Returns the number of wires in use. " alt="" coords="222,462,437,503"/>
+<area shape="rect" id="node11" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html#a08cb901cceb1f3b8ef10ef479f505097" title="Returns the number of arcs in use. " alt="" coords="228,527,431,569"/>
+<area shape="rect" id="node10" href="$db/d9f/classtorc_1_1architecture_1_1Array.html#af596a8df4be7401c5874b82c44e73bd7" title="Returns the array size. " alt="" coords="486,495,605,537"/>
+</map>

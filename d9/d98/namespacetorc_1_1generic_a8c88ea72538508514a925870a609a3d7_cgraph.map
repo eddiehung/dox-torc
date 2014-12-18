@@ -1,0 +1,4 @@
+<map id="torc::generic::prune" name="torc::generic::prune">
+<area shape="rect" id="node2" href="$d9/d98/namespacetorc_1_1generic.html#aa0d5a4e59949d04b65243edbbcf8553e" title="torc::generic::log" alt="" coords="209,5,324,32"/>
+<area shape="rect" id="node3" href="$d9/d98/namespacetorc_1_1generic.html#a2f2a3d0c7a0a05bb26dd57cba3096b19" title="Recursively collect and count all cells used in the given view. &#160;The CellUsageMap must already be ini..." alt="" coords="184,56,349,83"/>
+</map>

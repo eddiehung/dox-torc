@@ -1,0 +1,7 @@
+<map id="torc::architecture::DDBConsoleStreams" name="torc::architecture::DDBConsoleStreams">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html" title="Device database, including complete wiring and logic support. " alt="" coords="206,5,357,32"/>
+<area shape="rect" id="node3" href="$db/dcc/classtorc_1_1architecture_1_1Segments.html" title="Segment and irregular arc data for the device. " alt="" coords="222,57,341,98"/>
+<area shape="rect" id="node4" href="$db/db7/classtorc_1_1architecture_1_1Sites.html" title="Site type and population data for the family and the device. " alt="" coords="222,122,341,163"/>
+<area shape="rect" id="node5" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html" title="Tile map, tile type, and wire information for the family and device. " alt="" coords="222,187,341,229"/>
+<area shape="rect" id="node6" href="$d9/db0/classtorc_1_1architecture_1_1Versions.html" title="Encapsulation of database version information. " alt="" coords="222,253,341,294"/>
+</map>

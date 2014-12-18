@@ -1,0 +1,4 @@
+<map id="torc::bitstream::Bitstream::writeHeader" name="torc::bitstream::Bitstream::writeHeader">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a0d18e6dad16501861c5f983b10464194" title="Write a uint8_t to the stream. " alt="" coords="438,5,605,46"/>
+<area shape="rect" id="node3" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a1d8fed1bc90f8105801e18d505ce6325" title="Write a Xilinx&#45;style header string to the stream. " alt="" coords="222,34,389,75"/>
+</map>

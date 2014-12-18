@@ -1,0 +1,16 @@
+<map id="torc::router::BOOST_AUTO_TEST_CASE" name="torc::router::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d2/de5/classtorc_1_1router_1_1RouteTreeNode.html#a449a0d2307eec13c9cbdd3a6013eecda" title="Add children to the node. " alt="" coords="203,5,383,46"/>
+<area shape="rect" id="node3" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#ac2336661ec221b5c417c877d262d9da4" title="Get the node depth. " alt="" coords="216,70,371,111"/>
+<area shape="rect" id="node4" href="$d2/de5/classtorc_1_1router_1_1RouteTreeNode.html#a5191f87208605be85867a9c0716ca365" title="Get the number of children. " alt="" coords="203,135,383,177"/>
+<area shape="rect" id="node5" href="$d2/de5/classtorc_1_1router_1_1RouteTreeNode.html#ac38a1801ece10b5849838b48ccf858d4" title="Get a child by index, returns 0 for invalid index. " alt="" coords="203,201,383,242"/>
+<area shape="rect" id="node6" href="$d2/de5/classtorc_1_1router_1_1RouteTreeNode.html#aae6a3e6e0c343ee2d98c3cb05cea3bd2" title="Allocate a new node and make it the parent of this node. " alt="" coords="203,266,383,307"/>
+<area shape="rect" id="node8" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#a95bb5cba6ad08db507c67edddbe07ea2" title="Get the source Tilewire. " alt="" coords="216,331,371,373"/>
+<area shape="rect" id="node10" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#ab295113a399dde58a77788049283a8e9" title="Get the sink Tilewire. " alt="" coords="216,397,371,438"/>
+<area shape="rect" id="node12" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#a391dcbfb1b155ac6023eaaafe7f6e5fa" title="Get the node&#39;s parent. " alt="" coords="216,462,371,503"/>
+<area shape="rect" id="node13" href="$d2/de5/classtorc_1_1router_1_1RouteTreeNode.html#a6a61698e4e1d3baba9f9d29ac3acb9dc" title="Normalize depth of nodes. " alt="" coords="203,527,383,569"/>
+<area shape="rect" id="node7" href="$d2/de5/classtorc_1_1router_1_1RouteTreeNode.html#a08e2ddca0d8d59e826ef5f4a34e9a0b5" title="Null Constructor. " alt="" coords="433,266,613,307"/>
+<area shape="rect" id="node9" href="$d8/d60/classtorc_1_1architecture_1_1Arc.html#a3f0fe601529174f07ea99cc40b9a0603" title="Returns the source tilewire. " alt="" coords="443,331,602,373"/>
+<area shape="rect" id="node11" href="$d8/d60/classtorc_1_1architecture_1_1Arc.html#a95f17048a775a14b33e87283cdc264a4" title="Returns the sink tilewire. " alt="" coords="451,397,594,438"/>
+<area shape="rect" id="node14" href="$d0/d48/classtorc_1_1router_1_1RouteNode.html#ad9fb1b8646c11d87123b673b766c7f6f" title="Return the top node by tracing parent pointers. " alt="" coords="445,494,600,535"/>
+<area shape="rect" id="node15" href="$d2/de5/classtorc_1_1router_1_1RouteTreeNode.html#a0750a250be78651e57c6c12d9f6ebfb4" title="Recursively adjust node depths. " alt="" coords="433,583,613,625"/>
+</map>

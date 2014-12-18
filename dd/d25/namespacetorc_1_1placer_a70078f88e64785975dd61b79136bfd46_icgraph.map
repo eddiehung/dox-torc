@@ -1,0 +1,6 @@
+<map id="torc::placer::getInstanceTypeIndex" name="torc::placer::getInstanceTypeIndex">
+<area shape="rect" id="node2" href="$db/def/classtorc_1_1placer_1_1Placement.html#a80d8d6ea1f263af53104eb28641ee69e" title="torc::placer::Placement\l::initialPlacement" alt="" coords="214,5,367,46"/>
+<area shape="rect" id="node4" href="$db/def/classtorc_1_1placer_1_1Placement.html#a1caef004ace4a155de79358eac32215d" title="torc::placer::Placement\l::randomMove" alt="" coords="214,70,367,111"/>
+<area shape="rect" id="node3" href="$db/def/classtorc_1_1placer_1_1Placement.html#a87fefd53eb47b7751246a349b49c5342" title="torc::placer::Placement\l::Placement" alt="" coords="417,5,570,46"/>
+<area shape="rect" id="node5" href="$d2/dbc/classtorc_1_1placer_1_1Placer.html#a33223706cb84e1cdf44f8f3aa50422b4" title="torc::placer::Placer\l::generatePlacement" alt="" coords="423,70,563,111"/>
+</map>

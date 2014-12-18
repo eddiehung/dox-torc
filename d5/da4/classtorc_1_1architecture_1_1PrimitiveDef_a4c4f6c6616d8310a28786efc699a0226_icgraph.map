@@ -1,0 +1,5 @@
+<map id="torc::architecture::PrimitiveDef::getPins" name="torc::architecture::PrimitiveDef::getPins">
+<area shape="rect" id="node2" href="$d0/d88/namespacetorc_1_1architecture.html#a35beee467bc68a9731945eb596280b5c" title="Unit test to iterate through a database and classify all existing elements into pseudo&#45;types. " alt="" coords="203,5,403,46"/>
+<area shape="rect" id="node3" href="$d7/dc5/classtorc_1_1packer_1_1Unpacker.html#a6351b01fc431bd827a96f80ad816f493" title="Function to find the next element. " alt="" coords="227,70,378,111"/>
+<area shape="rect" id="node4" href="$d7/dc5/classtorc_1_1packer_1_1Unpacker.html#aeccba4ebf3199f28e69dc2e9aff01fda" title="Unpack function that takes Instance iterators as input. " alt="" coords="227,135,378,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="torc::architecture::BOOST_AUTO_TEST_CASE" name="torc::architecture::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d2/dc3/classtorc_1_1architecture_1_1Pad.html#a2da5ef5f985cfe6ebd95d91ebd5fad6d" title="Returns the index of the site corresponding to this pad. " alt="" coords="254,5,383,46"/>
+<area shape="rect" id="node3" href="$d2/dc3/classtorc_1_1architecture_1_1Pad.html#a1c1f7ca705bcff2f206d9286e064fb13" title="Returns the name of the pad in its physical package. " alt="" coords="259,70,378,111"/>
+<area shape="rect" id="node4" href="$d2/dc3/classtorc_1_1architecture_1_1Pad.html#ae2dd69fb6cd71e22839e6aa464c4a988" title="Returns the site flags for this pad, specifically including bonding. " alt="" coords="259,135,378,177"/>
+</map>

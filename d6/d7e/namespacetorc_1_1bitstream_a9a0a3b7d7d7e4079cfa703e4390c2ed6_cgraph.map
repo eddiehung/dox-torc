@@ -1,0 +1,20 @@
+<map id="torc::bitstream::BOOST_AUTO_TEST_CASE" name="torc::bitstream::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ad0b7f6d2bdd6750089c8e24e467d9151" title="Returns a constant reference to the family and device tile data. " alt="" coords="235,5,354,46"/>
+<area shape="rect" id="node3" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#ab372bcda2d05c528c86a6f52801f3b3a" title="Returns the row count for this device. " alt="" coords="225,70,365,111"/>
+<area shape="rect" id="node4" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a8e79712191d2344e0130b7f99057f364" title="Returns the column count for this device. " alt="" coords="228,135,361,177"/>
+<area shape="rect" id="node5" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a49822b2f91bda3358fe84be106b0da90" title="Returns the tile index for the given [row,column] pair. " alt="" coords="229,201,361,242"/>
+<area shape="rect" id="node6" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a62816b62b67b01034e660ed89a6f0d99" title="Returns the TileInfo object for the specified tile. " alt="" coords="233,266,356,307"/>
+<area shape="rect" id="node7" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html#a47f66c745c2abf956a03b246dd55b363" title="Returns the name for this tile. " alt="" coords="229,331,360,373"/>
+<area shape="rect" id="node8" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a8561b81d796985f4f2bd4df044fb5c68" title="Assign the device enumeration constant for the given device name. " alt="" coords="211,397,378,438"/>
+<area shape="rect" id="node12" href="$dd/d9a/classtorc_1_1bitstream_1_1Virtex5.html#ad041b9c492aac1266b41d2e63d5a949e" title="Initialize the device information. " alt="" coords="219,462,370,503"/>
+<area shape="rect" id="node14" href="$dd/d9a/classtorc_1_1bitstream_1_1Virtex5.html#a9ef37b13bc698ee756a292c3aa7d74dd" title="Initialize the maps between frame indexes and frame addresses. " alt="" coords="219,559,370,601"/>
+<area shape="rect" id="node19" href="$dd/d9a/classtorc_1_1bitstream_1_1Virtex5.html#a43cb0728ebd386e04c76d7c4a98def9c" title="Returns the primary column corresponding to the given column. If immediately to the left of a BRAM..." alt="" coords="218,657,371,698"/>
+<area shape="rect" id="node9" href="$d7/d6c/classtorc_1_1common_1_1Devices.html#a58345b793346e306dfdf048ad3b5bbb0" title="Returns the device enumeration corresponding to the given device name. " alt="" coords="437,363,590,405"/>
+<area shape="rect" id="node10" href="$d7/d40/classtorc_1_1common_1_1DeviceDesignator.html#a00bd09ba5c08dd9db11c0b0e30248ef2" title="Returns the device name. " alt="" coords="648,331,856,373"/>
+<area shape="rect" id="node11" href="$d7/d6c/classtorc_1_1common_1_1Devices.html#a99bf2c435599c1689a67b613b5528e26" title="Returns the device map. " alt="" coords="675,397,829,438"/>
+<area shape="rect" id="node13" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a25aaac6e7bb9675d9f0abbbf8eed841a" title="Assign static device information for the current bitstream. " alt="" coords="430,429,597,470"/>
+<area shape="rect" id="node15" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#ac52e4f741573f90b7e5eb7e63a6729f9" title="Returns the row count. " alt="" coords="427,494,599,535"/>
+<area shape="rect" id="node16" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#af416da9c16a1e09b86284dac079eb91d" title="Returns the column count. " alt="" coords="427,559,599,601"/>
+<area shape="rect" id="node17" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#a48388a49dccfe1173809c80b3f18974a" title="Returns the column type vector. " alt="" coords="427,690,599,731"/>
+<area shape="rect" id="node18" href="$dd/d9a/classtorc_1_1bitstream_1_1Virtex5.html#a481e2c72dbb7f72976700ae4de01abc2" title="Return the number of pad frames after each row. " alt="" coords="438,625,589,666"/>
+</map>

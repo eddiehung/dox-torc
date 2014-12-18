@@ -1,0 +1,12 @@
+<map id="torc::architecture::InstancePin::updateTilewire" name="torc::architecture::InstancePin::updateTilewire">
+<area shape="rect" id="node2" href="$d8/d27/classtorc_1_1physical_1_1InstancePinBase.html#a6b9c87de4348413132b23462acd4259a" title="Returns the weak instance pointer. " alt="" coords="243,5,405,46"/>
+<area shape="rect" id="node3" href="$dd/d5d/classtorc_1_1architecture_1_1InstancePin.html#aed8515000a4dbecee04f5e821744970d" title="Returns the Tilewire designated by this instance pin. " alt="" coords="241,70,407,111"/>
+<area shape="rect" id="node4" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#af92b591270ea2f7d3aa13e6eccc671fc" title="Returns the tilewire for the specified site and pin name pair. " alt="" coords="243,135,405,177"/>
+<area shape="rect" id="node11" href="$d8/d27/classtorc_1_1physical_1_1InstancePinBase.html#a989c0fe04139bf2d3551c3649a64cde8" title="Returns the pin name. " alt="" coords="247,201,401,242"/>
+<area shape="rect" id="node5" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#ae9dfdb8efa0e1268d2ddd744dc907375" title="Returns the site index for the given site name. " alt="" coords="665,61,804,102"/>
+<area shape="rect" id="node7" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html#a8e96191a67e659e996b6d9306ccabc74" title="torc::common::Encapsulated\lInteger::isUndefined" alt="" coords="643,145,827,186"/>
+<area shape="rect" id="node8" href="$db/db7/classtorc_1_1architecture_1_1Sites.html#adb80b2161c0ca2059c99a1ef491b9024" title="Returns the site for the specified index. " alt="" coords="466,165,585,206"/>
+<area shape="rect" id="node9" href="$da/dd8/classtorc_1_1architecture_1_1Site.html#afffd0b3efb07c192aa39fb380b7d9a08" title="Returns the Tilewire associated with the specified pin name. " alt="" coords="456,230,595,271"/>
+<area shape="rect" id="node6" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html#aa37d2cb4d824d944c044a67c2170aebc" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32\l_t \&gt;::undefined" alt="" coords="875,136,1059,192"/>
+<area shape="rect" id="node10" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html#acdc2a368872f9cadac5a6ba40f08b77f" title="Returns the pin index corresponding to the given pin name, or PinIndex::undefined() if the pin name d..." alt="" coords="647,219,822,275"/>
+</map>

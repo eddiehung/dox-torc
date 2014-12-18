@@ -1,0 +1,5 @@
+<map id="torc::generic::VerilogNames::getTorcRangeMSBPropertyName" name="torc::generic::VerilogNames::getTorcRangeMSBPropertyName">
+<area shape="rect" id="node2" href="$d9/da8/classtorc_1_1generic_1_1VerilogExporterVisitor.html#a26b55fa6ebf8ba84bc23e51f7edbef87" title="Return a string describing the range of a vector port. The range is expressed in the form &quot;[start:end..." alt="" coords="275,5,461,46"/>
+<area shape="rect" id="node3" href="$d9/da8/classtorc_1_1generic_1_1VerilogExporterVisitor.html#a1dd02d4b7c141cfae3147cb2325234ff" title="torc::generic::VerilogExporter\lVisitor::visit" alt="" coords="275,70,461,111"/>
+<area shape="rect" id="node4" href="$da/dab/classtorc_1_1generic_1_1VerilogImporterVisitor.html#ae2483bc9b97eaa300ba46962b939a356" title="Visit a Verilog variable, and create an EDIF wire or port. " alt="" coords="275,135,461,177"/>
+</map>

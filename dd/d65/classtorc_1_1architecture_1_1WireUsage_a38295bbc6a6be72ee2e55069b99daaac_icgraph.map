@@ -1,0 +1,4 @@
+<map id="torc::architecture::WireUsage::clear" name="torc::architecture::WireUsage::clear">
+<area shape="rect" id="node2" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ac333f02f31275c06622a029f4987d2bb" title="Clears all arc and wire usage, effectively restaring with an empty device. " alt="" coords="194,5,321,46"/>
+<area shape="rect" id="node3" href="$d4/d6a/classtorc_1_1router_1_1PathFinder.html#a78a148e4768eb82276f5778898653859" title="torc::router::PathFinder\l::routeNets" alt="" coords="181,70,333,111"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="torc::generic::PortReference" name="torc::generic::PortReference">
+<area shape="rect" id="node2" href="$d5/d7d/classtorc_1_1generic_1_1Connectable.html" title="An object that is connectable to a Net. " alt="" coords="336,5,507,32"/>
+<area shape="rect" id="node3" href="$da/df0/classtorc_1_1generic_1_1PropertyContainer.html" title="Represents objects that have properties. " alt="" coords="321,56,522,83"/>
+<area shape="rect" id="node4" href="$de/d74/classtorc_1_1generic_1_1SymTab.html" title="torc::generic::SymTab\l\&lt; std::string, PropertyShared\lPtr \&gt;" alt="" coords="9,41,194,97"/>
+<area shape="rect" id="node5" href="$d7/de6/classtorc_1_1generic_1_1Visitable.html" title="An object that receives an inoutVisitor. " alt="" coords="347,107,495,133"/>
+<area shape="rect" id="node6" href="$dd/dca/classtorc_1_1generic_1_1Composite.html" title="torc::generic::Composite\l\&lt; PortReference \&gt;" alt="" coords="341,158,501,199"/>
+<area shape="rect" id="node7" href="$d2/d45/classtorc_1_1generic_1_1SelfReferencing.html" title="torc::generic::SelfReferencing\l\&lt; PortReference \&gt;" alt="" coords="6,158,197,199"/>
+<area shape="rect" id="node8" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html" title="torc::generic::ParentedObject\l\&lt; Instance \&gt;" alt="" coords="327,223,515,265"/>
+</map>

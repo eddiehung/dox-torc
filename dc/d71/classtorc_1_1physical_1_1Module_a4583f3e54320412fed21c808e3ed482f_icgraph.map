@@ -1,0 +1,7 @@
+<map id="torc::physical::Module::portsEnd" name="torc::physical::Module::portsEnd">
+<area shape="rect" id="node2" href="$dc/d71/classtorc_1_1physical_1_1Module.html#af004a75fa79312fb73d496773f518fd3" title="Find a port by name. " alt="" coords="213,50,358,91"/>
+<area shape="rect" id="node3" href="$dc/d71/classtorc_1_1physical_1_1Module.html#a83da47dbf5db3b65f1aace85c2e85a7f" title="Add a port to the module. " alt="" coords="419,5,565,46"/>
+<area shape="rect" id="node4" href="$dc/d71/classtorc_1_1physical_1_1Module.html#a21b0d653bd60e9bb2798f8cc99bdde4f" title="torc::physical::Module\l::removePort" alt="" coords="419,83,565,125"/>
+<area shape="rect" id="node5" href="$d4/d83/classtorc_1_1physical_1_1XdlExporter.html#a61d61422f0684c94a2e69c6f04f3e155" title="Writes the given Module. " alt="" coords="201,167,370,209"/>
+<area shape="rect" id="node6" href="$dc/dd1/classtorc_1_1physical_1_1XdlUnpack.html#aefd75fd74f892d9b2990f9da61181286" title="torc::physical::XdlUnpack\l::unpack" alt="" coords="202,233,369,274"/>
+</map>

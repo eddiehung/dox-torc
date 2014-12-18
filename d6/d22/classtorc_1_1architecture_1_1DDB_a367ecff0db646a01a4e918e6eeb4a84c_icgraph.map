@@ -1,0 +1,8 @@
+<map id="torc::architecture::DDB::expandSegmentSources" name="torc::architecture::DDB::expandSegmentSources">
+<area shape="rect" id="node2" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#ae7b4e428e72e476dce08bee36219932b" title="Test for a dedicated routing path. " alt="" coords="454,5,602,46"/>
+<area shape="rect" id="node4" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#acd57249d362d21ae852455006b3d249b" title="Move the sink terminal of a net in the sourcewards direction. " alt="" coords="257,70,405,111"/>
+<area shape="rect" id="node6" href="$d5/da9/classtorc_1_1router_1_1Trace.html#a01518958c8b2dd38be696507e17ae814" title="Recursively traces from the specified TraceNode in the specified mode. " alt="" coords="269,135,392,177"/>
+<area shape="rect" id="node3" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#a3b86ba86d920c06811a3e33fd7fd89c3" title="Route a net. " alt="" coords="651,38,799,79"/>
+<area shape="rect" id="node5" href="$d5/d60/classtorc_1_1router_1_1NetRouter.html#af5593bf5a5f8d7a801a31c579302db03" title="Move net terminals out into the INT tiles. " alt="" coords="454,70,602,111"/>
+<area shape="rect" id="node7" href="$d5/da9/classtorc_1_1router_1_1Trace.html#abbdd123f43fd499ebe509c7f691b7b78" title="Public Constructor. " alt="" coords="467,135,589,177"/>
+</map>

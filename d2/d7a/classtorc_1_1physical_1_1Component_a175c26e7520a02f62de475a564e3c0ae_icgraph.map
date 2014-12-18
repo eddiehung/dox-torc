@@ -1,0 +1,5 @@
+<map id="torc::physical::Component::PrimitivePinsEnd" name="torc::physical::Component::PrimitivePinsEnd">
+<area shape="rect" id="node2" href="$d2/d7a/classtorc_1_1physical_1_1Component.html#a4ac557155cebb2863d64a2de1fd1d127" title="torc::physical::Component\l::addPrimitivePin" alt="" coords="225,5,394,46"/>
+<area shape="rect" id="node3" href="$d2/d7a/classtorc_1_1physical_1_1Component.html#aa5e56df1ac5ad33caed9ba839a3c488a" title="torc::physical::Component\l::removePrimitivePin" alt="" coords="225,70,394,111"/>
+<area shape="rect" id="node4" href="$d2/d7a/classtorc_1_1physical_1_1Component.html#a639513e121e0708533fb4ec31490c12e" title="torc::physical::Component\l::findPrimitivePin" alt="" coords="225,135,394,177"/>
+</map>

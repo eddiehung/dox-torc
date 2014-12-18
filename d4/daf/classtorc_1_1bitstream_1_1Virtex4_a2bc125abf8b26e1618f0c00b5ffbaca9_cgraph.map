@@ -1,0 +1,6 @@
+<map id="torc::bitstream::Virtex4::generateFullBitstreamSuffix" name="torc::bitstream::Virtex4::generateFullBitstreamSuffix">
+<area shape="rect" id="node2" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#adec678be1c5cc1f7d8da5a735a365153" title="Construct a packet header. " alt="" coords="472,5,656,46"/>
+<area shape="rect" id="node3" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#ad1fb7001c77afde247673d4cf37b789e" title="Construct a type 1 write packet. " alt="" coords="240,63,424,105"/>
+<area shape="rect" id="node5" href="$d4/daf/classtorc_1_1bitstream_1_1Virtex4.html#aca9e425ef47f2f96e8e111380f44ddb9" title="Return the masked value for a subfield of the specified register. " alt="" coords="257,129,407,170"/>
+<area shape="rect" id="node4" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#a8f0ba38d72cbf2c7ae253fa7e4d83d82" title="Null constructor. " alt="" coords="472,70,656,111"/>
+</map>

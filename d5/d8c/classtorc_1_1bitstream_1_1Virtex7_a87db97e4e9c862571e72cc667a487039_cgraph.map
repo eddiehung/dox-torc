@@ -1,0 +1,6 @@
+<map id="torc::bitstream::Virtex7::generatePartialBitstreamPrefix" name="torc::bitstream::Virtex7::generatePartialBitstreamPrefix">
+<area shape="rect" id="node2" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#adec678be1c5cc1f7d8da5a735a365153" title="Construct a packet header. " alt="" coords="488,5,672,46"/>
+<area shape="rect" id="node3" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#ad1fb7001c77afde247673d4cf37b789e" title="Construct a type 1 write packet. " alt="" coords="256,63,440,105"/>
+<area shape="rect" id="node5" href="$d5/d8c/classtorc_1_1bitstream_1_1Virtex7.html#a73fef258eab608e13bb4235d5fa39ae5" title="Return the masked value for a subfield of the specified register. " alt="" coords="273,129,423,170"/>
+<area shape="rect" id="node4" href="$db/d0d/classtorc_1_1bitstream_1_1VirtexPacket.html#a8f0ba38d72cbf2c7ae253fa7e4d83d82" title="Null constructor. " alt="" coords="488,70,672,111"/>
+</map>

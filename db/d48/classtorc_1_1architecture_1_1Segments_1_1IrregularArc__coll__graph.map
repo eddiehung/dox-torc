@@ -1,0 +1,5 @@
+<map id="torc::architecture::Segments::IrregularArc" name="torc::architecture::Segments::IrregularArc">
+<area shape="rect" id="node2" href="$d3/df8/structtorc_1_1architecture_1_1xilinx_1_1WireIndex.html" title="Encapsulation of a wire index in an unsigned 16&#45;bit integer. " alt="" coords="38,193,156,234"/>
+<area shape="rect" id="node3" href="$dc/dd8/structtorc_1_1architecture_1_1xilinx_1_1WireCount.html" title="Encapsulation of a wire count in an unsigned 16&#45;bit integer. " alt="" coords="36,99,159,141"/>
+<area shape="rect" id="node4" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint16_t \&gt;" alt="" coords="5,6,189,47"/>
+</map>

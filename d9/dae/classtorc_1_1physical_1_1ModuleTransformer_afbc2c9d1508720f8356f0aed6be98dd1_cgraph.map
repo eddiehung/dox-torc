@@ -1,0 +1,9 @@
+<map id="torc::physical::ModuleTransformer::cloneNet" name="torc::physical::ModuleTransformer::cloneNet">
+<area shape="rect" id="node2" href="$dc/d33/classtorc_1_1physical_1_1ConfigMap.html#ac0f4ccb1e4de8fc8da5f0a65d81ef218" title="Sets the configuration for the given setting. " alt="" coords="270,37,434,78"/>
+<area shape="rect" id="node5" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#a6ff301e25c78644fdc6d51da28a41f18" title="Returns the pip tile. " alt="" coords="291,102,413,143"/>
+<area shape="rect" id="node6" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#a7a3f546bb994b1fb83b70af9db209b49" title="Returns the pip source wire. " alt="" coords="278,167,426,209"/>
+<area shape="rect" id="node7" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#af247ed28068b79e74ab30caed5e93464" title="Returns the pip sink wire. " alt="" coords="285,233,419,274"/>
+<area shape="rect" id="node8" href="$d9/d40/classtorc_1_1physical_1_1Pip.html#a1e9c1912675142204a8525c065573eac" title="Returns the pip directionality. " alt="" coords="291,298,413,339"/>
+<area shape="rect" id="node3" href="$d9/d33/classtorc_1_1physical_1_1Named.html#a699324d37cb8b305adcea589623974ac" title="Returns the object name. " alt="" coords="483,5,629,46"/>
+<area shape="rect" id="node4" href="$d7/d3b/classtorc_1_1physical_1_1Config.html#a03525a8385839e79577b98b1bac8542c" title="Return the configuration value. " alt="" coords="487,70,625,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="torc::generic::findLeafConnectable" name="torc::generic::findLeafConnectable">
+<area shape="rect" id="node2" href="$d0/d46/classtorc_1_1generic_1_1__impl_1_1Copier_3_01class_01View_01_4.html#aa263cf8286c62fedcb93060d922ca885" title="torc::generic::_impl\l::Copier\&lt; class View\l \&gt;::cloneConnection" alt="" coords="300,5,439,61"/>
+<area shape="rect" id="node3" href="$d4/dfd/classtorc_1_1generic_1_1__impl_1_1Copier_3_01class_01Permutable_01_4.html#a683669d7d6f941df495904076d417a36" title="torc::generic::_impl\l::Copier\&lt; class Permutable\l \&gt;::visit" alt="" coords="281,85,457,141"/>
+<area shape="rect" id="node4" href="$d2/daf/classtorc_1_1generic_1_1__impl_1_1Copier_3_01class_01InterfaceJoinedInfo_01_4.html#af79cf2a313250edc78cc75a0730b75e4" title="torc::generic::_impl\l::Copier\&lt; class InterfaceJoined\lInfo \&gt;::visit" alt="" coords="270,165,469,221"/>
+</map>

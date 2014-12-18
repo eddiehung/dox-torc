@@ -1,0 +1,7 @@
+<map id="torc::architecture::Pad" name="torc::architecture::Pad">
+<area shape="rect" id="node2" href="$d9/d23/structtorc_1_1architecture_1_1xilinx_1_1SiteFlags.html" title="Encapsulation of site attribute flags in an unsigned 16&#45;bit integer. " alt="" coords="475,5,594,46"/>
+<area shape="rect" id="node3" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint16_t \&gt;" alt="" coords="240,5,424,46"/>
+<area shape="rect" id="node5" href="$db/dd9/structtorc_1_1architecture_1_1xilinx_1_1SiteIndex.html" title="Encapsulation of a site index in an unsigned 32&#45;bit integer. " alt="" coords="475,122,594,163"/>
+<area shape="rect" id="node6" href="$d4/d91/structtorc_1_1architecture_1_1xilinx_1_1SiteCount.html" title="Encapsulation of a site count in an unsigned 32&#45;bit integer. " alt="" coords="273,122,391,163"/>
+<area shape="rect" id="node7" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32_t \&gt;" alt="" coords="5,122,189,163"/>
+</map>

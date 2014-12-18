@@ -1,0 +1,5 @@
+<map id="torc::generic::PortBundleReference::setParent" name="torc::generic::PortBundleReference::setParent">
+<area shape="rect" id="node2" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html#a619f18338a6e4604533f5aa99adf3150" title="torc::generic::ParentedObject\l::setParent" alt="" coords="219,5,407,46"/>
+<area shape="rect" id="node3" href="$d9/d0b/classtorc_1_1generic_1_1Bundle.html#ae791bd176c79918fdffecd09480a7318" title="torc::generic::Bundle\l\&lt; PortReference \&gt;::applyOnAll\lChildren" alt="" coords="216,69,411,125"/>
+<area shape="rect" id="node4" href="$d9/d79/classtorc_1_1generic_1_1ParentedObject.html#ac28967c171301181ee69b5e0935a89a9" title="torc::generic::ParentedObject\l\&lt; Instance \&gt;::getParent" alt="" coords="219,149,407,190"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="torc::physical::Module::removePort" name="torc::physical::Module::removePort">
+<area shape="rect" id="node2" href="$dc/d71/classtorc_1_1physical_1_1Module.html#a4583f3e54320412fed21c808e3ed482f" title="Returns the end constant iterator for ports. " alt="" coords="395,5,541,46"/>
+<area shape="rect" id="node3" href="$dc/d71/classtorc_1_1physical_1_1Module.html#af004a75fa79312fb73d496773f518fd3" title="Find a port by name. " alt="" coords="201,63,346,105"/>
+<area shape="rect" id="node4" href="$dc/d71/classtorc_1_1physical_1_1Module.html#a27041f9f4bb73c7fe8644736f34c74c8" title="Returns the begin constant iterator for ports. " alt="" coords="395,70,541,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="torc::physical::Net::hasAnyPips" name="torc::physical::Net::hasAnyPips">
+<area shape="rect" id="node2" href="$d4/d20/classtorc_1_1physical_1_1Net.html#aab10865de6c479e3afefa1f0b39858db" title="Returns true if the net has any pips. " alt="" coords="179,5,303,46"/>
+<area shape="rect" id="node3" href="$d4/d20/classtorc_1_1physical_1_1Net.html#a5a92641100e039cea5eb8fe552410e78" title="Returns true if the net has no pips. " alt="" coords="179,70,303,111"/>
+</map>

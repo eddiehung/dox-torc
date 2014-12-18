@@ -1,0 +1,6 @@
+<map id="torc::bitstream::Virtex6::initializeFrameMaps" name="torc::bitstream::Virtex6::initializeFrameMaps">
+<area shape="rect" id="node2" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#ac52e4f741573f90b7e5eb7e63a6729f9" title="Returns the row count. " alt="" coords="206,5,378,46"/>
+<area shape="rect" id="node3" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#af416da9c16a1e09b86284dac079eb91d" title="Returns the column count. " alt="" coords="206,70,378,111"/>
+<area shape="rect" id="node4" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#a48388a49dccfe1173809c80b3f18974a" title="Returns the column type vector. " alt="" coords="206,135,378,177"/>
+<area shape="rect" id="node5" href="$dd/d7c/classtorc_1_1bitstream_1_1Virtex6.html#a162ef39a32c792a0fa5b8492751be93c" title="Return the number of pad frames after each row. " alt="" coords="217,201,367,242"/>
+</map>

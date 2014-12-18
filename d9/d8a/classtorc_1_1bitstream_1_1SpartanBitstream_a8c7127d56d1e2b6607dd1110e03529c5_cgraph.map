@@ -1,0 +1,7 @@
+<map id="torc::bitstream::SpartanBitstream::preflightPackets" name="torc::bitstream::SpartanBitstream::preflightPackets">
+<area shape="rect" id="node2" href="$d7/d40/classtorc_1_1common_1_1DeviceDesignator.html#a757167a8e94e4e4e73b90d478ba054f4" title="Returns the device family. " alt="" coords="232,5,440,46"/>
+<area shape="rect" id="node3" href="$d8/d92/classtorc_1_1bitstream_1_1SpartanPacket.html#a0c6fee17dbab651a69ec13c7f78230fa" title="torc::bitstream::Spartan\lPacket::isWrite" alt="" coords="259,70,413,111"/>
+<area shape="rect" id="node4" href="$d8/d92/classtorc_1_1bitstream_1_1SpartanPacket.html#a544e874d0c9d235fbc3fe814b8d07d8c" title="torc::bitstream::Spartan\lPacket::isType1" alt="" coords="259,135,413,177"/>
+<area shape="rect" id="node5" href="$d8/d92/classtorc_1_1bitstream_1_1SpartanPacket.html#ad548ca0355e17006ffa357fa00f7524d" title="torc::bitstream::Spartan\lPacket::getAddress" alt="" coords="259,201,413,242"/>
+<area shape="rect" id="node6" href="$d8/d92/classtorc_1_1bitstream_1_1SpartanPacket.html#af481ab080ed0ff28cf663681458f64fd" title="Returns the number of payload words in the packet, excluding the header word. " alt="" coords="259,266,413,307"/>
+</map>

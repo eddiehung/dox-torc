@@ -1,0 +1,6 @@
+<map id="torc::architecture::segments_unit_test_helper::analyzeSegmentTilewire" name="torc::architecture::segments_unit_test_helper::analyzeSegmentTilewire">
+<area shape="rect" id="node2" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#ad1789982f584140ebf77d4e8bc396e3d" title="Returns the tile index. " alt="" coords="292,5,441,46"/>
+<area shape="rect" id="node3" href="$d6/d19/classtorc_1_1architecture_1_1Tilewire.html#a38f0ea37481a14b712b82ccd4fa7544a" title="Returns the wire index. " alt="" coords="289,70,444,111"/>
+<area shape="rect" id="node4" href="$dc/d87/classtorc_1_1architecture_1_1Segments_1_1SegmentReference.html#a78fc4fa9ac90b81f3d1b29bb57fdb413" title="torc::architecture\l::Segments::SegmentReference\l::getCompactSegmentIndex" alt="" coords="265,135,469,191"/>
+<area shape="rect" id="node5" href="$dc/d87/classtorc_1_1architecture_1_1Segments_1_1SegmentReference.html#aa7fbcd0b490124285a736d9c1001ac5e" title="torc::architecture\l::Segments::SegmentReference\l::getAnchorTileIndex" alt="" coords="265,215,469,271"/>
+</map>

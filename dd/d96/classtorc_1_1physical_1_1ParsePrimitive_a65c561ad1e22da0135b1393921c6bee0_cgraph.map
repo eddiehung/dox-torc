@@ -1,0 +1,10 @@
+<map id="torc::physical::ParsePrimitive::ParsePrimitiveFile" name="torc::physical::ParsePrimitive::ParsePrimitiveFile">
+<area shape="rect" id="node2" href="$dd/d96/classtorc_1_1physical_1_1ParsePrimitive.html#aa96e402b5cb3a26f9b36604ff35f8254" title="Print printError. " alt="" coords="243,5,431,46"/>
+<area shape="rect" id="node3" href="$dd/d96/classtorc_1_1physical_1_1ParsePrimitive.html#a6bdfbff370357931a3e60705d8f3a84c" title="Reads the current line. " alt="" coords="243,70,431,111"/>
+<area shape="rect" id="node4" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#ab3256fe06ba0067087501f91ed64f48e" title="Create and return a new PrimitiveSet object. " alt="" coords="256,135,419,177"/>
+<area shape="rect" id="node5" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#a27834ef71d7539e563a202544b6ae3cb" title="Create and return a new Element object. " alt="" coords="256,201,419,242"/>
+<area shape="rect" id="node6" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#ae98d952d38587fd68bb225d504d66181" title="Create and return a new PrimitivePin shared pointer. " alt="" coords="256,266,419,307"/>
+<area shape="rect" id="node7" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#a644765d643662b3c233623855ca2f06a" title="Create and return a new Element object. " alt="" coords="256,331,419,373"/>
+<area shape="rect" id="node8" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#ad3c3719e5daf46c22de612b0532cd39f" title="Construct an ConnectionPin and return a constant reference. " alt="" coords="256,397,419,438"/>
+<area shape="rect" id="node9" href="$d2/d05/classtorc_1_1physical_1_1RcFactory.html#a9e27cb85d7f62f94e2641997d0c8cbc8" title="Create and return a new Element object. " alt="" coords="256,462,419,503"/>
+</map>

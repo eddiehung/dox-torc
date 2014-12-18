@@ -1,0 +1,6 @@
+<map id="torc::bitstream::Spartan6Packet::isType2" name="torc::bitstream::Spartan6Packet::isType2">
+<area shape="rect" id="node2" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a42cc5e3f0ede9e5bf522b61e8fea348c" title="Write a packet. " alt="" coords="432,5,595,46"/>
+<area shape="rect" id="node3" href="$df/d1a/classtorc_1_1bitstream_1_1Spartan6Packet.html#a213568687d5a0704fa8ea754a33c0e05" title="Returns the total number of words in the packet, including the header word. &#160;In the case of Type 2 pa..." alt="" coords="216,63,379,105"/>
+<area shape="rect" id="node4" href="$d6/d7e/namespacetorc_1_1bitstream.html#ac85b81e1204b72230daeddbb7181815a" title="Spartan6 stream inserter. " alt="" coords="427,71,600,97"/>
+<area shape="rect" id="node5" href="$d6/d7e/namespacetorc_1_1bitstream.html#a769e4af4cd7cd44729cf44d51749d228" title="torc::bitstream::BOOST\l_AUTO_TEST_CASE" alt="" coords="435,122,591,163"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="torc::bitstream::Virtex7LibGen::getWordOffsetFromTileLocation" name="torc::bitstream::Virtex7LibGen::getWordOffsetFromTileLocation">
+<area shape="rect" id="node2" href="$d5/d8c/classtorc_1_1bitstream_1_1Virtex7.html#afcf4640de3c6461d9763adca073359de" title="Returns the primary column corresponding to the given tile. &#160;If the specified tile falls in an INT_L ..." alt="" coords="259,11,413,53"/>
+<area shape="rect" id="node3" href="$dc/d10/classtorc_1_1bitstream_1_1DeviceInfo.html#a48388a49dccfe1173809c80b3f18974a" title="Returns the column type vector. " alt="" coords="462,11,634,53"/>
+</map>

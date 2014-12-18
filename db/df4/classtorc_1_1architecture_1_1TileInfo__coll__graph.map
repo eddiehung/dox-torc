@@ -1,0 +1,7 @@
+<map id="torc::architecture::TileInfo" name="torc::architecture::TileInfo">
+<area shape="rect" id="node2" href="$d2/d0e/structtorc_1_1architecture_1_1xilinx_1_1TileTypeIndex.html" title="Encapsulation of a tile type index in an unsigned 16&#45;bit integer. " alt="" coords="555,5,698,46"/>
+<area shape="rect" id="node3" href="$d0/d91/structtorc_1_1architecture_1_1xilinx_1_1TileTypeCount.html" title="Encapsulation of a tile type count in an unsigned 16&#45;bit integer. " alt="" coords="241,6,386,47"/>
+<area shape="rect" id="node4" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint16_t \&gt;" alt="" coords="5,65,189,106"/>
+<area shape="rect" id="node5" href="$d8/d45/structtorc_1_1architecture_1_1xilinx_1_1TileRow.html" title="Encapsulation of a tile row in an unsigned 16&#45;bit integer. " alt="" coords="411,65,530,106"/>
+<area shape="rect" id="node6" href="$d9/deb/structtorc_1_1architecture_1_1xilinx_1_1TileCol.html" title="Encapsulation of a tile column in an unsigned 16&#45;bit integer. " alt="" coords="411,123,530,165"/>
+</map>

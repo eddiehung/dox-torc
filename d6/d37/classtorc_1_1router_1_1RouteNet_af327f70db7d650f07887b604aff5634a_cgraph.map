@@ -1,0 +1,4 @@
+<map id="torc::router::RouteNet::removeSink" name="torc::router::RouteNet::removeSink">
+<area shape="rect" id="node2" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#a6d184d8b76f5084c13e680b07143deaf" title="Returns the end constant iterator for sink Tilewires. " alt="" coords="197,5,341,46"/>
+<area shape="rect" id="node3" href="$d6/d37/classtorc_1_1router_1_1RouteNet.html#abfbfd0d074a05abec19d3fbaccb98bec" title="Returns the begin constant iterator for sink Tilewires. " alt="" coords="197,70,341,111"/>
+</map>

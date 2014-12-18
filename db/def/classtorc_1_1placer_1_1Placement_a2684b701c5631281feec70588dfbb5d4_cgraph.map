@@ -1,0 +1,6 @@
+<map id="torc::placer::Placement::writePlacementToDesign" name="torc::placer::Placement::writePlacementToDesign">
+<area shape="rect" id="node2" href="$da/dd8/classtorc_1_1architecture_1_1Site.html#a6d90d80f1fb58803e985344de6120d60" title="Returns the site name. " alt="" coords="231,5,350,46"/>
+<area shape="rect" id="node3" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html#ad0b7f6d2bdd6750089c8e24e467d9151" title="Returns a constant reference to the family and device tile data. " alt="" coords="231,70,350,111"/>
+<area shape="rect" id="node4" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html#a62816b62b67b01034e660ed89a6f0d99" title="Returns the TileInfo object for the specified tile. " alt="" coords="229,135,352,177"/>
+<area shape="rect" id="node5" href="$da/dd8/classtorc_1_1architecture_1_1Site.html#aa6161f227602b45ee6775d161c94ad2d" title="Returns the index of the containing tile. " alt="" coords="227,201,354,242"/>
+</map>

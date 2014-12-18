@@ -1,0 +1,7 @@
+<map id="torc::bitstream::Bitstream::write" name="torc::bitstream::Bitstream::write">
+<area shape="rect" id="node2" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#a1d8fed1bc90f8105801e18d505ce6325" title="Write a Xilinx&#45;style header string to the stream. " alt="" coords="222,5,389,46"/>
+<area shape="rect" id="node3" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#ac0b38d9a2279df46bd271207d3b618c4" title="Write the bitstream header to the stream. " alt="" coords="438,34,605,75"/>
+<area shape="rect" id="node5" href="$d6/d7e/namespacetorc_1_1bitstream.html#a8262b1b797b33abf370ea294831cba98" title="Unit test for the Spartan6Bitstream class. " alt="" coords="227,122,383,163"/>
+<area shape="rect" id="node6" href="$d9/d12/Xdl2Bit_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Converts XDL file to bitstream by merging primitive bitstreams from library. " alt="" coords="280,188,331,215"/>
+<area shape="rect" id="node4" href="$d4/d45/classtorc_1_1bitstream_1_1Bitstream.html#ac3d0a8d39117194f3488b85fb0408183" title="Write the bitstream header and packets to a stream. " alt="" coords="654,34,821,75"/>
+</map>

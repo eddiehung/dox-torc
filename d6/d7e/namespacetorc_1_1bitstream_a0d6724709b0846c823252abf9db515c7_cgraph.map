@@ -1,0 +1,7 @@
+<map id="torc::bitstream::BOOST_AUTO_TEST_CASE" name="torc::bitstream::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d2/db3/classtorc_1_1bitstream_1_1Frame.html#a4a9e867ebb858fb270386d3eb9de44d9" title="Returns the length of the frame in words. " alt="" coords="211,5,357,46"/>
+<area shape="rect" id="node3" href="$d2/db3/classtorc_1_1bitstream_1_1Frame.html#a0da9cf6128f1f96dae75c7a40eeb35aa" title="Returns a non&#45;const raw word pointer. " alt="" coords="211,70,357,111"/>
+<area shape="rect" id="node4" href="$d2/db3/classtorc_1_1bitstream_1_1Frame.html#afb020f2a114ba6cd4f4228d4024d5187" title="Returns true if the frame has been modified, or false otherwise. " alt="" coords="211,135,357,177"/>
+<area shape="rect" id="node5" href="$d2/db3/classtorc_1_1bitstream_1_1Frame.html#ab8693676ead9770a56200d3a87baf4c6" title="Returns a const raw word pointer. " alt="" coords="211,201,357,242"/>
+<area shape="rect" id="node6" href="$d2/db3/classtorc_1_1bitstream_1_1Frame.html#ac4ecfcabad8c824ccf7dd40c1000cf57" title="Marks the frame dirty or clean, and if dirty automatically marks it used. " alt="" coords="211,266,357,307"/>
+</map>

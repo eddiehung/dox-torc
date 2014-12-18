@@ -1,0 +1,4 @@
+<map id="torc::generic::Renamable::getOriginalName" name="torc::generic::Renamable::getOriginalName">
+<area shape="rect" id="node2" href="$d9/da8/classtorc_1_1generic_1_1VerilogExporterVisitor.html#a26b55fa6ebf8ba84bc23e51f7edbef87" title="Return a string describing the range of a vector port. The range is expressed in the form &quot;[start:end..." alt="" coords="217,5,402,46"/>
+<area shape="rect" id="node3" href="$d9/da8/classtorc_1_1generic_1_1VerilogExporterVisitor.html#a050ac12852b9227840b076304808a0dd" title="Return the original or renamed name of the given netlist object. " alt="" coords="217,70,402,111"/>
+</map>

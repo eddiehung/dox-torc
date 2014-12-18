@@ -1,0 +1,13 @@
+<map id="torc::router::BOOST_AUTO_TEST_CASE" name="torc::router::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#adf51596da45236eae4fa58094c963d2c" title="Get the depth of this node from the furthest node with no parent. " alt="" coords="203,5,357,46"/>
+<area shape="rect" id="node3" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#a6fa2591b12eb9f08da0077bbc9bcb7af" title="Get the number of children. " alt="" coords="203,70,357,111"/>
+<area shape="rect" id="node4" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#a42fd088edb67a58c16a1c5f7003b045b" title="Get the number of parents. " alt="" coords="203,135,357,177"/>
+<area shape="rect" id="node5" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#a4178938f3b9792ae04f3b53478b8cb5d" title="Get the Tilewire associated with this node. " alt="" coords="203,201,357,242"/>
+<area shape="rect" id="node6" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#a15a2b450a0d0b2cbffbb3ba099fc14b6" title="Get a child by index, returns 0 for invalid index. " alt="" coords="203,266,357,307"/>
+<area shape="rect" id="node7" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#ae82c061b188b777b76f113ca655229cc" title="Get a parent by index, returns 0 for invalid index. " alt="" coords="203,331,357,373"/>
+<area shape="rect" id="node8" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#a4c23e05e9e500f22a0f4f3e97ec9d20b" title="Remove a child by index, returns 0 for invalid index. " alt="" coords="203,397,357,438"/>
+<area shape="rect" id="node9" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#acf5e7067e88dc7a577ae77162de00ef0" title="Remove a parent by index, returns 0 for invalid index. " alt="" coords="203,462,357,503"/>
+<area shape="rect" id="node10" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#a3c4bbbc21ff1cb9ebe399729d736b81c" title="brief Add child to the node. " alt="" coords="203,527,357,569"/>
+<area shape="rect" id="node11" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#a72a2fa6a547d2855c7763200ad9f05b9" title="Add parent to the node. " alt="" coords="203,593,357,634"/>
+<area shape="rect" id="node12" href="$d1/dba/classtorc_1_1router_1_1TraceNode.html#a10a15a36c6fd620f303911293b212f0f" title="Add children to the node. " alt="" coords="203,658,357,699"/>
+</map>

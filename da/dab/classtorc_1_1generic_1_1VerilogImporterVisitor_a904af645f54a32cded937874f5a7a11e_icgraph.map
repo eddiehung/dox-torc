@@ -1,0 +1,4 @@
+<map id="torc::generic::VerilogImporterVisitor::createDesigns" name="torc::generic::VerilogImporterVisitor::createDesigns">
+<area shape="rect" id="node2" href="$da/dab/classtorc_1_1generic_1_1VerilogImporterVisitor.html#a363d551580329f990a43281a60511ecf" title="Visit the top&#45;level netlist. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$da/dab/classtorc_1_1generic_1_1VerilogImporterVisitor.html#ae2483bc9b97eaa300ba46962b939a356" title="Visit a Verilog variable, and create an EDIF wire or port. " alt="" coords="475,5,661,46"/>
+</map>

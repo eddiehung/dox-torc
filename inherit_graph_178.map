@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d5/db9/classtorc_1_1packer_1_1PrimitiveStructure.html" title="Encapsulation of the site index, pin name, and pin flags for a package. " alt="" coords="6,77,205,104"/>
+<area shape="rect" id="node2" href="$d0/d8d/classtorc_1_1packer_1_1Virtex2PrimitiveStructure.html" title="Subclass of PrimitiveStructure for Virtex2 and Virtex2P. " alt="" coords="253,5,440,46"/>
+<area shape="rect" id="node3" href="$d3/d70/classtorc_1_1packer_1_1Virtex5PrimitiveStructure.html" title="Subclass of PrimitiveStructure for Virtex5. " alt="" coords="253,70,440,111"/>
+<area shape="rect" id="node4" href="$d5/d89/classtorc_1_1packer_1_1Virtex7PrimitiveStructure.html" title="Subclass of PrimitiveStructure for Virtex7. " alt="" coords="253,135,440,177"/>
+</map>

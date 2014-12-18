@@ -1,0 +1,49 @@
+<map id="torc::placer::PlacerNetlist" name="torc::placer::PlacerNetlist">
+<area shape="rect" id="node2" href="$d5/d9d/classtorc_1_1placer_1_1DeviceWrapper.html" title="Wrapper of the device database for placing the design. " alt="" coords="2933,1387,3112,1413"/>
+<area shape="rect" id="node3" href="$d6/d22/classtorc_1_1architecture_1_1DDB.html" title="Device database, including complete wiring and logic support. " alt="" coords="2371,1177,2522,1204"/>
+<area shape="rect" id="node49" href="$d6/db9/classtorc_1_1placer_1_1PlacementSiteTypeMapping.html" title="Placement mapping for legal instance types to site types. " alt="" coords="2616,1379,2792,1421"/>
+<area shape="rect" id="node4" href="$d7/d8d/classtorc_1_1architecture_1_1DDBConsoleStreams.html" title="Device database console streams class. " alt="" coords="1131,1173,1282,1214"/>
+<area shape="rect" id="node12" href="$d8/dc4/classtorc_1_1architecture_1_1Tiles.html" title="Tile map, tile type, and wire information for the family and device. " alt="" coords="1558,451,1677,493"/>
+<area shape="rect" id="node27" href="$db/dcc/classtorc_1_1architecture_1_1Segments.html" title="Segment and irregular arc data for the device. " alt="" coords="1558,1006,1677,1047"/>
+<area shape="rect" id="node35" href="$d9/db0/classtorc_1_1architecture_1_1Versions.html" title="Encapsulation of database version information. " alt="" coords="1558,1238,1677,1279"/>
+<area shape="rect" id="node39" href="$db/db7/classtorc_1_1architecture_1_1Sites.html" title="Site type and population data for the family and the device. " alt="" coords="2158,1493,2277,1534"/>
+<area shape="rect" id="node5" href="$d8/d33/classstd_1_1basic__istream.html" title="Forward declaration of template basic_istream. " alt="" coords="659,1191,792,1233"/>
+<area shape="rect" id="node6" href="$df/d57/classstd_1_1basic__ostream.html" title="Forward declaration of template basic_ostream. " alt="" coords="659,1257,792,1298"/>
+<area shape="rect" id="node7" href="$dd/d65/classtorc_1_1architecture_1_1WireUsage.html" title="Encapsulation the design wire usage. " alt="" coords="1883,398,2002,439"/>
+<area shape="rect" id="node8" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; dynamic_bitset * \&gt;" alt="" coords="1530,158,1705,199"/>
+<area shape="rect" id="node38" href="$da/d84/classtorc_1_1architecture_1_1ArcUsage.html" title="Encapsulation the design arc usage. " alt="" coords="1883,113,2002,154"/>
+<area shape="rect" id="node13" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const torc\l::architecture::TileInfo \&gt;" alt="" coords="1129,576,1285,632"/>
+<area shape="rect" id="node18" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const torc\l::architecture::Tiles\l::CharStringWrapper \&gt;" alt="" coords="651,485,799,555"/>
+<area shape="rect" id="node21" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; Array\&lt; const\l torc::architecture::WireInfo \&gt; \&gt;" alt="" coords="627,747,824,803"/>
+<area shape="rect" id="node24" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; Array\&lt; const\l WireNameIndexPair \&gt; \&gt;" alt="" coords="644,827,807,883"/>
+<area shape="rect" id="node25" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const TileNameIndex\lPair \&gt;" alt="" coords="861,680,1051,736"/>
+<area shape="rect" id="node29" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; Array\&lt; torc\l::architecture::Segments\l::CompactSegmentTilewire \&gt; \&gt;" alt="" coords="626,1002,825,1073"/>
+<area shape="rect" id="node34" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; Array\&lt; torc\l::architecture::Segments\l::IrregularArc \&gt; \&gt;" alt="" coords="645,1097,806,1167"/>
+<area shape="rect" id="node40" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const torc\l::architecture::Site \&gt;" alt="" coords="1875,1637,2011,1693"/>
+<area shape="rect" id="node43" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const PrimitiveElement \&gt;" alt="" coords="619,1603,832,1645"/>
+<area shape="rect" id="node44" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const torc\l::architecture::Package \&gt;" alt="" coords="1535,1485,1699,1541"/>
+<area shape="rect" id="node47" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; Array\&lt; const\l torc::architecture::xilinx\l::WireIndex \&gt; \&gt;" alt="" coords="648,1802,803,1873"/>
+<area shape="rect" id="node48" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const torc\l::architecture::PrimitiveDef \&gt;" alt="" coords="1525,1565,1709,1621"/>
+<area shape="rect" id="node50" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; const architecture\l::PrimitiveDef \&gt;" alt="" coords="1531,1388,1703,1444"/>
+<area shape="rect" id="node10" href="$d0/de0/structtorc_1_1architecture_1_1xilinx_1_1TileCount.html" title="Encapsulation of a tile count in an unsigned 32&#45;bit integer. " alt="" coords="666,113,785,154"/>
+<area shape="rect" id="node22" href="$de/da8/structtorc_1_1architecture_1_1xilinx_1_1TileIndex.html" title="Encapsulation of a tile index in an unsigned 32&#45;bit integer. " alt="" coords="1147,283,1266,325"/>
+<area shape="rect" id="node11" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint32_t \&gt;" alt="" coords="240,265,424,306"/>
+<area shape="rect" id="node32" href="$df/d1c/structtorc_1_1architecture_1_1xilinx_1_1CompactSegmentCount.html" title="Encapsulation of a compact segment count in an unsigned 32&#45;bit integer. " alt="" coords="856,266,1056,307"/>
+<area shape="rect" id="node14" href="$d0/d83/classtorc_1_1architecture_1_1TileInfo.html" title="Encapsulation of a tile within a device tile map. " alt="" coords="666,579,785,621"/>
+<area shape="rect" id="node15" href="$d8/d45/structtorc_1_1architecture_1_1xilinx_1_1TileRow.html" title="Encapsulation of a tile row in an unsigned 16&#45;bit integer. " alt="" coords="273,506,391,547"/>
+<area shape="rect" id="node16" href="$d7/ddc/classtorc_1_1common_1_1EncapsulatedInteger.html" title="torc::common::Encapsulated\lInteger\&lt; boost::uint16_t \&gt;" alt="" coords="5,506,189,547"/>
+<area shape="rect" id="node17" href="$d9/deb/structtorc_1_1architecture_1_1xilinx_1_1TileCol.html" title="Encapsulation of a tile column in an unsigned 16&#45;bit integer. " alt="" coords="273,571,391,613"/>
+<area shape="rect" id="node26" href="$d0/d91/structtorc_1_1architecture_1_1xilinx_1_1TileTypeCount.html" title="Encapsulation of a tile type count in an unsigned 16&#45;bit integer. " alt="" coords="449,194,594,235"/>
+<area shape="rect" id="node19" href="$d3/d42/classtorc_1_1architecture_1_1Tiles_1_1CharStringWrapper.html" title="Wrapper around char* for use with the Array template. " alt="" coords="247,441,417,482"/>
+<area shape="rect" id="node20" href="$d3/d8f/classtorc_1_1architecture_1_1Array2D.html" title="torc::architecture\l::Array2D\&lt; const torc\l::architecture::WireInfo \&gt;" alt="" coords="1126,719,1287,775"/>
+<area shape="rect" id="node41" href="$da/dd8/classtorc_1_1architecture_1_1Site.html" title="Encapsulation of a device logic site. " alt="" coords="1558,1645,1677,1686"/>
+<area shape="rect" id="node23" href="$d3/d8f/classtorc_1_1architecture_1_1Array2D.html" title="torc::architecture\l::Array2D\&lt; const WireNameIndex\lPair \&gt;" alt="" coords="1101,799,1313,855"/>
+<area shape="rect" id="node28" href="$d3/d8f/classtorc_1_1architecture_1_1Array2D.html" title="torc::architecture\l::Array2D\&lt; torc::architecture\l::Segments::CompactSegmentTilewire \&gt;" alt="" coords="1080,959,1333,1015"/>
+<area shape="rect" id="node30" href="$d3/d8f/classtorc_1_1architecture_1_1Array2D.html" title="torc::architecture\l::Array2D\&lt; torc::architecture\l::Segments::SegmentReference \&gt;" alt="" coords="1099,879,1314,935"/>
+<area shape="rect" id="node31" href="$db/d9f/classtorc_1_1architecture_1_1Array.html" title="torc::architecture\l::Array\&lt; Array\&lt; torc\l::architecture::Segments\l::SegmentReference \&gt; \&gt;" alt="" coords="645,907,806,978"/>
+<area shape="rect" id="node33" href="$d3/d8f/classtorc_1_1architecture_1_1Array2D.html" title="torc::architecture\l::Array2D\&lt; torc::architecture\l::Segments::IrregularArc \&gt;" alt="" coords="1116,1039,1297,1095"/>
+<area shape="rect" id="node42" href="$d5/da4/classtorc_1_1architecture_1_1PrimitiveDef.html" title="Encapsulation of primitive site definition, with associated connections, elements, and pins. " alt="" coords="1147,1571,1266,1613"/>
+<area shape="rect" id="node45" href="$df/d70/classtorc_1_1architecture_1_1Package.html" title="Encapsulation of a physical device package and its pins. " alt="" coords="1147,1454,1266,1495"/>
+<area shape="rect" id="node37" href="$d5/dc6/structtorc_1_1common_1_1DottedVersion.html" title="Encapsulation of dotted decimal DottedVersion numbers. " alt="" coords="1113,1239,1301,1265"/>
+<area shape="rect" id="node46" href="$d3/d8f/classtorc_1_1architecture_1_1Array2D.html" title="torc::architecture\l::Array2D\&lt; const torc\l::architecture::xilinx\l::WireIndex \&gt;" alt="" coords="1358,1790,1501,1861"/>
+</map>
